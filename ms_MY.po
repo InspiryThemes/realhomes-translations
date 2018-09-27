@@ -1,9 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-14 19:05+0500\n"
-"PO-Revision-Date: 2018-09-14 20:53+0500\n"
+"POT-Creation-Date: 2018-09-27 19:08+0500\n"
+"PO-Revision-Date: 2018-09-27 19:12+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: ms_MY\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,8 +16,6 @@ msgstr ""
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
-"Language: ms_MY\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: assets/classic/styles\n"
@@ -171,8 +171,8 @@ msgstr "Hantar satu mesej"
 #: assets/classic/partials/agency/single/contact-form.php:21
 #: assets/classic/partials/agent/single/contact-form.php:27
 #: assets/classic/partials/page/contact.php:177
-#: assets/classic/partials/property/single/agent.php:113
-#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/agent.php:116
+#: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
 #: assets/modern/partials/author/agent-card.php:146
@@ -181,7 +181,7 @@ msgstr "Hantar satu mesej"
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
 #: assets/modern/partials/property/single/agent.php:127
-#: framework/customizer/sections/home/testimonial.php:140
+#: framework/customizer/sections/home/testimonial.php:89
 #: framework/functions/real-estate.php:111
 msgid "Name"
 msgstr "Nama"
@@ -189,8 +189,8 @@ msgstr "Nama"
 #: assets/classic/partials/agency/single/contact-form.php:21
 #: assets/classic/partials/agent/single/contact-form.php:27
 #: assets/classic/partials/page/contact.php:178
-#: assets/classic/partials/property/single/agent.php:113
-#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/agent.php:117
+#: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
 #: assets/modern/partials/author/agent-card.php:147
@@ -210,8 +210,8 @@ msgstr "* Sila berikan nama anda"
 #: assets/classic/partials/page/edit-profile.php:111
 #: assets/classic/partials/page/login-register.php:150
 #: assets/classic/partials/page/login-register.php:153
-#: assets/classic/partials/property/single/agent.php:114
-#: assets/classic/partials/property/single/sidebar-agent.php:106
+#: assets/classic/partials/property/single/agent.php:118
+#: assets/classic/partials/property/single/sidebar-agent.php:110
 #: assets/modern/partials/agency/card.php:130
 #: assets/modern/partials/agency/single/card.php:131
 #: assets/modern/partials/agency/single/contact-form.php:26
@@ -240,8 +240,8 @@ msgstr "Emel"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
 #: assets/classic/partials/agent/single/contact-form.php:31
-#: assets/classic/partials/property/single/agent.php:114
-#: assets/classic/partials/property/single/sidebar-agent.php:106
+#: assets/classic/partials/property/single/agent.php:120
+#: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
 #: assets/modern/partials/author/agent-card.php:153
@@ -255,8 +255,8 @@ msgstr "* Sila berikan alamat e-mel yang sah"
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:37
 #: assets/classic/partials/page/contact.php:83
-#: assets/classic/partials/property/single/agent.php:115
-#: assets/classic/partials/property/single/sidebar-agent.php:107
+#: assets/classic/partials/property/single/agent.php:121
+#: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
 #: assets/modern/partials/author/agent-card.php:158
@@ -273,8 +273,8 @@ msgstr "Telefon"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:37
-#: assets/classic/partials/property/single/agent.php:115
-#: assets/classic/partials/property/single/sidebar-agent.php:107
+#: assets/classic/partials/property/single/agent.php:123
+#: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
 #: assets/modern/partials/author/agent-card.php:159
@@ -288,8 +288,8 @@ msgstr "* Sila berikan nombor telefon yang sah"
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:43
 #: assets/classic/partials/page/contact.php:192
-#: assets/classic/partials/property/single/agent.php:116
-#: assets/classic/partials/property/single/sidebar-agent.php:108
+#: assets/classic/partials/property/single/agent.php:124
+#: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
 #: assets/modern/partials/author/agent-card.php:164
@@ -303,8 +303,8 @@ msgstr "Mesej"
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:43
 #: assets/classic/partials/page/contact.php:193
-#: assets/classic/partials/property/single/agent.php:116
-#: assets/classic/partials/property/single/sidebar-agent.php:108
+#: assets/classic/partials/property/single/agent.php:125
+#: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
 #: assets/modern/partials/author/agent-card.php:165
@@ -316,19 +316,19 @@ msgstr "Mesej"
 msgid "* Please provide your message"
 msgstr "* Sila berikan mesej anda"
 
-#: assets/classic/partials/agency/single/contact-form.php:85
-#: assets/classic/partials/agent/single/contact-form.php:90
+#: assets/classic/partials/agency/single/contact-form.php:86
+#: assets/classic/partials/agent/single/contact-form.php:91
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:156
-#: assets/classic/partials/property/single/sidebar-agent.php:103
-#: assets/classic/partials/property/single/sidebar-agent.php:154
-#: assets/modern/partials/agency/single/contact-form.php:88
-#: assets/modern/partials/agent/single/contact-form.php:94
-#: assets/modern/partials/author/agent-card.php:173
-#: assets/modern/partials/author/author-contact-form.php:54
+#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/sidebar-agent.php:172
+#: assets/modern/partials/agency/single/contact-form.php:89
+#: assets/modern/partials/agent/single/contact-form.php:95
+#: assets/modern/partials/author/agent-card.php:174
+#: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:174
-#: assets/modern/partials/property/single/agent.php:198
+#: assets/modern/partials/property/single/agent-for-sidebar.php:176
+#: assets/modern/partials/property/single/agent.php:206
 #, fuzzy
 msgid "Send Message"
 msgstr "Menghantar mesej"
@@ -356,7 +356,7 @@ msgstr "Semua Hartanah Oleh"
 #: assets/classic/partials/page/my-properties.php:301
 #: assets/classic/partials/properties/compare.php:335
 #: assets/classic/partials/properties/search/results-with-sidebar.php:88
-#: assets/modern/partials/member/properties.php:226
+#: assets/modern/partials/member/properties.php:249
 #: assets/modern/partials/properties/compare.php:392
 #: framework/include/shortcodes/elements.php:318
 #, fuzzy
@@ -578,9 +578,9 @@ msgstr "* Menyediakan alamat e-mel yang sah!"
 
 #: assets/classic/partials/header/user-nav.php:17
 #: assets/modern/partials/header/modal.php:278
-#: assets/modern/partials/member/properties.php:62
+#: assets/modern/partials/member/properties.php:99
 #: assets/modern/partials/page/edit-profile.php:76
-#: assets/modern/partials/page/favorites.php:78
+#: assets/modern/partials/page/favorites.php:122
 #: assets/modern/partials/page/submit-property.php:393
 #: framework/customizer/favorites.php:35
 #, fuzzy
@@ -588,16 +588,16 @@ msgid "Favorites"
 msgstr "Kegemaran"
 
 #: assets/classic/partials/header/user-nav.php:29
-#: assets/modern/partials/header.php:91
+#: assets/modern/partials/header.php:101
 #, fuzzy
 msgid "Submit"
 msgstr "Hantar"
 
 #: assets/classic/partials/header/user-nav.php:39
 #: assets/modern/partials/header/modal.php:268
-#: assets/modern/partials/member/properties.php:52
+#: assets/modern/partials/member/properties.php:89
 #: assets/modern/partials/page/edit-profile.php:66
-#: assets/modern/partials/page/favorites.php:68
+#: assets/modern/partials/page/favorites.php:112
 #: assets/modern/partials/page/submit-property.php:383
 #: framework/customizer/members.php:432
 #, fuzzy
@@ -609,9 +609,9 @@ msgstr "Hartanah Saya"
 #: assets/modern/partials/agency/single/agency.php:36
 #: assets/modern/partials/agent/single/agent.php:36
 #: assets/modern/partials/header/modal.php:258
-#: assets/modern/partials/member/properties.php:42
+#: assets/modern/partials/member/properties.php:79
 #: assets/modern/partials/page/edit-profile.php:56
-#: assets/modern/partials/page/favorites.php:58
+#: assets/modern/partials/page/favorites.php:102
 #: assets/modern/partials/page/submit-property.php:373
 msgid "Profile"
 msgstr "Profil"
@@ -626,13 +626,13 @@ msgstr "Log keluar"
 msgid "Login / Register"
 msgstr "Masuk / Daftar"
 
-#: assets/classic/partials/header/variation-center.php:126
-#: assets/classic/partials/header/variation-simple.php:103
+#: assets/classic/partials/header/variation-center.php:119
+#: assets/classic/partials/header/variation-simple.php:100
 #, fuzzy
 msgid "Menu"
 msgstr "Menu"
 
-#: assets/classic/partials/header/variation-simple.php:32
+#: assets/classic/partials/header/variation-simple.php:29
 #, fuzzy
 msgid "Email us at"
 msgstr "Emel kami di"
@@ -679,11 +679,11 @@ msgstr "Foto"
 #: assets/modern/partials/property/form-fields/bedrooms.php:12
 #: assets/modern/partials/property/single/child.php:47
 #: assets/modern/partials/property/single/floor-plans.php:52
-#: assets/modern/partials/property/single/meta.php:28
+#: assets/modern/partials/property/single/meta.php:65
 #: assets/modern/partials/property/single/similar-property-card.php:83
 #: framework/customizer/members.php:225
-#: framework/meta-box/config-meta-boxes.php:197
-#: framework/meta-box/config-meta-boxes.php:363
+#: framework/meta-box/config-meta-boxes.php:207
+#: framework/meta-box/config-meta-boxes.php:370
 #: widgets/agent-featured-properties-widget.php:225
 #: widgets/agent-properties-widget.php:230
 #: widgets/featured-properties-widget.php:225
@@ -716,11 +716,11 @@ msgstr "Bilik tidur"
 #: assets/modern/partials/property/form-fields/bathrooms.php:12
 #: assets/modern/partials/property/single/child.php:59
 #: assets/modern/partials/property/single/floor-plans.php:63
-#: assets/modern/partials/property/single/meta.php:44
+#: assets/modern/partials/property/single/meta.php:81
 #: assets/modern/partials/property/single/similar-property-card.php:95
 #: framework/customizer/members.php:226
-#: framework/meta-box/config-meta-boxes.php:206
-#: framework/meta-box/config-meta-boxes.php:370
+#: framework/meta-box/config-meta-boxes.php:216
+#: framework/meta-box/config-meta-boxes.php:377
 #: widgets/agent-featured-properties-widget.php:237
 #: widgets/agent-properties-widget.php:242
 #: widgets/featured-properties-widget.php:237
@@ -764,13 +764,13 @@ msgstr "carian terperinci"
 #: assets/modern/partials/agency/list.php:75
 #: assets/modern/partials/agent/list.php:77
 #: assets/modern/partials/author.php:105
-#: assets/modern/partials/page/search-left-sidebar.php:131
-#: assets/modern/partials/page/search-right-sidebar.php:120
+#: assets/modern/partials/page/search-left-sidebar.php:135
+#: assets/modern/partials/page/search-right-sidebar.php:124
 #: assets/modern/partials/page/users-list.php:277
 #: assets/modern/partials/properties/archive/container.php:83
 #: assets/modern/partials/properties/archive/grid-container.php:83
 #: assets/modern/partials/properties/half-map-list.php:85
-#: assets/modern/partials/properties/search.php:111
+#: assets/modern/partials/properties/search.php:120
 #: assets/modern/partials/taxonomy/grid-layout.php:60
 #: assets/modern/partials/taxonomy/list-layout.php:60
 #, fuzzy
@@ -861,26 +861,26 @@ msgstr "Maklumat Biografi"
 
 #: assets/classic/partials/page/edit-profile.php:143
 #: assets/modern/partials/page/edit-profile.php:216
-#: framework/functions/basic.php:408
-#: framework/meta-box/config-meta-boxes.php:659
-#: framework/meta-box/config-meta-boxes.php:747
+#: framework/functions/basic.php:391
+#: framework/meta-box/config-meta-boxes.php:666
+#: framework/meta-box/config-meta-boxes.php:754
 msgid "Mobile Number"
 msgstr "Telefon Bimbit"
 
 #: assets/classic/partials/page/edit-profile.php:151
 #: assets/modern/partials/page/edit-profile.php:224
-#: framework/functions/basic.php:409
-#: framework/meta-box/config-meta-boxes.php:671
-#: framework/meta-box/config-meta-boxes.php:759
+#: framework/functions/basic.php:392
+#: framework/meta-box/config-meta-boxes.php:678
+#: framework/meta-box/config-meta-boxes.php:766
 #, fuzzy
 msgid "Office Number"
 msgstr "Nombor Pejabat"
 
 #: assets/classic/partials/page/edit-profile.php:159
 #: assets/modern/partials/page/edit-profile.php:232
-#: framework/customizer/contact.php:236 framework/functions/basic.php:410
-#: framework/meta-box/config-meta-boxes.php:677
-#: framework/meta-box/config-meta-boxes.php:765
+#: framework/customizer/contact.php:236 framework/functions/basic.php:393
+#: framework/meta-box/config-meta-boxes.php:684
+#: framework/meta-box/config-meta-boxes.php:772
 #, fuzzy
 msgid "Fax Number"
 msgstr "Nombor faks"
@@ -888,9 +888,9 @@ msgstr "Nombor faks"
 #: assets/classic/partials/page/edit-profile.php:167
 #: assets/modern/partials/page/edit-profile.php:240
 #: framework/customizer/sections/header/social-icons.php:56
-#: framework/functions/basic.php:412
-#: framework/meta-box/config-meta-boxes.php:683
-#: framework/meta-box/config-meta-boxes.php:771
+#: framework/functions/basic.php:395
+#: framework/meta-box/config-meta-boxes.php:690
+#: framework/meta-box/config-meta-boxes.php:778
 #, fuzzy
 msgid "Facebook URL"
 msgstr "URL Facebook"
@@ -898,9 +898,9 @@ msgstr "URL Facebook"
 #: assets/classic/partials/page/edit-profile.php:175
 #: assets/modern/partials/page/edit-profile.php:250
 #: framework/customizer/sections/header/social-icons.php:68
-#: framework/functions/basic.php:413
-#: framework/meta-box/config-meta-boxes.php:689
-#: framework/meta-box/config-meta-boxes.php:777
+#: framework/functions/basic.php:396
+#: framework/meta-box/config-meta-boxes.php:696
+#: framework/meta-box/config-meta-boxes.php:784
 #, fuzzy
 msgid "Twitter URL"
 msgstr "URL Twitter"
@@ -908,9 +908,9 @@ msgstr "URL Twitter"
 #: assets/classic/partials/page/edit-profile.php:183
 #: assets/modern/partials/page/edit-profile.php:260
 #: framework/customizer/sections/header/social-icons.php:92
-#: framework/functions/basic.php:414
-#: framework/meta-box/config-meta-boxes.php:695
-#: framework/meta-box/config-meta-boxes.php:783
+#: framework/functions/basic.php:397
+#: framework/meta-box/config-meta-boxes.php:702
+#: framework/meta-box/config-meta-boxes.php:790
 #, fuzzy
 msgid "Google Plus URL"
 msgstr "URL Google Plus"
@@ -918,9 +918,9 @@ msgstr "URL Google Plus"
 #: assets/classic/partials/page/edit-profile.php:191
 #: assets/modern/partials/page/edit-profile.php:270
 #: framework/customizer/sections/header/social-icons.php:80
-#: framework/functions/basic.php:415
-#: framework/meta-box/config-meta-boxes.php:701
-#: framework/meta-box/config-meta-boxes.php:789
+#: framework/functions/basic.php:398
+#: framework/meta-box/config-meta-boxes.php:708
+#: framework/meta-box/config-meta-boxes.php:796
 #, fuzzy
 msgid "LinkedIn URL"
 msgstr "URL LinkedIn"
@@ -934,9 +934,9 @@ msgstr "Simpan Perubahan"
 #: assets/classic/partials/page/edit-profile.php:236
 #: assets/classic/partials/page/my-properties.php:307
 #: assets/classic/partials/page/submit-property.php:443
-#: assets/modern/partials/member/properties.php:95
-#: assets/modern/partials/member/properties.php:97
-#: assets/modern/partials/member/properties.php:100
+#: assets/modern/partials/member/properties.php:132
+#: assets/modern/partials/member/properties.php:134
+#: assets/modern/partials/member/properties.php:137
 #: assets/modern/partials/page/edit-profile.php:107
 #: assets/modern/partials/page/edit-profile.php:109
 #: assets/modern/partials/page/edit-profile.php:112
@@ -964,13 +964,13 @@ msgid "Remove from favorites"
 msgstr "Alih keluar dari kegemaran"
 
 #: assets/classic/partials/page/favorites.php:132
-#: assets/modern/partials/page/favorites.php:141
+#: assets/modern/partials/page/favorites.php:170
 #, fuzzy
 msgid "No property found!"
 msgstr "Tiada harta dijumpai!"
 
 #: assets/classic/partials/page/favorites.php:139
-#: assets/modern/partials/page/favorites.php:148
+#: assets/modern/partials/page/favorites.php:177
 #, fuzzy
 msgid "You have no property in favorites!"
 msgstr "Anda tidak mempunyai harta kegemaran!"
@@ -1024,10 +1024,10 @@ msgstr "Anda sudah log masuk!"
 #: assets/classic/partials/page/my-properties.php:29
 #: assets/classic/partials/page/submit-property.php:373
 #: assets/classic/partials/page/submit-property.php:377
-#: assets/modern/partials/member/properties.php:105
-#: assets/modern/partials/member/properties.php:107
-#: assets/modern/partials/member/properties.php:109
-#: assets/modern/partials/member/properties.php:111
+#: assets/modern/partials/member/properties.php:142
+#: assets/modern/partials/member/properties.php:144
+#: assets/modern/partials/member/properties.php:146
+#: assets/modern/partials/member/properties.php:148
 #: assets/modern/partials/page/submit-property.php:441
 #: assets/modern/partials/page/submit-property.php:445
 #, fuzzy
@@ -1035,57 +1035,57 @@ msgid "Success:"
 msgstr "Kejayaan:"
 
 #: assets/classic/partials/page/my-properties.php:23
-#: assets/modern/partials/member/properties.php:105
+#: assets/modern/partials/member/properties.php:142
 #, fuzzy
 msgid "Property removed."
 msgstr "Harta dikeluarkan."
 
 #: assets/classic/partials/page/my-properties.php:25
-#: assets/modern/partials/member/properties.php:107
+#: assets/modern/partials/member/properties.php:144
 #, fuzzy
 msgid "Property Submitted."
 msgstr "Harta yang Dihantar."
 
 #: assets/classic/partials/page/my-properties.php:27
-#: assets/modern/partials/member/properties.php:109
+#: assets/modern/partials/member/properties.php:146
 #, fuzzy
 msgid "Property Updated."
 msgstr "Harta Dikemas kini."
 
 #: assets/classic/partials/page/my-properties.php:29
-#: assets/modern/partials/member/properties.php:111
+#: assets/modern/partials/member/properties.php:148
 #, fuzzy
 msgid "Payment Submitted."
 msgstr "Pembayaran Dihantar."
 
 #: assets/classic/partials/page/my-properties.php:31
 #: assets/classic/partials/page/submit-property.php:367
-#: assets/modern/partials/member/properties.php:113
+#: assets/modern/partials/member/properties.php:150
 #: assets/modern/partials/page/submit-property.php:435
 #, fuzzy
 msgid "Error:"
 msgstr "Ralat:"
 
 #: assets/classic/partials/page/my-properties.php:31
-#: assets/modern/partials/member/properties.php:113
+#: assets/modern/partials/member/properties.php:150
 #, fuzzy
 msgid "Payment Failed."
 msgstr "Pembayaran gagal."
 
 #: assets/classic/partials/page/my-properties.php:51
-#: assets/modern/partials/member/properties.php:132
+#: assets/modern/partials/member/properties.php:169
 #, fuzzy
 msgid "Number of properties that you can publish:"
 msgstr "Bilangan hartanah yang boleh anda terbitkan:"
 
 #: assets/classic/partials/page/my-properties.php:52
-#: assets/modern/partials/member/properties.php:133
+#: assets/modern/partials/member/properties.php:170
 #, fuzzy
 msgid "Number of properties that can be marked as featured:"
 msgstr "Bilangan hartanah yang boleh ditandakan sebagai dipaparkan:"
 
 #: assets/classic/partials/page/my-properties.php:103
-#: assets/modern/partials/member/properties.php:184
+#: assets/modern/partials/member/properties.php:221
 #, fuzzy
 msgid "Please subscribe a membership package to start publishing properties."
 msgstr "Sila melanggan pakej keahlian untuk memulakan hartanah penerbitan."
@@ -1107,7 +1107,7 @@ msgid "Payment Completed"
 msgstr "Pembayaran telah selesai"
 
 #: assets/classic/partials/page/my-properties.php:301
-#: assets/modern/partials/member/properties.php:226
+#: assets/modern/partials/member/properties.php:249
 #: framework/customizer/gdpr.php:56
 msgid "Note:"
 msgstr "Nota:"
@@ -1166,7 +1166,7 @@ msgstr "Bandar"
 #: assets/modern/partials/properties/shortcode/list-card.php:122
 #: assets/modern/partials/property/form-fields/area.php:12
 #: assets/modern/partials/property/single/child.php:71
-#: assets/modern/partials/property/single/meta.php:78
+#: assets/modern/partials/property/single/meta.php:115
 #: assets/modern/partials/property/single/similar-property-card.php:107
 #: framework/customizer/members.php:231
 #: widgets/agent-featured-properties-widget.php:249
@@ -1232,28 +1232,28 @@ msgid "View all posts by %s"
 msgstr "Lihat semua siaran oleh %s"
 
 #: assets/classic/partials/properties/search.php:74
-#: assets/modern/partials/page/search-left-sidebar.php:81
-#: assets/modern/partials/page/search-right-sidebar.php:70
-#: assets/modern/partials/properties/search.php:71
+#: assets/modern/partials/page/search-left-sidebar.php:85
+#: assets/modern/partials/page/search-right-sidebar.php:74
+#: assets/modern/partials/properties/search.php:74
 #, fuzzy
 msgid "Results"
 msgstr "Keputusan"
 
 #: assets/classic/partials/properties/search.php:76
-#: assets/modern/partials/page/search-left-sidebar.php:83
-#: assets/modern/partials/page/search-right-sidebar.php:72
-#: assets/modern/partials/properties/search.php:73
+#: assets/modern/partials/page/search-left-sidebar.php:87
+#: assets/modern/partials/page/search-right-sidebar.php:76
+#: assets/modern/partials/properties/search.php:76
 #, fuzzy
 msgid "Result"
 msgstr "Keputusan"
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:256
-#: assets/classic/partials/property/single/sidebar-agent.php:253
+#: assets/classic/partials/property/single/agent.php:275
+#: assets/classic/partials/property/single/sidebar-agent.php:272
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:277
-#: assets/modern/partials/property/single/agent.php:305
+#: assets/modern/partials/property/single/agent-for-sidebar.php:279
+#: assets/modern/partials/property/single/agent.php:314
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1262,7 +1262,7 @@ msgstr "Keputusan"
 #: framework/include/agent-post-type.php:21
 #: framework/include/agent-post-type.php:93
 #: framework/include/shortcodes/vc-map.php:136
-#: framework/meta-box/config-meta-boxes.php:448
+#: framework/meta-box/config-meta-boxes.php:455
 #, fuzzy
 msgid "Agent"
 msgstr "Ejen"
@@ -1370,34 +1370,39 @@ msgstr "Harga Maks"
 #: framework/customizer/sections/search/search-form-basics.php:203
 #: framework/functions/real-estate.php:117
 #: framework/include/property-post-type.php:330
-#: framework/meta-box/config-meta-boxes.php:224
+#: framework/meta-box/config-meta-boxes.php:234
 #, fuzzy
 msgid "Property ID"
 msgstr "ID Harta Tanah"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:2
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:10
 #, fuzzy
 msgid "Check In"
 msgstr "Daftar masuk"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:3
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:8
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:11
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:16
 #: framework/customizer/sections/search/search-form-areas.php:55
 #: framework/customizer/sections/search/search-form-areas.php:92
 #: framework/customizer/sections/search/search-form-basics.php:174
 #: framework/customizer/sections/search/search-form-basics.php:220
 #: framework/customizer/sections/search/search-form-basics.php:328
-#: framework/functions/real-estate-search.php:130
+#: framework/functions/real-estate-search.php:147
 #, fuzzy
 msgid "Any"
 msgstr "Mana-mana"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:7
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:15
 #, fuzzy
 msgid "Check Out"
 msgstr "Semak Keluar"
 
 #: assets/classic/partials/properties/search/fields/rvr/guest.php:2
+#: assets/modern/partials/properties/search/fields/rvr/guest.php:12
 #, fuzzy
 msgid "No of Guests"
 msgstr "Tiada Tetamu"
@@ -1410,7 +1415,6 @@ msgstr "Tiada Tetamu"
 #: framework/customizer/sections/search/search-form-basics.php:81
 #: framework/customizer/sections/search/search-form-basics.php:249
 #: framework/functions/real-estate.php:118
-#: framework/include/admin/class-rh-admin-menu.php:142
 #: framework/include/property-post-type.php:192
 #: framework/include/property-post-type.php:193
 #: framework/include/property-post-type.php:206
@@ -1463,28 +1467,28 @@ msgstr "Perintah Lalai"
 
 #: assets/classic/partials/properties/sort-controls.php:31
 #: assets/modern/partials/properties/sort-controls.php:31
-#: framework/meta-box/config-meta-boxes.php:948
+#: framework/meta-box/config-meta-boxes.php:955
 #, fuzzy
 msgid "Price Low to High"
 msgstr "Harga Rendah ke Tinggi"
 
 #: assets/classic/partials/properties/sort-controls.php:32
 #: assets/modern/partials/properties/sort-controls.php:32
-#: framework/meta-box/config-meta-boxes.php:949
+#: framework/meta-box/config-meta-boxes.php:956
 #, fuzzy
 msgid "Price High to Low"
 msgstr "Harga Tinggi ke Rendah"
 
 #: assets/classic/partials/properties/sort-controls.php:33
 #: assets/modern/partials/properties/sort-controls.php:33
-#: framework/meta-box/config-meta-boxes.php:947
+#: framework/meta-box/config-meta-boxes.php:954
 #, fuzzy
 msgid "Date Old to New"
 msgstr "Tarikh Lama ke Baru"
 
 #: assets/classic/partials/properties/sort-controls.php:34
 #: assets/modern/partials/properties/sort-controls.php:34
-#: framework/meta-box/config-meta-boxes.php:946
+#: framework/meta-box/config-meta-boxes.php:953
 #, fuzzy
 msgid "Date New to Old"
 msgstr "Tarikh Baru ke Lama"
@@ -1511,6 +1515,9 @@ msgstr "maklumat tambahan"
 #: assets/classic/partials/property/form-fields/additional-details.php:27
 #: assets/modern/partials/property/form-fields/additional-details.php:71
 #: assets/modern/partials/property/form-fields/additional-details.php:114
+#: framework/customizer/sections/home/features-section.php:165
+#: framework/customizer/sections/home/features-section.php:258
+#: framework/customizer/sections/home/features-section.php:351
 #: framework/customizer/sections/home/news-posts.php:49
 #: framework/meta-box/custom-metaboxes/additional-details-metabox.php:105
 #: widgets/rh-contact-information-widget.php:105
@@ -1527,7 +1534,7 @@ msgstr "Nilai"
 
 #: assets/classic/partials/property/form-fields/agent.php:2
 #: assets/modern/partials/property/form-fields/agent.php:33
-#: framework/meta-box/config-meta-boxes.php:435
+#: framework/meta-box/config-meta-boxes.php:442
 #, fuzzy
 msgid "What to display in agent information box ?"
 msgstr "Apa yang perlu dipaparkan dalam kotak maklumat agen?"
@@ -1548,14 +1555,14 @@ msgstr "Apa yang perlu dipaparkan dalam kotak maklumat agen?"
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:87
+#: framework/customizer/sections/search/properties-search-page.php:102
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
 #: framework/functions/property-submit-handler.php:298
-#: framework/functions/real-estate-search.php:289
+#: framework/functions/real-estate-search.php:306
 #: framework/meta-box/config-meta-boxes.php:83
-#: framework/meta-box/config-meta-boxes.php:717
+#: framework/meta-box/config-meta-boxes.php:724
 msgid "None"
 msgstr "Tiada"
 
@@ -1625,12 +1632,12 @@ msgstr "Tandakan harta ini sebagai ciri yang dipaparkan"
 #: framework/customizer/members.php:238
 #: framework/customizer/sections/home/home-features.php:26
 #: framework/customizer/sections/home/home-features.php:71
-#: framework/customizer/sections/home/sections-manager.php:104
+#: framework/customizer/sections/home/sections-manager.php:103
 #: framework/customizer/sections/property/basics.php:270
 #: framework/include/shortcodes/vc-map.php:284
-#: framework/meta-box/config-meta-boxes.php:984
-#: framework/meta-box/config-meta-boxes.php:1087
-#: framework/meta-box/config-meta-boxes.php:1110
+#: framework/meta-box/config-meta-boxes.php:991
+#: framework/meta-box/config-meta-boxes.php:1094
+#: framework/meta-box/config-meta-boxes.php:1117
 #, fuzzy
 msgid "Features"
 msgstr "ciri-ciri"
@@ -1639,7 +1646,7 @@ msgstr "ciri-ciri"
 #: assets/classic/partials/property/single/metas.php:63
 #: assets/modern/partials/property/form-fields/garages.php:12
 #: framework/customizer/members.php:227
-#: framework/meta-box/config-meta-boxes.php:215
+#: framework/meta-box/config-meta-boxes.php:225
 #, fuzzy
 msgid "Garages"
 msgstr "Garasi"
@@ -1757,7 +1764,7 @@ msgstr "Kemas kini Harta"
 #: assets/classic/partials/property/form-fields/submit-button.php:15
 #: assets/modern/partials/property/form-fields/submit-button.php:25
 #: framework/customizer/members.php:167
-#: framework/customizer/sections/home/cta-contact.php:174
+#: framework/customizer/sections/home/cta-contact.php:126
 #: framework/customizer/sections/home/cta.php:156
 #, fuzzy
 msgid "Submit Property"
@@ -1795,7 +1802,7 @@ msgstr "* Sila berikan tajuk harta!"
 #: assets/classic/partials/property/form-fields/video.php:9
 #: assets/modern/partials/property/form-fields/video.php:12
 #: assets/modern/partials/property/form-fields/video.php:19
-#: framework/meta-box/config-meta-boxes.php:394
+#: framework/meta-box/config-meta-boxes.php:401
 #, fuzzy
 msgid "Virtual Tour Video URL"
 msgstr "URL Video Lawatan Maya"
@@ -1805,9 +1812,9 @@ msgstr "URL Video Lawatan Maya"
 #: assets/classic/partials/property/single/metas.php:78
 #: assets/modern/partials/property/form-fields/year-built.php:19
 #: assets/modern/partials/property/form-fields/year-built.php:21
-#: assets/modern/partials/property/single/meta.php:101
+#: assets/modern/partials/property/single/meta.php:138
 #: framework/customizer/members.php:243
-#: framework/meta-box/config-meta-boxes.php:236
+#: framework/meta-box/config-meta-boxes.php:246
 #, fuzzy
 msgid "Year Built"
 msgstr "Tahun dibina"
@@ -1845,19 +1852,19 @@ msgstr "Ditambah ke kegemaran"
 msgid "Add to favorite"
 msgstr "Tambah ke kegemaran"
 
-#: assets/classic/partials/property/single/agent.php:111
+#: assets/classic/partials/property/single/agent.php:113
 #, fuzzy
 msgid "Contact"
 msgstr "Hubungi"
 
-#: assets/classic/partials/property/single/agent.php:229
-#: assets/modern/partials/property/single/agent.php:278
+#: assets/classic/partials/property/single/agent.php:248
+#: assets/modern/partials/property/single/agent.php:287
 msgid "Submitted by"
 msgstr "Dihantar oleh"
 
 #: assets/classic/partials/property/single/floor-plans.php:20
 #: assets/modern/partials/property/single/floor-plans.php:16
-#: framework/meta-box/config-meta-boxes.php:113
+#: framework/meta-box/config-meta-boxes.php:123
 #, fuzzy
 msgid "Floor Plans"
 msgstr "Pelan lantai"
@@ -1868,18 +1875,19 @@ msgid "Area Size"
 msgstr "Saiz Kawasan"
 
 #: assets/classic/partials/property/single/metas.php:63
-#: assets/modern/partials/property/single/meta.php:60
+#: assets/modern/partials/property/single/meta.php:97
 #, fuzzy
 msgid "Garage"
 msgstr "Garaj"
 
 #: assets/classic/partials/property/single/metas.php:93
-#: assets/modern/partials/property/single/meta.php:119
+#: assets/modern/partials/property/single/meta.php:156
 #, fuzzy
 msgid "Lot Size"
 msgstr "Saiz lot"
 
 #: assets/classic/partials/property/single/metas.php:107
+#: assets/modern/partials/property/single/meta.php:37
 #, fuzzy
 msgid "Minimum Stay"
 msgstr "Penginapan minimum"
@@ -1891,6 +1899,7 @@ msgstr "Masa Hadapan Minimum"
 
 #: assets/classic/partials/property/single/metas.php:117
 #: assets/classic/partials/property/single/metas.php:120
+#: assets/modern/partials/property/single/meta.php:49
 #, fuzzy
 msgid "Guests Capacity"
 msgstr "Kapasiti Tetamu"
@@ -1984,7 +1993,7 @@ msgstr "Hartanah yang disenaraikan"
 #: framework/include/agency-post-type.php:19
 #: framework/include/agency-post-type.php:45
 #: framework/include/agency-post-type.php:110
-#: framework/meta-box/config-meta-boxes.php:805
+#: framework/meta-box/config-meta-boxes.php:812
 #, fuzzy
 msgid "Agency"
 msgstr "Agensi"
@@ -2169,13 +2178,33 @@ msgstr "Sahkan"
 msgid "Cancel"
 msgstr "Batal"
 
-#: assets/modern/partials/member/properties.php:95
-#: assets/modern/partials/member/properties.php:100
+#: assets/modern/partials/member/properties.php:37
+#: assets/modern/partials/page/favorites.php:58
+msgid " of "
+msgstr "daripada"
+
+#: assets/modern/partials/member/properties.php:37
+#: assets/modern/partials/member/properties.php:41
+#: assets/modern/partials/page/favorites.php:58
+#: assets/modern/partials/page/favorites.php:62
+#, fuzzy
+#| msgid "Properties"
+msgid " Properties"
+msgstr "Sifat"
+
+#: assets/modern/partials/member/properties.php:39
+#: assets/modern/partials/page/favorites.php:60
+#, fuzzy
+msgid " Property"
+msgstr "Harta"
+
+#: assets/modern/partials/member/properties.php:132
+#: assets/modern/partials/member/properties.php:137
 #, fuzzy
 msgid "Please login to view your properties!"
 msgstr "Sila log masuk untuk melihat sifat anda!"
 
-#: assets/modern/partials/member/properties.php:97
+#: assets/modern/partials/member/properties.php:134
 #, fuzzy, php-format
 msgid "Please %1$s login %2$s to view your properties!"
 msgstr "Sila log masuk%1$s %2$s untuk melihat sifat anda!"
@@ -2256,8 +2285,8 @@ msgstr "Hartanah Dibenarkan"
 #: assets/modern/partials/page/membership.php:156
 #: framework/customizer/sections/home/featured-properties.php:24
 #: framework/customizer/sections/home/home-properties.php:160
-#: framework/customizer/sections/home/sections-manager.php:77
-#: framework/customizer/sections/home/sections-manager.php:100
+#: framework/customizer/sections/home/sections-manager.php:76
+#: framework/customizer/sections/home/sections-manager.php:99
 #, fuzzy
 msgid "Featured Properties"
 msgstr "Hartanah yang Disediakan"
@@ -2326,7 +2355,7 @@ msgstr "Kemas kini Keahlian"
 
 #: assets/modern/partials/page/submit-property.php:350
 #: framework/include/property-post-type.php:19
-#: framework/meta-box/config-meta-boxes.php:101
+#: framework/meta-box/config-meta-boxes.php:111
 #, fuzzy
 msgid "Property"
 msgstr "Harta"
@@ -2432,7 +2461,10 @@ msgid "Print"
 msgstr "Cetak"
 
 #: assets/modern/partials/property/single/content.php:108
-#: framework/meta-box/config-meta-boxes.php:377
+#: framework/customizer/sections/home/features-section.php:186
+#: framework/customizer/sections/home/features-section.php:279
+#: framework/customizer/sections/home/features-section.php:372
+#: framework/meta-box/config-meta-boxes.php:384
 msgid "Description"
 msgstr "Keterangan"
 
@@ -2471,7 +2503,7 @@ msgstr "Laman Agensi"
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:81
+#: framework/customizer/sections/search/properties-search-page.php:96
 #, fuzzy
 msgid "Header Variation"
 msgstr "Variasi Header"
@@ -2488,7 +2520,7 @@ msgstr "Variasi header untuk dipaparkan pada halaman agensi."
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:86
+#: framework/customizer/sections/search/properties-search-page.php:101
 #: framework/customizer/sections/styles/banner.php:23
 #, fuzzy
 msgid "Banner"
@@ -2626,7 +2658,8 @@ msgstr "Peta"
 #: framework/customizer/sections/footer/partners.php:37
 #: framework/customizer/sections/header/search-form.php:44
 #: framework/customizer/sections/header/social-icons.php:44
-#: framework/customizer/sections/header/user-navigation.php:39
+#: framework/customizer/sections/header/user-navigation.php:38
+#: framework/customizer/sections/header/user-navigation.php:55
 #: framework/customizer/sections/home/cta-contact.php:40
 #: framework/customizer/sections/home/cta.php:40
 #: framework/customizer/sections/home/featured-properties.php:38
@@ -2653,7 +2686,7 @@ msgstr "Peta"
 #: framework/customizer/sections/property/similar-properties.php:38
 #: framework/customizer/sections/property/video.php:38
 #: framework/customizer/sections/property/virtual-tour.php:37
-#: framework/meta-box/config-meta-boxes.php:892
+#: framework/meta-box/config-meta-boxes.php:899
 #, fuzzy
 msgid "Show"
 msgstr "Tunjukkan"
@@ -2665,7 +2698,8 @@ msgstr "Tunjukkan"
 #: framework/customizer/sections/footer/partners.php:38
 #: framework/customizer/sections/header/search-form.php:43
 #: framework/customizer/sections/header/social-icons.php:45
-#: framework/customizer/sections/header/user-navigation.php:40
+#: framework/customizer/sections/header/user-navigation.php:39
+#: framework/customizer/sections/header/user-navigation.php:56
 #: framework/customizer/sections/home/cta-contact.php:41
 #: framework/customizer/sections/home/cta.php:41
 #: framework/customizer/sections/home/featured-properties.php:39
@@ -2692,7 +2726,7 @@ msgstr "Tunjukkan"
 #: framework/customizer/sections/property/similar-properties.php:39
 #: framework/customizer/sections/property/video.php:39
 #: framework/customizer/sections/property/virtual-tour.php:38
-#: framework/meta-box/config-meta-boxes.php:893
+#: framework/meta-box/config-meta-boxes.php:900
 msgid "Hide"
 msgstr "Sembunyi"
 
@@ -2900,8 +2934,8 @@ msgid "Properties Gallery"
 msgstr "Galeri Hartanah"
 
 #: framework/customizer/gallery.php:45 framework/customizer/news.php:55
-#: framework/meta-box/config-meta-boxes.php:824
-#: framework/meta-box/config-meta-boxes.php:861
+#: framework/meta-box/config-meta-boxes.php:831
+#: framework/meta-box/config-meta-boxes.php:868
 #, fuzzy
 msgid "Banner Title"
 msgstr "Tajuk Banner"
@@ -2912,7 +2946,7 @@ msgid "Skim Through Available Properties"
 msgstr "Skim Melalui Hartanah yang Sedia Ada"
 
 #: framework/customizer/gallery.php:58 framework/customizer/news.php:83
-#: framework/meta-box/config-meta-boxes.php:830
+#: framework/meta-box/config-meta-boxes.php:837
 #, fuzzy
 msgid "Banner Sub Title"
 msgstr "Tajuk Sub Banner"
@@ -2933,16 +2967,15 @@ msgstr "Tambah kotak semak perjanjian GDPR dalam bentuk di seluruh laman web?"
 #: framework/customizer/payments.php:30 framework/customizer/payments.php:71
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
-#: framework/customizer/sections/header/others.php:54
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:145
+#: framework/customizer/sections/search/properties-search-page.php:160
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
 #: framework/include/shortcodes/vc-map.php:278
-#: framework/meta-box/config-meta-boxes.php:249
-#: framework/meta-box/config-meta-boxes.php:269
-#: framework/meta-box/config-meta-boxes.php:462
+#: framework/meta-box/config-meta-boxes.php:259
+#: framework/meta-box/config-meta-boxes.php:279
+#: framework/meta-box/config-meta-boxes.php:469
 msgid "Yes"
 msgstr "Ya"
 
@@ -2952,20 +2985,19 @@ msgstr "Ya"
 #: framework/customizer/payments.php:31 framework/customizer/payments.php:72
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
-#: framework/customizer/sections/header/others.php:55
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:146
+#: framework/customizer/sections/search/properties-search-page.php:161
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
 #: framework/include/shortcodes/vc-map.php:277
-#: framework/meta-box/config-meta-boxes.php:250
-#: framework/meta-box/config-meta-boxes.php:270
-#: framework/meta-box/config-meta-boxes.php:560
+#: framework/meta-box/config-meta-boxes.php:260
+#: framework/meta-box/config-meta-boxes.php:280
+#: framework/meta-box/config-meta-boxes.php:567
 msgid "No"
 msgstr "Tidak"
 
-#: framework/customizer/gdpr.php:38 framework/functions/basic.php:1175
+#: framework/customizer/gdpr.php:38 framework/functions/basic.php:1146
 #, fuzzy
 msgid "GDPR Agreement"
 msgstr "Perjanjian GDPR"
@@ -2975,7 +3007,7 @@ msgstr "Perjanjian GDPR"
 msgid "GDPR agreement checkbox label"
 msgstr "Label kotak tanda perjanjian GDPR"
 
-#: framework/customizer/gdpr.php:51 framework/functions/basic.php:1179
+#: framework/customizer/gdpr.php:51 framework/functions/basic.php:1150
 #, fuzzy
 msgid ""
 "I consent to having this website store my submitted information so they can "
@@ -2996,7 +3028,7 @@ msgstr ""
 "Anda boleh menggunakan <a>tanda dalam kotak pilihan kotak persetujuan GDPR "
 "anda.</a>"
 
-#: framework/customizer/gdpr.php:65 framework/functions/basic.php:1177
+#: framework/customizer/gdpr.php:65 framework/functions/basic.php:1148
 #, fuzzy
 msgid "* Please accept GDPR agreement"
 msgstr "* Sila terima perjanjian GDPR"
@@ -3338,8 +3370,8 @@ msgid "Price"
 msgstr "Harga"
 
 #: framework/customizer/members.php:230
-#: framework/meta-box/config-meta-boxes.php:152
-#: framework/meta-box/config-meta-boxes.php:342
+#: framework/meta-box/config-meta-boxes.php:162
+#: framework/meta-box/config-meta-boxes.php:349
 #, fuzzy
 msgid "Price Postfix"
 msgstr "Postfix harga"
@@ -3371,7 +3403,7 @@ msgid "Mark as Featured Checkbox"
 msgstr "Tandakan sebagai Kotak Pilihan Unggah"
 
 #: framework/customizer/members.php:241
-#: framework/meta-box/config-meta-boxes.php:545
+#: framework/meta-box/config-meta-boxes.php:552
 #, fuzzy
 msgid "Message to Reviewer"
 msgstr "Mesej kepada Reviewer"
@@ -3505,7 +3537,7 @@ msgstr ""
 "kepadanya."
 
 #: framework/customizer/misc.php:27
-#: framework/meta-box/config-meta-boxes.php:125
+#: framework/meta-box/config-meta-boxes.php:135
 #, fuzzy
 msgid "Misc"
 msgstr "Misc"
@@ -3727,13 +3759,13 @@ msgid "Layout"
 msgstr "Bentangan"
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:167
+#: framework/customizer/sections/search/properties-search-page.php:182
 #, fuzzy
 msgid "One Column"
 msgstr "Satu Lajur"
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:168
+#: framework/customizer/sections/search/properties-search-page.php:183
 #, fuzzy
 msgid "Two Columns"
 msgstr "Dua Lajur"
@@ -3744,7 +3776,7 @@ msgid "Three Columns"
 msgstr "Tiga Lajur"
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:169
+#: framework/customizer/sections/search/properties-search-page.php:184
 #, fuzzy
 msgid "Four Columns"
 msgstr "Empat Lajur"
@@ -3793,9 +3825,9 @@ msgstr "Footline Tagline"
 #: framework/customizer/sections/footer/partners.php:23
 #: framework/customizer/sections/home/partners.php:26
 #: framework/customizer/sections/home/partners.php:71
-#: framework/customizer/sections/home/sections-manager.php:105
-#: framework/include/admin/class-rh-admin-menu.php:169
-#: framework/include/admin/class-rh-admin-menu.php:170
+#: framework/customizer/sections/home/sections-manager.php:104
+#: framework/include/admin/class-rh-admin-menu.php:154
+#: framework/include/admin/class-rh-admin-menu.php:155
 #: framework/include/partners-post-type.php:21
 #, fuzzy
 msgid "Partners"
@@ -3876,8 +3908,8 @@ msgid "Contact Information"
 msgstr "Maklumat perhubungan"
 
 #: framework/customizer/sections/header/contact-information.php:36
-#: framework/meta-box/config-meta-boxes.php:653
-#: framework/meta-box/config-meta-boxes.php:741
+#: framework/meta-box/config-meta-boxes.php:660
+#: framework/meta-box/config-meta-boxes.php:748
 msgid "Email Address"
 msgstr "Alamat E-mel"
 
@@ -3892,28 +3924,41 @@ msgstr "Tandukan Sticky"
 
 #: framework/customizer/sections/header/others.php:49
 #, fuzzy
-msgid "Display WPML Language Switcher in Top Header"
-msgstr "Paparkan WPML Language Switcher di Atas Header"
-
-#: framework/customizer/sections/header/others.php:50
-#, fuzzy
-msgid "Only works if WPML is installed."
-msgstr "Hanya berfungsi jika WPML dipasang."
-
-#: framework/customizer/sections/header/others.php:65
-#, fuzzy
 msgid "Choose Header Variation"
 msgstr "Pilih Variasi Header"
 
-#: framework/customizer/sections/header/others.php:69
-#: framework/customizer/sections/home/sections-manager.php:42
+#: framework/customizer/sections/header/others.php:53
+#: framework/customizer/sections/home/sections-manager.php:41
 msgid "Default"
 msgstr "Lalai"
 
-#: framework/customizer/sections/header/others.php:70
+#: framework/customizer/sections/header/others.php:54
 #, fuzzy
 msgid "Center"
 msgstr "Pusat"
+
+#: framework/customizer/sections/header/responsive-header.php:29
+#, fuzzy
+msgid "Responsive Header"
+msgstr "Menu Responsif"
+
+#: framework/customizer/sections/header/responsive-header.php:41
+#, fuzzy
+msgid "Select Responsive Header"
+msgstr "Carian Halaman Hasil Carian"
+
+#: framework/customizer/sections/header/responsive-header.php:44
+msgid "Enabling responsive header on mobile devices."
+msgstr "Mengaktifkan pengepala responsif pada peranti mudah alih."
+
+#: framework/customizer/sections/header/responsive-header.php:46
+#, fuzzy
+msgid "Transparent"
+msgstr "(tiada ibu bapa)"
+
+#: framework/customizer/sections/header/responsive-header.php:47
+msgid "Solid"
+msgstr "Pepejal"
 
 #: framework/customizer/sections/header/search-form.php:24
 #: framework/customizer/sections/home/search-form.php:24
@@ -3946,9 +3991,9 @@ msgid "Show or Hide Social Icons"
 msgstr "Tunjukkan atau Sembunyikan Ikon Sosial"
 
 #: framework/customizer/sections/header/social-icons.php:104
-#: framework/functions/basic.php:416
-#: framework/meta-box/config-meta-boxes.php:707
-#: framework/meta-box/config-meta-boxes.php:795
+#: framework/functions/basic.php:399
+#: framework/meta-box/config-meta-boxes.php:714
+#: framework/meta-box/config-meta-boxes.php:802
 #, fuzzy
 msgid "Instagram URL"
 msgstr "URL Instagram"
@@ -3973,15 +4018,37 @@ msgstr "URL Pinterest"
 msgid "RSS URL"
 msgstr "URL RSS"
 
-#: framework/customizer/sections/header/user-navigation.php:25
+#: framework/customizer/sections/header/user-navigation.php:24
 #, fuzzy
 msgid "User Navigation"
 msgstr "Navigasi Pengguna"
 
-#: framework/customizer/sections/header/user-navigation.php:35
+#: framework/customizer/sections/header/user-navigation.php:34
 #, fuzzy
-msgid "Header Navigation for User Login and Register"
-msgstr "Navigasi Header untuk Login Pengguna dan Daftar"
+msgid "User Login and Register Links Display"
+msgstr "Pilih Masuk dan Daftar Halaman (Pilihan)"
+
+#: framework/customizer/sections/header/user-navigation.php:51
+#, fuzzy
+msgid "WPML Language Switcher Display"
+msgstr "Paparkan WPML Language Switcher di Atas Header"
+
+#: framework/customizer/sections/header/user-navigation.php:65
+msgid "Switcher Language Display Options"
+msgstr "Pilihan Paparan Bahasa Switcher"
+
+#: framework/customizer/sections/header/user-navigation.php:69
+msgid "Name and Flag"
+msgstr "Nama dan Bendera"
+
+#: framework/customizer/sections/header/user-navigation.php:70
+#, fuzzy
+msgid "Name Only"
+msgstr "Nama Warna"
+
+#: framework/customizer/sections/header/user-navigation.php:71
+msgid "Flag Only "
+msgstr "Bendera sahaja"
 
 #: framework/customizer/sections/home/cta-contact.php:26
 #, fuzzy
@@ -3999,14 +4066,14 @@ msgstr "Kenalan CTA di Laman Web"
 msgid "CTA Background"
 msgstr "Latar Belakang CTA"
 
-#: framework/customizer/sections/home/cta-contact.php:84
+#: framework/customizer/sections/home/cta-contact.php:68
 #, fuzzy
 msgid "Trouble Finding"
 msgstr "Mencari Masalah"
 
-#: framework/customizer/sections/home/cta-contact.php:88
+#: framework/customizer/sections/home/cta-contact.php:72
 #: framework/customizer/sections/home/featured-properties.php:73
-#: framework/customizer/sections/home/features-section.php:125
+#: framework/customizer/sections/home/features-section.php:90
 #: framework/customizer/sections/home/home-agents.php:75
 #: framework/customizer/sections/home/home-features.php:75
 #: framework/customizer/sections/home/home-news.php:66
@@ -4016,12 +4083,12 @@ msgstr "Mencari Masalah"
 msgid "Section Title"
 msgstr "Tajuk Seksyen"
 
-#: framework/customizer/sections/home/cta-contact.php:106
+#: framework/customizer/sections/home/cta-contact.php:90
 #, fuzzy
 msgid "Need help? Talk to our expert."
 msgstr "Perlukan bantuan? Bercakap dengan pakar kami."
 
-#: framework/customizer/sections/home/cta-contact.php:110
+#: framework/customizer/sections/home/cta-contact.php:94
 #: framework/customizer/sections/home/featured-properties.php:99
 #: framework/customizer/sections/home/home-agents.php:97
 #: framework/customizer/sections/home/home-features.php:97
@@ -4032,38 +4099,38 @@ msgstr "Perlukan bantuan? Bercakap dengan pakar kami."
 msgid "Section Description"
 msgstr "Penerangan Seksyen"
 
-#: framework/customizer/sections/home/cta-contact.php:178
+#: framework/customizer/sections/home/cta-contact.php:130
 #: framework/customizer/sections/home/cta.php:160
 #, fuzzy
 msgid "CTA Button Title One"
 msgstr "Tajuk Butang CTA Satu"
 
-#: framework/customizer/sections/home/cta-contact.php:200
+#: framework/customizer/sections/home/cta-contact.php:152
 #: framework/customizer/sections/home/cta.php:182
 #, fuzzy
 msgid "CTA Button URL One"
 msgstr "URL Butang CTA"
 
-#: framework/customizer/sections/home/cta-contact.php:253
-#: framework/customizer/sections/home/cta.php:236
+#: framework/customizer/sections/home/cta-contact.php:174
+#: framework/customizer/sections/home/cta.php:203
 #, fuzzy
 msgid "Browse Property"
 msgstr "Semak imbas Harta"
 
-#: framework/customizer/sections/home/cta-contact.php:257
-#: framework/customizer/sections/home/cta.php:240
+#: framework/customizer/sections/home/cta-contact.php:178
+#: framework/customizer/sections/home/cta.php:207
 #, fuzzy
 msgid "CTA Button Title Two"
 msgstr "Tajuk Butang CTA Dua"
 
-#: framework/customizer/sections/home/cta-contact.php:279
-#: framework/customizer/sections/home/cta.php:262
+#: framework/customizer/sections/home/cta-contact.php:200
+#: framework/customizer/sections/home/cta.php:229
 #, fuzzy
 msgid "CTA Button URL Two"
 msgstr "URL Butang CTA Dua"
 
 #: framework/customizer/sections/home/cta.php:26
-#: framework/customizer/sections/home/sections-manager.php:102
+#: framework/customizer/sections/home/sections-manager.php:101
 #, fuzzy
 msgid "Call to Action"
 msgstr "Panggil untuk Tindakan"
@@ -4111,7 +4178,7 @@ msgid "Select Featured Properties Variation"
 msgstr "Pilih Variasi Hartanah Pilihan"
 
 #: framework/customizer/sections/home/features-section.php:23
-#: framework/customizer/sections/home/sections-manager.php:76
+#: framework/customizer/sections/home/sections-manager.php:75
 #, fuzzy
 msgid "Features Section"
 msgstr "Ciri Seksyen"
@@ -4121,55 +4188,58 @@ msgstr "Ciri Seksyen"
 msgid "Features Section on Homepage"
 msgstr "Ciri Seksyen di Laman Web"
 
-#: framework/customizer/sections/home/features-section.php:100
+#: framework/customizer/sections/home/features-section.php:65
 #, fuzzy
 msgid "Section Background Image"
 msgstr "Imej Latar Belakang Seksyen"
 
-#: framework/customizer/sections/home/features-section.php:137
+#: framework/customizer/sections/home/features-section.php:102
 #: framework/customizer/sections/home/news-posts.php:70
 #, fuzzy
 msgid "Description Text"
 msgstr "Huraian Teks"
 
-#: framework/customizer/sections/home/features-section.php:165
-#: framework/customizer/sections/home/features-section.php:246
-#: framework/customizer/sections/home/features-section.php:327
-#: framework/customizer/sections/home/features-section.php:426
-#: framework/customizer/sections/home/features-section.php:454
-#: framework/customizer/sections/home/features-section.php:482
+#: framework/customizer/sections/home/features-section.php:126
+#, fuzzy
+msgid "First Feature "
+msgstr "ciri-ciri"
+
+#: framework/customizer/sections/home/features-section.php:143
+#: framework/customizer/sections/home/features-section.php:236
+#: framework/customizer/sections/home/features-section.php:329
+#, fuzzy
+msgid "Image"
+msgstr "Ikon Imej"
+
+#: framework/customizer/sections/home/features-section.php:207
+#: framework/customizer/sections/home/features-section.php:300
+#: framework/customizer/sections/home/features-section.php:393
+#: framework/customizer/sections/home/testimonial.php:124
+msgid "URL"
+msgstr "URL"
+
+#: framework/customizer/sections/home/features-section.php:218
+#, fuzzy
+msgid "Second Feature "
+msgstr "ciri-ciri"
+
+#: framework/customizer/sections/home/features-section.php:312
+#, fuzzy
+msgid "Third Feature "
+msgstr "ciri-ciri"
+
+#: framework/customizer/sections/home/features-section.php:428
+#: framework/customizer/sections/home/features-section.php:456
+#: framework/customizer/sections/home/features-section.php:484
 #, fuzzy
 msgid "Feature Image"
 msgstr "Imej Ciri"
 
-#: framework/customizer/sections/home/features-section.php:187
-#: framework/customizer/sections/home/features-section.php:268
-#: framework/customizer/sections/home/features-section.php:349
-#, fuzzy
-msgid "Feature Title"
-msgstr "Tajuk Ciri"
-
-#: framework/customizer/sections/home/features-section.php:208
-#: framework/customizer/sections/home/features-section.php:289
-#: framework/customizer/sections/home/features-section.php:370
-#: framework/meta-box/config-meta-boxes.php:1146
-#, fuzzy
-msgid "Feature Description"
-msgstr "Penerangan Ciri"
-
-#: framework/customizer/sections/home/features-section.php:229
-#: framework/customizer/sections/home/features-section.php:310
-#: framework/customizer/sections/home/features-section.php:391
-#: framework/meta-box/config-meta-boxes.php:1131
-#, fuzzy
-msgid "Feature URL"
-msgstr "URL Ciri"
-
 #: framework/customizer/sections/home/home-agents.php:26
 #: framework/customizer/sections/home/home-agents.php:71
-#: framework/customizer/sections/home/sections-manager.php:103
-#: framework/include/admin/class-rh-admin-menu.php:162
-#: framework/include/admin/class-rh-admin-menu.php:163
+#: framework/customizer/sections/home/sections-manager.php:102
+#: framework/include/admin/class-rh-admin-menu.php:146
+#: framework/include/admin/class-rh-admin-menu.php:147
 #: framework/include/agent-post-type.php:20
 #, fuzzy
 msgid "Agents"
@@ -4236,7 +4306,7 @@ msgid "News on Homepage"
 msgstr "Berita di Laman Web"
 
 #: framework/customizer/sections/home/home-news.php:62
-#: framework/customizer/sections/home/sections-manager.php:106
+#: framework/customizer/sections/home/sections-manager.php:105
 #, fuzzy
 msgid "News & Updates"
 msgstr "Berita &amp; Maklumat"
@@ -4247,7 +4317,7 @@ msgid "Some recent news & updates of Real Homes theme."
 msgstr "Beberapa berita baru &amp; kemas kini tema Real Homes."
 
 #: framework/customizer/sections/home/home-properties.php:45
-#: framework/customizer/sections/home/sections-manager.php:75
+#: framework/customizer/sections/home/sections-manager.php:74
 #, fuzzy
 msgid "Home Properties"
 msgstr "Hartanah Rumah"
@@ -4386,12 +4456,12 @@ msgstr ""
 msgid "Enable Advance Search Label"
 msgstr "Dayakan Label Cari Advance"
 
-#: framework/customizer/sections/home/search-form.php:116
+#: framework/customizer/sections/home/search-form.php:83
 #, fuzzy
 msgid "Advance Search Label Text"
 msgstr "Teks Label Carian Awal"
 
-#: framework/customizer/sections/home/search-form.php:117
+#: framework/customizer/sections/home/search-form.php:84
 #, fuzzy
 msgid "This text will be replaced with Advance Search Label Image"
 msgstr "Teks ini akan digantikan dengan Imej Label Carian Terlebih dahulu"
@@ -4406,40 +4476,40 @@ msgstr "Pengurus Seksyen"
 msgid "Order Settings"
 msgstr "Tetapan Pesanan"
 
-#: framework/customizer/sections/home/sections-manager.php:43
+#: framework/customizer/sections/home/sections-manager.php:42
 msgid "Custom"
 msgstr ""
 "Tersendiri\n"
 " "
 
-#: framework/customizer/sections/home/sections-manager.php:70
-#: framework/customizer/sections/home/sections-manager.php:94
+#: framework/customizer/sections/home/sections-manager.php:69
+#: framework/customizer/sections/home/sections-manager.php:93
 #, fuzzy
 msgid "Sections Order"
 msgstr "Perintah Seksyen"
 
-#: framework/customizer/sections/home/sections-manager.php:71
-#: framework/customizer/sections/home/sections-manager.php:95
+#: framework/customizer/sections/home/sections-manager.php:70
+#: framework/customizer/sections/home/sections-manager.php:94
 #, fuzzy
 msgid "Select Custom Order Settings to apply these changes."
 msgstr "Pilih Tetapan Pesanan Khusus untuk memohon perubahan ini."
 
-#: framework/customizer/sections/home/sections-manager.php:78
+#: framework/customizer/sections/home/sections-manager.php:77
 #, fuzzy
 msgid "News/Blog Posts"
 msgstr "Berita / Blog Posts"
 
-#: framework/customizer/sections/home/sections-manager.php:99
+#: framework/customizer/sections/home/sections-manager.php:98
 #, fuzzy
 msgid "Latest Properties"
 msgstr "Hartanah Terkini"
 
-#: framework/customizer/sections/home/sections-manager.php:101
+#: framework/customizer/sections/home/sections-manager.php:100
 #, fuzzy
 msgid "Testimonials"
 msgstr "Testimoni"
 
-#: framework/customizer/sections/home/sections-manager.php:107
+#: framework/customizer/sections/home/sections-manager.php:106
 #, fuzzy
 msgid "Call to Action -- Contact"
 msgstr "Panggilan untuk Tindakan - Hubungi"
@@ -4562,7 +4632,7 @@ msgstr ""
 "Cat Custom"
 
 #: framework/customizer/sections/home/slider-area.php:275
-#: framework/meta-box/config-meta-boxes.php:845
+#: framework/meta-box/config-meta-boxes.php:852
 #, fuzzy
 msgid "Revolution Slider Alias"
 msgstr "Alias ​​Revolusi Slider"
@@ -4589,7 +4659,7 @@ msgid "Description Text Below Slogan"
 msgstr "Huraian Teks di bawah slogan"
 
 #: framework/customizer/sections/home/testimonial.php:26
-#: framework/customizer/sections/home/testimonial.php:106
+#: framework/customizer/sections/home/testimonial.php:55
 #, fuzzy
 msgid "Testimonial"
 msgstr "Testimoni"
@@ -4599,7 +4669,7 @@ msgstr "Testimoni"
 msgid "Testimonial on Homepage"
 msgstr "Testimoni di Laman Web"
 
-#: framework/customizer/sections/home/testimonial.php:102
+#: framework/customizer/sections/home/testimonial.php:51
 #, fuzzy
 msgid ""
 "Best theme for Real Estate Agency fast installation and translation can be "
@@ -4611,17 +4681,13 @@ msgstr ""
 "selesa, terima kasih kerana tema yang menakjubkan ini. Disyorkan untuk semua "
 "agensi hartanah."
 
-#: framework/customizer/sections/home/testimonial.php:136
+#: framework/customizer/sections/home/testimonial.php:85
 #, fuzzy
 msgid "giovannigr"
 msgstr "giovannigr"
 
-#: framework/customizer/sections/home/testimonial.php:191
-msgid "URL"
-msgstr "URL"
-
 #: framework/customizer/sections/property/agent.php:34
-#: framework/meta-box/config-meta-boxes.php:121
+#: framework/meta-box/config-meta-boxes.php:131
 #, fuzzy
 msgid "Agent Information"
 msgstr "Maklumat Agen"
@@ -4647,8 +4713,22 @@ msgid "Given email address will get a copy of message sent to agent."
 msgstr ""
 "Mengikut alamat e-mel akan mendapat salinan mesej yang dihantar kepada ejen."
 
+#: framework/customizer/sections/property/agent.php:96
+#: framework/customizer/sections/styles/basic-settings.php:47
+#, fuzzy
+msgid "Important Note:"
+msgstr "Nota PENTING:"
+
+#: framework/customizer/sections/property/agent.php:97
+msgid ""
+"For agent form layout on property detail page, please go to Customizer > "
+"Property Detail Page > Basics ."
+msgstr ""
+"Untuk susun atur bentuk ejen pada halaman terperinci harta, sila pergi ke "
+"Customizer&gt; Halaman Butiran Harta&gt; Asas."
+
 #: framework/customizer/sections/property/attachments.php:24
-#: framework/meta-box/config-meta-boxes.php:499
+#: framework/meta-box/config-meta-boxes.php:506
 #, fuzzy
 msgid "Attachments"
 msgstr "Lampiran"
@@ -4675,7 +4755,7 @@ msgid "Basics"
 msgstr "Asas-asas"
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:82
+#: framework/customizer/sections/search/properties-search-page.php:97
 #, fuzzy
 msgid "Header variation to display on Property Detail Page."
 msgstr "Variasi header untuk dipaparkan pada Halaman Butiran Harta."
@@ -4696,7 +4776,7 @@ msgid "Agent info in Sidebar"
 msgstr "Maklumat Agen di Sidebar"
 
 #: framework/customizer/sections/property/basics.php:81
-#: framework/meta-box/config-meta-boxes.php:277
+#: framework/meta-box/config-meta-boxes.php:287
 #, fuzzy
 msgid "Property Address"
 msgstr "Alamat Hartanah"
@@ -4898,7 +4978,6 @@ msgstr "Tunjukkan sifat yang serupa berdasarkan pada"
 
 #: framework/customizer/sections/property/similar-properties.php:84
 #: framework/customizer/sections/search/search-form-basics.php:73
-#: framework/include/admin/class-rh-admin-menu.php:121
 #: framework/include/property-post-type.php:87
 #: framework/include/property-post-type.php:88
 #: framework/include/property-post-type.php:101
@@ -4915,7 +4994,7 @@ msgstr "Lokasi Hartanah"
 
 #: framework/customizer/sections/property/video.php:34
 #: framework/customizer/sections/property/video.php:47
-#: framework/meta-box/config-meta-boxes.php:117
+#: framework/meta-box/config-meta-boxes.php:127
 #, fuzzy
 msgid "Property Video"
 msgstr "Video Harta"
@@ -4984,22 +5063,40 @@ msgstr ""
 "Apa yang anda ingin paparkan di kawasan di bawah pengepala pada halaman "
 "hasil carian sifat?"
 
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:77
+#, fuzzy
+msgid "Search Results Layout"
+msgstr "Keputusan Carian"
+
+#: framework/customizer/sections/search/properties-search-page.php:78
+#, fuzzy
+msgid "Search results page layout."
+msgstr "Carian Halaman Hasil Carian"
+
+#: framework/customizer/sections/search/properties-search-page.php:82
+msgid "With Map"
+msgstr "Dengan Peta"
+
+#: framework/customizer/sections/search/properties-search-page.php:83
+msgid "Without Map"
+msgstr "Tanpa Peta"
+
+#: framework/customizer/sections/search/properties-search-page.php:117
 #, fuzzy
 msgid "Properties Per Page"
 msgstr "Properties Per Page"
 
-#: framework/customizer/sections/search/properties-search-page.php:103
+#: framework/customizer/sections/search/properties-search-page.php:118
 #, fuzzy
 msgid "Number of properties to display on search results page"
 msgstr "Bilangan sifat untuk dipaparkan pada halaman hasil carian"
 
-#: framework/customizer/sections/search/properties-search-page.php:140
+#: framework/customizer/sections/search/properties-search-page.php:155
 #, fuzzy
 msgid "Display Featured Properties on Top in Search Results Page?"
 msgstr "Paparkan Hartanah Pilihan di Halaman Keputusan Carian di Atas?"
 
-#: framework/customizer/sections/search/properties-search-page.php:141
+#: framework/customizer/sections/search/properties-search-page.php:156
 #, fuzzy
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New "
@@ -5008,12 +5105,12 @@ msgstr ""
 "Tetapan ini akan digunakan pada penyisihan berdasarkan Sort by Date (Lama "
 "hingga Baru dan Baru hingga Lama) sahaja."
 
-#: framework/customizer/sections/search/properties-search-page.php:162
+#: framework/customizer/sections/search/properties-search-page.php:177
 #, fuzzy
 msgid "Search Page Variation"
 msgstr "Variasi Halaman Carian"
 
-#: framework/customizer/sections/search/properties-search-page.php:163
+#: framework/customizer/sections/search/properties-search-page.php:178
 #, fuzzy
 msgid "Search page variation to display properties."
 msgstr "Cari variasi halaman untuk memaparkan sifat."
@@ -5049,7 +5146,7 @@ msgid "Area Measurement Unit for Min and Max Area fields."
 msgstr "Unit Pengukuran Kawasan untuk bidang Kawasan Min dan Max."
 
 #: framework/customizer/sections/search/search-form-areas.php:110
-#: framework/meta-box/config-meta-boxes.php:358
+#: framework/meta-box/config-meta-boxes.php:365
 #, fuzzy
 msgid "Example: sq ft"
 msgstr "Contoh: kaki persegi"
@@ -5434,11 +5531,6 @@ msgstr "Warna Tema Lalai"
 msgid "My Own Custom Colors"
 msgstr "Warna Tersuai Saya Sendiri"
 
-#: framework/customizer/sections/styles/basic-settings.php:47
-#, fuzzy
-msgid "Important Note:"
-msgstr "Nota PENTING:"
-
 #: framework/customizer/sections/styles/basic-settings.php:48
 #, fuzzy
 msgid ""
@@ -5582,7 +5674,7 @@ msgstr "Warna teras"
 msgid "Important Notes:"
 msgstr "Nota PENTING:"
 
-#: framework/customizer/sections/styles/core-styles.php:28
+#: framework/customizer/sections/styles/core-styles.php:27
 #, fuzzy, php-format
 msgid ""
 "• These color options replace the core colors %1$s mostly %2$s all over the "
@@ -5593,7 +5685,7 @@ msgstr ""
 "seluruh tema. Anda juga boleh mengatasi warna ini untuk hampir setiap "
 "bahagian dalam%1$s Customizer&gt; Styles %2$s."
 
-#: framework/customizer/sections/styles/core-styles.php:42
+#: framework/customizer/sections/styles/core-styles.php:40
 #, fuzzy, php-format
 msgid ""
 "• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
@@ -5602,12 +5694,12 @@ msgstr ""
 "• Untuk memohon warna-warna teras ini, pastikan%1$s Warna Custom Saya Sendiri"
 "%2$s dipilih dalam%1$s Customizer&gt; Styles&gt; Default atau Custom%2$s."
 
-#: framework/customizer/sections/styles/core-styles.php:73
+#: framework/customizer/sections/styles/core-styles.php:71
 #, fuzzy
 msgid "Orange Light"
 msgstr "Orange Light"
 
-#: framework/customizer/sections/styles/core-styles.php:74
+#: framework/customizer/sections/styles/core-styles.php:72
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5630,12 +5722,12 @@ msgstr ""
 "Pautan Pos %1$s • Tuntutan Balas Pos %1$s • Penapis Galeri%1$s • Borang "
 "Hubungi Butang%1$s Warna Default ialah # ec894d"
 
-#: framework/customizer/sections/styles/core-styles.php:101
+#: framework/customizer/sections/styles/core-styles.php:99
 #, fuzzy
 msgid "Orange Dark"
 msgstr "Orange Dark"
 
-#: framework/customizer/sections/styles/core-styles.php:102
+#: framework/customizer/sections/styles/core-styles.php:100
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5647,12 +5739,12 @@ msgstr ""
 "Tukar warna teras %1$s • Menu Utama Hover%1$s • Footer Widget Pautan Hover"
 "%1$s • Widget Sidebar Pautan Hover%1$s Warna lalai ialah # dc7d44"
 
-#: framework/customizer/sections/styles/core-styles.php:121
+#: framework/customizer/sections/styles/core-styles.php:119
 #, fuzzy
 msgid "Orange Glow"
 msgstr "Orange Glow"
 
-#: framework/customizer/sections/styles/core-styles.php:122
+#: framework/customizer/sections/styles/core-styles.php:120
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5670,12 +5762,12 @@ msgstr ""
 "Lagi Button Hover%1$s • Post Tags Berlegar%1$s • Siarkan Siaran Butang Hover"
 "%1$s • Penomboran%1$s Warna lalai ialah # e3712c"
 
-#: framework/customizer/sections/styles/core-styles.php:145
+#: framework/customizer/sections/styles/core-styles.php:143
 #, fuzzy
 msgid "Orange Burnt"
 msgstr "Burning Orange"
 
-#: framework/customizer/sections/styles/core-styles.php:146
+#: framework/customizer/sections/styles/core-styles.php:144
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5699,12 +5791,12 @@ msgstr ""
 "%1$s • Ciri Carian Hover dalam Borang Carian Widget%1$s Warna lalai adalah # "
 "df5400"
 
-#: framework/customizer/sections/styles/core-styles.php:171
+#: framework/customizer/sections/styles/core-styles.php:169
 #, fuzzy
 msgid "Blue light"
 msgstr "Cahaya biru"
 
-#: framework/customizer/sections/styles/core-styles.php:172
+#: framework/customizer/sections/styles/core-styles.php:170
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5725,12 +5817,12 @@ msgstr ""
 "Butang%1$s • Latar Belakang Format Langganan%1$s • Navigasi Slider Siaran"
 "%1$s • Hamparan Harta Galeri%1$s Warna lalai ialah # 4dc7ec"
 
-#: framework/customizer/sections/styles/core-styles.php:215
+#: framework/customizer/sections/styles/core-styles.php:196
 #, fuzzy
 msgid "Blue Dark"
 msgstr "Blue Dark"
 
-#: framework/customizer/sections/styles/core-styles.php:216
+#: framework/customizer/sections/styles/core-styles.php:197
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5746,12 +5838,12 @@ msgstr ""
 "Hover%1$s • Skrol Ke Atas Hover Button%1$s • Gambaran Banner Latar Belakang"
 "%1$s • Banner Breadcrumbs Background% 1 $ Default warna adalah # 37b3d9"
 
-#: framework/customizer/sections/styles/core-styles.php:240
+#: framework/customizer/sections/styles/core-styles.php:221
 #, fuzzy
 msgid "Orange"
 msgstr "Orange"
 
-#: framework/customizer/sections/styles/core-styles.php:241
+#: framework/customizer/sections/styles/core-styles.php:222
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5774,12 +5866,12 @@ msgstr ""
 "Arrow%1$s • Sambungan widget Sidebar%1$s • Ejen Lihat Penyenaraian Saya "
 "Pautan%1$s Warna Default adalah # ea723d"
 
-#: framework/customizer/sections/styles/core-styles.php:267
+#: framework/customizer/sections/styles/core-styles.php:248
 #, fuzzy
 msgid "Green"
 msgstr "Hijau"
 
-#: framework/customizer/sections/styles/core-styles.php:268
+#: framework/customizer/sections/styles/core-styles.php:249
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5818,12 +5910,12 @@ msgstr ""
 "Galeri%1$s • Penapis Galeri Menggariskan%1$s • Butang Borang Halaman Hubungi"
 "%1$s • Penomboran%1$s Warna lalai adalah # 1ea69a"
 
-#: framework/customizer/sections/styles/core-styles.php:306
+#: framework/customizer/sections/styles/core-styles.php:287
 #, fuzzy
 msgid "Green Dark"
 msgstr "Green Dark"
 
-#: framework/customizer/sections/styles/core-styles.php:307
+#: framework/customizer/sections/styles/core-styles.php:288
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5925,6 +6017,9 @@ msgstr "Warna Latar Belakang"
 #: framework/customizer/sections/styles/header-styles.php:85
 #: framework/customizer/sections/styles/header-styles.php:252
 #: framework/customizer/sections/styles/header-styles.php:334
+#: framework/customizer/sections/styles/header-styles.php:369
+#: framework/customizer/sections/styles/header-styles.php:385
+#: framework/customizer/sections/styles/header-styles.php:401
 #, fuzzy, php-format
 msgid "Default Color is %s"
 msgstr "Warna Lalai adalah %s"
@@ -6027,6 +6122,21 @@ msgstr "Tajuk Teks Nombor Telefon Header"
 #, fuzzy
 msgid "Header Phone Icon Background Color"
 msgstr "Warna Latar Belakang Icon Telefon"
+
+#: framework/customizer/sections/styles/header-styles.php:367
+#, fuzzy
+msgid "Language Switch Background Color"
+msgstr "Tajuk Banner Tajuk Warna Latar Belakang"
+
+#: framework/customizer/sections/styles/header-styles.php:383
+#, fuzzy
+msgid "Language Switch Link Color"
+msgstr "Paparkan WPML Language Switcher di Atas Header"
+
+#: framework/customizer/sections/styles/header-styles.php:399
+#, fuzzy
+msgid "Language Switch Link Hover Color"
+msgstr "Pautan Pautan Warna Hover"
 
 #: framework/customizer/sections/styles/home-page.php:27
 #, fuzzy
@@ -6563,19 +6673,19 @@ msgstr "ciri-ciri hartanah"
 msgid "Property Feature Slug"
 msgstr "Ciri Ciri Slug"
 
-#: framework/functions/basic.php:390
+#: framework/functions/basic.php:374
 #, fuzzy
 msgid "No more properties are available."
 msgstr "Tidak ada lagi hartanah yang tersedia."
 
-#: framework/functions/basic.php:411
-#: framework/meta-box/config-meta-boxes.php:665
-#: framework/meta-box/config-meta-boxes.php:753
+#: framework/functions/basic.php:394
+#: framework/meta-box/config-meta-boxes.php:672
+#: framework/meta-box/config-meta-boxes.php:760
 #, fuzzy
 msgid "WhatsApp Number"
 msgstr "Nombor WhatsApp"
 
-#: framework/functions/basic.php:772
+#: framework/functions/basic.php:747
 #: framework/functions/design-variations-handler.php:536
 #, fuzzy
 msgid "Go to..."
@@ -7046,22 +7156,22 @@ msgstr "Mesej kepada Peninjau: %s"
 msgid "You can contact the submitter \"%s\" via email %s"
 msgstr "Anda boleh menghubungi penyerah &quot; %s&quot; melalui email %s"
 
-#: framework/functions/real-estate-search.php:913
+#: framework/functions/real-estate-search.php:930
 #, fuzzy
 msgid "Main Location"
 msgstr "Lokasi Utama"
 
-#: framework/functions/real-estate-search.php:914
+#: framework/functions/real-estate-search.php:931
 #, fuzzy
 msgid "Child Location"
 msgstr "Lokasi Kanak-kanak"
 
-#: framework/functions/real-estate-search.php:915
+#: framework/functions/real-estate-search.php:932
 #, fuzzy
 msgid "Grand Child Location"
 msgstr "Lokasi Kanak-kanak Grand"
 
-#: framework/functions/real-estate-search.php:916
+#: framework/functions/real-estate-search.php:933
 #, fuzzy
 msgid "Great Grand Child Location"
 msgstr "Lokasi Grand Grand Child"
@@ -7154,92 +7264,58 @@ msgstr "%1$s pada %2$s"
 msgid "said"
 msgstr "kata"
 
-#: framework/include/admin/class-rh-admin-menu.php:97
-#: framework/include/admin/class-rh-admin-menu.php:98
+#: framework/include/admin/class-rh-admin-menu.php:99
+#: framework/include/admin/class-rh-admin-menu.php:100
 #, fuzzy
 msgid "Real Homes"
 msgstr "Rumah Nyata"
 
-#: framework/include/admin/class-rh-admin-menu.php:113
+#: framework/include/admin/class-rh-admin-menu.php:116
 #: framework/include/property-post-type.php:21
 #, fuzzy
 msgid "Add New Property"
 msgstr "Tambah Hartanah Baru"
 
-#: framework/include/admin/class-rh-admin-menu.php:114
+#: framework/include/admin/class-rh-admin-menu.php:117
 #: framework/include/property-post-type.php:23
 #, fuzzy
 msgid "New Property"
 msgstr "Harta Baru"
 
-#: framework/include/admin/class-rh-admin-menu.php:120
-#, fuzzy
-msgid "Add New Property Features"
-msgstr "Tambah Ciri-ciri Hartanah Baru"
-
-#: framework/include/admin/class-rh-admin-menu.php:127
-#, fuzzy
-msgid "Add New Property Types"
-msgstr "Tambah Jenis Hartanah Baru"
-
-#: framework/include/admin/class-rh-admin-menu.php:128
-#: framework/include/property-post-type.php:136
-#: widgets/property-types-widget.php:74
-#, fuzzy
-msgid "Property Types"
-msgstr "Jenis Hartanah"
-
-#: framework/include/admin/class-rh-admin-menu.php:134
-#, fuzzy
-msgid "Add New Property Cities"
-msgstr "Tambah Bandar Hartanah Baru"
-
-#: framework/include/admin/class-rh-admin-menu.php:135
-#: framework/include/property-post-type.php:171
-#, fuzzy
-msgid "Property Cities"
-msgstr "Bandar Harta"
-
-#: framework/include/admin/class-rh-admin-menu.php:141
-#: framework/include/property-post-type.php:201
-#, fuzzy
-msgid "Add New Property Status"
-msgstr "Tambah Status Harta Baru"
-
-#: framework/include/admin/class-rh-admin-menu.php:155
-#: framework/include/admin/class-rh-admin-menu.php:156
+#: framework/include/admin/class-rh-admin-menu.php:138
+#: framework/include/admin/class-rh-admin-menu.php:139
 #: framework/include/agency-post-type.php:18
 #, fuzzy
 msgid "Agencies"
 msgstr "Agensi"
 
-#: framework/include/admin/class-rh-admin-menu.php:176
-#: framework/include/admin/class-rh-admin-menu.php:177
+#: framework/include/admin/class-rh-admin-menu.php:162
+#: framework/include/admin/class-rh-admin-menu.php:163
 #: framework/include/slide-post-type.php:20
 #, fuzzy
 msgid "Slides"
 msgstr "Slaid"
 
-#: framework/include/admin/class-rh-admin-menu.php:183
-#: framework/include/admin/class-rh-admin-menu.php:184
+#: framework/include/admin/class-rh-admin-menu.php:170
+#: framework/include/admin/class-rh-admin-menu.php:171
 #, fuzzy
 msgid "Customize Settings"
 msgstr "Sesuaikan Tetapan"
 
-#: framework/include/admin/class-rh-admin-menu.php:190
-#: framework/include/admin/class-rh-admin-menu.php:191
+#: framework/include/admin/class-rh-admin-menu.php:178
+#: framework/include/admin/class-rh-admin-menu.php:179
 #, fuzzy
 msgid "Design"
 msgstr "Reka bentuk"
 
-#: framework/include/admin/class-rh-admin-menu.php:202
-#: framework/include/admin/class-rh-admin-menu.php:203
-#: framework/include/admin/class-rh-admin-menu.php:248
+#: framework/include/admin/class-rh-admin-menu.php:189
+#: framework/include/admin/class-rh-admin-menu.php:190
+#: framework/include/admin/class-rh-admin-menu.php:237
 #, fuzzy
 msgid "Demo Import"
 msgstr "Demo Import"
 
-#: framework/include/admin/class-rh-admin-menu.php:247
+#: framework/include/admin/class-rh-admin-menu.php:236
 #, fuzzy
 msgid "One Click Demo Import"
 msgstr "One Click Demo Import"
@@ -7671,6 +7747,12 @@ msgstr "Tambah atau alih keluar Jenis Hartanah"
 msgid "Choose from the most used Property Types"
 msgstr "Pilih daripada Jenis Hartanah yang paling banyak digunakan"
 
+#: framework/include/property-post-type.php:136
+#: widgets/property-types-widget.php:74
+#, fuzzy
+msgid "Property Types"
+msgstr "Jenis Hartanah"
+
 #: framework/include/property-post-type.php:152
 #, fuzzy
 msgid "property-types"
@@ -7736,6 +7818,11 @@ msgstr "Tambah atau hapuskan Bandar Hartanah"
 msgid "Choose from the most used Property Cities"
 msgstr "Pilih dari Bandar-bandar Harta yang paling banyak digunakan"
 
+#: framework/include/property-post-type.php:171
+#, fuzzy
+msgid "Property Cities"
+msgstr "Bandar Harta"
+
 #: framework/include/property-post-type.php:187
 #, fuzzy
 msgid "property-cities"
@@ -7775,6 +7862,11 @@ msgstr "Edit Status Hartanah"
 #, fuzzy
 msgid "Update Property Status"
 msgstr "Kemas kini Status Harta"
+
+#: framework/include/property-post-type.php:201
+#, fuzzy
+msgid "Add New Property Status"
+msgstr "Tambah Status Harta Baru"
 
 #: framework/include/property-post-type.php:202
 #, fuzzy
@@ -7871,22 +7963,22 @@ msgid "Ascending"
 msgstr "Menaik"
 
 #: framework/include/shortcodes/vc-map.php:143
-#: framework/meta-box/config-meta-boxes.php:957
-#: framework/meta-box/config-meta-boxes.php:1063
+#: framework/meta-box/config-meta-boxes.php:964
+#: framework/meta-box/config-meta-boxes.php:1070
 #, fuzzy
 msgid "Locations"
 msgstr "Lokasi"
 
 #: framework/include/shortcodes/vc-map.php:150
-#: framework/meta-box/config-meta-boxes.php:966
-#: framework/meta-box/config-meta-boxes.php:1071
+#: framework/meta-box/config-meta-boxes.php:973
+#: framework/meta-box/config-meta-boxes.php:1078
 #, fuzzy
 msgid "Statuses"
 msgstr "Status"
 
 #: framework/include/shortcodes/vc-map.php:157
-#: framework/meta-box/config-meta-boxes.php:975
-#: framework/meta-box/config-meta-boxes.php:1079
+#: framework/meta-box/config-meta-boxes.php:982
+#: framework/meta-box/config-meta-boxes.php:1086
 #, fuzzy
 msgid "Types"
 msgstr "Jenis"
@@ -7912,7 +8004,7 @@ msgid "Maximum Bathrooms"
 msgstr "Bilik mandi Maksimum"
 
 #: framework/include/shortcodes/vc-map.php:242
-#: framework/meta-box/config-meta-boxes.php:1011
+#: framework/meta-box/config-meta-boxes.php:1018
 #, fuzzy
 msgid "Minimum Price"
 msgstr "Harga Minimum"
@@ -7926,7 +8018,7 @@ msgid "Only provide digits"
 msgstr "Hanya berikan angka"
 
 #: framework/include/shortcodes/vc-map.php:250
-#: framework/meta-box/config-meta-boxes.php:1020
+#: framework/meta-box/config-meta-boxes.php:1027
 #, fuzzy
 msgid "Maximum Price"
 msgstr "Harga Maksimum"
@@ -8042,7 +8134,7 @@ msgstr ""
 "embed video dan keluarkan atribut lebar dan ketinggian."
 
 #: framework/meta-box/config-meta-boxes.php:66
-#: framework/meta-box/config-meta-boxes.php:109
+#: framework/meta-box/config-meta-boxes.php:119
 #, fuzzy
 msgid "Gallery Images"
 msgstr "Imej Galeri"
@@ -8061,120 +8153,140 @@ msgstr ""
 "Imej hendaklah mempunyai lebar minimum 830px dan ketinggian minimum 460px, "
 "Imej saiz lebih besar akan dipangkas secara automatik."
 
+#: framework/meta-box/config-meta-boxes.php:99
+#, fuzzy
+msgid "Gallery with thumbnails on right"
+msgstr "Galeri dengan gambar kecil di sebelah kanan"
+
+#: framework/meta-box/config-meta-boxes.php:100
+#, fuzzy
+msgid "Gallery with thumbnails on bottom"
+msgstr "Galeri dengan imej kecil di bahagian bawah"
+
+#: framework/meta-box/config-meta-boxes.php:104
+#, fuzzy
+msgid "Default Gallery"
+msgstr "Perintah Lalai"
+
 #: framework/meta-box/config-meta-boxes.php:105
+#, fuzzy
+msgid "Gallery with thumbnails"
+msgstr "Galeri dengan gambar kecil di sebelah kanan"
+
+#: framework/meta-box/config-meta-boxes.php:115
 #, fuzzy
 msgid "Basic Information"
 msgstr "Maklumat asas"
 
-#: framework/meta-box/config-meta-boxes.php:129
+#: framework/meta-box/config-meta-boxes.php:139
 #, fuzzy
 msgid "Homepage Slider"
 msgstr "Slider Halaman Utama"
 
-#: framework/meta-box/config-meta-boxes.php:133
+#: framework/meta-box/config-meta-boxes.php:143
 #, fuzzy
 msgid "Top Banner"
 msgstr "Banner Teratas"
 
-#: framework/meta-box/config-meta-boxes.php:143
+#: framework/meta-box/config-meta-boxes.php:153
 #, fuzzy
 msgid "Sale or Rent Price ( Only digits )"
 msgstr "Jualan atau Harga Sewa (Hanya digit)"
 
-#: framework/meta-box/config-meta-boxes.php:144
+#: framework/meta-box/config-meta-boxes.php:154
 #, fuzzy
 msgid "Example Value: 435000"
 msgstr "Nilai Contoh: 435000"
 
-#: framework/meta-box/config-meta-boxes.php:153
+#: framework/meta-box/config-meta-boxes.php:163
 #, fuzzy
 msgid "Example Value: Per Month"
 msgstr "Nilai Contoh: Sebulan"
 
-#: framework/meta-box/config-meta-boxes.php:161
+#: framework/meta-box/config-meta-boxes.php:171
 #, fuzzy
 msgid "Area Size ( Only digits )"
 msgstr "Saiz Kawasan (Hanya digit)"
 
-#: framework/meta-box/config-meta-boxes.php:162
+#: framework/meta-box/config-meta-boxes.php:172
 #, fuzzy
 msgid "Example Value: 2500"
 msgstr "Nilai Contoh: 2500"
 
-#: framework/meta-box/config-meta-boxes.php:170
+#: framework/meta-box/config-meta-boxes.php:180
 #, fuzzy
 msgid "Area Size Postfix"
 msgstr "Postfix Saiz Kawasan"
 
-#: framework/meta-box/config-meta-boxes.php:171
-#: framework/meta-box/config-meta-boxes.php:189
+#: framework/meta-box/config-meta-boxes.php:181
+#: framework/meta-box/config-meta-boxes.php:199
 #, fuzzy
 msgid "Example Value: sq ft"
 msgstr "Nilai Contoh: kaki persegi"
 
-#: framework/meta-box/config-meta-boxes.php:179
+#: framework/meta-box/config-meta-boxes.php:189
 #, fuzzy
 msgid "Lot Size ( Only digits )"
 msgstr "Saiz Lot (Hanya digit)"
 
-#: framework/meta-box/config-meta-boxes.php:180
+#: framework/meta-box/config-meta-boxes.php:190
 #, fuzzy
 msgid "Example Value: 3000"
 msgstr "Nilai Contoh: 3000"
 
-#: framework/meta-box/config-meta-boxes.php:188
+#: framework/meta-box/config-meta-boxes.php:198
 #, fuzzy
 msgid "Lot Size Postfix"
 msgstr "Postfix Saiz Lot"
 
-#: framework/meta-box/config-meta-boxes.php:198
+#: framework/meta-box/config-meta-boxes.php:208
 #, fuzzy
 msgid "Example Value: 4"
 msgstr "Nilai Contoh: 4"
 
-#: framework/meta-box/config-meta-boxes.php:207
+#: framework/meta-box/config-meta-boxes.php:217
 #, fuzzy
 msgid "Example Value: 2"
 msgstr "Nilai Contoh: 2"
 
-#: framework/meta-box/config-meta-boxes.php:216
+#: framework/meta-box/config-meta-boxes.php:226
 #, fuzzy
 msgid "Example Value: 1"
 msgstr "Nilai Contoh: 1"
 
-#: framework/meta-box/config-meta-boxes.php:225
+#: framework/meta-box/config-meta-boxes.php:235
 #, fuzzy
 msgid "It will help you search a property directly."
 msgstr "Ia akan membantu anda mencari harta secara langsung."
 
-#: framework/meta-box/config-meta-boxes.php:237
+#: framework/meta-box/config-meta-boxes.php:247
 #, fuzzy
 msgid "Example Value: 2017"
 msgstr "Nilai Contoh: 2017"
 
-#: framework/meta-box/config-meta-boxes.php:244
+#: framework/meta-box/config-meta-boxes.php:254
 #, fuzzy
 msgid "Mark this property as featured ?"
 msgstr "Tandakan harta ini seperti dipaparkan?"
 
-#: framework/meta-box/config-meta-boxes.php:264
+#: framework/meta-box/config-meta-boxes.php:274
 #, fuzzy
 msgid "Hide map on property detail page ?"
 msgstr "Sembunyikan peta pada halaman terperinci harta?"
 
-#: framework/meta-box/config-meta-boxes.php:278
+#: framework/meta-box/config-meta-boxes.php:288
 #, fuzzy
 msgid "Leaving it empty will hide the google map on property detail page."
 msgstr ""
 "Membiarkannya kosong akan menyembunyikan peta google pada halaman terperinci "
 "harta."
 
-#: framework/meta-box/config-meta-boxes.php:286
+#: framework/meta-box/config-meta-boxes.php:296
 #, fuzzy
 msgid "Property Location on Map"
 msgstr "Lokasi Hartanah di Peta"
 
-#: framework/meta-box/config-meta-boxes.php:287
+#: framework/meta-box/config-meta-boxes.php:297
 #, fuzzy
 msgid ""
 "Drag the map marker to point property location. Address field given above "
@@ -8183,88 +8295,78 @@ msgstr ""
 "Seret penanda peta untuk mengarahkan lokasi hartanah. Medan alamat yang "
 "diberikan di atas boleh digunakan untuk mencari lokasi."
 
-#: framework/meta-box/config-meta-boxes.php:299
+#: framework/meta-box/config-meta-boxes.php:309
 #, fuzzy
 msgid "Gallery Type You Want to Use"
 msgstr "Jenis Galeri Anda Ingin Digunakan"
 
-#: framework/meta-box/config-meta-boxes.php:304
-#, fuzzy
-msgid "Gallery with thumbnails on right"
-msgstr "Galeri dengan gambar kecil di sebelah kanan"
-
-#: framework/meta-box/config-meta-boxes.php:305
-#, fuzzy
-msgid "Gallery with thumbnails on bottom"
-msgstr "Galeri dengan imej kecil di bahagian bawah"
-
-#: framework/meta-box/config-meta-boxes.php:311
+#: framework/meta-box/config-meta-boxes.php:318
 #, fuzzy
 msgid "Property Gallery Images"
 msgstr "Imej Galeri Hartanah"
 
-#: framework/meta-box/config-meta-boxes.php:329
+#: framework/meta-box/config-meta-boxes.php:336
 #, fuzzy
 msgid "Floor Name"
 msgstr "Nama Lantai"
 
-#: framework/meta-box/config-meta-boxes.php:331
+#: framework/meta-box/config-meta-boxes.php:338
 #, fuzzy
 msgid "Example: Ground Floor"
 msgstr "Contoh: Ground Floor"
 
-#: framework/meta-box/config-meta-boxes.php:335
+#: framework/meta-box/config-meta-boxes.php:342
 #, fuzzy
 msgid "Floor Price ( Only digits )"
 msgstr "Harga Lantai (Hanya digit)"
 
-#: framework/meta-box/config-meta-boxes.php:337
+#: framework/meta-box/config-meta-boxes.php:344
 #, fuzzy
 msgid "Example: 4000"
 msgstr "Contoh: 4000"
 
-#: framework/meta-box/config-meta-boxes.php:344
+#: framework/meta-box/config-meta-boxes.php:351
 #, fuzzy
 msgid "Example: Per Month"
 msgstr "Contoh: Sebulan"
 
-#: framework/meta-box/config-meta-boxes.php:349
+#: framework/meta-box/config-meta-boxes.php:356
 #, fuzzy
 msgid "Floor Size ( Only digits )"
 msgstr "Saiz Lantai (Hanya digit)"
 
-#: framework/meta-box/config-meta-boxes.php:351
+#: framework/meta-box/config-meta-boxes.php:358
 #, fuzzy
 msgid "Example: 2500"
 msgstr "Contoh: 2500"
 
-#: framework/meta-box/config-meta-boxes.php:356
+#: framework/meta-box/config-meta-boxes.php:363
 #, fuzzy
 msgid "Size Postfix"
 msgstr "Postfix Saiz"
 
-#: framework/meta-box/config-meta-boxes.php:365
+#: framework/meta-box/config-meta-boxes.php:372
 #, fuzzy
 msgid "Example: 4"
 msgstr "Contoh: 4"
 
-#: framework/meta-box/config-meta-boxes.php:372
+#: framework/meta-box/config-meta-boxes.php:379
 #, fuzzy
 msgid "Example: 2"
 msgstr "Contoh: 2"
 
-#: framework/meta-box/config-meta-boxes.php:382
+#: framework/meta-box/config-meta-boxes.php:389
 #, fuzzy
 msgid "Floor Plan Image"
 msgstr "Rancangan Pelan Lantai"
 
-#: framework/meta-box/config-meta-boxes.php:384
+#: framework/meta-box/config-meta-boxes.php:391
 #, fuzzy
 msgid "The recommended minimum width is 770px and height is flexible."
 msgstr ""
 "Lebar minimum yang dicadangkan adalah 770px dan ketinggiannya fleksibel."
 
-#: framework/meta-box/config-meta-boxes.php:395
+#: framework/meta-box/config-meta-boxes.php:402
 #, fuzzy
 msgid ""
 "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
@@ -8272,12 +8374,12 @@ msgid ""
 msgstr ""
 "Menyediakan URL video lawatan maya. Fail YouTube, Vimeo, SWF dan MOV disokong"
 
-#: framework/meta-box/config-meta-boxes.php:401
+#: framework/meta-box/config-meta-boxes.php:408
 #, fuzzy
 msgid "Virtual Tour Video Image"
 msgstr "Imej Video Tour Maya"
 
-#: framework/meta-box/config-meta-boxes.php:403
+#: framework/meta-box/config-meta-boxes.php:410
 #, fuzzy
 msgid ""
 "Provide an image that will be displayed as a place holder and when user will "
@@ -8292,12 +8394,12 @@ msgstr ""
 "Imej hendaklah mempunyai lebar minimum 818px dan ketinggian minimum 417px. "
 "Imej saiz lebih besar akan dipangkas secara automatik."
 
-#: framework/meta-box/config-meta-boxes.php:417
+#: framework/meta-box/config-meta-boxes.php:424
 #, fuzzy
 msgid "360 Virtual Tour"
 msgstr "360 Lawatan Maya"
 
-#: framework/meta-box/config-meta-boxes.php:420
+#: framework/meta-box/config-meta-boxes.php:427
 #, fuzzy
 msgid ""
 "Provide iframe embed code for the 360 virtual tour. For more details please "
@@ -8309,32 +8411,32 @@ msgstr ""
 "video-tour-and-virtual-tour\" target=\"_blank\">Tambah Properti</a> dalam "
 "dokumentasi."
 
-#: framework/meta-box/config-meta-boxes.php:440
+#: framework/meta-box/config-meta-boxes.php:447
 #, fuzzy
 msgid "Author information."
 msgstr "Maklumat penulis."
 
-#: framework/meta-box/config-meta-boxes.php:441
+#: framework/meta-box/config-meta-boxes.php:448
 #, fuzzy
 msgid "Agent Information. ( Select the agent below )"
 msgstr "Maklumat Agen. (Pilih ejen di bawah)"
 
-#: framework/meta-box/config-meta-boxes.php:442
+#: framework/meta-box/config-meta-boxes.php:449
 #, fuzzy
 msgid "None. ( Hide information box )"
 msgstr "Tiada. (Sembunyikan kotak maklumat)"
 
-#: framework/meta-box/config-meta-boxes.php:461
+#: framework/meta-box/config-meta-boxes.php:468
 #, fuzzy
 msgid "Make this property sticky for home and listings pages"
 msgstr "Buat harta ini melekit untuk halaman rumah dan penyenaraian"
 
-#: framework/meta-box/config-meta-boxes.php:475
+#: framework/meta-box/config-meta-boxes.php:482
 #, fuzzy
 msgid "Property Label Text"
 msgstr "Teks Label Harta"
 
-#: framework/meta-box/config-meta-boxes.php:477
+#: framework/meta-box/config-meta-boxes.php:484
 #, fuzzy
 msgid ""
 "You can add a property label to display on property thumbnails. Example "
@@ -8343,12 +8445,12 @@ msgstr ""
 "Anda boleh menambah label hartanah untuk dipaparkan pada gambar kecil "
 "hartanah. Nilai Contoh: Tawaran Hot"
 
-#: framework/meta-box/config-meta-boxes.php:483
+#: framework/meta-box/config-meta-boxes.php:490
 #, fuzzy
 msgid "Label Background Color"
 msgstr "Warna Latar Belakang Label"
 
-#: framework/meta-box/config-meta-boxes.php:485
+#: framework/meta-box/config-meta-boxes.php:492
 #, fuzzy
 msgid ""
 "Set a label background color. Otherwise label text will be displayed with "
@@ -8357,7 +8459,7 @@ msgstr ""
 "Tetapkan warna latar belakang label. Jika tidak teks label akan dipaparkan "
 "dengan latar belakang telus."
 
-#: framework/meta-box/config-meta-boxes.php:500
+#: framework/meta-box/config-meta-boxes.php:507
 #, fuzzy
 msgid ""
 "You can attach PDF files, Map images OR other documents to provide further "
@@ -8366,27 +8468,27 @@ msgstr ""
 "Anda boleh melampirkan fail PDF, Peta peta ATAU dokumen lain untuk "
 "memberikan butiran lanjut berkaitan dengan harta."
 
-#: framework/meta-box/config-meta-boxes.php:514
+#: framework/meta-box/config-meta-boxes.php:521
 #, fuzzy
 msgid "Property Owner Name"
 msgstr "Nama Pemilik Hartanah"
 
-#: framework/meta-box/config-meta-boxes.php:521
+#: framework/meta-box/config-meta-boxes.php:528
 #, fuzzy
 msgid "Owner Contact"
 msgstr "Kenalan Pemilik"
 
-#: framework/meta-box/config-meta-boxes.php:529
+#: framework/meta-box/config-meta-boxes.php:536
 #, fuzzy
 msgid "Owner Address"
 msgstr "Alamat Pemilik"
 
-#: framework/meta-box/config-meta-boxes.php:536
+#: framework/meta-box/config-meta-boxes.php:543
 #, fuzzy
 msgid "Private Note"
 msgstr "Nota Peribadi"
 
-#: framework/meta-box/config-meta-boxes.php:537
+#: framework/meta-box/config-meta-boxes.php:544
 #, fuzzy
 msgid ""
 "In this textarea, You can write your private note about this property. This "
@@ -8395,27 +8497,27 @@ msgstr ""
 "Dalam textarea ini, Anda boleh menulis nota peribadi anda mengenai harta "
 "ini. Medan ini tidak akan dipaparkan di tempat lain."
 
-#: framework/meta-box/config-meta-boxes.php:553
+#: framework/meta-box/config-meta-boxes.php:560
 #, fuzzy
 msgid "Do you want to add this property in Homepage Slider ?"
 msgstr "Adakah anda mahu menambah harta ini di Slider Halaman Utama?"
 
-#: framework/meta-box/config-meta-boxes.php:554
+#: framework/meta-box/config-meta-boxes.php:561
 #, fuzzy
 msgid "If Yes, Then you need to provide a slider image below."
 msgstr "Jika Ya, Kemudian anda perlu memberikan imej slider di bawah."
 
-#: framework/meta-box/config-meta-boxes.php:559
+#: framework/meta-box/config-meta-boxes.php:566
 #, fuzzy
 msgid "Yes "
 msgstr "Ya"
 
-#: framework/meta-box/config-meta-boxes.php:566
+#: framework/meta-box/config-meta-boxes.php:573
 #, fuzzy
 msgid "Slider Image"
 msgstr "Imej Slider"
 
-#: framework/meta-box/config-meta-boxes.php:568
+#: framework/meta-box/config-meta-boxes.php:575
 #, fuzzy
 msgid ""
 "The recommended image size is 2000px by 700px. You can use bigger or smaller "
@@ -8427,12 +8529,12 @@ msgstr ""
 "ketinggian yang sama dengan nisbah lebar dan menggunakan imej saiz yang sama "
 "untuk semua sifat yang akan ditambah dalam slider."
 
-#: framework/meta-box/config-meta-boxes.php:577
+#: framework/meta-box/config-meta-boxes.php:584
 #, fuzzy
 msgid "Top Banner Image"
 msgstr "Imej Banner Teratas"
 
-#: framework/meta-box/config-meta-boxes.php:579
+#: framework/meta-box/config-meta-boxes.php:586
 #, fuzzy
 msgid ""
 "Upload the banner image, If you want to change it for this property. "
@@ -8445,49 +8547,49 @@ msgstr ""
 "dipaparkan. Imej harus mempunyai lebar minimum 2000px dan ketinggian minimum "
 "230px."
 
-#: framework/meta-box/config-meta-boxes.php:591
+#: framework/meta-box/config-meta-boxes.php:598
 #, fuzzy
 msgid "Custom Property Type Map Icon"
 msgstr "Jenis Hartanah Jenis Peta Ikon"
 
-#: framework/meta-box/config-meta-boxes.php:595
-#: framework/meta-box/config-meta-boxes.php:617
+#: framework/meta-box/config-meta-boxes.php:602
+#: framework/meta-box/config-meta-boxes.php:624
 #, fuzzy
 msgid "Icon Image"
 msgstr "Ikon Imej"
 
-#: framework/meta-box/config-meta-boxes.php:602
+#: framework/meta-box/config-meta-boxes.php:609
 #, fuzzy
 msgid "Retina Icon Image"
 msgstr "Imej Ikon Retina"
 
-#: framework/meta-box/config-meta-boxes.php:618
+#: framework/meta-box/config-meta-boxes.php:625
 #, fuzzy
 msgid "Recommended image size for icon is 64px by 64px."
 msgstr "Saiz imej yang disyorkan untuk ikon adalah 64px oleh 64px."
 
-#: framework/meta-box/config-meta-boxes.php:630
+#: framework/meta-box/config-meta-boxes.php:637
 #, fuzzy
 msgid "Partner Information"
 msgstr "Maklumat Rakan Kongsi"
 
-#: framework/meta-box/config-meta-boxes.php:636
+#: framework/meta-box/config-meta-boxes.php:643
 #, fuzzy
 msgid "Website URL"
 msgstr "URL laman web"
 
-#: framework/meta-box/config-meta-boxes.php:638
+#: framework/meta-box/config-meta-boxes.php:645
 #, fuzzy
 msgid "Provide Website URL"
 msgstr "Menyediakan URL Laman Web"
 
-#: framework/meta-box/config-meta-boxes.php:647
-#: framework/meta-box/config-meta-boxes.php:735
+#: framework/meta-box/config-meta-boxes.php:654
+#: framework/meta-box/config-meta-boxes.php:742
 #, fuzzy
 msgid "Provide Related Information"
 msgstr "Berikan Maklumat Berkaitan"
 
-#: framework/meta-box/config-meta-boxes.php:655
+#: framework/meta-box/config-meta-boxes.php:662
 #, fuzzy
 msgid ""
 "Provide Agency Email Address. Agency related messages from contact form on "
@@ -8496,52 +8598,52 @@ msgstr ""
 "Sediakan Alamat E-mel Agensi. Mesej berkaitan agensi dari borang hubungan "
 "pada halaman butiran hartanah, akan dihantar pada alamat e-mel ini."
 
-#: framework/meta-box/config-meta-boxes.php:661
+#: framework/meta-box/config-meta-boxes.php:668
 #, fuzzy
 msgid "Provide Agency mobile number"
 msgstr "Berikan nombor mudah alih Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:667
+#: framework/meta-box/config-meta-boxes.php:674
 #, fuzzy
 msgid "Provide Agency whatsapp number"
 msgstr "Berikan nombor WhatsApp Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:673
+#: framework/meta-box/config-meta-boxes.php:680
 #, fuzzy
 msgid "Provide Agency office number"
 msgstr "Berikan nombor pejabat Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:679
+#: framework/meta-box/config-meta-boxes.php:686
 #, fuzzy
 msgid "Provide Agency fax number"
 msgstr "Berikan nombor faks Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:685
+#: framework/meta-box/config-meta-boxes.php:692
 #, fuzzy
 msgid "Provide Agency Facebook URL"
 msgstr "Menyediakan URL Facebook Agency"
 
-#: framework/meta-box/config-meta-boxes.php:691
+#: framework/meta-box/config-meta-boxes.php:698
 #, fuzzy
 msgid "Provide Agency Twitter URL"
 msgstr "Berikan URL Twitter Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:697
+#: framework/meta-box/config-meta-boxes.php:704
 #, fuzzy
 msgid "Provide Agency Google Plus URL"
 msgstr "Sediakan URL Google Plus Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:703
+#: framework/meta-box/config-meta-boxes.php:710
 #, fuzzy
 msgid "Provide Agency LinkedIn URL"
 msgstr "Berikan URL LinkedIn Agency"
 
-#: framework/meta-box/config-meta-boxes.php:709
+#: framework/meta-box/config-meta-boxes.php:716
 #, fuzzy
 msgid "Provide Agency Instagram URL"
 msgstr "Sediakan URL Instagram Agensi"
 
-#: framework/meta-box/config-meta-boxes.php:743
+#: framework/meta-box/config-meta-boxes.php:750
 #, fuzzy
 msgid ""
 "Provide Agent Email Address. Agent related messages from contact form on "
@@ -8550,64 +8652,64 @@ msgstr ""
 "Berikan Alamat Ejen Ejen. Mesej berkaitan ejen dari borang kenalan pada "
 "halaman butiran hartanah, akan dihantar pada alamat e-mel ini."
 
-#: framework/meta-box/config-meta-boxes.php:749
+#: framework/meta-box/config-meta-boxes.php:756
 #, fuzzy
 msgid "Provide Agent mobile number"
 msgstr "Sediakan nombor telefon bimbit Agent"
 
-#: framework/meta-box/config-meta-boxes.php:755
+#: framework/meta-box/config-meta-boxes.php:762
 #, fuzzy
 msgid "Provide Agent whatsapp number"
 msgstr "Berikan nombor WhatsApp Ejen"
 
-#: framework/meta-box/config-meta-boxes.php:761
+#: framework/meta-box/config-meta-boxes.php:768
 #, fuzzy
 msgid "Provide Agent office number"
 msgstr "Sediakan nombor pejabat Ejen"
 
-#: framework/meta-box/config-meta-boxes.php:767
+#: framework/meta-box/config-meta-boxes.php:774
 #, fuzzy
 msgid "Provide Agent fax number"
 msgstr "Menyediakan nombor faks Ejen"
 
-#: framework/meta-box/config-meta-boxes.php:773
+#: framework/meta-box/config-meta-boxes.php:780
 #, fuzzy
 msgid "Provide Agent Facebook URL"
 msgstr "Sediakan URL Facebook Agent"
 
-#: framework/meta-box/config-meta-boxes.php:779
+#: framework/meta-box/config-meta-boxes.php:786
 #, fuzzy
 msgid "Provide Agent Twitter URL"
 msgstr "Menyediakan URL Ejen Twitter"
 
-#: framework/meta-box/config-meta-boxes.php:785
+#: framework/meta-box/config-meta-boxes.php:792
 #, fuzzy
 msgid "Provide Agent Google Plus URL"
 msgstr "Berikan URL Agen Google Plus"
 
-#: framework/meta-box/config-meta-boxes.php:791
+#: framework/meta-box/config-meta-boxes.php:798
 #, fuzzy
 msgid "Provide Agent LinkedIn URL"
 msgstr "Sediakan URL LinkedIn Agent"
 
-#: framework/meta-box/config-meta-boxes.php:797
+#: framework/meta-box/config-meta-boxes.php:804
 #, fuzzy
 msgid "Provide Agent Instagram URL"
 msgstr "Berikan URL Instagram Agen"
 
-#: framework/meta-box/config-meta-boxes.php:807
+#: framework/meta-box/config-meta-boxes.php:814
 #, fuzzy
 msgid "Select Related Agency."
 msgstr "Pilih Agensi Terkait."
 
-#: framework/meta-box/config-meta-boxes.php:818
-#: framework/meta-box/config-meta-boxes.php:855
+#: framework/meta-box/config-meta-boxes.php:825
+#: framework/meta-box/config-meta-boxes.php:862
 #, fuzzy
 msgid "Top Banner Area Settings"
 msgstr "Tetapan Kawasan Banner Atas"
 
-#: framework/meta-box/config-meta-boxes.php:826
-#: framework/meta-box/config-meta-boxes.php:863
+#: framework/meta-box/config-meta-boxes.php:833
+#: framework/meta-box/config-meta-boxes.php:870
 #, fuzzy
 msgid ""
 "Please provide the Banner Title, Otherwise the Page Title will be displayed "
@@ -8615,19 +8717,19 @@ msgid ""
 msgstr ""
 "Sila berikan Tajuk Banner, Jika Tajuk Halaman akan dipaparkan di tempatnya."
 
-#: framework/meta-box/config-meta-boxes.php:832
+#: framework/meta-box/config-meta-boxes.php:839
 #, fuzzy
 msgid "Please provide the Banner Sub Title."
 msgstr "Sila berikan Tajuk Sub Banner."
 
-#: framework/meta-box/config-meta-boxes.php:838
-#: framework/meta-box/config-meta-boxes.php:867
+#: framework/meta-box/config-meta-boxes.php:845
+#: framework/meta-box/config-meta-boxes.php:874
 #, fuzzy
 msgid "Banner Image"
 msgstr "Imej Banner"
 
-#: framework/meta-box/config-meta-boxes.php:840
-#: framework/meta-box/config-meta-boxes.php:869
+#: framework/meta-box/config-meta-boxes.php:847
+#: framework/meta-box/config-meta-boxes.php:876
 #, fuzzy
 msgid ""
 "Please upload the Banner Image. Otherwise the default banner image from "
@@ -8636,7 +8738,7 @@ msgstr ""
 "Sila muat naik Imej Banner. Jika tidak, imej spanduk lalai daripada pilihan "
 "tema akan dipaparkan."
 
-#: framework/meta-box/config-meta-boxes.php:847
+#: framework/meta-box/config-meta-boxes.php:854
 #, fuzzy
 msgid ""
 "If you want to replace banner with revolution slider then provide its alias "
@@ -8645,83 +8747,93 @@ msgstr ""
 "Sekiranya anda mahu menggantikan sepanduk dengan slider revolusi maka "
 "berikan alias di sini."
 
-#: framework/meta-box/config-meta-boxes.php:881
+#: framework/meta-box/config-meta-boxes.php:888
 #, fuzzy
 msgid "Page Title"
 msgstr "Tajuk Halaman"
 
-#: framework/meta-box/config-meta-boxes.php:887
+#: framework/meta-box/config-meta-boxes.php:894
 #, fuzzy
 msgid "Page Title Display Status"
 msgstr "Status Paparan Tajuk Halaman"
 
-#: framework/meta-box/config-meta-boxes.php:920
+#: framework/meta-box/config-meta-boxes.php:927
 #, fuzzy
 msgid "Properties Filter Settings"
 msgstr "Tetapan Penapis Properties"
 
-#: framework/meta-box/config-meta-boxes.php:934
-#: framework/meta-box/config-meta-boxes.php:1055
+#: framework/meta-box/config-meta-boxes.php:941
+#: framework/meta-box/config-meta-boxes.php:1062
 #, fuzzy
 msgid "Number of Properties Per Page"
 msgstr "Bilangan Hartanah Per Halaman"
 
-#: framework/meta-box/config-meta-boxes.php:943
+#: framework/meta-box/config-meta-boxes.php:950
 #, fuzzy
 msgid "Order Properties By"
 msgstr "Perintah Pesanan Oleh"
 
-#: framework/meta-box/config-meta-boxes.php:993
+#: framework/meta-box/config-meta-boxes.php:1000
 #, fuzzy
 msgid "Minimum Beds"
 msgstr "Katil Minimum"
 
-#: framework/meta-box/config-meta-boxes.php:1002
+#: framework/meta-box/config-meta-boxes.php:1009
 #, fuzzy
 msgid "Minimum Baths"
 msgstr "Mandian Minima"
 
-#: framework/meta-box/config-meta-boxes.php:1028
+#: framework/meta-box/config-meta-boxes.php:1035
 #, fuzzy
 msgid "Properties by Agents"
 msgstr "Hartanah oleh Ejen"
 
-#: framework/meta-box/config-meta-boxes.php:1041
+#: framework/meta-box/config-meta-boxes.php:1048
 #, fuzzy
 msgid "Properties Gallery Filter Settings"
 msgstr "Tetapan Penapis Galeri Properties"
 
-#: framework/meta-box/config-meta-boxes.php:1099
+#: framework/meta-box/config-meta-boxes.php:1106
 #, fuzzy
 msgid "Home Page Settings"
 msgstr "Tetapan Halaman Utama"
 
-#: framework/meta-box/config-meta-boxes.php:1124
+#: framework/meta-box/config-meta-boxes.php:1131
 #, fuzzy
 msgid "Feature Name"
 msgstr "Nama Ciri"
 
-#: framework/meta-box/config-meta-boxes.php:1126
+#: framework/meta-box/config-meta-boxes.php:1133
 #, fuzzy
 msgid "Example: Perfect Backend"
 msgstr "Contoh: Backend Perfect"
 
-#: framework/meta-box/config-meta-boxes.php:1133
+#: framework/meta-box/config-meta-boxes.php:1138
+#, fuzzy
+msgid "Feature URL"
+msgstr "URL Ciri"
+
+#: framework/meta-box/config-meta-boxes.php:1140
 #, fuzzy
 msgid "Example: https://inspirythemes.com"
 msgstr "Contohnya: https://inspirythemes.com"
 
-#: framework/meta-box/config-meta-boxes.php:1138
+#: framework/meta-box/config-meta-boxes.php:1145
 #, fuzzy
 msgid "Feature Icon"
 msgstr "Ikon ciri"
 
-#: framework/meta-box/config-meta-boxes.php:1140
+#: framework/meta-box/config-meta-boxes.php:1147
 #, fuzzy
 msgid "Icon should have minimum width of 150px and minimum height of 150px."
 msgstr "Ikon harus mempunyai lebar minimum 150px dan ketinggian minimum 150px."
 
-#: framework/meta-box/config-meta-boxes.php:1179
+#: framework/meta-box/config-meta-boxes.php:1153
+#, fuzzy
+msgid "Feature Description"
+msgstr "Penerangan Ciri"
+
+#: framework/meta-box/config-meta-boxes.php:1186
 #, fuzzy
 msgid ""
 "Images should have minimum size of 1200px by 680px. Bigger size images will "
@@ -8731,7 +8843,7 @@ msgstr ""
 "besar akan dipangkas secara automatik. Imej minimum 2 diperlukan untuk "
 "memaparkan galeri."
 
-#: framework/meta-box/config-meta-boxes.php:1183
+#: framework/meta-box/config-meta-boxes.php:1190
 #, fuzzy
 msgid ""
 "Images should have minimum size of 770px by 386px for thumbnails on right "
@@ -9106,3 +9218,27 @@ msgstr "+ 123-456-789"
 #, fuzzy
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
+
+#, fuzzy
+#~ msgid "Only works if WPML is installed."
+#~ msgstr "Hanya berfungsi jika WPML dipasang."
+
+#, fuzzy
+#~ msgid "Header Navigation for User Login and Register"
+#~ msgstr "Navigasi Header untuk Login Pengguna dan Daftar"
+
+#, fuzzy
+#~ msgid "Feature Title"
+#~ msgstr "Tajuk Ciri"
+
+#, fuzzy
+#~ msgid "Add New Property Features"
+#~ msgstr "Tambah Ciri-ciri Hartanah Baru"
+
+#, fuzzy
+#~ msgid "Add New Property Types"
+#~ msgstr "Tambah Jenis Hartanah Baru"
+
+#, fuzzy
+#~ msgid "Add New Property Cities"
+#~ msgstr "Tambah Bandar Hartanah Baru"
