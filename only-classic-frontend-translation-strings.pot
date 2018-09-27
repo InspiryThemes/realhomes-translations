@@ -1,0 +1,2018 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RealHomes Theme\n"
+"POT-Creation-Date: 2018-09-27 19:09+0500\n"
+"PO-Revision-Date: 2016-09-17 12:30+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: assets/classic/styles\n"
+"X-Poedit-SearchPathExcluded-2: assets/classic/scripts\n"
+"X-Poedit-SearchPathExcluded-3: assets/classic/icons\n"
+"X-Poedit-SearchPathExcluded-4: assets/classic/images\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: languages\n"
+"X-Poedit-SearchPathExcluded-7: js\n"
+"X-Poedit-SearchPathExcluded-8: framework/demos\n"
+"X-Poedit-SearchPathExcluded-9: common/css\n"
+"X-Poedit-SearchPathExcluded-10: common/font-awesome\n"
+"X-Poedit-SearchPathExcluded-11: common/google-reCAPTCHA\n"
+"X-Poedit-SearchPathExcluded-12: common/js\n"
+"X-Poedit-SearchPathExcluded-13: framework/customizer\n"
+"X-Poedit-SearchPathExcluded-14: framework/meta-box\n"
+"X-Poedit-SearchPathExcluded-15: framework/include\n"
+"X-Poedit-SearchPathExcluded-16: assets/modern\n"
+
+#: assets/classic/partials/404.php:13
+msgid "404 - Page Not Found!"
+msgstr ""
+
+#: assets/classic/partials/404.php:14
+msgid "The page you are looking for is not here!"
+msgstr ""
+
+#: assets/classic/partials/404.php:38
+msgid "Please try using top navigation OR search for what you are looking for!"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:72
+#: assets/classic/partials/agent/single/agent.php:72
+#: assets/classic/partials/author.php:95
+msgid "Contact Details"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:80
+#: assets/classic/partials/agency/single/agency.php:262
+#: assets/classic/partials/agent/single/agent.php:80
+#: assets/classic/partials/author.php:103
+#: assets/classic/partials/page/agencies-list.php:104
+#: assets/classic/partials/page/agents-list.php:107
+#: assets/classic/partials/page/users-list.php:130
+#: assets/classic/partials/property/single/agent.php:55
+#: assets/classic/partials/property/single/sidebar-agent.php:49
+msgid "Office"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:91
+#: assets/classic/partials/agency/single/agency.php:267
+#: assets/classic/partials/agent/single/agent.php:91
+#: assets/classic/partials/author.php:114
+#: assets/classic/partials/page/agencies-list.php:107
+#: assets/classic/partials/page/agents-list.php:110
+#: assets/classic/partials/page/contact.php:98
+#: assets/classic/partials/page/users-list.php:142
+#: assets/classic/partials/property/single/agent.php:63
+#: assets/classic/partials/property/single/sidebar-agent.php:57
+msgid "Mobile"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:102
+#: assets/classic/partials/agency/single/agency.php:272
+#: assets/classic/partials/agent/single/agent.php:102
+#: assets/classic/partials/author.php:125
+#: assets/classic/partials/page/agencies-list.php:110
+#: assets/classic/partials/page/agents-list.php:113
+#: assets/classic/partials/page/contact.php:110
+#: assets/classic/partials/page/users-list.php:154
+#: assets/classic/partials/property/single/agent.php:71
+#: assets/classic/partials/property/single/sidebar-agent.php:65
+msgid "Fax"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:113
+#: assets/classic/partials/agency/single/agency.php:277
+#: assets/classic/partials/agent/single/agent.php:113
+#: assets/classic/partials/page/agencies-list.php:113
+#: assets/classic/partials/page/agents-list.php:116
+#: assets/classic/partials/property/single/agent.php:79
+#: assets/classic/partials/property/single/sidebar-agent.php:73
+msgid "WhatsApp"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:218
+msgid "Our Agents:"
+msgstr ""
+
+#: assets/classic/partials/agency/single/agency.php:290
+#: assets/classic/partials/home/sections/featured-properties.php:118
+#: assets/classic/partials/page/agencies-list.php:126
+#: assets/classic/partials/page/agents-list.php:129
+#: assets/classic/partials/page/users-list.php:172
+msgid "More Details"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:16
+#: assets/classic/partials/agent/single/contact-form.php:22
+msgid "Send a Message"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:21
+#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/page/contact.php:177
+#: assets/classic/partials/property/single/agent.php:116
+#: assets/classic/partials/property/single/sidebar-agent.php:108
+#: framework/functions/real-estate.php:111
+msgid "Name"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:21
+#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/page/contact.php:178
+#: assets/classic/partials/property/single/agent.php:117
+#: assets/classic/partials/property/single/sidebar-agent.php:109
+msgid "* Please provide your name"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:25
+#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/footer/modal-login.php:133
+#: assets/classic/partials/page/contact.php:122
+#: assets/classic/partials/page/contact.php:182
+#: assets/classic/partials/page/edit-profile.php:111
+#: assets/classic/partials/page/login-register.php:150
+#: assets/classic/partials/page/login-register.php:153
+#: assets/classic/partials/property/single/agent.php:118
+#: assets/classic/partials/property/single/sidebar-agent.php:110
+#: widgets/rh-contact-information-widget.php:114
+msgid "Email"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:25
+#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/property/single/agent.php:120
+#: assets/classic/partials/property/single/sidebar-agent.php:112
+msgid "* Please provide valid email address"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/page/contact.php:83
+#: assets/classic/partials/property/single/agent.php:121
+#: assets/classic/partials/property/single/sidebar-agent.php:113
+msgid "Phone"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/property/single/agent.php:123
+#: assets/classic/partials/property/single/sidebar-agent.php:115
+msgid "* Please provide valid phone number"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/page/contact.php:192
+#: assets/classic/partials/property/single/agent.php:124
+#: assets/classic/partials/property/single/sidebar-agent.php:116
+msgid "Message"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/page/contact.php:193
+#: assets/classic/partials/property/single/agent.php:125
+#: assets/classic/partials/property/single/sidebar-agent.php:117
+msgid "* Please provide your message"
+msgstr ""
+
+#: assets/classic/partials/agency/single/contact-form.php:86
+#: assets/classic/partials/agent/single/contact-form.php:91
+#: assets/classic/partials/page/contact.php:236
+#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/sidebar-agent.php:172
+msgid "Send Message"
+msgstr ""
+
+#: assets/classic/partials/agent/single/property-card.php:46
+#: assets/classic/partials/home/property-card.php:42
+#: assets/classic/partials/page/favorites.php:114
+#: assets/classic/partials/properties/grid-card.php:35
+#: assets/classic/partials/properties/list-card.php:46
+#: assets/classic/partials/properties/search/search-card.php:41
+#: assets/classic/partials/property/single/children.php:73
+#: assets/classic/partials/property/single/similar-property-card.php:33
+msgid "More Details "
+msgstr ""
+
+#: assets/classic/partials/author.php:20
+msgid "All Properties By"
+msgstr ""
+
+#: assets/classic/partials/author.php:207
+#: assets/classic/partials/home/sections/home-properties.php:92
+#: assets/classic/partials/page/my-properties.php:301
+#: assets/classic/partials/properties/compare.php:335
+#: assets/classic/partials/properties/search/results-with-sidebar.php:88
+msgid "No Properties Found!"
+msgstr ""
+
+#: assets/classic/partials/banners/blog.php:10
+msgid "News"
+msgstr ""
+
+#: assets/classic/partials/banners/blog.php:13
+msgid "Check out market updates"
+msgstr ""
+
+#: assets/classic/partials/blog/archive.php:14
+#: assets/classic/partials/blog/archive.php:25
+#: assets/classic/partials/blog/archive.php:28
+#: assets/classic/partials/blog/archive.php:31
+#: assets/classic/partials/blog/archive.php:38
+msgid "Archives"
+msgstr ""
+
+#: assets/classic/partials/blog/archive.php:19
+msgid "All Posts in Category"
+msgstr ""
+
+#: assets/classic/partials/blog/archive.php:22
+msgid "All Posts in Tag"
+msgstr ""
+
+#: assets/classic/partials/blog/archive.php:35
+msgid "All Posts By"
+msgstr ""
+
+#: assets/classic/partials/blog/article.php:33
+#: assets/classic/partials/blog/single.php:43
+msgid "in"
+msgstr ""
+
+#: assets/classic/partials/blog/article.php:47
+#: assets/classic/partials/blog/single.php:71
+msgid "By"
+msgstr ""
+
+#: assets/classic/partials/blog/article.php:52
+#: widgets/agent-featured-properties-widget.php:112
+#: widgets/agent-properties-widget.php:117
+#: widgets/featured-properties-widget.php:111
+msgid "Read More"
+msgstr ""
+
+#: assets/classic/partials/blog/loop.php:18
+#: assets/classic/partials/home/sections/blog-posts.php:97
+msgid "No Posts Found!"
+msgstr ""
+
+#: assets/classic/partials/blog/search.php:16
+msgid "Search Results"
+msgstr ""
+
+#: assets/classic/partials/blog/single.php:54
+msgid "Tags"
+msgstr ""
+
+#: assets/classic/partials/blog/single.php:87
+msgid "Previous Post"
+msgstr ""
+
+#: assets/classic/partials/blog/single.php:106
+msgid "Next Post"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:14
+#: framework/functions/member.php:88
+msgid "Login"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:17
+msgid "Username or Email Address"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:17
+#: assets/classic/partials/footer/modal-login.php:129
+msgid "* Provide user name!"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:20
+#: assets/classic/partials/page/edit-profile.php:116
+#: assets/classic/partials/page/login-register.php:67
+msgid "Password"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:20
+#: assets/classic/partials/page/login-register.php:68
+msgid "* Provide password!"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:51
+#: assets/classic/partials/page/login-register.php:85
+msgid "Log in"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:70
+#: assets/classic/partials/footer/modal-login.php:112
+msgid "Register Here"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:73
+#: assets/classic/partials/footer/modal-login.php:181
+msgid "Forgot Password"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:79
+#: assets/classic/partials/footer/modal-login.php:100
+#: assets/classic/partials/page/login-register.php:124
+msgid "Reset Password"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:82
+#: assets/classic/partials/page/login-register.php:110
+msgid "Username or Email"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:83
+#: assets/classic/partials/page/login-register.php:111
+msgid "* Provide username or email!"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:109
+#: assets/classic/partials/footer/modal-login.php:179
+msgid "Login Here"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:122
+#: assets/classic/partials/footer/modal-login.php:153
+#: assets/classic/partials/page/login-register.php:165
+msgid "Register"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:126
+msgid "User Name"
+msgstr ""
+
+#: assets/classic/partials/footer/modal-login.php:135
+#: assets/classic/partials/page/login-register.php:152
+msgid "* Provide valid email address!"
+msgstr ""
+
+#: assets/classic/partials/header/user-nav.php:17
+msgid "Favorites"
+msgstr ""
+
+#: assets/classic/partials/header/user-nav.php:29
+msgid "Submit"
+msgstr ""
+
+#: assets/classic/partials/header/user-nav.php:39
+msgid "My Properties"
+msgstr ""
+
+#: assets/classic/partials/header/user-nav.php:49
+#: assets/classic/partials/header/user-nav.php:52
+msgid "Profile"
+msgstr ""
+
+#: assets/classic/partials/header/user-nav.php:60
+msgid "Logout"
+msgstr ""
+
+#: assets/classic/partials/header/user-nav.php:69
+#: assets/classic/partials/header/user-nav.php:72
+msgid "Login / Register"
+msgstr ""
+
+#: assets/classic/partials/header/variation-center.php:119
+#: assets/classic/partials/header/variation-simple.php:100
+msgid "Menu"
+msgstr ""
+
+#: assets/classic/partials/header/variation-simple.php:29
+msgid "Email us at"
+msgstr ""
+
+#: assets/classic/partials/home/sections/blog-posts.php:85
+msgid "On"
+msgstr ""
+
+#: assets/classic/partials/home/sections/blog-posts.php:86
+msgid "by"
+msgstr ""
+
+#: assets/classic/partials/home/sections/blog-posts.php:89
+msgid "Read More "
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:122
+msgid "Photos"
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:122
+msgid "Photo"
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:177
+#: assets/classic/partials/properties/compare.php:99
+#: assets/classic/partials/property/form-fields/bedrooms.php:2
+#: assets/classic/partials/property/single/floor-plans.php:54
+#: assets/classic/partials/property/single/metas.php:33
+#: widgets/agent-featured-properties-widget.php:225
+#: widgets/agent-properties-widget.php:230
+#: widgets/featured-properties-widget.php:225
+msgid "Bedrooms"
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:177
+#: assets/classic/partials/property/single/floor-plans.php:54
+#: assets/classic/partials/property/single/metas.php:33
+msgid "Bedroom"
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:193
+#: assets/classic/partials/properties/compare.php:101
+#: assets/classic/partials/property/form-fields/bathrooms.php:2
+#: assets/classic/partials/property/single/floor-plans.php:65
+#: assets/classic/partials/property/single/metas.php:48
+#: widgets/agent-featured-properties-widget.php:237
+#: widgets/agent-properties-widget.php:242
+#: widgets/featured-properties-widget.php:237
+msgid "Bathrooms"
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:193
+#: assets/classic/partials/property/single/floor-plans.php:65
+#: assets/classic/partials/property/single/metas.php:48
+msgid "Bathroom"
+msgstr ""
+
+#: assets/classic/partials/home/sections/featured-properties.php:289
+#: assets/classic/partials/home/slider/properties.php:51
+#: assets/classic/partials/home/slider/slides.php:70
+#: assets/classic/partials/property/single/agent.php:90
+#: assets/classic/partials/property/single/sidebar-agent.php:84
+msgid "Know More"
+msgstr ""
+
+#: assets/classic/partials/home/sections/home-properties.php:103
+#: assets/classic/partials/page/edit-profile.php:210
+msgid "Loading..."
+msgstr ""
+
+#: assets/classic/partials/home/slider/search-form-over-image.php:252
+msgid "Advanced Search"
+msgstr ""
+
+#: assets/classic/partials/page/agencies-list.php:192
+#: assets/classic/partials/page/agents-list.php:195
+#: assets/classic/partials/properties/grid.php:125
+#: assets/classic/partials/properties/list.php:96
+msgid "Sorry No Results Found"
+msgstr ""
+
+#: assets/classic/partials/page/contact.php:135
+#: assets/classic/partials/property/form-fields/google-map.php:19
+#: assets/classic/partials/property/form-fields/google-map.php:32
+#: assets/classic/partials/property/form-fields/open-street-map.php:23
+#: assets/classic/partials/property/form-fields/open-street-map.php:40
+msgid "Address"
+msgstr ""
+
+#: assets/classic/partials/page/contact.php:183
+msgid "* Please provide a valid email address"
+msgstr ""
+
+#: assets/classic/partials/page/contact.php:187
+#: widgets/rh-contact-information-widget.php:111
+msgid "Phone Number"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:71
+msgid "Change"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:73
+msgid "Remove"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:77
+msgid ""
+"Profile image should have minimum width of 210px and minimum height of 210px."
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:79
+msgid "Make sure to save changes after changing the image."
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:89
+msgid "First Name"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:97
+msgid "Last Name"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:105
+msgid "Display Name"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:118
+msgid "Fill it only if you want to change your password"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:126
+msgid "Confirm Password"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:135
+msgid "Biographical Information"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:143
+#: framework/functions/basic.php:391
+msgid "Mobile Number"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:151
+#: framework/functions/basic.php:392
+msgid "Office Number"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:159
+#: framework/functions/basic.php:393
+msgid "Fax Number"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:167
+#: framework/functions/basic.php:395
+msgid "Facebook URL"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:175
+#: framework/functions/basic.php:396
+msgid "Twitter URL"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:183
+#: framework/functions/basic.php:397
+msgid "Google Plus URL"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:191
+#: framework/functions/basic.php:398
+msgid "LinkedIn URL"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:209
+msgid "Save Changes"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:236
+#: assets/classic/partials/page/my-properties.php:307
+#: assets/classic/partials/page/submit-property.php:443
+msgid "Login Required:"
+msgstr ""
+
+#: assets/classic/partials/page/edit-profile.php:236
+msgid "Please login to edit your profile information!"
+msgstr ""
+
+#: assets/classic/partials/page/favorites.php:107
+msgid "Remove from favorites"
+msgstr ""
+
+#: assets/classic/partials/page/favorites.php:132
+msgid "No property found!"
+msgstr ""
+
+#: assets/classic/partials/page/favorites.php:139
+msgid "You have no property in favorites!"
+msgstr ""
+
+#: assets/classic/partials/page/login-register.php:60
+msgid "Already a Member? Log in here."
+msgstr ""
+
+#: assets/classic/partials/page/login-register.php:63
+#: assets/classic/partials/page/login-register.php:143
+#: assets/classic/partials/page/login-register.php:146
+msgid "Username"
+msgstr ""
+
+#: assets/classic/partials/page/login-register.php:64
+#: assets/classic/partials/page/login-register.php:145
+msgid "* Provide username!"
+msgstr ""
+
+#: assets/classic/partials/page/login-register.php:105
+msgid "Forgot password!"
+msgstr ""
+
+#: assets/classic/partials/page/login-register.php:139
+msgid "Do not have an account? Register here"
+msgstr ""
+
+#: assets/classic/partials/page/login-register.php:190
+msgid "You are already logged in!"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:23
+#: assets/classic/partials/page/my-properties.php:25
+#: assets/classic/partials/page/my-properties.php:27
+#: assets/classic/partials/page/my-properties.php:29
+#: assets/classic/partials/page/submit-property.php:373
+#: assets/classic/partials/page/submit-property.php:377
+msgid "Success:"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:23
+msgid "Property removed."
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:25
+msgid "Property Submitted."
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:27
+msgid "Property Updated."
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:29
+msgid "Payment Submitted."
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:31
+#: assets/classic/partials/page/submit-property.php:367
+msgid "Error:"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:31
+msgid "Payment Failed."
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:51
+msgid "Number of properties that you can publish:"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:52
+msgid "Number of properties that can be marked as featured:"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:103
+msgid "Please subscribe a membership package to start publishing properties."
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:188
+msgid "Posted on :"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:229
+msgid "Remove This Property"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:246
+msgid "Payment Completed"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:301
+msgid "Note:"
+msgstr ""
+
+#: assets/classic/partials/page/my-properties.php:307
+msgid "Please, Login to view your properties!"
+msgstr ""
+
+#: assets/classic/partials/page/submit-property.php:367
+#: framework/functions/edit-profile-handler.php:257
+msgid "Security check failed!"
+msgstr ""
+
+#: assets/classic/partials/page/submit-property.php:377
+msgid "Property updated successfully!"
+msgstr ""
+
+#: assets/classic/partials/page/submit-property.php:443
+msgid "Please login to submit property!"
+msgstr ""
+
+#: assets/classic/partials/page/users-list.php:221
+msgid "No Users Found!"
+msgstr ""
+
+#: assets/classic/partials/properties/archive.php:81
+msgid "No Property Found"
+msgstr ""
+
+#: assets/classic/partials/properties/compare.php:93
+msgid "City"
+msgstr ""
+
+#: assets/classic/partials/properties/compare.php:95
+#: assets/classic/partials/property/form-fields/area.php:2
+#: widgets/agent-featured-properties-widget.php:249
+#: widgets/agent-properties-widget.php:254
+#: widgets/featured-properties-widget.php:249
+msgid "Area"
+msgstr ""
+
+#: assets/classic/partials/properties/compare.php:97
+msgid "Size"
+msgstr ""
+
+#: assets/classic/partials/properties/compare/button.php:17
+#: assets/classic/partials/properties/compare/search-card-button.php:16
+#: assets/classic/partials/properties/compare/search-card-button.php:19
+#: assets/classic/partials/properties/compare/search-card-button.php:30
+#: framework/functions/compare.php:41
+msgid "Added to Compare"
+msgstr ""
+
+#: assets/classic/partials/properties/compare/button.php:20
+#: assets/classic/partials/properties/compare/button.php:30
+#: assets/classic/partials/properties/compare/search-card-button.php:21
+#: assets/classic/partials/properties/compare/search-card-button.php:23
+#: assets/classic/partials/properties/compare/search-card-button.php:35
+#: assets/classic/partials/properties/compare/search-card-button.php:37
+msgid "Add to Compare"
+msgstr ""
+
+#: assets/classic/partials/properties/compare/view.php:46
+msgid "Compare Properties"
+msgstr ""
+
+#: assets/classic/partials/properties/compare/view.php:71
+msgid "Compare"
+msgstr ""
+
+#: assets/classic/partials/properties/gallery.php:37
+msgid "All"
+msgstr ""
+
+#: assets/classic/partials/properties/gallery.php:41
+#, php-format
+msgid "View all Properties having %s status"
+msgstr ""
+
+#: assets/classic/partials/properties/gallery.php:129
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: assets/classic/partials/properties/search.php:74
+msgid "Results"
+msgstr ""
+
+#: assets/classic/partials/properties/search.php:76
+msgid "Result"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/agent.php:10
+#: assets/classic/partials/property/single/agent.php:275
+#: assets/classic/partials/property/single/sidebar-agent.php:272
+msgid "Agent"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/button.php:8
+msgid "Search"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/features.php:28
+msgid "Looking for certain features"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/keyword.php:11
+msgid "Keyword"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-baths.php:10
+msgid "Min Baths"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-beds.php:10
+msgid "Min Beds"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-garages.php:17
+msgid "Min Garages"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-max-area.php:13
+msgid "Min Area"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-max-area.php:22
+#: assets/classic/partials/properties/search/fields/min-max-area.php:38
+#: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:3
+#: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:8
+msgid "Only provide digits!"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-max-area.php:29
+msgid "Max Area"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-max-price.php:11
+#: assets/classic/partials/properties/search/fields/min-max-price.php:38
+msgid "Min Price"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/min-max-price.php:22
+#: assets/classic/partials/properties/search/fields/min-max-price.php:49
+msgid "Max Price"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/property-id.php:11
+#: assets/classic/partials/property/form-fields/property-id.php:2
+#: assets/classic/partials/property/form-fields/property-id.php:16
+#: assets/classic/partials/property/single/metas.php:13
+#: framework/functions/real-estate.php:117
+msgid "Property ID"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:2
+msgid "Check In"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:3
+#: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:8
+#: framework/functions/real-estate-search.php:147
+msgid "Any"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:7
+msgid "Check Out"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/rvr/guest.php:2
+msgid "No of Guests"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/status.php:10
+#: framework/functions/real-estate.php:118
+msgid "Property Status"
+msgstr ""
+
+#: assets/classic/partials/properties/search/fields/type.php:10
+msgid "Property Type"
+msgstr ""
+
+#: assets/classic/partials/properties/search/form.php:113
+#: framework/functions/design-variations-handler.php:537
+msgid "More fields"
+msgstr ""
+
+#: assets/classic/partials/properties/search/four-columns.php:17
+#: assets/classic/partials/properties/search/one-column.php:16
+#: assets/classic/partials/properties/search/two-columns.php:21
+msgid "No Property Found!"
+msgstr ""
+
+#: assets/classic/partials/properties/search/results-with-sidebar.php:47
+#, php-format
+msgid "<strong>%s</strong> Result"
+msgid_plural "<strong>%s</strong> Results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/classic/partials/properties/sort-controls.php:12
+msgid "Sort By"
+msgstr ""
+
+#: assets/classic/partials/properties/sort-controls.php:30
+msgid "Default Order"
+msgstr ""
+
+#: assets/classic/partials/properties/sort-controls.php:31
+msgid "Price Low to High"
+msgstr ""
+
+#: assets/classic/partials/properties/sort-controls.php:32
+msgid "Price High to Low"
+msgstr ""
+
+#: assets/classic/partials/properties/sort-controls.php:33
+msgid "Date Old to New"
+msgstr ""
+
+#: assets/classic/partials/properties/sort-controls.php:34
+msgid "Date New to Old"
+msgstr ""
+
+#: assets/classic/partials/property/edit-form.php:246
+msgid "Requested property does not belong to logged in user !"
+msgstr ""
+
+#: assets/classic/partials/property/edit-form.php:251
+msgid "Requested post is not a valid property post !"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/additional-details.php:23
+msgid "Additional Details"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/additional-details.php:27
+#: widgets/rh-contact-information-widget.php:105
+msgid "Title"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/additional-details.php:28
+msgid "Value"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/agent.php:2
+msgid "What to display in agent information box ?"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/agent.php:12
+#: assets/classic/partials/property/form-fields/property-status.php:11
+#: assets/classic/partials/property/form-fields/property-type.php:11
+#: framework/functions/property-submit-handler.php:251
+#: framework/functions/property-submit-handler.php:253
+#: framework/functions/property-submit-handler.php:296
+#: framework/functions/property-submit-handler.php:298
+#: framework/functions/real-estate-search.php:306
+msgid "None"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/agent.php:12
+msgid "( Agent information box will not be displayed )"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/agent.php:23
+msgid "My profile information"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/agent.php:27
+#: assets/classic/partials/property/form-fields/agent.php:30
+msgid "( Edit Profile Information )"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/agent.php:44
+msgid "Display an agent's information"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/area-postfix.php:2
+msgid "Area Postfix Text"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/area-postfix.php:10
+msgid "sq ft"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/area.php:9
+#: assets/classic/partials/property/form-fields/bathrooms.php:10
+#: assets/classic/partials/property/form-fields/bedrooms.php:10
+#: assets/classic/partials/property/form-fields/garages.php:10
+#: assets/classic/partials/property/form-fields/price.php:10
+msgid "* Please provide the value in only digits!"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/description.php:2
+msgid "Property Description"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/featured.php:10
+msgid "Mark this property as featured property"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/features.php:2
+msgid "Features"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/garages.php:2
+#: assets/classic/partials/property/single/metas.php:63
+msgid "Garages"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/google-map.php:20
+#: assets/classic/partials/property/form-fields/google-map.php:33
+#: assets/classic/partials/property/form-fields/open-street-map.php:24
+#: assets/classic/partials/property/form-fields/open-street-map.php:41
+msgid "* Please provide a property address!"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/google-map.php:22
+#: assets/classic/partials/property/form-fields/google-map.php:35
+#: assets/classic/partials/property/form-fields/open-street-map.php:26
+#: assets/classic/partials/property/form-fields/open-street-map.php:43
+msgid "Find Address"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/images.php:38
+msgid "Drag and drop images here"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/images.php:39
+msgid "or"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/images.php:42
+msgid "Select Images"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/images.php:47
+msgid ""
+"* An image should have minimum width of 770px and minimum height of 386px."
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/images.php:48
+msgid ""
+"* You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/parent.php:10
+msgid "(no parent)"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/parent.php:27
+msgid "Parent Property"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/price-postfix.php:2
+msgid "Price Postfix Text"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/price.php:2
+msgid "Sale OR Rent Price"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/property-status.php:2
+msgid "Status"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/property-type.php:2
+msgid "Type"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/reviewer-message.php:9
+msgid "Message to the Reviewer"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/submit-button.php:9
+msgid "Update Property"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/submit-button.php:15
+msgid "Submit Property"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/terms-conditions.php:4
+msgid "Accept Terms & Conditions before property submission."
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/terms-conditions.php:20
+msgid "Please check this option."
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/title.php:2
+msgid "Property Title"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/title.php:8
+msgid "* Please provide property title!"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/video.php:2
+#: assets/classic/partials/property/form-fields/video.php:9
+msgid "Virtual Tour Video URL"
+msgstr ""
+
+#: assets/classic/partials/property/form-fields/year-built.php:24
+#: assets/classic/partials/property/form-fields/year-built.php:26
+#: assets/classic/partials/property/single/metas.php:78
+msgid "Year Built"
+msgstr ""
+
+#: assets/classic/partials/property/single/add-to-favorites.php:17
+#: assets/classic/partials/property/single/add-to-favorites.php:28
+#: widgets/agent-featured-properties-widget.php:189
+#: widgets/agent-featured-properties-widget.php:199
+#: widgets/agent-properties-widget.php:194
+#: widgets/agent-properties-widget.php:204
+#: widgets/featured-properties-widget.php:189
+#: widgets/featured-properties-widget.php:199
+msgid "Added to favorites"
+msgstr ""
+
+#: assets/classic/partials/property/single/add-to-favorites.php:31
+msgid "Add to favorite"
+msgstr ""
+
+#: assets/classic/partials/property/single/agent.php:113
+msgid "Contact"
+msgstr ""
+
+#: assets/classic/partials/property/single/agent.php:248
+msgid "Submitted by"
+msgstr ""
+
+#: assets/classic/partials/property/single/floor-plans.php:20
+msgid "Floor Plans"
+msgstr ""
+
+#: assets/classic/partials/property/single/metas.php:21
+msgid "Area Size"
+msgstr ""
+
+#: assets/classic/partials/property/single/metas.php:63
+msgid "Garage"
+msgstr ""
+
+#: assets/classic/partials/property/single/metas.php:93
+msgid "Lot Size"
+msgstr ""
+
+#: assets/classic/partials/property/single/metas.php:107
+msgid "Minimum Stay"
+msgstr ""
+
+#: assets/classic/partials/property/single/metas.php:110
+msgid "Nights Minimum Stay"
+msgstr ""
+
+#: assets/classic/partials/property/single/metas.php:117
+#: assets/classic/partials/property/single/metas.php:120
+msgid "Guests Capacity"
+msgstr ""
+
+#: assets/classic/partials/property/single/rvr/location-surroundings.php:8
+msgid "Location Surroundings"
+msgstr ""
+
+#: assets/classic/partials/property/single/rvr/optional-services.php:9
+msgid "Optional Services"
+msgstr ""
+
+#: assets/classic/partials/property/single/rvr/optional-services.php:14
+msgid "Included"
+msgstr ""
+
+#: assets/classic/partials/property/single/rvr/optional-services.php:27
+msgid "Not Included"
+msgstr ""
+
+#: assets/classic/partials/property/single/rvr/outdoor-features.php:8
+msgid "Outdoor Features"
+msgstr ""
+
+#: assets/classic/partials/property/single/rvr/privacy-policies.php:8
+msgid "Privacy Policies"
+msgstr ""
+
+#: assets/classic/partials/property/single/social-share.php:2
+msgid "Share this"
+msgstr ""
+
+#: assets/classic/partials/property/single/social-share.php:3
+msgid "Facebook"
+msgstr ""
+
+#: assets/classic/partials/property/single/social-share.php:4
+msgid "Twitter"
+msgstr ""
+
+#: assets/classic/partials/property/single/social-share.php:5
+msgid "Google"
+msgstr ""
+
+#: assets/classic/partials/taxonomy/common.php:79
+msgid "No Results Found"
+msgstr ""
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:27
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/functions/basic.php:374
+msgid "No more properties are available."
+msgstr ""
+
+#: framework/functions/basic.php:394
+msgid "WhatsApp Number"
+msgstr ""
+
+#: framework/functions/basic.php:399
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/functions/basic.php:747
+#: framework/functions/design-variations-handler.php:536
+msgid "Go to..."
+msgstr ""
+
+#: framework/functions/basic.php:1146
+msgid "GDPR Agreement"
+msgstr ""
+
+#: framework/functions/basic.php:1148
+msgid "* Please accept GDPR agreement"
+msgstr ""
+
+#: framework/functions/basic.php:1150
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:24
+msgid "Home"
+msgstr ""
+
+#: framework/functions/compare.php:51 framework/functions/favorites.php:21
+#: framework/functions/favorites.php:36
+msgid "Failed!"
+msgstr ""
+
+#: framework/functions/compare.php:59
+msgid "Invalid Parameters"
+msgstr ""
+
+#: framework/functions/compare.php:117 framework/functions/favorites.php:106
+#: framework/functions/favorites.php:127
+#: framework/functions/my-properties.php:34
+msgid "Removed Successfully!"
+msgstr ""
+
+#: framework/functions/compare.php:124 framework/functions/favorites.php:113
+#: framework/functions/favorites.php:134
+msgid "Failed to remove!"
+msgstr ""
+
+#: framework/functions/compare.php:135 framework/functions/favorites.php:41
+#: framework/functions/favorites.php:146
+#: framework/functions/my-properties.php:52
+msgid "Invalid Parameters!"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:38
+#: framework/functions/contact-form-handlers.php:184
+#: framework/functions/currency-switcher.php:90
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:54
+#: framework/functions/contact-form-handlers.php:198
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:71
+#: framework/functions/contact-form-handlers.php:227
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:79
+#: framework/functions/contact-form-handlers.php:237
+msgid "New message sent by"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:79
+msgid "using contact form at"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:84
+#: framework/functions/contact-form-handlers.php:243
+msgid "You have received a message from: "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:86
+msgid "Phone Number : "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:88
+#: framework/functions/contact-form-handlers.php:250
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:96
+#: framework/functions/contact-form-handlers.php:258
+msgid "GDPR Agreement: "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:100
+#: framework/functions/contact-form-handlers.php:262
+msgid "You can contact "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:100
+#: framework/functions/contact-form-handlers.php:262
+msgid " via email, "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:140
+#: framework/functions/contact-form-handlers.php:293
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:145
+#: framework/functions/contact-form-handlers.php:298
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:153
+#: framework/functions/contact-form-handlers.php:306
+#: framework/functions/currency-switcher.php:129
+msgid "Invalid Request !"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:236
+msgid "using agency contact form at"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:236
+msgid "using agent contact form at"
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:245
+msgid "Property Title : "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:248
+msgid "Property URL : "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:263
+msgid " or via contact number "
+msgstr ""
+
+#: framework/functions/contact-form-handlers.php:431
+msgid "reCAPTCHA Failed:"
+msgstr ""
+
+#: framework/functions/currency-switcher.php:115
+msgid "Failed to updated cookie !"
+msgstr ""
+
+#: framework/functions/currency-switcher.php:122
+msgid "wp-currencies plugin is missing !"
+msgstr ""
+
+#: framework/functions/design-variations-handler.php:433
+#: framework/functions/design-variations-handler.php:461
+#: framework/functions/design-variations-handler.php:895
+#: framework/functions/design-variations-handler.php:955
+msgid "Valid file formats"
+msgstr ""
+
+#: framework/functions/design-variations-handler.php:538
+msgid "Less fields"
+msgstr ""
+
+#: framework/functions/design-variations-handler.php:1143
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/functions/edit-profile-handler.php:145
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+
+#: framework/functions/edit-profile-handler.php:150
+msgid "This Email is already used by another user. Please try a different one."
+msgstr ""
+
+#: framework/functions/edit-profile-handler.php:238
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#: framework/functions/edit-profile-handler.php:250
+msgid "Profile information is updated successfully!"
+msgstr ""
+
+#: framework/functions/favorites.php:19 framework/functions/favorites.php:34
+msgid "Added to Favorites"
+msgstr ""
+
+#: framework/functions/member.php:119
+msgid "* Wrong username or password."
+msgstr ""
+
+#: framework/functions/member.php:125
+msgid "successful. Redirecting..."
+msgstr ""
+
+#: framework/functions/member.php:167
+msgid "This username already exists."
+msgstr ""
+
+#: framework/functions/member.php:172
+msgid "This email is already registered."
+msgstr ""
+
+#: framework/functions/member.php:188
+msgid "Registration is complete. Check your email for details!"
+msgstr ""
+
+#: framework/functions/member.php:219
+msgid "Provide a valid username or email address!"
+msgstr ""
+
+#: framework/functions/member.php:225
+msgid "No user found for given email!"
+msgstr ""
+
+#: framework/functions/member.php:231
+msgid "No user found for given username!"
+msgstr ""
+
+#: framework/functions/member.php:234
+msgid "Invalid username or email!"
+msgstr ""
+
+#: framework/functions/member.php:262
+#, php-format
+msgid "Your New Password For %s"
+msgstr ""
+
+#: framework/functions/member.php:263
+#, php-format
+msgid "Your new password is: %s"
+msgstr ""
+
+#: framework/functions/member.php:275
+msgid "Check your email for new password"
+msgstr ""
+
+#: framework/functions/member.php:277
+msgid "Failed to send you new password email!"
+msgstr ""
+
+#: framework/functions/member.php:281
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr ""
+
+#: framework/functions/member.php:327
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: framework/functions/member.php:328
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: framework/functions/member.php:329
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: framework/functions/member.php:331
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: framework/functions/member.php:336 framework/functions/member.php:342
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: framework/functions/member.php:337
+#, php-format
+msgid "Your username is: %s"
+msgstr ""
+
+#: framework/functions/member.php:338
+#, php-format
+msgid "You can login using following password: %s"
+msgstr ""
+
+#: framework/functions/member.php:339
+msgid "It is highly recommended to change your password after login."
+msgstr ""
+
+#: framework/functions/member.php:340
+msgid "For more details visit:"
+msgstr ""
+
+#: framework/functions/membership.php:51
+msgid "Available Memberships"
+msgstr ""
+
+#: framework/functions/membership.php:57
+msgid "Your Current Membership"
+msgstr ""
+
+#: framework/functions/membership.php:63
+msgid "Update Membership"
+msgstr ""
+
+#: framework/functions/membership.php:112
+msgid "Price: "
+msgstr ""
+
+#: framework/functions/membership.php:116
+msgid "Properties Allowed: "
+msgstr ""
+
+#: framework/functions/membership.php:120
+msgid "Featured Properties: "
+msgstr ""
+
+#: framework/functions/membership.php:128
+#: framework/functions/membership.php:132
+msgid "Time Duration: "
+msgstr ""
+
+#: framework/functions/membership.php:183
+#, php-format
+msgid "Price: %s"
+msgstr ""
+
+#: framework/functions/membership.php:187
+#, php-format
+msgid "Properties Allowed: %s"
+msgstr ""
+
+#: framework/functions/membership.php:191
+#, php-format
+msgid "Properties Left: %s"
+msgstr ""
+
+#: framework/functions/membership.php:195
+#, php-format
+msgid "Featured Properties: %s"
+msgstr ""
+
+#: framework/functions/membership.php:199
+#, php-format
+msgid "Featured Properties Left: %s"
+msgstr ""
+
+#: framework/functions/membership.php:207
+#: framework/functions/membership.php:211
+#, php-format
+msgid "Time Duration: %s %s"
+msgstr ""
+
+#: framework/functions/membership.php:221
+#, php-format
+msgid "Due Date: %s"
+msgstr ""
+
+#: framework/functions/membership.php:230
+#: framework/functions/membership.php:237
+msgid "Cancel Membership"
+msgstr ""
+
+#: framework/functions/membership.php:253
+msgid "You have no current membership."
+msgstr ""
+
+#: framework/functions/my-properties.php:41
+msgid "Failed to Remove!"
+msgstr ""
+
+#: framework/functions/pagination.php:40 framework/functions/pagination.php:149
+#: framework/functions/pagination.php:213
+msgid "First"
+msgstr ""
+
+#: framework/functions/pagination.php:41 framework/functions/pagination.php:153
+#: framework/functions/pagination.php:214
+msgid "Previous"
+msgstr ""
+
+#: framework/functions/pagination.php:49 framework/functions/pagination.php:168
+#: framework/functions/pagination.php:222
+msgid "Next"
+msgstr ""
+
+#: framework/functions/pagination.php:50 framework/functions/pagination.php:172
+#: framework/functions/pagination.php:223
+msgid "Last"
+msgstr ""
+
+#: framework/functions/price.php:18
+msgid "$"
+msgstr ""
+
+#: framework/functions/property-ratings.php:56
+msgid "5 based on"
+msgstr ""
+
+#: framework/functions/property-ratings.php:56
+msgid "reviews"
+msgstr ""
+
+#: framework/functions/property-ratings.php:135
+msgid ""
+"Error: You did not add a rating. Hit the Back button on your Web browser and "
+"resubmit your comment with a rating."
+msgstr ""
+
+#: framework/functions/property-submit-handler.php:154
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr ""
+
+#: framework/functions/property-submit-handler.php:163
+msgid "You can preview it here : "
+msgstr ""
+
+#: framework/functions/property-submit-handler.php:172
+#, php-format
+msgid "Message to the Reviewer : %s"
+msgstr ""
+
+#: framework/functions/property-submit-handler.php:177
+#, php-format
+msgid "You can contact the submitter \"%s\" via email %s"
+msgstr ""
+
+#: framework/functions/real-estate-search.php:930
+msgid "Main Location"
+msgstr ""
+
+#: framework/functions/real-estate-search.php:931
+msgid "Child Location"
+msgstr ""
+
+#: framework/functions/real-estate-search.php:932
+msgid "Grand Child Location"
+msgstr ""
+
+#: framework/functions/real-estate-search.php:933
+msgid "Great Grand Child Location"
+msgstr ""
+
+#: framework/functions/real-estate.php:89
+#: framework/functions/real-estate.php:90
+msgid "Property Payments"
+msgstr ""
+
+#: framework/functions/real-estate.php:109
+msgid "Transaction ID"
+msgstr ""
+
+#: framework/functions/real-estate.php:110
+msgid "Payment Date"
+msgstr ""
+
+#: framework/functions/real-estate.php:113
+msgid "Payer Email"
+msgstr ""
+
+#: framework/functions/real-estate.php:114
+msgid "Payment Status"
+msgstr ""
+
+#: framework/functions/real-estate.php:115
+msgid "Amount"
+msgstr ""
+
+#: framework/functions/real-estate.php:116
+msgid "Currency"
+msgstr ""
+
+#: framework/functions/real-estate.php:119
+msgid "Action"
+msgstr ""
+
+#: framework/functions/real-estate.php:151
+msgid "Not Available"
+msgstr ""
+
+#: framework/functions/real-estate.php:174
+msgid "Edit Property"
+msgstr ""
+
+#: framework/functions/real-estate.php:203
+msgid "No Completed Payment Found!"
+msgstr ""
+
+#: framework/functions/theme-comment.php:17
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions/theme-comment.php:17
+msgid "(Edit)"
+msgstr ""
+
+#: framework/functions/theme-comment.php:36
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/functions/theme-comment.php:40
+msgid "on"
+msgstr ""
+
+#: framework/functions/theme-comment.php:43
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/functions/theme-comment.php:46
+msgid "said"
+msgstr ""
+
+#: functions.php:110
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "Responsive Menu"
+msgstr ""
+
+#: functions.php:289
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:291
+msgid "Widget area for default sidebar on news and post pages."
+msgstr ""
+
+#: functions.php:300
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:302
+msgid "Widget area for default page template sidebar."
+msgstr ""
+
+#: functions.php:312
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:314
+msgid "Widget area for contact page sidebar."
+msgstr ""
+
+#: functions.php:324
+msgid "Property Sidebar"
+msgstr ""
+
+#: functions.php:326
+msgid "Widget area for property detail page sidebar."
+msgstr ""
+
+#: functions.php:335
+msgid "Properties List Sidebar"
+msgstr ""
+
+#: functions.php:337
+msgid "Widget area for sidebar in properties list, grid and archive pages."
+msgstr ""
+
+#: functions.php:346
+msgid "dsIDX Sidebar"
+msgstr ""
+
+#: functions.php:348
+msgid "Widget area for dsIDX related pages."
+msgstr ""
+
+#: functions.php:357
+msgid "Footer First Column"
+msgstr ""
+
+#: functions.php:359
+msgid "Widget area for first column in footer."
+msgstr ""
+
+#: functions.php:368
+msgid "Footer Second Column"
+msgstr ""
+
+#: functions.php:370
+msgid "Widget area for second column in footer."
+msgstr ""
+
+#: functions.php:379
+msgid "Footer Third Column"
+msgstr ""
+
+#: functions.php:381
+msgid "Widget area for third column in footer."
+msgstr ""
+
+#: functions.php:390
+msgid "Footer Fourth Column"
+msgstr ""
+
+#: functions.php:392
+msgid "Widget area for fourth column in footer."
+msgstr ""
+
+#: functions.php:401
+msgid "Agent Sidebar"
+msgstr ""
+
+#: functions.php:403
+msgid "Sidebar widget area for agent detail page."
+msgstr ""
+
+#: functions.php:412
+msgid "Agency Sidebar"
+msgstr ""
+
+#: functions.php:414
+msgid "Sidebar widget area for agency detail page."
+msgstr ""
+
+#: functions.php:423
+msgid "Home Search Area"
+msgstr ""
+
+#: functions.php:425
+msgid ""
+"Widget area for only IDX Search Widget. Using this area means you want to "
+"display IDX search form instead of default search form."
+msgstr ""
+
+#: functions.php:434
+msgid "Property Search Sidebar"
+msgstr ""
+
+#: functions.php:436
+msgid "Widget area for property search template with sidebar."
+msgstr ""
+
+#: functions.php:448
+#, php-format
+msgid "Additional Sidebar %d"
+msgstr ""
+
+#: functions.php:449
+msgid "An extra sidebar to use with Visual Composer if needed."
+msgstr ""
+
+#: functions.php:463
+msgid "Optima Express Sidebar"
+msgstr ""
+
+#: functions.php:465
+msgid "An extra sidebar to use with Optima Express if needed."
+msgstr ""
+
+#: widgets/advance-search-widget.php:16
+msgid "This widget displays advance search form."
+msgstr ""
+
+#: widgets/advance-search-widget.php:18
+msgid "RealHomes - Advance Search Widget"
+msgstr ""
+
+#: widgets/advance-search-widget.php:45
+msgid ""
+"Advance search page is not configured yet. Please read this theme "
+"documentation for the Advance Search page & form configuration details."
+msgstr ""
+
+#: widgets/advance-search-widget.php:55
+msgid "Find Your Home"
+msgstr ""
+
+#: widgets/advance-search-widget.php:61
+#: widgets/agent-featured-properties-widget.php:324
+#: widgets/agent-properties-widget.php:338
+#: widgets/featured-properties-widget.php:326
+#: widgets/property-types-widget.php:80
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:23
+msgid "Important: This widget is only for the Agent Sidebar."
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:26
+msgid "RealHomes - Agent Featured Properties"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:131
+#: widgets/agent-featured-properties-widget.php:297
+msgid "No Featured Property Found For This Agent"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:160
+#: widgets/agent-properties-widget.php:165
+#: widgets/featured-properties-widget.php:158
+msgid "Featured"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:180
+#: widgets/agent-properties-widget.php:185
+#: widgets/featured-properties-widget.php:178
+msgid "View Property"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:202
+#: widgets/agent-properties-widget.php:207
+#: widgets/featured-properties-widget.php:202
+msgid "Add to favorites"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:328
+#: widgets/agent-properties-widget.php:348
+#: widgets/featured-properties-widget.php:334
+msgid "Sort By:"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:330
+#: widgets/agent-properties-widget.php:350
+#: widgets/featured-properties-widget.php:336
+msgid "Most Recent"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:331
+#: widgets/agent-properties-widget.php:351
+#: widgets/featured-properties-widget.php:337
+msgid "Random"
+msgstr ""
+
+#: widgets/agent-featured-properties-widget.php:335
+#: widgets/agent-properties-widget.php:355
+#: widgets/featured-properties-widget.php:330
+msgid "Number of Properties"
+msgstr ""
+
+#: widgets/agent-properties-widget.php:26
+msgid "Displays random, recent or featured properties based on selected agent."
+msgstr ""
+
+#: widgets/agent-properties-widget.php:29
+msgid "RealHomes - Agent Related Properties"
+msgstr ""
+
+#: widgets/agent-properties-widget.php:137
+#: widgets/agent-properties-widget.php:302
+msgid "No Property Found Under Selected Agent!"
+msgstr ""
+
+#: widgets/agent-properties-widget.php:342
+msgid "Select an Agent:"
+msgstr ""
+
+#: widgets/agent-properties-widget.php:360
+msgid "Show only Featured Properties."
+msgstr ""
+
+#: widgets/featured-properties-widget.php:28
+msgid "Displays Random or Recent Featured Properties."
+msgstr ""
+
+#: widgets/featured-properties-widget.php:33
+msgid "RealHomes - Featured Properties"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:130
+#: widgets/featured-properties-widget.php:297
+msgid "No Featured Property Found!"
+msgstr ""
+
+#: widgets/property-types-widget.php:29
+msgid "This widget displays a list of Property Types."
+msgstr ""
+
+#: widgets/property-types-widget.php:32
+msgid "RealHomes - Property Types"
+msgstr ""
+
+#: widgets/property-types-widget.php:74
+msgid "Property Types"
+msgstr ""
+
+#: widgets/rh-contact-information-widget.php:30
+msgid "Displays general contact information."
+msgstr ""
+
+#: widgets/rh-contact-information-widget.php:33
+msgid "RealHomes - Contact Information"
+msgstr ""
+
+#: widgets/rh-contact-information-widget.php:93
+msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
+msgstr ""
+
+#: widgets/rh-contact-information-widget.php:94
+msgid "+123-456-789"
+msgstr ""
+
+#: widgets/rh-contact-information-widget.php:95
+msgid "robot@inspirythemes.com"
+msgstr ""
+
+#: widgets/rh-contact-information-widget.php:108
+msgid "Contact Address"
+msgstr ""
