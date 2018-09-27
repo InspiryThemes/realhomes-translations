@@ -1,9 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-14 19:05+0500\n"
-"PO-Revision-Date: 2018-09-27 18:13+0500\n"
+"POT-Creation-Date: 2018-09-27 19:08+0500\n"
+"PO-Revision-Date: 2018-09-27 19:14+0500\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,8 +17,6 @@ msgstr ""
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
-"Language: ru_RU\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: assets/classic/styles\n"
@@ -164,8 +164,8 @@ msgstr "Отправить сообщение"
 #: assets/classic/partials/agency/single/contact-form.php:21
 #: assets/classic/partials/agent/single/contact-form.php:27
 #: assets/classic/partials/page/contact.php:177
-#: assets/classic/partials/property/single/agent.php:113
-#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/agent.php:116
+#: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
 #: assets/modern/partials/author/agent-card.php:146
@@ -174,7 +174,7 @@ msgstr "Отправить сообщение"
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
 #: assets/modern/partials/property/single/agent.php:127
-#: framework/customizer/sections/home/testimonial.php:140
+#: framework/customizer/sections/home/testimonial.php:89
 #: framework/functions/real-estate.php:111
 msgid "Name"
 msgstr "Имя"
@@ -182,8 +182,8 @@ msgstr "Имя"
 #: assets/classic/partials/agency/single/contact-form.php:21
 #: assets/classic/partials/agent/single/contact-form.php:27
 #: assets/classic/partials/page/contact.php:178
-#: assets/classic/partials/property/single/agent.php:113
-#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/agent.php:117
+#: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
 #: assets/modern/partials/author/agent-card.php:147
@@ -202,8 +202,8 @@ msgstr "* Введите свое имя"
 #: assets/classic/partials/page/edit-profile.php:111
 #: assets/classic/partials/page/login-register.php:150
 #: assets/classic/partials/page/login-register.php:153
-#: assets/classic/partials/property/single/agent.php:114
-#: assets/classic/partials/property/single/sidebar-agent.php:106
+#: assets/classic/partials/property/single/agent.php:118
+#: assets/classic/partials/property/single/sidebar-agent.php:110
 #: assets/modern/partials/agency/card.php:130
 #: assets/modern/partials/agency/single/card.php:131
 #: assets/modern/partials/agency/single/contact-form.php:26
@@ -232,8 +232,8 @@ msgstr "Email"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
 #: assets/classic/partials/agent/single/contact-form.php:31
-#: assets/classic/partials/property/single/agent.php:114
-#: assets/classic/partials/property/single/sidebar-agent.php:106
+#: assets/classic/partials/property/single/agent.php:120
+#: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
 #: assets/modern/partials/author/agent-card.php:153
@@ -246,8 +246,8 @@ msgstr "* Введите действительный адрес электро�
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:37
 #: assets/classic/partials/page/contact.php:83
-#: assets/classic/partials/property/single/agent.php:115
-#: assets/classic/partials/property/single/sidebar-agent.php:107
+#: assets/classic/partials/property/single/agent.php:121
+#: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
 #: assets/modern/partials/author/agent-card.php:158
@@ -263,8 +263,8 @@ msgstr "Телефон"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:37
-#: assets/classic/partials/property/single/agent.php:115
-#: assets/classic/partials/property/single/sidebar-agent.php:107
+#: assets/classic/partials/property/single/agent.php:123
+#: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
 #: assets/modern/partials/author/agent-card.php:159
@@ -277,8 +277,8 @@ msgstr "Пожалуйста, укажите действительный ном
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:43
 #: assets/classic/partials/page/contact.php:192
-#: assets/classic/partials/property/single/agent.php:116
-#: assets/classic/partials/property/single/sidebar-agent.php:108
+#: assets/classic/partials/property/single/agent.php:124
+#: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
 #: assets/modern/partials/author/agent-card.php:164
@@ -292,8 +292,8 @@ msgstr "Сообщение"
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:43
 #: assets/classic/partials/page/contact.php:193
-#: assets/classic/partials/property/single/agent.php:116
-#: assets/classic/partials/property/single/sidebar-agent.php:108
+#: assets/classic/partials/property/single/agent.php:125
+#: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
 #: assets/modern/partials/author/agent-card.php:165
@@ -304,19 +304,19 @@ msgstr "Сообщение"
 msgid "* Please provide your message"
 msgstr "* Введите ваше сообщение"
 
-#: assets/classic/partials/agency/single/contact-form.php:85
-#: assets/classic/partials/agent/single/contact-form.php:90
+#: assets/classic/partials/agency/single/contact-form.php:86
+#: assets/classic/partials/agent/single/contact-form.php:91
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:156
-#: assets/classic/partials/property/single/sidebar-agent.php:103
-#: assets/classic/partials/property/single/sidebar-agent.php:154
-#: assets/modern/partials/agency/single/contact-form.php:88
-#: assets/modern/partials/agent/single/contact-form.php:94
-#: assets/modern/partials/author/agent-card.php:173
-#: assets/modern/partials/author/author-contact-form.php:54
+#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:105
+#: assets/classic/partials/property/single/sidebar-agent.php:172
+#: assets/modern/partials/agency/single/contact-form.php:89
+#: assets/modern/partials/agent/single/contact-form.php:95
+#: assets/modern/partials/author/agent-card.php:174
+#: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:174
-#: assets/modern/partials/property/single/agent.php:198
+#: assets/modern/partials/property/single/agent-for-sidebar.php:176
+#: assets/modern/partials/property/single/agent.php:206
 msgid "Send Message"
 msgstr "Отправить сообщение"
 
@@ -341,7 +341,7 @@ msgstr "Все свойства По"
 #: assets/classic/partials/page/my-properties.php:301
 #: assets/classic/partials/properties/compare.php:335
 #: assets/classic/partials/properties/search/results-with-sidebar.php:88
-#: assets/modern/partials/member/properties.php:226
+#: assets/modern/partials/member/properties.php:249
 #: assets/modern/partials/properties/compare.php:392
 #: framework/include/shortcodes/elements.php:318
 msgid "No Properties Found!"
@@ -540,24 +540,24 @@ msgstr "* Укажите действительный email!"
 
 #: assets/classic/partials/header/user-nav.php:17
 #: assets/modern/partials/header/modal.php:278
-#: assets/modern/partials/member/properties.php:62
+#: assets/modern/partials/member/properties.php:99
 #: assets/modern/partials/page/edit-profile.php:76
-#: assets/modern/partials/page/favorites.php:78
+#: assets/modern/partials/page/favorites.php:122
 #: assets/modern/partials/page/submit-property.php:393
 #: framework/customizer/favorites.php:35
 msgid "Favorites"
 msgstr "Избранные"
 
 #: assets/classic/partials/header/user-nav.php:29
-#: assets/modern/partials/header.php:91
+#: assets/modern/partials/header.php:101
 msgid "Submit"
 msgstr "Отправить"
 
 #: assets/classic/partials/header/user-nav.php:39
 #: assets/modern/partials/header/modal.php:268
-#: assets/modern/partials/member/properties.php:52
+#: assets/modern/partials/member/properties.php:89
 #: assets/modern/partials/page/edit-profile.php:66
-#: assets/modern/partials/page/favorites.php:68
+#: assets/modern/partials/page/favorites.php:112
 #: assets/modern/partials/page/submit-property.php:383
 #: framework/customizer/members.php:432
 msgid "My Properties"
@@ -568,9 +568,9 @@ msgstr "Мои объекты"
 #: assets/modern/partials/agency/single/agency.php:36
 #: assets/modern/partials/agent/single/agent.php:36
 #: assets/modern/partials/header/modal.php:258
-#: assets/modern/partials/member/properties.php:42
+#: assets/modern/partials/member/properties.php:79
 #: assets/modern/partials/page/edit-profile.php:56
-#: assets/modern/partials/page/favorites.php:58
+#: assets/modern/partials/page/favorites.php:102
 #: assets/modern/partials/page/submit-property.php:373
 msgid "Profile"
 msgstr "Профиль"
@@ -584,12 +584,12 @@ msgstr "Выйти"
 msgid "Login / Register"
 msgstr "Вход / Регистрация"
 
-#: assets/classic/partials/header/variation-center.php:126
-#: assets/classic/partials/header/variation-simple.php:103
+#: assets/classic/partials/header/variation-center.php:119
+#: assets/classic/partials/header/variation-simple.php:100
 msgid "Menu"
 msgstr "Меню"
 
-#: assets/classic/partials/header/variation-simple.php:32
+#: assets/classic/partials/header/variation-simple.php:29
 msgid "Email us at"
 msgstr "Пишите нам по адресу"
 
@@ -630,11 +630,11 @@ msgstr "Фото"
 #: assets/modern/partials/property/form-fields/bedrooms.php:12
 #: assets/modern/partials/property/single/child.php:47
 #: assets/modern/partials/property/single/floor-plans.php:52
-#: assets/modern/partials/property/single/meta.php:28
+#: assets/modern/partials/property/single/meta.php:65
 #: assets/modern/partials/property/single/similar-property-card.php:83
 #: framework/customizer/members.php:225
-#: framework/meta-box/config-meta-boxes.php:197
-#: framework/meta-box/config-meta-boxes.php:363
+#: framework/meta-box/config-meta-boxes.php:207
+#: framework/meta-box/config-meta-boxes.php:370
 #: widgets/agent-featured-properties-widget.php:225
 #: widgets/agent-properties-widget.php:230
 #: widgets/featured-properties-widget.php:225
@@ -665,11 +665,11 @@ msgstr "Спальня"
 #: assets/modern/partials/property/form-fields/bathrooms.php:12
 #: assets/modern/partials/property/single/child.php:59
 #: assets/modern/partials/property/single/floor-plans.php:63
-#: assets/modern/partials/property/single/meta.php:44
+#: assets/modern/partials/property/single/meta.php:81
 #: assets/modern/partials/property/single/similar-property-card.php:95
 #: framework/customizer/members.php:226
-#: framework/meta-box/config-meta-boxes.php:206
-#: framework/meta-box/config-meta-boxes.php:370
+#: framework/meta-box/config-meta-boxes.php:216
+#: framework/meta-box/config-meta-boxes.php:377
 #: widgets/agent-featured-properties-widget.php:237
 #: widgets/agent-properties-widget.php:242
 #: widgets/featured-properties-widget.php:237
@@ -709,13 +709,13 @@ msgstr "Расширенный поиск"
 #: assets/modern/partials/agency/list.php:75
 #: assets/modern/partials/agent/list.php:77
 #: assets/modern/partials/author.php:105
-#: assets/modern/partials/page/search-left-sidebar.php:131
-#: assets/modern/partials/page/search-right-sidebar.php:120
+#: assets/modern/partials/page/search-left-sidebar.php:135
+#: assets/modern/partials/page/search-right-sidebar.php:124
 #: assets/modern/partials/page/users-list.php:277
 #: assets/modern/partials/properties/archive/container.php:83
 #: assets/modern/partials/properties/archive/grid-container.php:83
 #: assets/modern/partials/properties/half-map-list.php:85
-#: assets/modern/partials/properties/search.php:111
+#: assets/modern/partials/properties/search.php:120
 #: assets/modern/partials/taxonomy/grid-layout.php:60
 #: assets/modern/partials/taxonomy/list-layout.php:60
 msgid "Sorry No Results Found"
@@ -801,61 +801,61 @@ msgstr "О себе"
 
 #: assets/classic/partials/page/edit-profile.php:143
 #: assets/modern/partials/page/edit-profile.php:216
-#: framework/functions/basic.php:408
-#: framework/meta-box/config-meta-boxes.php:659
-#: framework/meta-box/config-meta-boxes.php:747
+#: framework/functions/basic.php:391
+#: framework/meta-box/config-meta-boxes.php:666
+#: framework/meta-box/config-meta-boxes.php:754
 msgid "Mobile Number"
 msgstr "Мобильный номер"
 
 #: assets/classic/partials/page/edit-profile.php:151
 #: assets/modern/partials/page/edit-profile.php:224
-#: framework/functions/basic.php:409
-#: framework/meta-box/config-meta-boxes.php:671
-#: framework/meta-box/config-meta-boxes.php:759
+#: framework/functions/basic.php:392
+#: framework/meta-box/config-meta-boxes.php:678
+#: framework/meta-box/config-meta-boxes.php:766
 msgid "Office Number"
 msgstr "Рабочий телефон"
 
 #: assets/classic/partials/page/edit-profile.php:159
 #: assets/modern/partials/page/edit-profile.php:232
-#: framework/customizer/contact.php:236 framework/functions/basic.php:410
-#: framework/meta-box/config-meta-boxes.php:677
-#: framework/meta-box/config-meta-boxes.php:765
+#: framework/customizer/contact.php:236 framework/functions/basic.php:393
+#: framework/meta-box/config-meta-boxes.php:684
+#: framework/meta-box/config-meta-boxes.php:772
 msgid "Fax Number"
 msgstr "Номер факса"
 
 #: assets/classic/partials/page/edit-profile.php:167
 #: assets/modern/partials/page/edit-profile.php:240
 #: framework/customizer/sections/header/social-icons.php:56
-#: framework/functions/basic.php:412
-#: framework/meta-box/config-meta-boxes.php:683
-#: framework/meta-box/config-meta-boxes.php:771
+#: framework/functions/basic.php:395
+#: framework/meta-box/config-meta-boxes.php:690
+#: framework/meta-box/config-meta-boxes.php:778
 msgid "Facebook URL"
 msgstr "Facebook URL"
 
 #: assets/classic/partials/page/edit-profile.php:175
 #: assets/modern/partials/page/edit-profile.php:250
 #: framework/customizer/sections/header/social-icons.php:68
-#: framework/functions/basic.php:413
-#: framework/meta-box/config-meta-boxes.php:689
-#: framework/meta-box/config-meta-boxes.php:777
+#: framework/functions/basic.php:396
+#: framework/meta-box/config-meta-boxes.php:696
+#: framework/meta-box/config-meta-boxes.php:784
 msgid "Twitter URL"
 msgstr "Twitter URL"
 
 #: assets/classic/partials/page/edit-profile.php:183
 #: assets/modern/partials/page/edit-profile.php:260
 #: framework/customizer/sections/header/social-icons.php:92
-#: framework/functions/basic.php:414
-#: framework/meta-box/config-meta-boxes.php:695
-#: framework/meta-box/config-meta-boxes.php:783
+#: framework/functions/basic.php:397
+#: framework/meta-box/config-meta-boxes.php:702
+#: framework/meta-box/config-meta-boxes.php:790
 msgid "Google Plus URL"
 msgstr "Google Plus URL"
 
 #: assets/classic/partials/page/edit-profile.php:191
 #: assets/modern/partials/page/edit-profile.php:270
 #: framework/customizer/sections/header/social-icons.php:80
-#: framework/functions/basic.php:415
-#: framework/meta-box/config-meta-boxes.php:701
-#: framework/meta-box/config-meta-boxes.php:789
+#: framework/functions/basic.php:398
+#: framework/meta-box/config-meta-boxes.php:708
+#: framework/meta-box/config-meta-boxes.php:796
 msgid "LinkedIn URL"
 msgstr "LinkedIn URL"
 
@@ -867,9 +867,9 @@ msgstr "Сохранить изменения"
 #: assets/classic/partials/page/edit-profile.php:236
 #: assets/classic/partials/page/my-properties.php:307
 #: assets/classic/partials/page/submit-property.php:443
-#: assets/modern/partials/member/properties.php:95
-#: assets/modern/partials/member/properties.php:97
-#: assets/modern/partials/member/properties.php:100
+#: assets/modern/partials/member/properties.php:132
+#: assets/modern/partials/member/properties.php:134
+#: assets/modern/partials/member/properties.php:137
 #: assets/modern/partials/page/edit-profile.php:107
 #: assets/modern/partials/page/edit-profile.php:109
 #: assets/modern/partials/page/edit-profile.php:112
@@ -894,12 +894,12 @@ msgid "Remove from favorites"
 msgstr "Удалить из избранного"
 
 #: assets/classic/partials/page/favorites.php:132
-#: assets/modern/partials/page/favorites.php:141
+#: assets/modern/partials/page/favorites.php:170
 msgid "No property found!"
 msgstr "Никакая собственность не найдено!"
 
 #: assets/classic/partials/page/favorites.php:139
-#: assets/modern/partials/page/favorites.php:148
+#: assets/modern/partials/page/favorites.php:177
 msgid "You have no property in favorites!"
 msgstr "У вас нет собственности в избранном!"
 
@@ -947,59 +947,59 @@ msgstr "Вы уже вошли!"
 #: assets/classic/partials/page/my-properties.php:29
 #: assets/classic/partials/page/submit-property.php:373
 #: assets/classic/partials/page/submit-property.php:377
-#: assets/modern/partials/member/properties.php:105
-#: assets/modern/partials/member/properties.php:107
-#: assets/modern/partials/member/properties.php:109
-#: assets/modern/partials/member/properties.php:111
+#: assets/modern/partials/member/properties.php:142
+#: assets/modern/partials/member/properties.php:144
+#: assets/modern/partials/member/properties.php:146
+#: assets/modern/partials/member/properties.php:148
 #: assets/modern/partials/page/submit-property.php:441
 #: assets/modern/partials/page/submit-property.php:445
 msgid "Success:"
 msgstr "Успешно:"
 
 #: assets/classic/partials/page/my-properties.php:23
-#: assets/modern/partials/member/properties.php:105
+#: assets/modern/partials/member/properties.php:142
 msgid "Property removed."
 msgstr "Объект удален."
 
 #: assets/classic/partials/page/my-properties.php:25
-#: assets/modern/partials/member/properties.php:107
+#: assets/modern/partials/member/properties.php:144
 msgid "Property Submitted."
 msgstr "Объект добавлен."
 
 #: assets/classic/partials/page/my-properties.php:27
-#: assets/modern/partials/member/properties.php:109
+#: assets/modern/partials/member/properties.php:146
 msgid "Property Updated."
 msgstr "Объект обновлен."
 
 #: assets/classic/partials/page/my-properties.php:29
-#: assets/modern/partials/member/properties.php:111
+#: assets/modern/partials/member/properties.php:148
 msgid "Payment Submitted."
 msgstr "Оплата произведена."
 
 #: assets/classic/partials/page/my-properties.php:31
 #: assets/classic/partials/page/submit-property.php:367
-#: assets/modern/partials/member/properties.php:113
+#: assets/modern/partials/member/properties.php:150
 #: assets/modern/partials/page/submit-property.php:435
 msgid "Error:"
 msgstr "Ошибка:"
 
 #: assets/classic/partials/page/my-properties.php:31
-#: assets/modern/partials/member/properties.php:113
+#: assets/modern/partials/member/properties.php:150
 msgid "Payment Failed."
 msgstr "Ошибка оплаты."
 
 #: assets/classic/partials/page/my-properties.php:51
-#: assets/modern/partials/member/properties.php:132
+#: assets/modern/partials/member/properties.php:169
 msgid "Number of properties that you can publish:"
 msgstr "Кол-во мест, которые вы можете добавить:"
 
 #: assets/classic/partials/page/my-properties.php:52
-#: assets/modern/partials/member/properties.php:133
+#: assets/modern/partials/member/properties.php:170
 msgid "Number of properties that can be marked as featured:"
 msgstr "Число объектов, которые могут быть отмечены, как рекомендованые:"
 
 #: assets/classic/partials/page/my-properties.php:103
-#: assets/modern/partials/member/properties.php:184
+#: assets/modern/partials/member/properties.php:221
 msgid "Please subscribe a membership package to start publishing properties."
 msgstr "Чтобы добавить место необходимо выбрать подписку."
 
@@ -1018,7 +1018,7 @@ msgid "Payment Completed"
 msgstr "Оплата Завершенный"
 
 #: assets/classic/partials/page/my-properties.php:301
-#: assets/modern/partials/member/properties.php:226
+#: assets/modern/partials/member/properties.php:249
 #: framework/customizer/gdpr.php:56
 msgid "Note:"
 msgstr "Заметка:"
@@ -1071,7 +1071,7 @@ msgstr "Город"
 #: assets/modern/partials/properties/shortcode/list-card.php:122
 #: assets/modern/partials/property/form-fields/area.php:12
 #: assets/modern/partials/property/single/child.php:71
-#: assets/modern/partials/property/single/meta.php:78
+#: assets/modern/partials/property/single/meta.php:115
 #: assets/modern/partials/property/single/similar-property-card.php:107
 #: framework/customizer/members.php:231
 #: widgets/agent-featured-properties-widget.php:249
@@ -1132,26 +1132,26 @@ msgid "View all posts by %s"
 msgstr "Просмотреть все сообщения от %s"
 
 #: assets/classic/partials/properties/search.php:74
-#: assets/modern/partials/page/search-left-sidebar.php:81
-#: assets/modern/partials/page/search-right-sidebar.php:70
-#: assets/modern/partials/properties/search.php:71
+#: assets/modern/partials/page/search-left-sidebar.php:85
+#: assets/modern/partials/page/search-right-sidebar.php:74
+#: assets/modern/partials/properties/search.php:74
 msgid "Results"
 msgstr "Результаты"
 
 #: assets/classic/partials/properties/search.php:76
-#: assets/modern/partials/page/search-left-sidebar.php:83
-#: assets/modern/partials/page/search-right-sidebar.php:72
-#: assets/modern/partials/properties/search.php:73
+#: assets/modern/partials/page/search-left-sidebar.php:87
+#: assets/modern/partials/page/search-right-sidebar.php:76
+#: assets/modern/partials/properties/search.php:76
 msgid "Result"
 msgstr "Результат"
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:256
-#: assets/classic/partials/property/single/sidebar-agent.php:253
+#: assets/classic/partials/property/single/agent.php:275
+#: assets/classic/partials/property/single/sidebar-agent.php:272
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:277
-#: assets/modern/partials/property/single/agent.php:305
+#: assets/modern/partials/property/single/agent-for-sidebar.php:279
+#: assets/modern/partials/property/single/agent.php:314
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1160,7 +1160,7 @@ msgstr "Результат"
 #: framework/include/agent-post-type.php:21
 #: framework/include/agent-post-type.php:93
 #: framework/include/shortcodes/vc-map.php:136
-#: framework/meta-box/config-meta-boxes.php:448
+#: framework/meta-box/config-meta-boxes.php:455
 msgid "Agent"
 msgstr "Агент"
 
@@ -1257,30 +1257,35 @@ msgstr "Макс. цена"
 #: framework/customizer/sections/search/search-form-basics.php:203
 #: framework/functions/real-estate.php:117
 #: framework/include/property-post-type.php:330
-#: framework/meta-box/config-meta-boxes.php:224
+#: framework/meta-box/config-meta-boxes.php:234
 msgid "Property ID"
 msgstr "ID объекта"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:2
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:10
 msgid "Check In"
 msgstr "Заезд"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:3
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:8
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:11
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:16
 #: framework/customizer/sections/search/search-form-areas.php:55
 #: framework/customizer/sections/search/search-form-areas.php:92
 #: framework/customizer/sections/search/search-form-basics.php:174
 #: framework/customizer/sections/search/search-form-basics.php:220
 #: framework/customizer/sections/search/search-form-basics.php:328
-#: framework/functions/real-estate-search.php:130
+#: framework/functions/real-estate-search.php:147
 msgid "Any"
 msgstr "Любой"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:7
+#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:15
 msgid "Check Out"
 msgstr "Оформить"
 
 #: assets/classic/partials/properties/search/fields/rvr/guest.php:2
+#: assets/modern/partials/properties/search/fields/rvr/guest.php:12
 msgid "No of Guests"
 msgstr "Нет гостей"
 
@@ -1292,7 +1297,6 @@ msgstr "Нет гостей"
 #: framework/customizer/sections/search/search-form-basics.php:81
 #: framework/customizer/sections/search/search-form-basics.php:249
 #: framework/functions/real-estate.php:118
-#: framework/include/admin/class-rh-admin-menu.php:142
 #: framework/include/property-post-type.php:192
 #: framework/include/property-post-type.php:193
 #: framework/include/property-post-type.php:206
@@ -1341,25 +1345,25 @@ msgstr "По умолчанию"
 
 #: assets/classic/partials/properties/sort-controls.php:31
 #: assets/modern/partials/properties/sort-controls.php:31
-#: framework/meta-box/config-meta-boxes.php:948
+#: framework/meta-box/config-meta-boxes.php:955
 msgid "Price Low to High"
 msgstr "Цена от низкого до высокого"
 
 #: assets/classic/partials/properties/sort-controls.php:32
 #: assets/modern/partials/properties/sort-controls.php:32
-#: framework/meta-box/config-meta-boxes.php:949
+#: framework/meta-box/config-meta-boxes.php:956
 msgid "Price High to Low"
 msgstr "Цена от высокой к низкой"
 
 #: assets/classic/partials/properties/sort-controls.php:33
 #: assets/modern/partials/properties/sort-controls.php:33
-#: framework/meta-box/config-meta-boxes.php:947
+#: framework/meta-box/config-meta-boxes.php:954
 msgid "Date Old to New"
 msgstr "По дате: сначала старые"
 
 #: assets/classic/partials/properties/sort-controls.php:34
 #: assets/modern/partials/properties/sort-controls.php:34
-#: framework/meta-box/config-meta-boxes.php:946
+#: framework/meta-box/config-meta-boxes.php:953
 msgid "Date New to Old"
 msgstr "По дате: сначала новые"
 
@@ -1383,6 +1387,9 @@ msgstr "Дополнительные детали"
 #: assets/classic/partials/property/form-fields/additional-details.php:27
 #: assets/modern/partials/property/form-fields/additional-details.php:71
 #: assets/modern/partials/property/form-fields/additional-details.php:114
+#: framework/customizer/sections/home/features-section.php:165
+#: framework/customizer/sections/home/features-section.php:258
+#: framework/customizer/sections/home/features-section.php:351
 #: framework/customizer/sections/home/news-posts.php:49
 #: framework/meta-box/custom-metaboxes/additional-details-metabox.php:105
 #: widgets/rh-contact-information-widget.php:105
@@ -1398,7 +1405,7 @@ msgstr "Значение"
 
 #: assets/classic/partials/property/form-fields/agent.php:2
 #: assets/modern/partials/property/form-fields/agent.php:33
-#: framework/meta-box/config-meta-boxes.php:435
+#: framework/meta-box/config-meta-boxes.php:442
 msgid "What to display in agent information box ?"
 msgstr "Что отображать в информационном окне агента?"
 
@@ -1418,14 +1425,14 @@ msgstr "Что отображать в информационном окне а�
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:87
+#: framework/customizer/sections/search/properties-search-page.php:102
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
 #: framework/functions/property-submit-handler.php:298
-#: framework/functions/real-estate-search.php:289
+#: framework/functions/real-estate-search.php:306
 #: framework/meta-box/config-meta-boxes.php:83
-#: framework/meta-box/config-meta-boxes.php:717
+#: framework/meta-box/config-meta-boxes.php:724
 msgid "None"
 msgstr "Нет"
 
@@ -1486,12 +1493,12 @@ msgstr "Отметить это свойство как признакам со�
 #: framework/customizer/members.php:238
 #: framework/customizer/sections/home/home-features.php:26
 #: framework/customizer/sections/home/home-features.php:71
-#: framework/customizer/sections/home/sections-manager.php:104
+#: framework/customizer/sections/home/sections-manager.php:103
 #: framework/customizer/sections/property/basics.php:270
 #: framework/include/shortcodes/vc-map.php:284
-#: framework/meta-box/config-meta-boxes.php:984
-#: framework/meta-box/config-meta-boxes.php:1087
-#: framework/meta-box/config-meta-boxes.php:1110
+#: framework/meta-box/config-meta-boxes.php:991
+#: framework/meta-box/config-meta-boxes.php:1094
+#: framework/meta-box/config-meta-boxes.php:1117
 msgid "Features"
 msgstr "Особенности"
 
@@ -1499,7 +1506,7 @@ msgstr "Особенности"
 #: assets/classic/partials/property/single/metas.php:63
 #: assets/modern/partials/property/form-fields/garages.php:12
 #: framework/customizer/members.php:227
-#: framework/meta-box/config-meta-boxes.php:215
+#: framework/meta-box/config-meta-boxes.php:225
 msgid "Garages"
 msgstr "Гараж"
 
@@ -1604,7 +1611,7 @@ msgstr "Обновить объект"
 #: assets/classic/partials/property/form-fields/submit-button.php:15
 #: assets/modern/partials/property/form-fields/submit-button.php:25
 #: framework/customizer/members.php:167
-#: framework/customizer/sections/home/cta-contact.php:174
+#: framework/customizer/sections/home/cta-contact.php:126
 #: framework/customizer/sections/home/cta.php:156
 msgid "Submit Property"
 msgstr "Добавить объект"
@@ -1637,7 +1644,7 @@ msgstr "* Пожалуйста, предоставьте право собств
 #: assets/classic/partials/property/form-fields/video.php:9
 #: assets/modern/partials/property/form-fields/video.php:12
 #: assets/modern/partials/property/form-fields/video.php:19
-#: framework/meta-box/config-meta-boxes.php:394
+#: framework/meta-box/config-meta-boxes.php:401
 msgid "Virtual Tour Video URL"
 msgstr "Виртуальный URL видео-тур"
 
@@ -1646,9 +1653,9 @@ msgstr "Виртуальный URL видео-тур"
 #: assets/classic/partials/property/single/metas.php:78
 #: assets/modern/partials/property/form-fields/year-built.php:19
 #: assets/modern/partials/property/form-fields/year-built.php:21
-#: assets/modern/partials/property/single/meta.php:101
+#: assets/modern/partials/property/single/meta.php:138
 #: framework/customizer/members.php:243
-#: framework/meta-box/config-meta-boxes.php:236
+#: framework/meta-box/config-meta-boxes.php:246
 msgid "Year Built"
 msgstr "Год постройки"
 
@@ -1683,18 +1690,18 @@ msgstr "Понравилось"
 msgid "Add to favorite"
 msgstr "Нравится"
 
-#: assets/classic/partials/property/single/agent.php:111
+#: assets/classic/partials/property/single/agent.php:113
 msgid "Contact"
 msgstr "Контакты"
 
-#: assets/classic/partials/property/single/agent.php:229
-#: assets/modern/partials/property/single/agent.php:278
+#: assets/classic/partials/property/single/agent.php:248
+#: assets/modern/partials/property/single/agent.php:287
 msgid "Submitted by"
 msgstr "Представленный"
 
 #: assets/classic/partials/property/single/floor-plans.php:20
 #: assets/modern/partials/property/single/floor-plans.php:16
-#: framework/meta-box/config-meta-boxes.php:113
+#: framework/meta-box/config-meta-boxes.php:123
 msgid "Floor Plans"
 msgstr "Планировка этажей"
 
@@ -1703,16 +1710,17 @@ msgid "Area Size"
 msgstr "Площадь"
 
 #: assets/classic/partials/property/single/metas.php:63
-#: assets/modern/partials/property/single/meta.php:60
+#: assets/modern/partials/property/single/meta.php:97
 msgid "Garage"
 msgstr "Гараж"
 
 #: assets/classic/partials/property/single/metas.php:93
-#: assets/modern/partials/property/single/meta.php:119
+#: assets/modern/partials/property/single/meta.php:156
 msgid "Lot Size"
 msgstr "Площадь участка"
 
 #: assets/classic/partials/property/single/metas.php:107
+#: assets/modern/partials/property/single/meta.php:37
 msgid "Minimum Stay"
 msgstr "Минимальное пребывание"
 
@@ -1722,6 +1730,7 @@ msgstr "Минимальное пребывание в ночи"
 
 #: assets/classic/partials/property/single/metas.php:117
 #: assets/classic/partials/property/single/metas.php:120
+#: assets/modern/partials/property/single/meta.php:49
 msgid "Guests Capacity"
 msgstr "Количество гостей"
 
@@ -1801,7 +1810,7 @@ msgstr "Перечисленные Свойства"
 #: framework/include/agency-post-type.php:19
 #: framework/include/agency-post-type.php:45
 #: framework/include/agency-post-type.php:110
-#: framework/meta-box/config-meta-boxes.php:805
+#: framework/meta-box/config-meta-boxes.php:812
 msgid "Agency"
 msgstr "Агентство"
 
@@ -1967,12 +1976,33 @@ msgstr "Подтвердить"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: assets/modern/partials/member/properties.php:95
-#: assets/modern/partials/member/properties.php:100
+#: assets/modern/partials/member/properties.php:37
+#: assets/modern/partials/page/favorites.php:58
+msgid " of "
+msgstr " из "
+
+#: assets/modern/partials/member/properties.php:37
+#: assets/modern/partials/member/properties.php:41
+#: assets/modern/partials/page/favorites.php:58
+#: assets/modern/partials/page/favorites.php:62
+#, fuzzy
+#| msgid "Properties"
+msgid " Properties"
+msgstr "Свойства"
+
+#: assets/modern/partials/member/properties.php:39
+#: assets/modern/partials/page/favorites.php:60
+#, fuzzy
+#| msgid "Property"
+msgid " Property"
+msgstr "Недвижимость"
+
+#: assets/modern/partials/member/properties.php:132
+#: assets/modern/partials/member/properties.php:137
 msgid "Please login to view your properties!"
 msgstr "Пожалуйста войдите, чтобы просмотреть вашу недвижимость!"
 
-#: assets/modern/partials/member/properties.php:97
+#: assets/modern/partials/member/properties.php:134
 #, php-format
 msgid "Please %1$s login %2$s to view your properties!"
 msgstr "Пожалуйста,%1$s login%2$s, чтобы просмотреть ваши свойства!"
@@ -2043,8 +2073,8 @@ msgstr "Опубликованных мест"
 #: assets/modern/partials/page/membership.php:156
 #: framework/customizer/sections/home/featured-properties.php:24
 #: framework/customizer/sections/home/home-properties.php:160
-#: framework/customizer/sections/home/sections-manager.php:77
-#: framework/customizer/sections/home/sections-manager.php:100
+#: framework/customizer/sections/home/sections-manager.php:76
+#: framework/customizer/sections/home/sections-manager.php:99
 msgid "Featured Properties"
 msgstr "Рекомендованные объекты"
 
@@ -2101,7 +2131,7 @@ msgstr "Обновить подписку"
 
 #: assets/modern/partials/page/submit-property.php:350
 #: framework/include/property-post-type.php:19
-#: framework/meta-box/config-meta-boxes.php:101
+#: framework/meta-box/config-meta-boxes.php:111
 msgid "Property"
 msgstr "Недвижимость"
 
@@ -2191,7 +2221,10 @@ msgid "Print"
 msgstr "Печать"
 
 #: assets/modern/partials/property/single/content.php:108
-#: framework/meta-box/config-meta-boxes.php:377
+#: framework/customizer/sections/home/features-section.php:186
+#: framework/customizer/sections/home/features-section.php:279
+#: framework/customizer/sections/home/features-section.php:372
+#: framework/meta-box/config-meta-boxes.php:384
 msgid "Description"
 msgstr "Описание"
 
@@ -2226,7 +2259,7 @@ msgstr "Страница"
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:81
+#: framework/customizer/sections/search/properties-search-page.php:96
 msgid "Header Variation"
 msgstr "Изменение заголовка"
 
@@ -2241,7 +2274,7 @@ msgstr "Изменение заголовка для отображения на
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:86
+#: framework/customizer/sections/search/properties-search-page.php:101
 #: framework/customizer/sections/styles/banner.php:23
 msgid "Banner"
 msgstr "Баннер"
@@ -2364,7 +2397,8 @@ msgstr "Карта"
 #: framework/customizer/sections/footer/partners.php:37
 #: framework/customizer/sections/header/search-form.php:44
 #: framework/customizer/sections/header/social-icons.php:44
-#: framework/customizer/sections/header/user-navigation.php:39
+#: framework/customizer/sections/header/user-navigation.php:38
+#: framework/customizer/sections/header/user-navigation.php:55
 #: framework/customizer/sections/home/cta-contact.php:40
 #: framework/customizer/sections/home/cta.php:40
 #: framework/customizer/sections/home/featured-properties.php:38
@@ -2391,7 +2425,7 @@ msgstr "Карта"
 #: framework/customizer/sections/property/similar-properties.php:38
 #: framework/customizer/sections/property/video.php:38
 #: framework/customizer/sections/property/virtual-tour.php:37
-#: framework/meta-box/config-meta-boxes.php:892
+#: framework/meta-box/config-meta-boxes.php:899
 msgid "Show"
 msgstr "Показать"
 
@@ -2402,7 +2436,8 @@ msgstr "Показать"
 #: framework/customizer/sections/footer/partners.php:38
 #: framework/customizer/sections/header/search-form.php:43
 #: framework/customizer/sections/header/social-icons.php:45
-#: framework/customizer/sections/header/user-navigation.php:40
+#: framework/customizer/sections/header/user-navigation.php:39
+#: framework/customizer/sections/header/user-navigation.php:56
 #: framework/customizer/sections/home/cta-contact.php:41
 #: framework/customizer/sections/home/cta.php:41
 #: framework/customizer/sections/home/featured-properties.php:39
@@ -2429,7 +2464,7 @@ msgstr "Показать"
 #: framework/customizer/sections/property/similar-properties.php:39
 #: framework/customizer/sections/property/video.php:39
 #: framework/customizer/sections/property/virtual-tour.php:38
-#: framework/meta-box/config-meta-boxes.php:893
+#: framework/meta-box/config-meta-boxes.php:900
 msgid "Hide"
 msgstr "Скрыть"
 
@@ -2605,8 +2640,8 @@ msgid "Properties Gallery"
 msgstr "Свойства Галерея"
 
 #: framework/customizer/gallery.php:45 framework/customizer/news.php:55
-#: framework/meta-box/config-meta-boxes.php:824
-#: framework/meta-box/config-meta-boxes.php:861
+#: framework/meta-box/config-meta-boxes.php:831
+#: framework/meta-box/config-meta-boxes.php:868
 msgid "Banner Title"
 msgstr "Заголовок баннера"
 
@@ -2615,7 +2650,7 @@ msgid "Skim Through Available Properties"
 msgstr "Пролистать Доступные свойства"
 
 #: framework/customizer/gallery.php:58 framework/customizer/news.php:83
-#: framework/meta-box/config-meta-boxes.php:830
+#: framework/meta-box/config-meta-boxes.php:837
 msgid "Banner Sub Title"
 msgstr "Подзаголовок баннера"
 
@@ -2633,16 +2668,15 @@ msgstr "Добавить флажок «Согласование ВВП» в ф�
 #: framework/customizer/payments.php:30 framework/customizer/payments.php:71
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
-#: framework/customizer/sections/header/others.php:54
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:145
+#: framework/customizer/sections/search/properties-search-page.php:160
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
 #: framework/include/shortcodes/vc-map.php:278
-#: framework/meta-box/config-meta-boxes.php:249
-#: framework/meta-box/config-meta-boxes.php:269
-#: framework/meta-box/config-meta-boxes.php:462
+#: framework/meta-box/config-meta-boxes.php:259
+#: framework/meta-box/config-meta-boxes.php:279
+#: framework/meta-box/config-meta-boxes.php:469
 msgid "Yes"
 msgstr "Да"
 
@@ -2652,20 +2686,19 @@ msgstr "Да"
 #: framework/customizer/payments.php:31 framework/customizer/payments.php:72
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
-#: framework/customizer/sections/header/others.php:55
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:146
+#: framework/customizer/sections/search/properties-search-page.php:161
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
 #: framework/include/shortcodes/vc-map.php:277
-#: framework/meta-box/config-meta-boxes.php:250
-#: framework/meta-box/config-meta-boxes.php:270
-#: framework/meta-box/config-meta-boxes.php:560
+#: framework/meta-box/config-meta-boxes.php:260
+#: framework/meta-box/config-meta-boxes.php:280
+#: framework/meta-box/config-meta-boxes.php:567
 msgid "No"
 msgstr "Нет"
 
-#: framework/customizer/gdpr.php:38 framework/functions/basic.php:1175
+#: framework/customizer/gdpr.php:38 framework/functions/basic.php:1146
 msgid "GDPR Agreement"
 msgstr "GDPR соглашение"
 
@@ -2673,7 +2706,7 @@ msgstr "GDPR соглашение"
 msgid "GDPR agreement checkbox label"
 msgstr "Флажок флажка"
 
-#: framework/customizer/gdpr.php:51 framework/functions/basic.php:1179
+#: framework/customizer/gdpr.php:51 framework/functions/basic.php:1150
 msgid ""
 "I consent to having this website store my submitted information so they can "
 "respond to my inquiry."
@@ -2689,7 +2722,7 @@ msgstr "Ссылка на соглашение о ВНП"
 msgid "You can use <a> tag in your GDPR agreement checkbox text."
 msgstr "Вы можете использовать тег <a> в тексте вашего соглашения о ВВП."
 
-#: framework/customizer/gdpr.php:65 framework/functions/basic.php:1177
+#: framework/customizer/gdpr.php:65 framework/functions/basic.php:1148
 msgid "* Please accept GDPR agreement"
 msgstr "* Примите соглашение о ВВП"
 
@@ -2975,8 +3008,8 @@ msgid "Price"
 msgstr "Цена"
 
 #: framework/customizer/members.php:230
-#: framework/meta-box/config-meta-boxes.php:152
-#: framework/meta-box/config-meta-boxes.php:342
+#: framework/meta-box/config-meta-boxes.php:162
+#: framework/meta-box/config-meta-boxes.php:349
 msgid "Price Postfix"
 msgstr "Цена Postfix"
 
@@ -3002,7 +3035,7 @@ msgid "Mark as Featured Checkbox"
 msgstr "Отметить как Рекомендуемые Checkbox"
 
 #: framework/customizer/members.php:241
-#: framework/meta-box/config-meta-boxes.php:545
+#: framework/meta-box/config-meta-boxes.php:552
 msgid "Message to Reviewer"
 msgstr "Сообщение для рецензента"
 
@@ -3112,7 +3145,7 @@ msgid "Selected page should have My Properties Template assigned to it."
 msgstr "Выбранная страница должна иметь My Свойства шаблона возложены на него."
 
 #: framework/customizer/misc.php:27
-#: framework/meta-box/config-meta-boxes.php:125
+#: framework/meta-box/config-meta-boxes.php:135
 msgid "Misc"
 msgstr "Разное"
 
@@ -3297,12 +3330,12 @@ msgid "Layout"
 msgstr "Макет"
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:167
+#: framework/customizer/sections/search/properties-search-page.php:182
 msgid "One Column"
 msgstr "Одна колонка"
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:168
+#: framework/customizer/sections/search/properties-search-page.php:183
 msgid "Two Columns"
 msgstr "Две колонки"
 
@@ -3311,7 +3344,7 @@ msgid "Three Columns"
 msgstr "Три колонки"
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:169
+#: framework/customizer/sections/search/properties-search-page.php:184
 msgid "Four Columns"
 msgstr "Четыре колонки"
 
@@ -3353,9 +3386,9 @@ msgstr "Слоган в подвале"
 #: framework/customizer/sections/footer/partners.php:23
 #: framework/customizer/sections/home/partners.php:26
 #: framework/customizer/sections/home/partners.php:71
-#: framework/customizer/sections/home/sections-manager.php:105
-#: framework/include/admin/class-rh-admin-menu.php:169
-#: framework/include/admin/class-rh-admin-menu.php:170
+#: framework/customizer/sections/home/sections-manager.php:104
+#: framework/include/admin/class-rh-admin-menu.php:154
+#: framework/include/admin/class-rh-admin-menu.php:155
 #: framework/include/partners-post-type.php:21
 msgid "Partners"
 msgstr "Партнеры"
@@ -3420,8 +3453,8 @@ msgid "Contact Information"
 msgstr "Контактная информация"
 
 #: framework/customizer/sections/header/contact-information.php:36
-#: framework/meta-box/config-meta-boxes.php:653
-#: framework/meta-box/config-meta-boxes.php:741
+#: framework/meta-box/config-meta-boxes.php:660
+#: framework/meta-box/config-meta-boxes.php:748
 msgid "Email Address"
 msgstr "Адрес электронной почты"
 
@@ -3434,25 +3467,43 @@ msgid "Sticky Header"
 msgstr "Липкий заголовок"
 
 #: framework/customizer/sections/header/others.php:49
-msgid "Display WPML Language Switcher in Top Header"
-msgstr "Дисплей WPML Language Switcher в верхней строке"
-
-#: framework/customizer/sections/header/others.php:50
-msgid "Only works if WPML is installed."
-msgstr "Работает только если установлен WPML."
-
-#: framework/customizer/sections/header/others.php:65
 msgid "Choose Header Variation"
 msgstr "Выберите Изменение заголовка"
 
-#: framework/customizer/sections/header/others.php:69
-#: framework/customizer/sections/home/sections-manager.php:42
+#: framework/customizer/sections/header/others.php:53
+#: framework/customizer/sections/home/sections-manager.php:41
 msgid "Default"
 msgstr "По умолчанию"
 
-#: framework/customizer/sections/header/others.php:70
+#: framework/customizer/sections/header/others.php:54
 msgid "Center"
 msgstr "Центр"
+
+#: framework/customizer/sections/header/responsive-header.php:29
+#, fuzzy
+#| msgid "Responsive Menu"
+msgid "Responsive Header"
+msgstr "Адаптивное меню"
+
+#: framework/customizer/sections/header/responsive-header.php:41
+#, fuzzy
+#| msgid "Search Results Page Header"
+msgid "Select Responsive Header"
+msgstr "Страница результатов поиска заголовка"
+
+#: framework/customizer/sections/header/responsive-header.php:44
+msgid "Enabling responsive header on mobile devices."
+msgstr "Включение адаптивного заголовка на мобильных устройствах."
+
+#: framework/customizer/sections/header/responsive-header.php:46
+#, fuzzy
+#| msgid "(no parent)"
+msgid "Transparent"
+msgstr "(нет родителя)"
+
+#: framework/customizer/sections/header/responsive-header.php:47
+msgid "Solid"
+msgstr "Сплошная"
 
 #: framework/customizer/sections/header/search-form.php:24
 #: framework/customizer/sections/home/search-form.php:24
@@ -3480,9 +3531,9 @@ msgid "Show or Hide Social Icons"
 msgstr "Показать или скрыть значок социальной сети"
 
 #: framework/customizer/sections/header/social-icons.php:104
-#: framework/functions/basic.php:416
-#: framework/meta-box/config-meta-boxes.php:707
-#: framework/meta-box/config-meta-boxes.php:795
+#: framework/functions/basic.php:399
+#: framework/meta-box/config-meta-boxes.php:714
+#: framework/meta-box/config-meta-boxes.php:802
 msgid "Instagram URL"
 msgstr "Instagram URL"
 
@@ -3502,13 +3553,39 @@ msgstr "Pinterest URL"
 msgid "RSS URL"
 msgstr "RSS URL"
 
-#: framework/customizer/sections/header/user-navigation.php:25
+#: framework/customizer/sections/header/user-navigation.php:24
 msgid "User Navigation"
 msgstr "Hавигации пользователя"
 
-#: framework/customizer/sections/header/user-navigation.php:35
-msgid "Header Navigation for User Login and Register"
-msgstr "Заголовок навигации для пользователя Вход и регистрация"
+#: framework/customizer/sections/header/user-navigation.php:34
+#, fuzzy
+#| msgid "Select Login and Register Page (Optional)"
+msgid "User Login and Register Links Display"
+msgstr "Выберите логин и страницу регистрации (опционально)"
+
+#: framework/customizer/sections/header/user-navigation.php:51
+#, fuzzy
+#| msgid "Display WPML Language Switcher in Top Header"
+msgid "WPML Language Switcher Display"
+msgstr "Дисплей WPML Language Switcher в верхней строке"
+
+#: framework/customizer/sections/header/user-navigation.php:65
+msgid "Switcher Language Display Options"
+msgstr "Параметры отображения языка Switcher"
+
+#: framework/customizer/sections/header/user-navigation.php:69
+msgid "Name and Flag"
+msgstr "Имя и флаг"
+
+#: framework/customizer/sections/header/user-navigation.php:70
+#, fuzzy
+#| msgid "Name Color"
+msgid "Name Only"
+msgstr "Цвет имени"
+
+#: framework/customizer/sections/header/user-navigation.php:71
+msgid "Flag Only "
+msgstr "Только флаг"
 
 #: framework/customizer/sections/home/cta-contact.php:26
 msgid "Call to Action — Contact"
@@ -3523,13 +3600,13 @@ msgstr "Контакт CTA на главной странице"
 msgid "CTA Background"
 msgstr "Фон CTA"
 
-#: framework/customizer/sections/home/cta-contact.php:84
+#: framework/customizer/sections/home/cta-contact.php:68
 msgid "Trouble Finding"
 msgstr "Поиск неисправностей"
 
-#: framework/customizer/sections/home/cta-contact.php:88
+#: framework/customizer/sections/home/cta-contact.php:72
 #: framework/customizer/sections/home/featured-properties.php:73
-#: framework/customizer/sections/home/features-section.php:125
+#: framework/customizer/sections/home/features-section.php:90
 #: framework/customizer/sections/home/home-agents.php:75
 #: framework/customizer/sections/home/home-features.php:75
 #: framework/customizer/sections/home/home-news.php:66
@@ -3538,11 +3615,11 @@ msgstr "Поиск неисправностей"
 msgid "Section Title"
 msgstr "Название раздела"
 
-#: framework/customizer/sections/home/cta-contact.php:106
+#: framework/customizer/sections/home/cta-contact.php:90
 msgid "Need help? Talk to our expert."
 msgstr "Нужна помощь? Поговорите с нашим экспертом."
 
-#: framework/customizer/sections/home/cta-contact.php:110
+#: framework/customizer/sections/home/cta-contact.php:94
 #: framework/customizer/sections/home/featured-properties.php:99
 #: framework/customizer/sections/home/home-agents.php:97
 #: framework/customizer/sections/home/home-features.php:97
@@ -3552,33 +3629,33 @@ msgstr "Нужна помощь? Поговорите с нашим экспер
 msgid "Section Description"
 msgstr "Описание раздела"
 
-#: framework/customizer/sections/home/cta-contact.php:178
+#: framework/customizer/sections/home/cta-contact.php:130
 #: framework/customizer/sections/home/cta.php:160
 msgid "CTA Button Title One"
 msgstr "Кнопка CTA Название One"
 
-#: framework/customizer/sections/home/cta-contact.php:200
+#: framework/customizer/sections/home/cta-contact.php:152
 #: framework/customizer/sections/home/cta.php:182
 msgid "CTA Button URL One"
 msgstr "Кнопка CTA Button One"
 
-#: framework/customizer/sections/home/cta-contact.php:253
-#: framework/customizer/sections/home/cta.php:236
+#: framework/customizer/sections/home/cta-contact.php:174
+#: framework/customizer/sections/home/cta.php:203
 msgid "Browse Property"
 msgstr "Просмотр недвижимости"
 
-#: framework/customizer/sections/home/cta-contact.php:257
-#: framework/customizer/sections/home/cta.php:240
+#: framework/customizer/sections/home/cta-contact.php:178
+#: framework/customizer/sections/home/cta.php:207
 msgid "CTA Button Title Two"
 msgstr "Кнопка CTA Название Два"
 
-#: framework/customizer/sections/home/cta-contact.php:279
-#: framework/customizer/sections/home/cta.php:262
+#: framework/customizer/sections/home/cta-contact.php:200
+#: framework/customizer/sections/home/cta.php:229
 msgid "CTA Button URL Two"
 msgstr "Кнопка URL CTA 2"
 
 #: framework/customizer/sections/home/cta.php:26
-#: framework/customizer/sections/home/sections-manager.php:102
+#: framework/customizer/sections/home/sections-manager.php:101
 msgid "Call to Action"
 msgstr "Призыв к действию"
 
@@ -3618,7 +3695,7 @@ msgid "Select Featured Properties Variation"
 msgstr "Выберите Рекомендуемые Вариации объектов"
 
 #: framework/customizer/sections/home/features-section.php:23
-#: framework/customizer/sections/home/sections-manager.php:76
+#: framework/customizer/sections/home/sections-manager.php:75
 msgid "Features Section"
 msgstr "Раздел особенностей"
 
@@ -3626,49 +3703,59 @@ msgstr "Раздел особенностей"
 msgid "Features Section on Homepage"
 msgstr "Раздел особенностей на главной странице"
 
-#: framework/customizer/sections/home/features-section.php:100
+#: framework/customizer/sections/home/features-section.php:65
 msgid "Section Background Image"
 msgstr "Изображение раздела"
 
-#: framework/customizer/sections/home/features-section.php:137
+#: framework/customizer/sections/home/features-section.php:102
 #: framework/customizer/sections/home/news-posts.php:70
 msgid "Description Text"
 msgstr "Текст описания"
 
-#: framework/customizer/sections/home/features-section.php:165
-#: framework/customizer/sections/home/features-section.php:246
-#: framework/customizer/sections/home/features-section.php:327
-#: framework/customizer/sections/home/features-section.php:426
-#: framework/customizer/sections/home/features-section.php:454
-#: framework/customizer/sections/home/features-section.php:482
+#: framework/customizer/sections/home/features-section.php:126
+#, fuzzy
+#| msgid "Features "
+msgid "First Feature "
+msgstr "Особенности "
+
+#: framework/customizer/sections/home/features-section.php:143
+#: framework/customizer/sections/home/features-section.php:236
+#: framework/customizer/sections/home/features-section.php:329
+#, fuzzy
+#| msgid "Icon Image"
+msgid "Image"
+msgstr "Nзображение значка"
+
+#: framework/customizer/sections/home/features-section.php:207
+#: framework/customizer/sections/home/features-section.php:300
+#: framework/customizer/sections/home/features-section.php:393
+#: framework/customizer/sections/home/testimonial.php:124
+msgid "URL"
+msgstr "URL"
+
+#: framework/customizer/sections/home/features-section.php:218
+#, fuzzy
+#| msgid "Features "
+msgid "Second Feature "
+msgstr "Особенности "
+
+#: framework/customizer/sections/home/features-section.php:312
+#, fuzzy
+#| msgid "Features "
+msgid "Third Feature "
+msgstr "Особенности "
+
+#: framework/customizer/sections/home/features-section.php:428
+#: framework/customizer/sections/home/features-section.php:456
+#: framework/customizer/sections/home/features-section.php:484
 msgid "Feature Image"
 msgstr "Миниатюра записи"
 
-#: framework/customizer/sections/home/features-section.php:187
-#: framework/customizer/sections/home/features-section.php:268
-#: framework/customizer/sections/home/features-section.php:349
-msgid "Feature Title"
-msgstr "Название функции"
-
-#: framework/customizer/sections/home/features-section.php:208
-#: framework/customizer/sections/home/features-section.php:289
-#: framework/customizer/sections/home/features-section.php:370
-#: framework/meta-box/config-meta-boxes.php:1146
-msgid "Feature Description"
-msgstr "Описание особенности"
-
-#: framework/customizer/sections/home/features-section.php:229
-#: framework/customizer/sections/home/features-section.php:310
-#: framework/customizer/sections/home/features-section.php:391
-#: framework/meta-box/config-meta-boxes.php:1131
-msgid "Feature URL"
-msgstr "URL-адрес функции"
-
 #: framework/customizer/sections/home/home-agents.php:26
 #: framework/customizer/sections/home/home-agents.php:71
-#: framework/customizer/sections/home/sections-manager.php:103
-#: framework/include/admin/class-rh-admin-menu.php:162
-#: framework/include/admin/class-rh-admin-menu.php:163
+#: framework/customizer/sections/home/sections-manager.php:102
+#: framework/include/admin/class-rh-admin-menu.php:146
+#: framework/include/admin/class-rh-admin-menu.php:147
 #: framework/include/agent-post-type.php:20
 msgid "Agents"
 msgstr "Агенты"
@@ -3724,7 +3811,7 @@ msgid "News on Homepage"
 msgstr "Новости на главной странице"
 
 #: framework/customizer/sections/home/home-news.php:62
-#: framework/customizer/sections/home/sections-manager.php:106
+#: framework/customizer/sections/home/sections-manager.php:105
 msgid "News & Updates"
 msgstr "Новости и обновления"
 
@@ -3733,7 +3820,7 @@ msgid "Some recent news & updates of Real Homes theme."
 msgstr "Некоторые последние новости и обновления темы Real Homes."
 
 #: framework/customizer/sections/home/home-properties.php:45
-#: framework/customizer/sections/home/sections-manager.php:75
+#: framework/customizer/sections/home/sections-manager.php:74
 msgid "Home Properties"
 msgstr "Начало Недвижимость"
 
@@ -3846,11 +3933,11 @@ msgstr ""
 msgid "Enable Advance Search Label"
 msgstr "Включить предварительную метку поиска"
 
-#: framework/customizer/sections/home/search-form.php:116
+#: framework/customizer/sections/home/search-form.php:83
 msgid "Advance Search Label Text"
 msgstr "Предварительный текст метки поиска"
 
-#: framework/customizer/sections/home/search-form.php:117
+#: framework/customizer/sections/home/search-form.php:84
 msgid "This text will be replaced with Advance Search Label Image"
 msgstr "Этот текст будет заменен знаком предварительного поиска"
 
@@ -3862,34 +3949,34 @@ msgstr "Менеджер разделов"
 msgid "Order Settings"
 msgstr "Настройки заказов"
 
-#: framework/customizer/sections/home/sections-manager.php:43
+#: framework/customizer/sections/home/sections-manager.php:42
 msgid "Custom"
 msgstr "Пользовательский"
 
-#: framework/customizer/sections/home/sections-manager.php:70
-#: framework/customizer/sections/home/sections-manager.php:94
+#: framework/customizer/sections/home/sections-manager.php:69
+#: framework/customizer/sections/home/sections-manager.php:93
 msgid "Sections Order"
 msgstr "Разделы Заказать"
 
-#: framework/customizer/sections/home/sections-manager.php:71
-#: framework/customizer/sections/home/sections-manager.php:95
+#: framework/customizer/sections/home/sections-manager.php:70
+#: framework/customizer/sections/home/sections-manager.php:94
 msgid "Select Custom Order Settings to apply these changes."
 msgstr ""
 "Выберите «Пользовательские параметры заказа», чтобы применить эти изменения."
 
-#: framework/customizer/sections/home/sections-manager.php:78
+#: framework/customizer/sections/home/sections-manager.php:77
 msgid "News/Blog Posts"
 msgstr "Новости / Блоги"
 
-#: framework/customizer/sections/home/sections-manager.php:99
+#: framework/customizer/sections/home/sections-manager.php:98
 msgid "Latest Properties"
 msgstr "Последние свойства"
 
-#: framework/customizer/sections/home/sections-manager.php:101
+#: framework/customizer/sections/home/sections-manager.php:100
 msgid "Testimonials"
 msgstr "Отзывы"
 
-#: framework/customizer/sections/home/sections-manager.php:107
+#: framework/customizer/sections/home/sections-manager.php:106
 msgid "Call to Action -- Contact"
 msgstr "Призыв к действию - Контакт"
 
@@ -3991,7 +4078,7 @@ msgstr ""
 "Slider Пользовательские сообщение Тип"
 
 #: framework/customizer/sections/home/slider-area.php:275
-#: framework/meta-box/config-meta-boxes.php:845
+#: framework/meta-box/config-meta-boxes.php:852
 msgid "Revolution Slider Alias"
 msgstr "Revolution Slider Alias"
 
@@ -4014,7 +4101,7 @@ msgid "Description Text Below Slogan"
 msgstr "Текст описания под слоганом"
 
 #: framework/customizer/sections/home/testimonial.php:26
-#: framework/customizer/sections/home/testimonial.php:106
+#: framework/customizer/sections/home/testimonial.php:55
 msgid "Testimonial"
 msgstr "Отзыв"
 
@@ -4022,7 +4109,7 @@ msgstr "Отзыв"
 msgid "Testimonial on Homepage"
 msgstr "Отзыв на главной странице"
 
-#: framework/customizer/sections/home/testimonial.php:102
+#: framework/customizer/sections/home/testimonial.php:51
 msgid ""
 "Best theme for Real Estate Agency fast installation and translation can be "
 "done with po-edit software. Cool & comfortable design, thanks for this "
@@ -4033,16 +4120,12 @@ msgstr ""
 "спасибо за эту удивительную тему. Рекомендуется для всех агентств "
 "недвижимости."
 
-#: framework/customizer/sections/home/testimonial.php:136
+#: framework/customizer/sections/home/testimonial.php:85
 msgid "giovannigr"
 msgstr "giovannigr"
 
-#: framework/customizer/sections/home/testimonial.php:191
-msgid "URL"
-msgstr "URL"
-
 #: framework/customizer/sections/property/agent.php:34
-#: framework/meta-box/config-meta-boxes.php:121
+#: framework/meta-box/config-meta-boxes.php:131
 msgid "Agent Information"
 msgstr "Информация об агенте"
 
@@ -4064,8 +4147,21 @@ msgstr ""
 "Учитывая, адрес электронной почты будет получить копию сообщения, "
 "отправляемые на агента."
 
+#: framework/customizer/sections/property/agent.php:96
+#: framework/customizer/sections/styles/basic-settings.php:47
+msgid "Important Note:"
+msgstr "Важная заметка:"
+
+#: framework/customizer/sections/property/agent.php:97
+msgid ""
+"For agent form layout on property detail page, please go to Customizer > "
+"Property Detail Page > Basics ."
+msgstr ""
+"Для компоновки формы агента на странице сведений о свойствах перейдите в "
+"раздел «Настроить»&gt; «Страница свойств»&gt; «Основы»."
+
 #: framework/customizer/sections/property/attachments.php:24
-#: framework/meta-box/config-meta-boxes.php:499
+#: framework/meta-box/config-meta-boxes.php:506
 msgid "Attachments"
 msgstr "Вложения"
 
@@ -4087,7 +4183,7 @@ msgid "Basics"
 msgstr "Основы"
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:82
+#: framework/customizer/sections/search/properties-search-page.php:97
 msgid "Header variation to display on Property Detail Page."
 msgstr "Изменение заголовка для отображения на странице свойств объекта."
 
@@ -4104,7 +4200,7 @@ msgid "Agent info in Sidebar"
 msgstr "Информация о агенте в боковой панели"
 
 #: framework/customizer/sections/property/basics.php:81
-#: framework/meta-box/config-meta-boxes.php:277
+#: framework/meta-box/config-meta-boxes.php:287
 msgid "Property Address"
 msgstr "Адрес недвижимости"
 
@@ -4269,7 +4365,6 @@ msgstr "Показать похожие свойства на основе"
 
 #: framework/customizer/sections/property/similar-properties.php:84
 #: framework/customizer/sections/search/search-form-basics.php:73
-#: framework/include/admin/class-rh-admin-menu.php:121
 #: framework/include/property-post-type.php:87
 #: framework/include/property-post-type.php:88
 #: framework/include/property-post-type.php:101
@@ -4284,7 +4379,7 @@ msgstr "Расположение недвижимости"
 
 #: framework/customizer/sections/property/video.php:34
 #: framework/customizer/sections/property/video.php:47
-#: framework/meta-box/config-meta-boxes.php:117
+#: framework/meta-box/config-meta-boxes.php:127
 msgid "Property Video"
 msgstr "Видео объекта"
 
@@ -4341,20 +4436,40 @@ msgstr ""
 "То, что вы хотите отобразить в области ниже заголовка на свойства страницы "
 "результатов поиска?"
 
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:77
+#, fuzzy
+#| msgid "Search Results"
+msgid "Search Results Layout"
+msgstr "Результаты поиска"
+
+#: framework/customizer/sections/search/properties-search-page.php:78
+#, fuzzy
+#| msgid "Search Results Page Header"
+msgid "Search results page layout."
+msgstr "Страница результатов поиска заголовка"
+
+#: framework/customizer/sections/search/properties-search-page.php:82
+msgid "With Map"
+msgstr "С картой"
+
+#: framework/customizer/sections/search/properties-search-page.php:83
+msgid "Without Map"
+msgstr "Без карты"
+
+#: framework/customizer/sections/search/properties-search-page.php:117
 msgid "Properties Per Page"
 msgstr "Свойства на страницу"
 
-#: framework/customizer/sections/search/properties-search-page.php:103
+#: framework/customizer/sections/search/properties-search-page.php:118
 msgid "Number of properties to display on search results page"
 msgstr "Количество объектов для отображения на странице результатов поиска"
 
-#: framework/customizer/sections/search/properties-search-page.php:140
+#: framework/customizer/sections/search/properties-search-page.php:155
 msgid "Display Featured Properties on Top in Search Results Page?"
 msgstr ""
 "Дисплей Рекомендуемые свойства на вершине в результатах поиска страницы?"
 
-#: framework/customizer/sections/search/properties-search-page.php:141
+#: framework/customizer/sections/search/properties-search-page.php:156
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New "
 "and New to Old) only."
@@ -4362,11 +4477,11 @@ msgstr ""
 "Эта установка будет применяться на сортировке на основе Сортировка по дате "
 "(от старых к новым и от новых к старым) только."
 
-#: framework/customizer/sections/search/properties-search-page.php:162
+#: framework/customizer/sections/search/properties-search-page.php:177
 msgid "Search Page Variation"
 msgstr "Изменение страницы поиска"
 
-#: framework/customizer/sections/search/properties-search-page.php:163
+#: framework/customizer/sections/search/properties-search-page.php:178
 msgid "Search page variation to display properties."
 msgstr "Выбор страницы для отображения свойств."
 
@@ -4395,7 +4510,7 @@ msgid "Area Measurement Unit for Min and Max Area fields."
 msgstr "Единица измерения площади для Min и Max Площадь полей."
 
 #: framework/customizer/sections/search/search-form-areas.php:110
-#: framework/meta-box/config-meta-boxes.php:358
+#: framework/meta-box/config-meta-boxes.php:365
 msgid "Example: sq ft"
 msgstr "Пример: кв.м"
 
@@ -4712,10 +4827,6 @@ msgstr "Цвет темы по умолчанию"
 msgid "My Own Custom Colors"
 msgstr "Мои собственные пользовательские цвета"
 
-#: framework/customizer/sections/styles/basic-settings.php:47
-msgid "Important Note:"
-msgstr "Важная заметка:"
-
 #: framework/customizer/sections/styles/basic-settings.php:48
 msgid ""
 "Above settings will automatically change to Default whenever you change the "
@@ -4838,7 +4949,7 @@ msgstr "Цвета сердечника"
 msgid "Important Notes:"
 msgstr "Важные заметки:"
 
-#: framework/customizer/sections/styles/core-styles.php:28
+#: framework/customizer/sections/styles/core-styles.php:27
 #, php-format
 msgid ""
 "• These color options replace the core colors %1$s mostly %2$s all over the "
@@ -4849,7 +4960,7 @@ msgstr ""
 "теме. Вы можете также переопределить эти цвета почти для каждого раздела в "
 "Настройке%1$s&gt; Стили%2$s."
 
-#: framework/customizer/sections/styles/core-styles.php:42
+#: framework/customizer/sections/styles/core-styles.php:40
 #, php-format
 msgid ""
 "• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
@@ -4859,11 +4970,11 @@ msgstr ""
 "собственные пользовательские цвета%2$s выбран в%1$s Customizer&gt; Стили&gt; "
 "Default или Custom%2$s. "
 
-#: framework/customizer/sections/styles/core-styles.php:73
+#: framework/customizer/sections/styles/core-styles.php:71
 msgid "Orange Light"
 msgstr "Оранжевый свет"
 
-#: framework/customizer/sections/styles/core-styles.php:74
+#: framework/customizer/sections/styles/core-styles.php:72
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4886,11 +4997,11 @@ msgstr ""
 "Опубликовать теги%1$s • Создать ответную кнопку%1$s • Фильтр галереи%1$s • "
 "Форма контакта Кнопка%1$s Цвет по умолчанию # ec894d "
 
-#: framework/customizer/sections/styles/core-styles.php:101
+#: framework/customizer/sections/styles/core-styles.php:99
 msgid "Orange Dark"
 msgstr "Оранжевый цвет"
 
-#: framework/customizer/sections/styles/core-styles.php:102
+#: framework/customizer/sections/styles/core-styles.php:100
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4903,11 +5014,11 @@ msgstr ""
 "колонтитула Ссылки Hover%1$s • Виджеты боковой панели Ссылки Hover%1$s Цвет "
 "по умолчанию - # dc7d44 "
 
-#: framework/customizer/sections/styles/core-styles.php:121
+#: framework/customizer/sections/styles/core-styles.php:119
 msgid "Orange Glow"
 msgstr "Оранжевый свет"
 
-#: framework/customizer/sections/styles/core-styles.php:122
+#: framework/customizer/sections/styles/core-styles.php:120
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4925,11 +5036,11 @@ msgstr ""
 "Сообщение Читать дальше Кнопка Hover%1$s • Добавить теги Hover%1$s • Создать "
 "ответную кнопку Hover%1$s • Pagination%1$s Цвет по умолчанию - # e3712c "
 
-#: framework/customizer/sections/styles/core-styles.php:145
+#: framework/customizer/sections/styles/core-styles.php:143
 msgid "Orange Burnt"
 msgstr "Оранжевый Утомленный"
 
-#: framework/customizer/sections/styles/core-styles.php:146
+#: framework/customizer/sections/styles/core-styles.php:144
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4953,11 +5064,11 @@ msgstr ""
 "заголовка свойств свойств виджета%1$s • Контактная страница Email Hover%1$s "
 "• Поиск объектов в форме поиска Виджет%1$s Цвет по умолчанию: # df5400 "
 
-#: framework/customizer/sections/styles/core-styles.php:171
+#: framework/customizer/sections/styles/core-styles.php:169
 msgid "Blue light"
 msgstr "Синий свет"
 
-#: framework/customizer/sections/styles/core-styles.php:172
+#: framework/customizer/sections/styles/core-styles.php:170
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4978,11 +5089,11 @@ msgstr ""
 "• Значок оповещения в формате PostScript%1$s • Навигация ползунка%1$s • "
 "Наложение свойства галереи%1$s Цвет по умолчанию - # 4dc7ec "
 
-#: framework/customizer/sections/styles/core-styles.php:215
+#: framework/customizer/sections/styles/core-styles.php:196
 msgid "Blue Dark"
 msgstr "Тёмно-голубой"
 
-#: framework/customizer/sections/styles/core-styles.php:216
+#: framework/customizer/sections/styles/core-styles.php:197
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4999,11 +5110,11 @@ msgstr ""
 "Баннер Описание Background%1$s • Banner Breadcrumbs Background%1$s Цвет по "
 "умолчанию - # 37b3d9 "
 
-#: framework/customizer/sections/styles/core-styles.php:240
+#: framework/customizer/sections/styles/core-styles.php:221
 msgid "Orange"
 msgstr "Оранжевый"
 
-#: framework/customizer/sections/styles/core-styles.php:241
+#: framework/customizer/sections/styles/core-styles.php:222
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5026,11 +5137,11 @@ msgstr ""
 "Домашние агенты Arrow%1$s • Ссылки виджета боковой панели%1$s • Агент "
 "Просмотр моих объектов Ссылка%1$s Цвет по умолчанию # ea723d "
 
-#: framework/customizer/sections/styles/core-styles.php:267
+#: framework/customizer/sections/styles/core-styles.php:248
 msgid "Green"
 msgstr "Зеленый"
 
-#: framework/customizer/sections/styles/core-styles.php:268
+#: framework/customizer/sections/styles/core-styles.php:249
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5071,11 +5182,11 @@ msgstr ""
 "Кнопка контакта с формой страницы%1$s • Пагинация%1$s Цвет по умолчанию - # "
 "1ea69a "
 
-#: framework/customizer/sections/styles/core-styles.php:306
+#: framework/customizer/sections/styles/core-styles.php:287
 msgid "Green Dark"
 msgstr "Темно-зеленый"
 
-#: framework/customizer/sections/styles/core-styles.php:307
+#: framework/customizer/sections/styles/core-styles.php:288
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5165,6 +5276,9 @@ msgstr "Цвет фона заголовка"
 #: framework/customizer/sections/styles/header-styles.php:85
 #: framework/customizer/sections/styles/header-styles.php:252
 #: framework/customizer/sections/styles/header-styles.php:334
+#: framework/customizer/sections/styles/header-styles.php:369
+#: framework/customizer/sections/styles/header-styles.php:385
+#: framework/customizer/sections/styles/header-styles.php:401
 #, php-format
 msgid "Default Color is %s"
 msgstr "Цвет по умолчанию - %s"
@@ -5248,6 +5362,24 @@ msgstr "Заголовок Номер телефона Цвет текста"
 #: framework/customizer/sections/styles/header-styles.php:350
 msgid "Header Phone Icon Background Color"
 msgstr "Заголовок телефона Цвет фона значка"
+
+#: framework/customizer/sections/styles/header-styles.php:367
+#, fuzzy
+#| msgid "Banner Title Background Color"
+msgid "Language Switch Background Color"
+msgstr "Баннер Название Цвет фона"
+
+#: framework/customizer/sections/styles/header-styles.php:383
+#, fuzzy
+#| msgid "Display WPML Language Switcher in Top Header"
+msgid "Language Switch Link Color"
+msgstr "Дисплей WPML Language Switcher в верхней строке"
+
+#: framework/customizer/sections/styles/header-styles.php:399
+#, fuzzy
+#| msgid "Header Links Hover Color"
+msgid "Language Switch Link Hover Color"
+msgstr "Заголовок ссылки Hover Цвет"
 
 #: framework/customizer/sections/styles/home-page.php:27
 msgid "Home Properties "
@@ -5688,17 +5820,17 @@ msgstr "property-feature"
 msgid "Property Feature Slug"
 msgstr "Характеристика недвижимости Slug"
 
-#: framework/functions/basic.php:390
+#: framework/functions/basic.php:374
 msgid "No more properties are available."
 msgstr "Доступное кол-во мест использовано."
 
-#: framework/functions/basic.php:411
-#: framework/meta-box/config-meta-boxes.php:665
-#: framework/meta-box/config-meta-boxes.php:753
+#: framework/functions/basic.php:394
+#: framework/meta-box/config-meta-boxes.php:672
+#: framework/meta-box/config-meta-boxes.php:760
 msgid "WhatsApp Number"
 msgstr "Номер WhatsApp"
 
-#: framework/functions/basic.php:772
+#: framework/functions/basic.php:747
 #: framework/functions/design-variations-handler.php:536
 msgid "Go to..."
 msgstr "Перейти к..."
@@ -6104,19 +6236,19 @@ msgstr "Обращение к рецензентов: %s"
 msgid "You can contact the submitter \"%s\" via email %s"
 msgstr "Вы можете связаться с автором “%s” по электронной почте %s"
 
-#: framework/functions/real-estate-search.php:913
+#: framework/functions/real-estate-search.php:930
 msgid "Main Location"
 msgstr "Основное место"
 
-#: framework/functions/real-estate-search.php:914
+#: framework/functions/real-estate-search.php:931
 msgid "Child Location"
 msgstr "Детский Расположение"
 
-#: framework/functions/real-estate-search.php:915
+#: framework/functions/real-estate-search.php:932
 msgid "Grand Child Location"
 msgstr "Внук Расположение"
 
-#: framework/functions/real-estate-search.php:916
+#: framework/functions/real-estate-search.php:933
 msgid "Great Grand Child Location"
 msgstr "Большой Большой Детский Расположение"
 
@@ -6197,78 +6329,50 @@ msgstr "%1$s в %2$s"
 msgid "said"
 msgstr "сказал"
 
-#: framework/include/admin/class-rh-admin-menu.php:97
-#: framework/include/admin/class-rh-admin-menu.php:98
+#: framework/include/admin/class-rh-admin-menu.php:99
+#: framework/include/admin/class-rh-admin-menu.php:100
 msgid "Real Homes"
 msgstr "Реальные дома"
 
-#: framework/include/admin/class-rh-admin-menu.php:113
+#: framework/include/admin/class-rh-admin-menu.php:116
 #: framework/include/property-post-type.php:21
 msgid "Add New Property"
 msgstr "Добавить новый объект"
 
-#: framework/include/admin/class-rh-admin-menu.php:114
+#: framework/include/admin/class-rh-admin-menu.php:117
 #: framework/include/property-post-type.php:23
 msgid "New Property"
 msgstr "Новый объект"
 
-#: framework/include/admin/class-rh-admin-menu.php:120
-msgid "Add New Property Features"
-msgstr "Добавить новые функции"
-
-#: framework/include/admin/class-rh-admin-menu.php:127
-msgid "Add New Property Types"
-msgstr "Добавить новые типы объектов"
-
-#: framework/include/admin/class-rh-admin-menu.php:128
-#: framework/include/property-post-type.php:136
-#: widgets/property-types-widget.php:74
-msgid "Property Types"
-msgstr "Типы недвижимости"
-
-#: framework/include/admin/class-rh-admin-menu.php:134
-msgid "Add New Property Cities"
-msgstr "Добавить новые города недвижимости"
-
-#: framework/include/admin/class-rh-admin-menu.php:135
-#: framework/include/property-post-type.php:171
-msgid "Property Cities"
-msgstr "Города"
-
-#: framework/include/admin/class-rh-admin-menu.php:141
-#: framework/include/property-post-type.php:201
-msgid "Add New Property Status"
-msgstr "Добавить Статус Новое жилье"
-
-#: framework/include/admin/class-rh-admin-menu.php:155
-#: framework/include/admin/class-rh-admin-menu.php:156
+#: framework/include/admin/class-rh-admin-menu.php:138
+#: framework/include/admin/class-rh-admin-menu.php:139
 #: framework/include/agency-post-type.php:18
 msgid "Agencies"
 msgstr "Агентства"
 
-#: framework/include/admin/class-rh-admin-menu.php:176
-#: framework/include/admin/class-rh-admin-menu.php:177
+#: framework/include/admin/class-rh-admin-menu.php:162
+#: framework/include/admin/class-rh-admin-menu.php:163
 #: framework/include/slide-post-type.php:20
 msgid "Slides"
 msgstr "Слайды"
 
-#: framework/include/admin/class-rh-admin-menu.php:183
-#: framework/include/admin/class-rh-admin-menu.php:184
+#: framework/include/admin/class-rh-admin-menu.php:170
+#: framework/include/admin/class-rh-admin-menu.php:171
 msgid "Customize Settings"
 msgstr "Настройка параметров"
 
-#: framework/include/admin/class-rh-admin-menu.php:190
-#: framework/include/admin/class-rh-admin-menu.php:191
+#: framework/include/admin/class-rh-admin-menu.php:178
+#: framework/include/admin/class-rh-admin-menu.php:179
 msgid "Design"
 msgstr "Дизайн"
 
-#: framework/include/admin/class-rh-admin-menu.php:202
-#: framework/include/admin/class-rh-admin-menu.php:203
-#: framework/include/admin/class-rh-admin-menu.php:248
+#: framework/include/admin/class-rh-admin-menu.php:189
+#: framework/include/admin/class-rh-admin-menu.php:190
+#: framework/include/admin/class-rh-admin-menu.php:237
 msgid "Demo Import"
 msgstr "Демо импорт"
 
-#: framework/include/admin/class-rh-admin-menu.php:247
+#: framework/include/admin/class-rh-admin-menu.php:236
 msgid "One Click Demo Import"
 msgstr "Импорт данных"
 
@@ -6618,6 +6722,11 @@ msgstr "Добавить или удалить типы недвижимости
 msgid "Choose from the most used Property Types"
 msgstr "Выберите один из наиболее часто используемых типов свойств"
 
+#: framework/include/property-post-type.php:136
+#: widgets/property-types-widget.php:74
+msgid "Property Types"
+msgstr "Типы недвижимости"
+
 #: framework/include/property-post-type.php:152
 msgid "property-types"
 msgstr "типы объектов"
@@ -6670,6 +6779,10 @@ msgstr "Добавить или удалить город"
 msgid "Choose from the most used Property Cities"
 msgstr "Выберите один из наиболее часто используемых городов собственности"
 
+#: framework/include/property-post-type.php:171
+msgid "Property Cities"
+msgstr "Города"
+
 #: framework/include/property-post-type.php:187
 msgid "property-cities"
 msgstr "недвижимость городов"
@@ -6701,6 +6814,10 @@ msgstr "Статус недвижимости Редактировать"
 #: framework/include/property-post-type.php:200
 msgid "Update Property Status"
 msgstr "Обновление статуса недвижимости"
+
+#: framework/include/property-post-type.php:201
+msgid "Add New Property Status"
+msgstr "Добавить Статус Новое жилье"
 
 #: framework/include/property-post-type.php:202
 msgid "New Property Status Name"
@@ -6781,20 +6898,20 @@ msgid "Ascending"
 msgstr "По возрастанию"
 
 #: framework/include/shortcodes/vc-map.php:143
-#: framework/meta-box/config-meta-boxes.php:957
-#: framework/meta-box/config-meta-boxes.php:1063
+#: framework/meta-box/config-meta-boxes.php:964
+#: framework/meta-box/config-meta-boxes.php:1070
 msgid "Locations"
 msgstr "Местоположение"
 
 #: framework/include/shortcodes/vc-map.php:150
-#: framework/meta-box/config-meta-boxes.php:966
-#: framework/meta-box/config-meta-boxes.php:1071
+#: framework/meta-box/config-meta-boxes.php:973
+#: framework/meta-box/config-meta-boxes.php:1078
 msgid "Statuses"
 msgstr "Статусы"
 
 #: framework/include/shortcodes/vc-map.php:157
-#: framework/meta-box/config-meta-boxes.php:975
-#: framework/meta-box/config-meta-boxes.php:1079
+#: framework/meta-box/config-meta-boxes.php:982
+#: framework/meta-box/config-meta-boxes.php:1086
 msgid "Types"
 msgstr "Типы"
 
@@ -6815,7 +6932,7 @@ msgid "Maximum Bathrooms"
 msgstr "Максимальные ванные"
 
 #: framework/include/shortcodes/vc-map.php:242
-#: framework/meta-box/config-meta-boxes.php:1011
+#: framework/meta-box/config-meta-boxes.php:1018
 msgid "Minimum Price"
 msgstr "Мин. цена"
 
@@ -6827,7 +6944,7 @@ msgid "Only provide digits"
 msgstr "Только цифры обеспечивают"
 
 #: framework/include/shortcodes/vc-map.php:250
-#: framework/meta-box/config-meta-boxes.php:1020
+#: framework/meta-box/config-meta-boxes.php:1027
 msgid "Maximum Price"
 msgstr "Макс. цена"
 
@@ -6921,7 +7038,7 @@ msgstr ""
 "видео и удалить ширину и атрибуты высоты."
 
 #: framework/meta-box/config-meta-boxes.php:66
-#: framework/meta-box/config-meta-boxes.php:109
+#: framework/meta-box/config-meta-boxes.php:119
 msgid "Gallery Images"
 msgstr "Галерея изображений"
 
@@ -6938,97 +7055,117 @@ msgstr ""
 "высоту 460 пикселей, изображения большего размера будут обрезаны "
 "автоматически."
 
+#: framework/meta-box/config-meta-boxes.php:99
+msgid "Gallery with thumbnails on right"
+msgstr "Галерея с эскизами на правом"
+
+#: framework/meta-box/config-meta-boxes.php:100
+msgid "Gallery with thumbnails on bottom"
+msgstr "Галерея с эскизами на дно"
+
+#: framework/meta-box/config-meta-boxes.php:104
+#, fuzzy
+#| msgid "Default Order"
+msgid "Default Gallery"
+msgstr "По умолчанию"
+
 #: framework/meta-box/config-meta-boxes.php:105
+#, fuzzy
+#| msgid "Gallery with thumbnails on right"
+msgid "Gallery with thumbnails"
+msgstr "Галерея с эскизами на правом"
+
+#: framework/meta-box/config-meta-boxes.php:115
 msgid "Basic Information"
 msgstr "Основная информация"
 
-#: framework/meta-box/config-meta-boxes.php:129
+#: framework/meta-box/config-meta-boxes.php:139
 msgid "Homepage Slider"
 msgstr "Слайдер на главной странице"
 
-#: framework/meta-box/config-meta-boxes.php:133
+#: framework/meta-box/config-meta-boxes.php:143
 msgid "Top Banner"
 msgstr "Верхний Баннер"
 
-#: framework/meta-box/config-meta-boxes.php:143
+#: framework/meta-box/config-meta-boxes.php:153
 msgid "Sale or Rent Price ( Only digits )"
 msgstr "Продажа или аренда цена (только цифры)"
 
-#: framework/meta-box/config-meta-boxes.php:144
+#: framework/meta-box/config-meta-boxes.php:154
 msgid "Example Value: 435000"
 msgstr "Пример значения: 435000"
 
-#: framework/meta-box/config-meta-boxes.php:153
+#: framework/meta-box/config-meta-boxes.php:163
 msgid "Example Value: Per Month"
 msgstr "Пример значения: в месяц"
 
-#: framework/meta-box/config-meta-boxes.php:161
+#: framework/meta-box/config-meta-boxes.php:171
 msgid "Area Size ( Only digits )"
 msgstr "Площадь (только цифры)"
 
-#: framework/meta-box/config-meta-boxes.php:162
+#: framework/meta-box/config-meta-boxes.php:172
 msgid "Example Value: 2500"
 msgstr "Пример значения: 2500"
 
-#: framework/meta-box/config-meta-boxes.php:170
+#: framework/meta-box/config-meta-boxes.php:180
 msgid "Area Size Postfix"
 msgstr "Размер поля Postfix"
 
-#: framework/meta-box/config-meta-boxes.php:171
-#: framework/meta-box/config-meta-boxes.php:189
+#: framework/meta-box/config-meta-boxes.php:181
+#: framework/meta-box/config-meta-boxes.php:199
 msgid "Example Value: sq ft"
 msgstr "Пример: sq ft"
 
-#: framework/meta-box/config-meta-boxes.php:179
+#: framework/meta-box/config-meta-boxes.php:189
 msgid "Lot Size ( Only digits )"
 msgstr "Размер лота (только цифры)"
 
-#: framework/meta-box/config-meta-boxes.php:180
+#: framework/meta-box/config-meta-boxes.php:190
 msgid "Example Value: 3000"
 msgstr "Пример: 3000"
 
-#: framework/meta-box/config-meta-boxes.php:188
+#: framework/meta-box/config-meta-boxes.php:198
 msgid "Lot Size Postfix"
 msgstr "Размер поля Postfix"
 
-#: framework/meta-box/config-meta-boxes.php:198
+#: framework/meta-box/config-meta-boxes.php:208
 msgid "Example Value: 4"
 msgstr "Пример значения: 4"
 
-#: framework/meta-box/config-meta-boxes.php:207
+#: framework/meta-box/config-meta-boxes.php:217
 msgid "Example Value: 2"
 msgstr "Пример значения: 2"
 
-#: framework/meta-box/config-meta-boxes.php:216
+#: framework/meta-box/config-meta-boxes.php:226
 msgid "Example Value: 1"
 msgstr "Пример значения: 1"
 
-#: framework/meta-box/config-meta-boxes.php:225
+#: framework/meta-box/config-meta-boxes.php:235
 msgid "It will help you search a property directly."
 msgstr "Это поможет вам найти недвижимость напрямую."
 
-#: framework/meta-box/config-meta-boxes.php:237
+#: framework/meta-box/config-meta-boxes.php:247
 msgid "Example Value: 2017"
 msgstr "Пример: 2017"
 
-#: framework/meta-box/config-meta-boxes.php:244
+#: framework/meta-box/config-meta-boxes.php:254
 msgid "Mark this property as featured ?"
 msgstr "Отметить эту недвижимость как \"Рекомендуемую”?"
 
-#: framework/meta-box/config-meta-boxes.php:264
+#: framework/meta-box/config-meta-boxes.php:274
 msgid "Hide map on property detail page ?"
 msgstr "Скрыть карту на странице свойств?"
 
-#: framework/meta-box/config-meta-boxes.php:278
+#: framework/meta-box/config-meta-boxes.php:288
 msgid "Leaving it empty will hide the google map on property detail page."
 msgstr ""
 "Оставив его пустым будет скрыть карту Google на странице Сведения о свойстве."
 
-#: framework/meta-box/config-meta-boxes.php:286
+#: framework/meta-box/config-meta-boxes.php:296
 msgid "Property Location on Map"
 msgstr "Недвижимость на карте"
 
-#: framework/meta-box/config-meta-boxes.php:287
+#: framework/meta-box/config-meta-boxes.php:297
 msgid ""
 "Drag the map marker to point property location. Address field given above "
 "can be used to search location."
@@ -7036,73 +7173,65 @@ msgstr ""
 "Перетащите маркер карты, чтобы указать местоположение объекта. Поле адреса, "
 "указанное выше, может использоваться для поиска местоположения."
 
-#: framework/meta-box/config-meta-boxes.php:299
+#: framework/meta-box/config-meta-boxes.php:309
 msgid "Gallery Type You Want to Use"
 msgstr "Тип галереи который вы хотите использовать"
 
-#: framework/meta-box/config-meta-boxes.php:304
-msgid "Gallery with thumbnails on right"
-msgstr "Галерея с эскизами на правом"
-
-#: framework/meta-box/config-meta-boxes.php:305
-msgid "Gallery with thumbnails on bottom"
-msgstr "Галерея с эскизами на дно"
-
-#: framework/meta-box/config-meta-boxes.php:311
+#: framework/meta-box/config-meta-boxes.php:318
 msgid "Property Gallery Images"
 msgstr "Галерея недвижимости Изображения"
 
-#: framework/meta-box/config-meta-boxes.php:329
+#: framework/meta-box/config-meta-boxes.php:336
 msgid "Floor Name"
 msgstr "Nол Имя"
 
-#: framework/meta-box/config-meta-boxes.php:331
+#: framework/meta-box/config-meta-boxes.php:338
 msgid "Example: Ground Floor"
 msgstr "Пример: Первый этаж"
 
-#: framework/meta-box/config-meta-boxes.php:335
+#: framework/meta-box/config-meta-boxes.php:342
 msgid "Floor Price ( Only digits )"
 msgstr "Этаж Цена (только цифры)"
 
-#: framework/meta-box/config-meta-boxes.php:337
+#: framework/meta-box/config-meta-boxes.php:344
 msgid "Example: 4000"
 msgstr "Пример: 4000"
 
-#: framework/meta-box/config-meta-boxes.php:344
+#: framework/meta-box/config-meta-boxes.php:351
 msgid "Example: Per Month"
 msgstr "Пример: в месяц"
 
-#: framework/meta-box/config-meta-boxes.php:349
+#: framework/meta-box/config-meta-boxes.php:356
 msgid "Floor Size ( Only digits )"
 msgstr "Этаж Размер (только цифры)"
 
-#: framework/meta-box/config-meta-boxes.php:351
+#: framework/meta-box/config-meta-boxes.php:358
 msgid "Example: 2500"
 msgstr "Пример: 2500"
 
-#: framework/meta-box/config-meta-boxes.php:356
+#: framework/meta-box/config-meta-boxes.php:363
 msgid "Size Postfix"
 msgstr "Размер Postfix"
 
-#: framework/meta-box/config-meta-boxes.php:365
+#: framework/meta-box/config-meta-boxes.php:372
 msgid "Example: 4"
 msgstr "Пример: 4"
 
-#: framework/meta-box/config-meta-boxes.php:372
+#: framework/meta-box/config-meta-boxes.php:379
 msgid "Example: 2"
 msgstr "Пример: 2"
 
-#: framework/meta-box/config-meta-boxes.php:382
+#: framework/meta-box/config-meta-boxes.php:389
 msgid "Floor Plan Image"
 msgstr "План изображения"
 
-#: framework/meta-box/config-meta-boxes.php:384
+#: framework/meta-box/config-meta-boxes.php:391
 msgid "The recommended minimum width is 770px and height is flexible."
 msgstr ""
 "Рекомендуемая минимальная ширина составляет 770 точек и высота является "
 "гибким."
 
-#: framework/meta-box/config-meta-boxes.php:395
+#: framework/meta-box/config-meta-boxes.php:402
 msgid ""
 "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
 "supported"
@@ -7110,11 +7239,11 @@ msgstr ""
 "Предоставление виртуального URL видео-тур. YouTube, Vimeo, SWF файлов и MOV "
 "файлов поддерживаются"
 
-#: framework/meta-box/config-meta-boxes.php:401
+#: framework/meta-box/config-meta-boxes.php:408
 msgid "Virtual Tour Video Image"
 msgstr "Виртуальный тур Видео Изображение"
 
-#: framework/meta-box/config-meta-boxes.php:403
+#: framework/meta-box/config-meta-boxes.php:410
 msgid ""
 "Provide an image that will be displayed as a place holder and when user will "
 "click over it the video will be opened in a lightbox. You must provide this "
@@ -7129,11 +7258,11 @@ msgstr ""
 "минимальная высота 417px. Большие изображения размер будет обрезана "
 "автоматически."
 
-#: framework/meta-box/config-meta-boxes.php:417
+#: framework/meta-box/config-meta-boxes.php:424
 msgid "360 Virtual Tour"
 msgstr "360 Виртуальный тур"
 
-#: framework/meta-box/config-meta-boxes.php:420
+#: framework/meta-box/config-meta-boxes.php:427
 msgid ""
 "Provide iframe embed code for the 360 virtual tour. For more details please "
 "consult <a href=\"https://realhomes.io/documentation/add-property/#add-video-"
@@ -7144,27 +7273,27 @@ msgstr ""
 "io/documentation/add-property/#add-video-tour-and-virtual-tour\" target="
 "\"_blank\">Добавить свойство»</a> в документации."
 
-#: framework/meta-box/config-meta-boxes.php:440
+#: framework/meta-box/config-meta-boxes.php:447
 msgid "Author information."
 msgstr "Информация об авторе."
 
-#: framework/meta-box/config-meta-boxes.php:441
+#: framework/meta-box/config-meta-boxes.php:448
 msgid "Agent Information. ( Select the agent below )"
 msgstr "Информация об агенте. (Выберите агент ниже)"
 
-#: framework/meta-box/config-meta-boxes.php:442
+#: framework/meta-box/config-meta-boxes.php:449
 msgid "None. ( Hide information box )"
 msgstr "Никто. (Скрыть информационное окно)"
 
-#: framework/meta-box/config-meta-boxes.php:461
+#: framework/meta-box/config-meta-boxes.php:468
 msgid "Make this property sticky for home and listings pages"
 msgstr "Сделайте это свойство липким для домашних и списков страниц"
 
-#: framework/meta-box/config-meta-boxes.php:475
+#: framework/meta-box/config-meta-boxes.php:482
 msgid "Property Label Text"
 msgstr "Текст ярлыка свойств"
 
-#: framework/meta-box/config-meta-boxes.php:477
+#: framework/meta-box/config-meta-boxes.php:484
 msgid ""
 "You can add a property label to display on property thumbnails. Example "
 "Value: Hot Deal"
@@ -7172,11 +7301,11 @@ msgstr ""
 "Вы можете добавить ярлык свойств для отображения миниатюр свойств. Пример: "
 "Горячее предложение"
 
-#: framework/meta-box/config-meta-boxes.php:483
+#: framework/meta-box/config-meta-boxes.php:490
 msgid "Label Background Color"
 msgstr "Цвет фона метки"
 
-#: framework/meta-box/config-meta-boxes.php:485
+#: framework/meta-box/config-meta-boxes.php:492
 msgid ""
 "Set a label background color. Otherwise label text will be displayed with "
 "transparent background."
@@ -7184,7 +7313,7 @@ msgstr ""
 "Установите цвет фона метки. В противном случае текст надписи будет "
 "отображаться прозрачным фоном."
 
-#: framework/meta-box/config-meta-boxes.php:500
+#: framework/meta-box/config-meta-boxes.php:507
 msgid ""
 "You can attach PDF files, Map images OR other documents to provide further "
 "details related to property."
@@ -7192,23 +7321,23 @@ msgstr ""
 "Вы можете прикрепить файлы PDF, изображения карты или другие документы, "
 "представить дополнительную информацию, связанные с собственностью."
 
-#: framework/meta-box/config-meta-boxes.php:514
+#: framework/meta-box/config-meta-boxes.php:521
 msgid "Property Owner Name"
 msgstr "Название недвижимости Владелец"
 
-#: framework/meta-box/config-meta-boxes.php:521
+#: framework/meta-box/config-meta-boxes.php:528
 msgid "Owner Contact"
 msgstr "Владелец Связаться"
 
-#: framework/meta-box/config-meta-boxes.php:529
+#: framework/meta-box/config-meta-boxes.php:536
 msgid "Owner Address"
 msgstr "Владелец Адрес"
 
-#: framework/meta-box/config-meta-boxes.php:536
+#: framework/meta-box/config-meta-boxes.php:543
 msgid "Private Note"
 msgstr "Частный Примечание"
 
-#: framework/meta-box/config-meta-boxes.php:537
+#: framework/meta-box/config-meta-boxes.php:544
 msgid ""
 "In this textarea, You can write your private note about this property. This "
 "field will not be displayed anywhere else."
@@ -7216,23 +7345,23 @@ msgstr ""
 "В этом текстовое поле, Вы можете написать личное примечание об этой "
 "недвижимости. Это поле не будет отображаться в другом месте."
 
-#: framework/meta-box/config-meta-boxes.php:553
+#: framework/meta-box/config-meta-boxes.php:560
 msgid "Do you want to add this property in Homepage Slider ?"
 msgstr "Вы хотите, чтобы добавить этот объект в главную Slider?"
 
-#: framework/meta-box/config-meta-boxes.php:554
+#: framework/meta-box/config-meta-boxes.php:561
 msgid "If Yes, Then you need to provide a slider image below."
 msgstr "Если да, то вам необходимо предоставить ползунок изображения ниже."
 
-#: framework/meta-box/config-meta-boxes.php:559
+#: framework/meta-box/config-meta-boxes.php:566
 msgid "Yes "
 msgstr "Да "
 
-#: framework/meta-box/config-meta-boxes.php:566
+#: framework/meta-box/config-meta-boxes.php:573
 msgid "Slider Image"
 msgstr "Изображение слайдера"
 
-#: framework/meta-box/config-meta-boxes.php:568
+#: framework/meta-box/config-meta-boxes.php:575
 msgid ""
 "The recommended image size is 2000px by 700px. You can use bigger or smaller "
 "image but try to keep the same height to width ratio and use the exactly "
@@ -7243,11 +7372,11 @@ msgstr ""
 "и использовать точно такие же изображения размера для всех свойств, которые "
 "будут добавлены в слайдер."
 
-#: framework/meta-box/config-meta-boxes.php:577
+#: framework/meta-box/config-meta-boxes.php:584
 msgid "Top Banner Image"
 msgstr "Top Banner Image"
 
-#: framework/meta-box/config-meta-boxes.php:579
+#: framework/meta-box/config-meta-boxes.php:586
 msgid ""
 "Upload the banner image, If you want to change it for this property. "
 "Otherwise default banner image uploaded from theme options will be "
@@ -7259,41 +7388,41 @@ msgstr ""
 "баннера загружено из вариантов темы. Изображение должно иметь минимальную "
 "ширину 2000px и минимальную высоту 230px."
 
-#: framework/meta-box/config-meta-boxes.php:591
+#: framework/meta-box/config-meta-boxes.php:598
 msgid "Custom Property Type Map Icon"
 msgstr "Значок пользовательского типа карты"
 
-#: framework/meta-box/config-meta-boxes.php:595
-#: framework/meta-box/config-meta-boxes.php:617
+#: framework/meta-box/config-meta-boxes.php:602
+#: framework/meta-box/config-meta-boxes.php:624
 msgid "Icon Image"
 msgstr "Nзображение значка"
 
-#: framework/meta-box/config-meta-boxes.php:602
+#: framework/meta-box/config-meta-boxes.php:609
 msgid "Retina Icon Image"
 msgstr "Изображение значка Retina"
 
-#: framework/meta-box/config-meta-boxes.php:618
+#: framework/meta-box/config-meta-boxes.php:625
 msgid "Recommended image size for icon is 64px by 64px."
 msgstr "Рекомендуемый размер изображения для значка - 64px на 64px."
 
-#: framework/meta-box/config-meta-boxes.php:630
+#: framework/meta-box/config-meta-boxes.php:637
 msgid "Partner Information"
 msgstr "Информация о партнере"
 
-#: framework/meta-box/config-meta-boxes.php:636
+#: framework/meta-box/config-meta-boxes.php:643
 msgid "Website URL"
 msgstr "Адрес сайта"
 
-#: framework/meta-box/config-meta-boxes.php:638
+#: framework/meta-box/config-meta-boxes.php:645
 msgid "Provide Website URL"
 msgstr "Предоставление URL веб-сайта"
 
-#: framework/meta-box/config-meta-boxes.php:647
-#: framework/meta-box/config-meta-boxes.php:735
+#: framework/meta-box/config-meta-boxes.php:654
+#: framework/meta-box/config-meta-boxes.php:742
 msgid "Provide Related Information"
 msgstr "Предоставление информации, связанной с"
 
-#: framework/meta-box/config-meta-boxes.php:655
+#: framework/meta-box/config-meta-boxes.php:662
 msgid ""
 "Provide Agency Email Address. Agency related messages from contact form on "
 "property details page, will be sent on this email address."
@@ -7302,43 +7431,43 @@ msgstr ""
 "агентством из контактной формы на странице сведений о недвижимости, будет "
 "отправлено на этот адрес электронной почты."
 
-#: framework/meta-box/config-meta-boxes.php:661
+#: framework/meta-box/config-meta-boxes.php:668
 msgid "Provide Agency mobile number"
 msgstr "Предоставить номер мобильного телефона агентства"
 
-#: framework/meta-box/config-meta-boxes.php:667
+#: framework/meta-box/config-meta-boxes.php:674
 msgid "Provide Agency whatsapp number"
 msgstr "Предоставить номер агентства WhatsApp"
 
-#: framework/meta-box/config-meta-boxes.php:673
+#: framework/meta-box/config-meta-boxes.php:680
 msgid "Provide Agency office number"
 msgstr "Предоставить номер офиса агентства"
 
-#: framework/meta-box/config-meta-boxes.php:679
+#: framework/meta-box/config-meta-boxes.php:686
 msgid "Provide Agency fax number"
 msgstr "Предоставить номер факса агентства"
 
-#: framework/meta-box/config-meta-boxes.php:685
+#: framework/meta-box/config-meta-boxes.php:692
 msgid "Provide Agency Facebook URL"
 msgstr "Предоставить адрес Facebook агентства"
 
-#: framework/meta-box/config-meta-boxes.php:691
+#: framework/meta-box/config-meta-boxes.php:698
 msgid "Provide Agency Twitter URL"
 msgstr "Предоставить URL-адрес агентства Twitter"
 
-#: framework/meta-box/config-meta-boxes.php:697
+#: framework/meta-box/config-meta-boxes.php:704
 msgid "Provide Agency Google Plus URL"
 msgstr "Предоставить URL агентства Google Plus"
 
-#: framework/meta-box/config-meta-boxes.php:703
+#: framework/meta-box/config-meta-boxes.php:710
 msgid "Provide Agency LinkedIn URL"
 msgstr "Предоставить URL ссылки агентства LinkedIn"
 
-#: framework/meta-box/config-meta-boxes.php:709
+#: framework/meta-box/config-meta-boxes.php:716
 msgid "Provide Agency Instagram URL"
 msgstr "Предоставить URL-адрес агентства Instagram"
 
-#: framework/meta-box/config-meta-boxes.php:743
+#: framework/meta-box/config-meta-boxes.php:750
 msgid ""
 "Provide Agent Email Address. Agent related messages from contact form on "
 "property details page, will be sent on this email address."
@@ -7347,53 +7476,53 @@ msgstr ""
 "формы на странице информацию об объекте, будут отправлены на этот адрес "
 "электронной почты."
 
-#: framework/meta-box/config-meta-boxes.php:749
+#: framework/meta-box/config-meta-boxes.php:756
 msgid "Provide Agent mobile number"
 msgstr "Предоставление агента номер мобильного телефона"
 
-#: framework/meta-box/config-meta-boxes.php:755
+#: framework/meta-box/config-meta-boxes.php:762
 msgid "Provide Agent whatsapp number"
 msgstr "Укажите номер агента Whatsapp"
 
-#: framework/meta-box/config-meta-boxes.php:761
+#: framework/meta-box/config-meta-boxes.php:768
 msgid "Provide Agent office number"
 msgstr "Предоставление агента номер офиса"
 
-#: framework/meta-box/config-meta-boxes.php:767
+#: framework/meta-box/config-meta-boxes.php:774
 msgid "Provide Agent fax number"
 msgstr "Предоставление агента номер факса"
 
-#: framework/meta-box/config-meta-boxes.php:773
+#: framework/meta-box/config-meta-boxes.php:780
 msgid "Provide Agent Facebook URL"
 msgstr "Предоставление URL агента Facebook"
 
-#: framework/meta-box/config-meta-boxes.php:779
+#: framework/meta-box/config-meta-boxes.php:786
 msgid "Provide Agent Twitter URL"
 msgstr "Предоставление URL агента Twitter"
 
-#: framework/meta-box/config-meta-boxes.php:785
+#: framework/meta-box/config-meta-boxes.php:792
 msgid "Provide Agent Google Plus URL"
 msgstr "Предоставление URL агента Google Plus"
 
-#: framework/meta-box/config-meta-boxes.php:791
+#: framework/meta-box/config-meta-boxes.php:798
 msgid "Provide Agent LinkedIn URL"
 msgstr "Предоставление URL агента LinkedIn"
 
-#: framework/meta-box/config-meta-boxes.php:797
+#: framework/meta-box/config-meta-boxes.php:804
 msgid "Provide Agent Instagram URL"
 msgstr "Предоставление URL агента Instagram"
 
-#: framework/meta-box/config-meta-boxes.php:807
+#: framework/meta-box/config-meta-boxes.php:814
 msgid "Select Related Agency."
 msgstr "Выберите соответствующее агентство."
 
-#: framework/meta-box/config-meta-boxes.php:818
-#: framework/meta-box/config-meta-boxes.php:855
+#: framework/meta-box/config-meta-boxes.php:825
+#: framework/meta-box/config-meta-boxes.php:862
 msgid "Top Banner Area Settings"
 msgstr "Настройки Top Banner Area"
 
-#: framework/meta-box/config-meta-boxes.php:826
-#: framework/meta-box/config-meta-boxes.php:863
+#: framework/meta-box/config-meta-boxes.php:833
+#: framework/meta-box/config-meta-boxes.php:870
 msgid ""
 "Please provide the Banner Title, Otherwise the Page Title will be displayed "
 "in its place."
@@ -7401,17 +7530,17 @@ msgstr ""
 "Пожалуйста, предоставьте Banner Название, в противном случае Название "
 "страницы будет отображаться на своем месте."
 
-#: framework/meta-box/config-meta-boxes.php:832
+#: framework/meta-box/config-meta-boxes.php:839
 msgid "Please provide the Banner Sub Title."
 msgstr "Просьба предоставить Баннер субтитров."
 
-#: framework/meta-box/config-meta-boxes.php:838
-#: framework/meta-box/config-meta-boxes.php:867
+#: framework/meta-box/config-meta-boxes.php:845
+#: framework/meta-box/config-meta-boxes.php:874
 msgid "Banner Image"
 msgstr "Изображение баннера"
 
-#: framework/meta-box/config-meta-boxes.php:840
-#: framework/meta-box/config-meta-boxes.php:869
+#: framework/meta-box/config-meta-boxes.php:847
+#: framework/meta-box/config-meta-boxes.php:876
 msgid ""
 "Please upload the Banner Image. Otherwise the default banner image from "
 "theme options will be displayed."
@@ -7419,7 +7548,7 @@ msgstr ""
 "Пожалуйста, загрузите изображение баннера. В противном случае будет "
 "отображаться по умолчанию баннер изображение по опционам темы."
 
-#: framework/meta-box/config-meta-boxes.php:847
+#: framework/meta-box/config-meta-boxes.php:854
 msgid ""
 "If you want to replace banner with revolution slider then provide its alias "
 "here."
@@ -7427,70 +7556,78 @@ msgstr ""
 "Если вы хотите заменить баннер с ползунком революции затем предоставить его "
 "псевдоним здесь."
 
-#: framework/meta-box/config-meta-boxes.php:881
+#: framework/meta-box/config-meta-boxes.php:888
 msgid "Page Title"
 msgstr "Заголовок страницы"
 
-#: framework/meta-box/config-meta-boxes.php:887
+#: framework/meta-box/config-meta-boxes.php:894
 msgid "Page Title Display Status"
 msgstr "Название страницы Статус дисплея"
 
-#: framework/meta-box/config-meta-boxes.php:920
+#: framework/meta-box/config-meta-boxes.php:927
 msgid "Properties Filter Settings"
 msgstr "Свойства фильтра Настройки"
 
-#: framework/meta-box/config-meta-boxes.php:934
-#: framework/meta-box/config-meta-boxes.php:1055
+#: framework/meta-box/config-meta-boxes.php:941
+#: framework/meta-box/config-meta-boxes.php:1062
 msgid "Number of Properties Per Page"
 msgstr "Количество объектов на странице"
 
-#: framework/meta-box/config-meta-boxes.php:943
+#: framework/meta-box/config-meta-boxes.php:950
 msgid "Order Properties By"
 msgstr "Сортировать недвижимость по"
 
-#: framework/meta-box/config-meta-boxes.php:993
+#: framework/meta-box/config-meta-boxes.php:1000
 msgid "Minimum Beds"
 msgstr "Минимум спален"
 
-#: framework/meta-box/config-meta-boxes.php:1002
+#: framework/meta-box/config-meta-boxes.php:1009
 msgid "Minimum Baths"
 msgstr "Минимум ванных комнат"
 
-#: framework/meta-box/config-meta-boxes.php:1028
+#: framework/meta-box/config-meta-boxes.php:1035
 msgid "Properties by Agents"
 msgstr "Свойства агентами"
 
-#: framework/meta-box/config-meta-boxes.php:1041
+#: framework/meta-box/config-meta-boxes.php:1048
 msgid "Properties Gallery Filter Settings"
 msgstr "Свойства Параметры фильтра галереи галереи"
 
-#: framework/meta-box/config-meta-boxes.php:1099
+#: framework/meta-box/config-meta-boxes.php:1106
 msgid "Home Page Settings"
 msgstr "Настройки главной страницы"
 
-#: framework/meta-box/config-meta-boxes.php:1124
+#: framework/meta-box/config-meta-boxes.php:1131
 msgid "Feature Name"
 msgstr "Название особенности"
 
-#: framework/meta-box/config-meta-boxes.php:1126
+#: framework/meta-box/config-meta-boxes.php:1133
 msgid "Example: Perfect Backend"
 msgstr "Пример: Отличный вид"
 
-#: framework/meta-box/config-meta-boxes.php:1133
+#: framework/meta-box/config-meta-boxes.php:1138
+msgid "Feature URL"
+msgstr "URL-адрес функции"
+
+#: framework/meta-box/config-meta-boxes.php:1140
 msgid "Example: https://inspirythemes.com"
 msgstr "Пример: https://inspirythemes.com"
 
-#: framework/meta-box/config-meta-boxes.php:1138
+#: framework/meta-box/config-meta-boxes.php:1145
 msgid "Feature Icon"
 msgstr "Значок фичи"
 
-#: framework/meta-box/config-meta-boxes.php:1140
+#: framework/meta-box/config-meta-boxes.php:1147
 msgid "Icon should have minimum width of 150px and minimum height of 150px."
 msgstr ""
 "Значок должен иметь минимальную ширину 150 пикселей и минимальную высоту 150 "
 "пикселей."
 
-#: framework/meta-box/config-meta-boxes.php:1179
+#: framework/meta-box/config-meta-boxes.php:1153
+msgid "Feature Description"
+msgstr "Описание особенности"
+
+#: framework/meta-box/config-meta-boxes.php:1186
 msgid ""
 "Images should have minimum size of 1200px by 680px. Bigger size images will "
 "be cropped automatically. Minimum 2 images are required to display gallery."
@@ -7499,7 +7636,7 @@ msgstr ""
 "Изображения большего размера будут обрезаны автоматически. Для отображения "
 "галереи требуется минимум 2 изображения."
 
-#: framework/meta-box/config-meta-boxes.php:1183
+#: framework/meta-box/config-meta-boxes.php:1190
 msgid ""
 "Images should have minimum size of 770px by 386px for thumbnails on right "
 "and 830px by 460px for thumbnails on bottom. Bigger size images will be "
@@ -7817,3 +7954,21 @@ msgstr "+ 123-456-789"
 #: widgets/rh-contact-information-widget.php:95
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
+
+#~ msgid "Only works if WPML is installed."
+#~ msgstr "Работает только если установлен WPML."
+
+#~ msgid "Header Navigation for User Login and Register"
+#~ msgstr "Заголовок навигации для пользователя Вход и регистрация"
+
+#~ msgid "Feature Title"
+#~ msgstr "Название функции"
+
+#~ msgid "Add New Property Features"
+#~ msgstr "Добавить новые функции"
+
+#~ msgid "Add New Property Types"
+#~ msgstr "Добавить новые типы объектов"
+
+#~ msgid "Add New Property Cities"
+#~ msgstr "Добавить новые города недвижимости"
