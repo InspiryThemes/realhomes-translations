@@ -1,11 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-27 19:08+0500\n"
-"PO-Revision-Date: 2018-09-27 19:14+0500\n"
-"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"POT-Creation-Date: 2018-09-14 19:05+0500\n"
+"PO-Revision-Date: 2018-10-02 14:50+0500\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
-"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,6 +14,8 @@ msgstr ""
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: zh_CN\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: assets/classic/styles\n"
@@ -161,8 +161,8 @@ msgstr "发送消息"
 #: assets/classic/partials/agency/single/contact-form.php:21
 #: assets/classic/partials/agent/single/contact-form.php:27
 #: assets/classic/partials/page/contact.php:177
-#: assets/classic/partials/property/single/agent.php:116
-#: assets/classic/partials/property/single/sidebar-agent.php:108
+#: assets/classic/partials/property/single/agent.php:113
+#: assets/classic/partials/property/single/sidebar-agent.php:105
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
 #: assets/modern/partials/author/agent-card.php:146
@@ -171,7 +171,7 @@ msgstr "发送消息"
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
 #: assets/modern/partials/property/single/agent.php:127
-#: framework/customizer/sections/home/testimonial.php:89
+#: framework/customizer/sections/home/testimonial.php:140
 #: framework/functions/real-estate.php:111
 msgid "Name"
 msgstr "名称"
@@ -179,8 +179,8 @@ msgstr "名称"
 #: assets/classic/partials/agency/single/contact-form.php:21
 #: assets/classic/partials/agent/single/contact-form.php:27
 #: assets/classic/partials/page/contact.php:178
-#: assets/classic/partials/property/single/agent.php:117
-#: assets/classic/partials/property/single/sidebar-agent.php:109
+#: assets/classic/partials/property/single/agent.php:113
+#: assets/classic/partials/property/single/sidebar-agent.php:105
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
 #: assets/modern/partials/author/agent-card.php:147
@@ -199,8 +199,8 @@ msgstr "请填写您的名字"
 #: assets/classic/partials/page/edit-profile.php:111
 #: assets/classic/partials/page/login-register.php:150
 #: assets/classic/partials/page/login-register.php:153
-#: assets/classic/partials/property/single/agent.php:118
-#: assets/classic/partials/property/single/sidebar-agent.php:110
+#: assets/classic/partials/property/single/agent.php:114
+#: assets/classic/partials/property/single/sidebar-agent.php:106
 #: assets/modern/partials/agency/card.php:130
 #: assets/modern/partials/agency/single/card.php:131
 #: assets/modern/partials/agency/single/contact-form.php:26
@@ -229,8 +229,8 @@ msgstr "邮箱"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
 #: assets/classic/partials/agent/single/contact-form.php:31
-#: assets/classic/partials/property/single/agent.php:120
-#: assets/classic/partials/property/single/sidebar-agent.php:112
+#: assets/classic/partials/property/single/agent.php:114
+#: assets/classic/partials/property/single/sidebar-agent.php:106
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
 #: assets/modern/partials/author/agent-card.php:153
@@ -243,8 +243,8 @@ msgstr "请填写您的电子邮箱"
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:37
 #: assets/classic/partials/page/contact.php:83
-#: assets/classic/partials/property/single/agent.php:121
-#: assets/classic/partials/property/single/sidebar-agent.php:113
+#: assets/classic/partials/property/single/agent.php:115
+#: assets/classic/partials/property/single/sidebar-agent.php:107
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
 #: assets/modern/partials/author/agent-card.php:158
@@ -260,8 +260,8 @@ msgstr "电话"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:37
-#: assets/classic/partials/property/single/agent.php:123
-#: assets/classic/partials/property/single/sidebar-agent.php:115
+#: assets/classic/partials/property/single/agent.php:115
+#: assets/classic/partials/property/single/sidebar-agent.php:107
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
 #: assets/modern/partials/author/agent-card.php:159
@@ -274,8 +274,8 @@ msgstr "请填写你的手机号码"
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:43
 #: assets/classic/partials/page/contact.php:192
-#: assets/classic/partials/property/single/agent.php:124
-#: assets/classic/partials/property/single/sidebar-agent.php:116
+#: assets/classic/partials/property/single/agent.php:116
+#: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
 #: assets/modern/partials/author/agent-card.php:164
@@ -289,8 +289,8 @@ msgstr "信息"
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:43
 #: assets/classic/partials/page/contact.php:193
-#: assets/classic/partials/property/single/agent.php:125
-#: assets/classic/partials/property/single/sidebar-agent.php:117
+#: assets/classic/partials/property/single/agent.php:116
+#: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
 #: assets/modern/partials/author/agent-card.php:165
@@ -301,19 +301,19 @@ msgstr "信息"
 msgid "* Please provide your message"
 msgstr "*请输入消息"
 
-#: assets/classic/partials/agency/single/contact-form.php:86
-#: assets/classic/partials/agent/single/contact-form.php:91
+#: assets/classic/partials/agency/single/contact-form.php:85
+#: assets/classic/partials/agent/single/contact-form.php:90
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:172
-#: assets/classic/partials/property/single/sidebar-agent.php:105
-#: assets/classic/partials/property/single/sidebar-agent.php:172
-#: assets/modern/partials/agency/single/contact-form.php:89
-#: assets/modern/partials/agent/single/contact-form.php:95
-#: assets/modern/partials/author/agent-card.php:174
-#: assets/modern/partials/author/author-contact-form.php:55
+#: assets/classic/partials/property/single/agent.php:156
+#: assets/classic/partials/property/single/sidebar-agent.php:103
+#: assets/classic/partials/property/single/sidebar-agent.php:154
+#: assets/modern/partials/agency/single/contact-form.php:88
+#: assets/modern/partials/agent/single/contact-form.php:94
+#: assets/modern/partials/author/agent-card.php:173
+#: assets/modern/partials/author/author-contact-form.php:54
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:176
-#: assets/modern/partials/property/single/agent.php:206
+#: assets/modern/partials/property/single/agent-for-sidebar.php:174
+#: assets/modern/partials/property/single/agent.php:198
 msgid "Send Message"
 msgstr "发送信息"
 
@@ -326,7 +326,7 @@ msgstr "发送信息"
 #: assets/classic/partials/property/single/children.php:73
 #: assets/classic/partials/property/single/similar-property-card.php:33
 msgid "More Details "
-msgstr "更多"
+msgstr "更多 "
 
 #: assets/classic/partials/author.php:20 assets/modern/partials/author.php:35
 #: assets/modern/partials/author.php:63
@@ -338,7 +338,7 @@ msgstr "所有房源的"
 #: assets/classic/partials/page/my-properties.php:301
 #: assets/classic/partials/properties/compare.php:335
 #: assets/classic/partials/properties/search/results-with-sidebar.php:88
-#: assets/modern/partials/member/properties.php:249
+#: assets/modern/partials/member/properties.php:226
 #: assets/modern/partials/properties/compare.php:392
 #: framework/include/shortcodes/elements.php:318
 msgid "No Properties Found!"
@@ -537,24 +537,24 @@ msgstr "* 请提供有效的邮箱地址！"
 
 #: assets/classic/partials/header/user-nav.php:17
 #: assets/modern/partials/header/modal.php:278
-#: assets/modern/partials/member/properties.php:99
+#: assets/modern/partials/member/properties.php:62
 #: assets/modern/partials/page/edit-profile.php:76
-#: assets/modern/partials/page/favorites.php:122
+#: assets/modern/partials/page/favorites.php:78
 #: assets/modern/partials/page/submit-property.php:393
 #: framework/customizer/favorites.php:35
 msgid "Favorites"
 msgstr "收藏"
 
 #: assets/classic/partials/header/user-nav.php:29
-#: assets/modern/partials/header.php:101
+#: assets/modern/partials/header.php:91
 msgid "Submit"
 msgstr "提交"
 
 #: assets/classic/partials/header/user-nav.php:39
 #: assets/modern/partials/header/modal.php:268
-#: assets/modern/partials/member/properties.php:89
+#: assets/modern/partials/member/properties.php:52
 #: assets/modern/partials/page/edit-profile.php:66
-#: assets/modern/partials/page/favorites.php:112
+#: assets/modern/partials/page/favorites.php:68
 #: assets/modern/partials/page/submit-property.php:383
 #: framework/customizer/members.php:432
 msgid "My Properties"
@@ -565,9 +565,9 @@ msgstr "我的房源"
 #: assets/modern/partials/agency/single/agency.php:36
 #: assets/modern/partials/agent/single/agent.php:36
 #: assets/modern/partials/header/modal.php:258
-#: assets/modern/partials/member/properties.php:79
+#: assets/modern/partials/member/properties.php:42
 #: assets/modern/partials/page/edit-profile.php:56
-#: assets/modern/partials/page/favorites.php:102
+#: assets/modern/partials/page/favorites.php:58
 #: assets/modern/partials/page/submit-property.php:373
 msgid "Profile"
 msgstr "个人资料"
@@ -581,12 +581,12 @@ msgstr "注销"
 msgid "Login / Register"
 msgstr "登录/注册"
 
-#: assets/classic/partials/header/variation-center.php:119
-#: assets/classic/partials/header/variation-simple.php:100
+#: assets/classic/partials/header/variation-center.php:126
+#: assets/classic/partials/header/variation-simple.php:103
 msgid "Menu"
 msgstr "菜单"
 
-#: assets/classic/partials/header/variation-simple.php:29
+#: assets/classic/partials/header/variation-simple.php:32
 msgid "Email us at"
 msgstr "给我们Email"
 
@@ -627,11 +627,11 @@ msgstr "照片"
 #: assets/modern/partials/property/form-fields/bedrooms.php:12
 #: assets/modern/partials/property/single/child.php:47
 #: assets/modern/partials/property/single/floor-plans.php:52
-#: assets/modern/partials/property/single/meta.php:65
+#: assets/modern/partials/property/single/meta.php:28
 #: assets/modern/partials/property/single/similar-property-card.php:83
 #: framework/customizer/members.php:225
-#: framework/meta-box/config-meta-boxes.php:207
-#: framework/meta-box/config-meta-boxes.php:370
+#: framework/meta-box/config-meta-boxes.php:197
+#: framework/meta-box/config-meta-boxes.php:363
 #: widgets/agent-featured-properties-widget.php:225
 #: widgets/agent-properties-widget.php:230
 #: widgets/featured-properties-widget.php:225
@@ -662,11 +662,11 @@ msgstr "卧室"
 #: assets/modern/partials/property/form-fields/bathrooms.php:12
 #: assets/modern/partials/property/single/child.php:59
 #: assets/modern/partials/property/single/floor-plans.php:63
-#: assets/modern/partials/property/single/meta.php:81
+#: assets/modern/partials/property/single/meta.php:44
 #: assets/modern/partials/property/single/similar-property-card.php:95
 #: framework/customizer/members.php:226
-#: framework/meta-box/config-meta-boxes.php:216
-#: framework/meta-box/config-meta-boxes.php:377
+#: framework/meta-box/config-meta-boxes.php:206
+#: framework/meta-box/config-meta-boxes.php:370
 #: widgets/agent-featured-properties-widget.php:237
 #: widgets/agent-properties-widget.php:242
 #: widgets/featured-properties-widget.php:237
@@ -706,13 +706,13 @@ msgstr "高级搜索"
 #: assets/modern/partials/agency/list.php:75
 #: assets/modern/partials/agent/list.php:77
 #: assets/modern/partials/author.php:105
-#: assets/modern/partials/page/search-left-sidebar.php:135
-#: assets/modern/partials/page/search-right-sidebar.php:124
+#: assets/modern/partials/page/search-left-sidebar.php:131
+#: assets/modern/partials/page/search-right-sidebar.php:120
 #: assets/modern/partials/page/users-list.php:277
 #: assets/modern/partials/properties/archive/container.php:83
 #: assets/modern/partials/properties/archive/grid-container.php:83
 #: assets/modern/partials/properties/half-map-list.php:85
-#: assets/modern/partials/properties/search.php:120
+#: assets/modern/partials/properties/search.php:111
 #: assets/modern/partials/taxonomy/grid-layout.php:60
 #: assets/modern/partials/taxonomy/list-layout.php:60
 msgid "Sorry No Results Found"
@@ -795,61 +795,61 @@ msgstr "简介"
 
 #: assets/classic/partials/page/edit-profile.php:143
 #: assets/modern/partials/page/edit-profile.php:216
-#: framework/functions/basic.php:391
-#: framework/meta-box/config-meta-boxes.php:666
-#: framework/meta-box/config-meta-boxes.php:754
+#: framework/functions/basic.php:408
+#: framework/meta-box/config-meta-boxes.php:659
+#: framework/meta-box/config-meta-boxes.php:747
 msgid "Mobile Number"
 msgstr "手机号码"
 
 #: assets/classic/partials/page/edit-profile.php:151
 #: assets/modern/partials/page/edit-profile.php:224
-#: framework/functions/basic.php:392
-#: framework/meta-box/config-meta-boxes.php:678
-#: framework/meta-box/config-meta-boxes.php:766
+#: framework/functions/basic.php:409
+#: framework/meta-box/config-meta-boxes.php:671
+#: framework/meta-box/config-meta-boxes.php:759
 msgid "Office Number"
 msgstr "办公电话"
 
 #: assets/classic/partials/page/edit-profile.php:159
 #: assets/modern/partials/page/edit-profile.php:232
-#: framework/customizer/contact.php:236 framework/functions/basic.php:393
-#: framework/meta-box/config-meta-boxes.php:684
-#: framework/meta-box/config-meta-boxes.php:772
+#: framework/customizer/contact.php:236 framework/functions/basic.php:410
+#: framework/meta-box/config-meta-boxes.php:677
+#: framework/meta-box/config-meta-boxes.php:765
 msgid "Fax Number"
 msgstr "传真号码"
 
 #: assets/classic/partials/page/edit-profile.php:167
 #: assets/modern/partials/page/edit-profile.php:240
 #: framework/customizer/sections/header/social-icons.php:56
-#: framework/functions/basic.php:395
-#: framework/meta-box/config-meta-boxes.php:690
-#: framework/meta-box/config-meta-boxes.php:778
+#: framework/functions/basic.php:412
+#: framework/meta-box/config-meta-boxes.php:683
+#: framework/meta-box/config-meta-boxes.php:771
 msgid "Facebook URL"
 msgstr "Facebook URL"
 
 #: assets/classic/partials/page/edit-profile.php:175
 #: assets/modern/partials/page/edit-profile.php:250
 #: framework/customizer/sections/header/social-icons.php:68
-#: framework/functions/basic.php:396
-#: framework/meta-box/config-meta-boxes.php:696
-#: framework/meta-box/config-meta-boxes.php:784
+#: framework/functions/basic.php:413
+#: framework/meta-box/config-meta-boxes.php:689
+#: framework/meta-box/config-meta-boxes.php:777
 msgid "Twitter URL"
 msgstr "Twitter URL"
 
 #: assets/classic/partials/page/edit-profile.php:183
 #: assets/modern/partials/page/edit-profile.php:260
 #: framework/customizer/sections/header/social-icons.php:92
-#: framework/functions/basic.php:397
-#: framework/meta-box/config-meta-boxes.php:702
-#: framework/meta-box/config-meta-boxes.php:790
+#: framework/functions/basic.php:414
+#: framework/meta-box/config-meta-boxes.php:695
+#: framework/meta-box/config-meta-boxes.php:783
 msgid "Google Plus URL"
 msgstr "Google Plus URL"
 
 #: assets/classic/partials/page/edit-profile.php:191
 #: assets/modern/partials/page/edit-profile.php:270
 #: framework/customizer/sections/header/social-icons.php:80
-#: framework/functions/basic.php:398
-#: framework/meta-box/config-meta-boxes.php:708
-#: framework/meta-box/config-meta-boxes.php:796
+#: framework/functions/basic.php:415
+#: framework/meta-box/config-meta-boxes.php:701
+#: framework/meta-box/config-meta-boxes.php:789
 msgid "LinkedIn URL"
 msgstr "LinkedIn URL"
 
@@ -861,9 +861,9 @@ msgstr "保存更改"
 #: assets/classic/partials/page/edit-profile.php:236
 #: assets/classic/partials/page/my-properties.php:307
 #: assets/classic/partials/page/submit-property.php:443
-#: assets/modern/partials/member/properties.php:132
-#: assets/modern/partials/member/properties.php:134
-#: assets/modern/partials/member/properties.php:137
+#: assets/modern/partials/member/properties.php:95
+#: assets/modern/partials/member/properties.php:97
+#: assets/modern/partials/member/properties.php:100
 #: assets/modern/partials/page/edit-profile.php:107
 #: assets/modern/partials/page/edit-profile.php:109
 #: assets/modern/partials/page/edit-profile.php:112
@@ -888,12 +888,12 @@ msgid "Remove from favorites"
 msgstr "删除从收藏夹"
 
 #: assets/classic/partials/page/favorites.php:132
-#: assets/modern/partials/page/favorites.php:170
+#: assets/modern/partials/page/favorites.php:141
 msgid "No property found!"
 msgstr "没找到房产！"
 
 #: assets/classic/partials/page/favorites.php:139
-#: assets/modern/partials/page/favorites.php:177
+#: assets/modern/partials/page/favorites.php:148
 msgid "You have no property in favorites!"
 msgstr "您在收藏夹中没有任何房源！"
 
@@ -941,69 +941,68 @@ msgstr "您已经登录！"
 #: assets/classic/partials/page/my-properties.php:29
 #: assets/classic/partials/page/submit-property.php:373
 #: assets/classic/partials/page/submit-property.php:377
-#: assets/modern/partials/member/properties.php:142
-#: assets/modern/partials/member/properties.php:144
-#: assets/modern/partials/member/properties.php:146
-#: assets/modern/partials/member/properties.php:148
+#: assets/modern/partials/member/properties.php:105
+#: assets/modern/partials/member/properties.php:107
+#: assets/modern/partials/member/properties.php:109
+#: assets/modern/partials/member/properties.php:111
 #: assets/modern/partials/page/submit-property.php:441
 #: assets/modern/partials/page/submit-property.php:445
 msgid "Success:"
 msgstr "成功:"
 
 #: assets/classic/partials/page/my-properties.php:23
-#: assets/modern/partials/member/properties.php:142
+#: assets/modern/partials/member/properties.php:105
 msgid "Property removed."
 msgstr "房产已移除。"
 
 #: assets/classic/partials/page/my-properties.php:25
-#: assets/modern/partials/member/properties.php:144
+#: assets/modern/partials/member/properties.php:107
 msgid "Property Submitted."
 msgstr "房产已提交。"
 
 #: assets/classic/partials/page/my-properties.php:27
-#: assets/modern/partials/member/properties.php:146
+#: assets/modern/partials/member/properties.php:109
 msgid "Property Updated."
 msgstr "房产已更新。"
 
 #: assets/classic/partials/page/my-properties.php:29
-#: assets/modern/partials/member/properties.php:148
+#: assets/modern/partials/member/properties.php:111
 msgid "Payment Submitted."
 msgstr "付款已提交。"
 
 #: assets/classic/partials/page/my-properties.php:31
 #: assets/classic/partials/page/submit-property.php:367
-#: assets/modern/partials/member/properties.php:150
+#: assets/modern/partials/member/properties.php:113
 #: assets/modern/partials/page/submit-property.php:435
 msgid "Error:"
 msgstr "错误："
 
 #: assets/classic/partials/page/my-properties.php:31
-#: assets/modern/partials/member/properties.php:150
+#: assets/modern/partials/member/properties.php:113
 msgid "Payment Failed."
 msgstr "付款失败。"
 
 #: assets/classic/partials/page/my-properties.php:51
-#: assets/modern/partials/member/properties.php:169
+#: assets/modern/partials/member/properties.php:132
 msgid "Number of properties that you can publish:"
 msgstr "您可以发布的属性数量："
 
 #: assets/classic/partials/page/my-properties.php:52
-#: assets/modern/partials/member/properties.php:170
+#: assets/modern/partials/member/properties.php:133
 msgid "Number of properties that can be marked as featured:"
 msgstr "可以标记为精选的房源数量："
 
 #: assets/classic/partials/page/my-properties.php:103
-#: assets/modern/partials/member/properties.php:221
+#: assets/modern/partials/member/properties.php:184
 msgid "Please subscribe a membership package to start publishing properties."
 msgstr "请订阅会员套餐以开始发布房源。"
 
 #: assets/classic/partials/page/my-properties.php:188
 msgid "Posted on :"
-msgstr "帖子"
+msgstr "帖子:"
 
 #: assets/classic/partials/page/my-properties.php:229
 #: assets/modern/partials/member/my-property.php:147
-#, fuzzy
 msgid "Remove This Property"
 msgstr "删除此属性"
 
@@ -1013,7 +1012,7 @@ msgid "Payment Completed"
 msgstr "支付完成"
 
 #: assets/classic/partials/page/my-properties.php:301
-#: assets/modern/partials/member/properties.php:249
+#: assets/modern/partials/member/properties.php:226
 #: framework/customizer/gdpr.php:56
 msgid "Note:"
 msgstr "注意："
@@ -1066,7 +1065,7 @@ msgstr "城市"
 #: assets/modern/partials/properties/shortcode/list-card.php:122
 #: assets/modern/partials/property/form-fields/area.php:12
 #: assets/modern/partials/property/single/child.php:71
-#: assets/modern/partials/property/single/meta.php:115
+#: assets/modern/partials/property/single/meta.php:78
 #: assets/modern/partials/property/single/similar-property-card.php:107
 #: framework/customizer/members.php:231
 #: widgets/agent-featured-properties-widget.php:249
@@ -1084,7 +1083,6 @@ msgstr "大小"
 #: assets/classic/partials/properties/compare/search-card-button.php:19
 #: assets/classic/partials/properties/compare/search-card-button.php:30
 #: framework/functions/compare.php:41
-#, fuzzy
 msgid "Added to Compare"
 msgstr "添加到比较"
 
@@ -1128,26 +1126,26 @@ msgid "View all posts by %s"
 msgstr "查看所有文章 %s"
 
 #: assets/classic/partials/properties/search.php:74
-#: assets/modern/partials/page/search-left-sidebar.php:85
-#: assets/modern/partials/page/search-right-sidebar.php:74
-#: assets/modern/partials/properties/search.php:74
+#: assets/modern/partials/page/search-left-sidebar.php:81
+#: assets/modern/partials/page/search-right-sidebar.php:70
+#: assets/modern/partials/properties/search.php:71
 msgid "Results"
 msgstr "结果"
 
 #: assets/classic/partials/properties/search.php:76
-#: assets/modern/partials/page/search-left-sidebar.php:87
-#: assets/modern/partials/page/search-right-sidebar.php:76
-#: assets/modern/partials/properties/search.php:76
+#: assets/modern/partials/page/search-left-sidebar.php:83
+#: assets/modern/partials/page/search-right-sidebar.php:72
+#: assets/modern/partials/properties/search.php:73
 msgid "Result"
 msgstr "结果"
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:275
-#: assets/classic/partials/property/single/sidebar-agent.php:272
+#: assets/classic/partials/property/single/agent.php:256
+#: assets/classic/partials/property/single/sidebar-agent.php:253
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:279
-#: assets/modern/partials/property/single/agent.php:314
+#: assets/modern/partials/property/single/agent-for-sidebar.php:277
+#: assets/modern/partials/property/single/agent.php:305
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1156,7 +1154,7 @@ msgstr "结果"
 #: framework/include/agent-post-type.php:21
 #: framework/include/agent-post-type.php:93
 #: framework/include/shortcodes/vc-map.php:136
-#: framework/meta-box/config-meta-boxes.php:455
+#: framework/meta-box/config-meta-boxes.php:448
 msgid "Agent"
 msgstr "代理"
 
@@ -1198,7 +1196,6 @@ msgstr "最少床位"
 #: framework/customizer/sections/search/search-form-basics.php:74
 #: framework/customizer/sections/search/search-form-basics.php:88
 #: framework/customizer/sections/search/search-form-garages.php:32
-#, fuzzy
 msgid "Min Garages"
 msgstr "Min Garages"
 
@@ -1254,36 +1251,30 @@ msgstr "最高价格"
 #: framework/customizer/sections/search/search-form-basics.php:203
 #: framework/functions/real-estate.php:117
 #: framework/include/property-post-type.php:330
-#: framework/meta-box/config-meta-boxes.php:234
+#: framework/meta-box/config-meta-boxes.php:224
 msgid "Property ID"
 msgstr "房产ID"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:2
-#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:10
 msgid "Check In"
 msgstr "入住"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:3
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:8
-#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:11
-#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:16
 #: framework/customizer/sections/search/search-form-areas.php:55
 #: framework/customizer/sections/search/search-form-areas.php:92
 #: framework/customizer/sections/search/search-form-basics.php:174
 #: framework/customizer/sections/search/search-form-basics.php:220
 #: framework/customizer/sections/search/search-form-basics.php:328
-#: framework/functions/real-estate-search.php:147
+#: framework/functions/real-estate-search.php:130
 msgid "Any"
 msgstr "任何"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:7
-#: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:15
 msgid "Check Out"
 msgstr "查看"
 
 #: assets/classic/partials/properties/search/fields/rvr/guest.php:2
-#: assets/modern/partials/properties/search/fields/rvr/guest.php:12
-#, fuzzy
 msgid "No of Guests"
 msgstr "没有客人"
 
@@ -1295,6 +1286,7 @@ msgstr "没有客人"
 #: framework/customizer/sections/search/search-form-basics.php:81
 #: framework/customizer/sections/search/search-form-basics.php:249
 #: framework/functions/real-estate.php:118
+#: framework/include/admin/class-rh-admin-menu.php:142
 #: framework/include/property-post-type.php:192
 #: framework/include/property-post-type.php:193
 #: framework/include/property-post-type.php:206
@@ -1315,7 +1307,6 @@ msgstr "房源类型"
 
 #: assets/classic/partials/properties/search/form.php:113
 #: framework/functions/design-variations-handler.php:537
-#, fuzzy
 msgid "More fields"
 msgstr "更多领域"
 
@@ -1326,10 +1317,10 @@ msgid "No Property Found!"
 msgstr "没有房源!"
 
 #: assets/classic/partials/properties/search/results-with-sidebar.php:47
-#, fuzzy, php-format
+#, php-format
 msgid "<strong>%s</strong> Result"
 msgid_plural "<strong>%s</strong> Results"
-msgstr[0] "<strong>％s</strong>结果"
+msgstr[0] "<strong>%s</strong> Result"
 
 #: assets/classic/partials/properties/sort-controls.php:12
 msgid "Sort By"
@@ -1342,25 +1333,25 @@ msgstr "默认排序"
 
 #: assets/classic/partials/properties/sort-controls.php:31
 #: assets/modern/partials/properties/sort-controls.php:31
-#: framework/meta-box/config-meta-boxes.php:955
+#: framework/meta-box/config-meta-boxes.php:948
 msgid "Price Low to High"
 msgstr "价格从低到高"
 
 #: assets/classic/partials/properties/sort-controls.php:32
 #: assets/modern/partials/properties/sort-controls.php:32
-#: framework/meta-box/config-meta-boxes.php:956
+#: framework/meta-box/config-meta-boxes.php:949
 msgid "Price High to Low"
 msgstr "价格从高到低"
 
 #: assets/classic/partials/properties/sort-controls.php:33
 #: assets/modern/partials/properties/sort-controls.php:33
-#: framework/meta-box/config-meta-boxes.php:954
+#: framework/meta-box/config-meta-boxes.php:947
 msgid "Date Old to New"
 msgstr "日期从旧到新"
 
 #: assets/classic/partials/properties/sort-controls.php:34
 #: assets/modern/partials/properties/sort-controls.php:34
-#: framework/meta-box/config-meta-boxes.php:953
+#: framework/meta-box/config-meta-boxes.php:946
 msgid "Date New to Old"
 msgstr "日期-从新到旧"
 
@@ -1383,9 +1374,6 @@ msgstr "额外细节"
 #: assets/classic/partials/property/form-fields/additional-details.php:27
 #: assets/modern/partials/property/form-fields/additional-details.php:71
 #: assets/modern/partials/property/form-fields/additional-details.php:114
-#: framework/customizer/sections/home/features-section.php:165
-#: framework/customizer/sections/home/features-section.php:258
-#: framework/customizer/sections/home/features-section.php:351
 #: framework/customizer/sections/home/news-posts.php:49
 #: framework/meta-box/custom-metaboxes/additional-details-metabox.php:105
 #: widgets/rh-contact-information-widget.php:105
@@ -1401,7 +1389,7 @@ msgstr "值"
 
 #: assets/classic/partials/property/form-fields/agent.php:2
 #: assets/modern/partials/property/form-fields/agent.php:33
-#: framework/meta-box/config-meta-boxes.php:442
+#: framework/meta-box/config-meta-boxes.php:435
 msgid "What to display in agent information box ?"
 msgstr "在经纪人信息框中显示什么？"
 
@@ -1421,14 +1409,14 @@ msgstr "在经纪人信息框中显示什么？"
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:87
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
 #: framework/functions/property-submit-handler.php:298
-#: framework/functions/real-estate-search.php:306
+#: framework/functions/real-estate-search.php:289
 #: framework/meta-box/config-meta-boxes.php:83
-#: framework/meta-box/config-meta-boxes.php:724
+#: framework/meta-box/config-meta-boxes.php:717
 msgid "None"
 msgstr "无"
 
@@ -1489,12 +1477,12 @@ msgstr "将此房源标记为精选房源"
 #: framework/customizer/members.php:238
 #: framework/customizer/sections/home/home-features.php:26
 #: framework/customizer/sections/home/home-features.php:71
-#: framework/customizer/sections/home/sections-manager.php:103
+#: framework/customizer/sections/home/sections-manager.php:104
 #: framework/customizer/sections/property/basics.php:270
 #: framework/include/shortcodes/vc-map.php:284
-#: framework/meta-box/config-meta-boxes.php:991
-#: framework/meta-box/config-meta-boxes.php:1094
-#: framework/meta-box/config-meta-boxes.php:1117
+#: framework/meta-box/config-meta-boxes.php:984
+#: framework/meta-box/config-meta-boxes.php:1087
+#: framework/meta-box/config-meta-boxes.php:1110
 msgid "Features"
 msgstr "特征"
 
@@ -1502,7 +1490,7 @@ msgstr "特征"
 #: assets/classic/partials/property/single/metas.php:63
 #: assets/modern/partials/property/form-fields/garages.php:12
 #: framework/customizer/members.php:227
-#: framework/meta-box/config-meta-boxes.php:225
+#: framework/meta-box/config-meta-boxes.php:215
 msgid "Garages"
 msgstr "车库"
 
@@ -1604,7 +1592,7 @@ msgstr "更新房源"
 #: assets/classic/partials/property/form-fields/submit-button.php:15
 #: assets/modern/partials/property/form-fields/submit-button.php:25
 #: framework/customizer/members.php:167
-#: framework/customizer/sections/home/cta-contact.php:126
+#: framework/customizer/sections/home/cta-contact.php:174
 #: framework/customizer/sections/home/cta.php:156
 msgid "Submit Property"
 msgstr "提交房源"
@@ -1637,7 +1625,7 @@ msgstr "* 请提供房产标题!"
 #: assets/classic/partials/property/form-fields/video.php:9
 #: assets/modern/partials/property/form-fields/video.php:12
 #: assets/modern/partials/property/form-fields/video.php:19
-#: framework/meta-box/config-meta-boxes.php:401
+#: framework/meta-box/config-meta-boxes.php:394
 msgid "Virtual Tour Video URL"
 msgstr "房源视频 URL 地址"
 
@@ -1646,9 +1634,9 @@ msgstr "房源视频 URL 地址"
 #: assets/classic/partials/property/single/metas.php:78
 #: assets/modern/partials/property/form-fields/year-built.php:19
 #: assets/modern/partials/property/form-fields/year-built.php:21
-#: assets/modern/partials/property/single/meta.php:138
+#: assets/modern/partials/property/single/meta.php:101
 #: framework/customizer/members.php:243
-#: framework/meta-box/config-meta-boxes.php:246
+#: framework/meta-box/config-meta-boxes.php:236
 msgid "Year Built"
 msgstr "建造年份"
 
@@ -1680,22 +1668,21 @@ msgstr "已关注"
 #: assets/classic/partials/property/single/add-to-favorites.php:31
 #: assets/modern/partials/properties/list-card.php:73
 #: assets/modern/partials/properties/shortcode/list-card.php:73
-#, fuzzy
 msgid "Add to favorite"
 msgstr "加入我的最爱"
 
-#: assets/classic/partials/property/single/agent.php:113
+#: assets/classic/partials/property/single/agent.php:111
 msgid "Contact"
 msgstr "联系"
 
-#: assets/classic/partials/property/single/agent.php:248
-#: assets/modern/partials/property/single/agent.php:287
+#: assets/classic/partials/property/single/agent.php:229
+#: assets/modern/partials/property/single/agent.php:278
 msgid "Submitted by"
 msgstr "由...所提交"
 
 #: assets/classic/partials/property/single/floor-plans.php:20
 #: assets/modern/partials/property/single/floor-plans.php:16
-#: framework/meta-box/config-meta-boxes.php:123
+#: framework/meta-box/config-meta-boxes.php:113
 msgid "Floor Plans"
 msgstr "楼层平面图"
 
@@ -1704,35 +1691,30 @@ msgid "Area Size"
 msgstr "面积大小"
 
 #: assets/classic/partials/property/single/metas.php:63
-#: assets/modern/partials/property/single/meta.php:97
+#: assets/modern/partials/property/single/meta.php:60
 msgid "Garage"
 msgstr "车库"
 
 #: assets/classic/partials/property/single/metas.php:93
-#: assets/modern/partials/property/single/meta.php:156
+#: assets/modern/partials/property/single/meta.php:119
 msgid "Lot Size"
 msgstr "土地面积"
 
 #: assets/classic/partials/property/single/metas.php:107
-#: assets/modern/partials/property/single/meta.php:37
 msgid "Minimum Stay"
 msgstr "最少停留"
 
 #: assets/classic/partials/property/single/metas.php:110
-#, fuzzy
 msgid "Nights Minimum Stay"
 msgstr "夜晚最短住宿"
 
 #: assets/classic/partials/property/single/metas.php:117
 #: assets/classic/partials/property/single/metas.php:120
-#: assets/modern/partials/property/single/meta.php:49
-#, fuzzy
 msgid "Guests Capacity"
 msgstr "客人容量"
 
 #: assets/classic/partials/property/single/rvr/location-surroundings.php:8
 #: assets/modern/partials/property/single/rvr/location-surroundings.php:16
-#, fuzzy
 msgid "Location Surroundings"
 msgstr "位置环境"
 
@@ -1753,13 +1735,11 @@ msgstr "未包含"
 
 #: assets/classic/partials/property/single/rvr/outdoor-features.php:8
 #: assets/modern/partials/property/single/rvr/outdoor-features.php:16
-#, fuzzy
 msgid "Outdoor Features"
 msgstr "户外功能"
 
 #: assets/classic/partials/property/single/rvr/privacy-policies.php:8
 #: assets/modern/partials/property/single/rvr/privacy-policies.php:16
-#, fuzzy
 msgid "Privacy Policies"
 msgstr "隐私政策"
 
@@ -1793,7 +1773,6 @@ msgstr "请尝试顶部导航！"
 #: assets/modern/partials/agent/home-card.php:54
 #: assets/modern/partials/agent/single/card.php:49
 #: assets/modern/partials/page/users-list.php:181
-#, fuzzy
 msgid "Listed Property"
 msgstr "上市房产"
 
@@ -1810,7 +1789,7 @@ msgstr "列出的房源"
 #: framework/include/agency-post-type.php:19
 #: framework/include/agency-post-type.php:45
 #: framework/include/agency-post-type.php:110
-#: framework/meta-box/config-meta-boxes.php:812
+#: framework/meta-box/config-meta-boxes.php:805
 msgid "Agency"
 msgstr "机构"
 
@@ -1883,7 +1862,7 @@ msgstr "发表于"
 
 #: assets/modern/partials/blog/post/meta.php:25
 msgid "On "
-msgstr "上"
+msgstr "上 "
 
 #: assets/modern/partials/header/modal.php:92
 #: assets/modern/partials/header/modal.php:218
@@ -1976,33 +1955,12 @@ msgstr "确认"
 msgid "Cancel"
 msgstr "取消"
 
-#: assets/modern/partials/member/properties.php:37
-#: assets/modern/partials/page/favorites.php:58
-msgid " of "
-msgstr "的"
-
-#: assets/modern/partials/member/properties.php:37
-#: assets/modern/partials/member/properties.php:41
-#: assets/modern/partials/page/favorites.php:58
-#: assets/modern/partials/page/favorites.php:62
-#, fuzzy
-#| msgid "Properties"
-msgid " Properties"
-msgstr "属性"
-
-#: assets/modern/partials/member/properties.php:39
-#: assets/modern/partials/page/favorites.php:60
-#, fuzzy
-#| msgid "Property"
-msgid " Property"
-msgstr "属性"
-
-#: assets/modern/partials/member/properties.php:132
-#: assets/modern/partials/member/properties.php:137
+#: assets/modern/partials/member/properties.php:95
+#: assets/modern/partials/member/properties.php:100
 msgid "Please login to view your properties!"
 msgstr "请登录查看您的房产！"
 
-#: assets/modern/partials/member/properties.php:134
+#: assets/modern/partials/member/properties.php:97
 #, php-format
 msgid "Please %1$s login %2$s to view your properties!"
 msgstr "请 %1$s 登入 %2$s 查看您的房源!"
@@ -2043,7 +2001,6 @@ msgstr "注意：只有在您想更改密码时才填写"
 
 #: assets/modern/partials/page/membership.php:59
 #: assets/modern/partials/page/membership.php:64
-#, fuzzy
 msgid "Please login to access page content!"
 msgstr "请登录访问页面内容！"
 
@@ -2071,8 +2028,8 @@ msgstr "房源允许的"
 #: assets/modern/partials/page/membership.php:156
 #: framework/customizer/sections/home/featured-properties.php:24
 #: framework/customizer/sections/home/home-properties.php:160
-#: framework/customizer/sections/home/sections-manager.php:76
-#: framework/customizer/sections/home/sections-manager.php:99
+#: framework/customizer/sections/home/sections-manager.php:77
+#: framework/customizer/sections/home/sections-manager.php:100
 msgid "Featured Properties"
 msgstr "精选房源"
 
@@ -2129,7 +2086,7 @@ msgstr "更新成员资格"
 
 #: assets/modern/partials/page/submit-property.php:350
 #: framework/include/property-post-type.php:19
-#: framework/meta-box/config-meta-boxes.php:111
+#: framework/meta-box/config-meta-boxes.php:101
 msgid "Property"
 msgstr "属性"
 
@@ -2158,7 +2115,6 @@ msgid "Sorry No Results Found!"
 msgstr "对不起，找不到结果!"
 
 #: assets/modern/partials/properties/search/widget-form.php:112
-#, fuzzy
 msgid "Advance Search is already enabled in the header."
 msgstr "高级搜索已在标题中启用。"
 
@@ -2167,7 +2123,6 @@ msgstr "高级搜索已在标题中启用。"
 #: assets/modern/partials/property/form-fields/bedrooms.php:20
 #: assets/modern/partials/property/form-fields/garages.php:20
 #: assets/modern/partials/property/form-fields/price.php:20
-#, fuzzy
 msgid "* Please provide the value in digits only!"
 msgstr "*请仅提供数字值！"
 
@@ -2207,7 +2162,6 @@ msgstr "分享"
 
 #: assets/modern/partials/property/single/content.php:51
 #: assets/modern/partials/property/single/content.php:68
-#, fuzzy
 msgid "Added to Favorite"
 msgstr "添加到收藏夹"
 
@@ -2220,10 +2174,7 @@ msgid "Print"
 msgstr "打印"
 
 #: assets/modern/partials/property/single/content.php:108
-#: framework/customizer/sections/home/features-section.php:186
-#: framework/customizer/sections/home/features-section.php:279
-#: framework/customizer/sections/home/features-section.php:372
-#: framework/meta-box/config-meta-boxes.php:384
+#: framework/meta-box/config-meta-boxes.php:377
 msgid "Description"
 msgstr "描述"
 
@@ -2248,7 +2199,6 @@ msgid "Comments are closed."
 msgstr "评论被关闭。"
 
 #: framework/customizer/agencies.php:15
-#, fuzzy
 msgid "Agencies Pages"
 msgstr "代理商页面"
 
@@ -2258,8 +2208,7 @@ msgstr "代理商页面"
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:96
-#, fuzzy
+#: framework/customizer/sections/search/properties-search-page.php:81
 msgid "Header Variation"
 msgstr "标题变化"
 
@@ -2274,18 +2223,16 @@ msgstr "在经纪人页面上显示的页眉变体。"
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:101
+#: framework/customizer/sections/search/properties-search-page.php:86
 #: framework/customizer/sections/styles/banner.php:23
 msgid "Banner"
 msgstr "横幅"
 
 #: framework/customizer/agencies.php:44
-#, fuzzy
 msgid "Number of Agencies"
 msgstr "代理商数量"
 
 #: framework/customizer/agencies.php:45
-#, fuzzy
 msgid ""
 "Select the maximum number of agencies to display on an agencies list page."
 msgstr "选择要在代理商列表页面上显示的最大代理商数量。"
@@ -2367,7 +2314,6 @@ msgid "Contact Page"
 msgstr "联系页面"
 
 #: framework/customizer/contact.php:27
-#, fuzzy
 msgctxt "Settings Section Description"
 msgid ""
 "Simply create a page using Contact template and modify settings given below "
@@ -2390,8 +2336,7 @@ msgstr "地图"
 #: framework/customizer/sections/footer/partners.php:37
 #: framework/customizer/sections/header/search-form.php:44
 #: framework/customizer/sections/header/social-icons.php:44
-#: framework/customizer/sections/header/user-navigation.php:38
-#: framework/customizer/sections/header/user-navigation.php:55
+#: framework/customizer/sections/header/user-navigation.php:39
 #: framework/customizer/sections/home/cta-contact.php:40
 #: framework/customizer/sections/home/cta.php:40
 #: framework/customizer/sections/home/featured-properties.php:38
@@ -2418,7 +2363,7 @@ msgstr "地图"
 #: framework/customizer/sections/property/similar-properties.php:38
 #: framework/customizer/sections/property/video.php:38
 #: framework/customizer/sections/property/virtual-tour.php:37
-#: framework/meta-box/config-meta-boxes.php:899
+#: framework/meta-box/config-meta-boxes.php:892
 msgid "Show"
 msgstr "显示"
 
@@ -2429,8 +2374,7 @@ msgstr "显示"
 #: framework/customizer/sections/footer/partners.php:38
 #: framework/customizer/sections/header/search-form.php:43
 #: framework/customizer/sections/header/social-icons.php:45
-#: framework/customizer/sections/header/user-navigation.php:39
-#: framework/customizer/sections/header/user-navigation.php:56
+#: framework/customizer/sections/header/user-navigation.php:40
 #: framework/customizer/sections/home/cta-contact.php:41
 #: framework/customizer/sections/home/cta.php:41
 #: framework/customizer/sections/home/featured-properties.php:39
@@ -2457,7 +2401,7 @@ msgstr "显示"
 #: framework/customizer/sections/property/similar-properties.php:39
 #: framework/customizer/sections/property/video.php:39
 #: framework/customizer/sections/property/virtual-tour.php:38
-#: framework/meta-box/config-meta-boxes.php:900
+#: framework/meta-box/config-meta-boxes.php:893
 msgid "Hide"
 msgstr "隐藏"
 
@@ -2474,7 +2418,6 @@ msgid "Map Zoom Level"
 msgstr "地图缩放级别"
 
 #: framework/customizer/contact.php:113
-#, fuzzy
 msgid "Provide Map Zoom Level."
 msgstr "提供地图缩放级别。"
 
@@ -2496,7 +2439,6 @@ msgid "Display Email"
 msgstr "显示邮箱"
 
 #: framework/customizer/contact.php:258
-#, fuzzy
 msgid "Provide Email that will be displayed in contact details section."
 msgstr "提供将在联系人详细信息部分中显示的电子邮件。"
 
@@ -2509,7 +2451,6 @@ msgid "Contact Form Email"
 msgstr "联系表格电邮"
 
 #: framework/customizer/contact.php:314
-#, fuzzy
 msgid "Provide email address that will get messages from contact form."
 msgstr "提供将从联系表单中获取消息的电子邮件地址。"
 
@@ -2624,8 +2565,8 @@ msgid "Properties Gallery"
 msgstr "房源图集"
 
 #: framework/customizer/gallery.php:45 framework/customizer/news.php:55
-#: framework/meta-box/config-meta-boxes.php:831
-#: framework/meta-box/config-meta-boxes.php:868
+#: framework/meta-box/config-meta-boxes.php:824
+#: framework/meta-box/config-meta-boxes.php:861
 msgid "Banner Title"
 msgstr "横幅标题"
 
@@ -2634,7 +2575,7 @@ msgid "Skim Through Available Properties"
 msgstr "通过可用属性浏览"
 
 #: framework/customizer/gallery.php:58 framework/customizer/news.php:83
-#: framework/meta-box/config-meta-boxes.php:837
+#: framework/meta-box/config-meta-boxes.php:830
 msgid "Banner Sub Title"
 msgstr "横幅副标题"
 
@@ -2643,7 +2584,6 @@ msgid "GDPR"
 msgstr "GDPR"
 
 #: framework/customizer/gdpr.php:26
-#, fuzzy
 msgid "Add GDPR agreement checkbox in forms across website?"
 msgstr "在网站的表单中添加GDPR协议复选框？"
 
@@ -2653,15 +2593,16 @@ msgstr "在网站的表单中添加GDPR协议复选框？"
 #: framework/customizer/payments.php:30 framework/customizer/payments.php:71
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
+#: framework/customizer/sections/header/others.php:54
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:160
+#: framework/customizer/sections/search/properties-search-page.php:145
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
 #: framework/include/shortcodes/vc-map.php:278
-#: framework/meta-box/config-meta-boxes.php:259
-#: framework/meta-box/config-meta-boxes.php:279
-#: framework/meta-box/config-meta-boxes.php:469
+#: framework/meta-box/config-meta-boxes.php:249
+#: framework/meta-box/config-meta-boxes.php:269
+#: framework/meta-box/config-meta-boxes.php:462
 msgid "Yes"
 msgstr "是"
 
@@ -2671,57 +2612,52 @@ msgstr "是"
 #: framework/customizer/payments.php:31 framework/customizer/payments.php:72
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
+#: framework/customizer/sections/header/others.php:55
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:161
+#: framework/customizer/sections/search/properties-search-page.php:146
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
 #: framework/include/shortcodes/vc-map.php:277
-#: framework/meta-box/config-meta-boxes.php:260
-#: framework/meta-box/config-meta-boxes.php:280
-#: framework/meta-box/config-meta-boxes.php:567
+#: framework/meta-box/config-meta-boxes.php:250
+#: framework/meta-box/config-meta-boxes.php:270
+#: framework/meta-box/config-meta-boxes.php:560
 msgid "No"
 msgstr "否"
 
-#: framework/customizer/gdpr.php:38 framework/functions/basic.php:1146
+#: framework/customizer/gdpr.php:38 framework/functions/basic.php:1175
 msgid "GDPR Agreement"
 msgstr "GDPR协议"
 
 #: framework/customizer/gdpr.php:42
-#, fuzzy
 msgid "GDPR agreement checkbox label"
 msgstr "GDPR协议复选框标签"
 
-#: framework/customizer/gdpr.php:51 framework/functions/basic.php:1150
+#: framework/customizer/gdpr.php:51 framework/functions/basic.php:1179
 msgid ""
 "I consent to having this website store my submitted information so they can "
 "respond to my inquiry."
 msgstr "我同意让这个网站存储我提交的信息,这样他们就可以回应我的询问."
 
 #: framework/customizer/gdpr.php:55
-#, fuzzy
 msgid "GDPR agreement checkbox text"
 msgstr "GDPR协议复选框文本"
 
 #: framework/customizer/gdpr.php:56
-#, fuzzy
 msgid "You can use <a> tag in your GDPR agreement checkbox text."
-msgstr "您可以<a>在GDPR协议复选框文本中</a>使用<a>标记。</a>"
+msgstr "您可以<a>在GDPR协议复选框文本中</a>使用<a>标记。</a>."
 
-#: framework/customizer/gdpr.php:65 framework/functions/basic.php:1148
-#, fuzzy
+#: framework/customizer/gdpr.php:65 framework/functions/basic.php:1177
 msgid "* Please accept GDPR agreement"
 msgstr "*请接受GDPR协议"
 
 #: framework/customizer/gdpr.php:69
-#, fuzzy
 msgid "GDPR agreement checkbox validation message"
 msgstr "GDPR协议复选框验证消息"
 
 #: framework/customizer/gdpr.php:81
-#, fuzzy
 msgid "Add GDPR detail in resulting email?"
-msgstr "在结果电子邮件中添加GDPR详细信息"
+msgstr "在结果电子邮件中添加GDPR详细信息?"
 
 #: framework/customizer/google-fonts/google-fonts.php:26
 msgid "Theme Default Font"
@@ -2733,7 +2669,6 @@ msgid "Google reCAPTCHA"
 msgstr "Google reCAPTCHA"
 
 #: framework/customizer/google-recaptcha.php:22
-#, fuzzy
 msgid "For spam protection on agent forms and contact forms!"
 msgstr "对于代理表单和联系表单上的垃圾邮件保护！"
 
@@ -2742,11 +2677,13 @@ msgid "Site Key"
 msgstr "网站密钥"
 
 #: framework/customizer/google-recaptcha.php:39
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "You can reCAPTCHA public and private keys for your website by %s signing up "
 "here %s"
-msgstr "您可以通过％s在此处注册％s来为您的网站重新设置公钥和私钥"
+msgstr ""
+"You can reCAPTCHA public and private keys for your website by %s signing up "
+"here %s"
 
 #: framework/customizer/google-recaptcha.php:54
 msgid "Secret Key"
@@ -2785,7 +2722,6 @@ msgstr "在“属性列表模板”和“分类归档”页面的标题区域中
 
 #: framework/customizer/list-and-taxonomy.php:53
 #: framework/customizer/list-and-taxonomy.php:64
-#, fuzzy
 msgid "Map With Properties Markers"
 msgstr "地图与属性标记"
 
@@ -2799,7 +2735,6 @@ msgid "Default Layout"
 msgstr "默认布局"
 
 #: framework/customizer/list-and-taxonomy.php:77
-#, fuzzy
 msgid "Select the default layout for taxonomy archive pages."
 msgstr "选择分类存档页面的默认布局。"
 
@@ -2867,12 +2802,10 @@ msgid "Maps"
 msgstr "地图"
 
 #: framework/customizer/maps.php:22
-#, fuzzy
 msgid "Open Street Map:"
 msgstr "打开街道地图："
 
 #: framework/customizer/maps.php:23
-#, fuzzy
 msgid ""
 "By default, Open Street Map will be displayed if Google Maps API key is "
 "empty."
@@ -2883,7 +2816,6 @@ msgid "Google Maps API Key"
 msgstr "Google Maps API密钥"
 
 #: framework/customizer/maps.php:46
-#, fuzzy
 msgid "Localize Google Maps"
 msgstr "本地化Google地图"
 
@@ -2896,12 +2828,10 @@ msgid "Basic"
 msgstr "基本"
 
 #: framework/customizer/members.php:39
-#, fuzzy
 msgid "Restrict Admin Side Access"
 msgstr "限制管理员端访问权限"
 
 #: framework/customizer/members.php:40
-#, fuzzy
 msgid ""
 "Restrict admin side access to any user level equal to or below the selected "
 "user level."
@@ -2928,7 +2858,6 @@ msgid "Selected page should have Memberships Template assigned to it."
 msgstr "所选页面应具有分配给它的成员资格模板。"
 
 #: framework/customizer/members.php:74
-#, fuzzy
 msgid "Header variation to display on member pages."
 msgstr "成员页面上显示的标题变体。"
 
@@ -2988,8 +2917,8 @@ msgid "Price"
 msgstr "价格"
 
 #: framework/customizer/members.php:230
-#: framework/meta-box/config-meta-boxes.php:162
-#: framework/meta-box/config-meta-boxes.php:349
+#: framework/meta-box/config-meta-boxes.php:152
+#: framework/meta-box/config-meta-boxes.php:342
 msgid "Price Postfix"
 msgstr "价格后缀"
 
@@ -3015,7 +2944,7 @@ msgid "Mark as Featured Checkbox"
 msgstr "标记为精选复选框"
 
 #: framework/customizer/members.php:241
-#: framework/meta-box/config-meta-boxes.php:552
+#: framework/meta-box/config-meta-boxes.php:545
 msgid "Message to Reviewer"
 msgstr "消息给审阅者"
 
@@ -3038,7 +2967,6 @@ msgid ""
 msgstr "请在备注文字中使用 {link text} 模式，因为它会与条款和条件页面相关联。"
 
 #: framework/customizer/members.php:281
-#, fuzzy
 msgid "Select Terms & Conditions Page"
 msgstr "选择条款和条件页面"
 
@@ -3105,7 +3033,6 @@ msgid "Thanks for Submitting Property!"
 msgstr "感谢提交房产！"
 
 #: framework/customizer/members.php:398
-#, fuzzy
 msgid "Message After Successful Submit"
 msgstr "成功提交后的消息"
 
@@ -3118,12 +3045,11 @@ msgid "Select My Properties Page"
 msgstr "房源页面"
 
 #: framework/customizer/members.php:442
-#, fuzzy
 msgid "Selected page should have My Properties Template assigned to it."
 msgstr "所选页面应分配我的属性模板。"
 
 #: framework/customizer/misc.php:27
-#: framework/meta-box/config-meta-boxes.php:135
+#: framework/meta-box/config-meta-boxes.php:125
 msgid "Misc"
 msgstr "杂项"
 
@@ -3190,17 +3116,14 @@ msgid "Pages"
 msgstr "页面"
 
 #: framework/customizer/news.php:130
-#, fuzzy
 msgid "Header variation to display on Pages."
 msgstr "页面上显示的标题变体。"
 
 #: framework/customizer/news.php:146
-#, fuzzy
 msgid "Explode Title"
 msgstr "爆炸标题"
 
 #: framework/customizer/news.php:147
-#, fuzzy
 msgid "Explode page title into sub-title and title."
 msgstr "将页面标题分解为子标题和标题。"
 
@@ -3225,7 +3148,6 @@ msgid "Enable PayPal Sandbox for Testing"
 msgstr "启用PayPal Sandbox进行测试"
 
 #: framework/customizer/payments.php:84
-#, fuzzy
 msgid "Payment Amount Per Property"
 msgstr "每个物业的付款金额"
 
@@ -3259,7 +3181,6 @@ msgid "Provide currency sign. For Example: $"
 msgstr "提供货币符号。示例：￥"
 
 #: framework/customizer/price-format.php:39
-#, fuzzy
 msgid "Position of Currency Sign"
 msgstr "货币符号的位置"
 
@@ -3305,12 +3226,12 @@ msgid "Layout"
 msgstr "布局"
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:182
+#: framework/customizer/sections/search/properties-search-page.php:167
 msgid "One Column"
 msgstr "一列"
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:183
+#: framework/customizer/sections/search/properties-search-page.php:168
 msgid "Two Columns"
 msgstr "两列"
 
@@ -3319,7 +3240,7 @@ msgid "Three Columns"
 msgstr "三列"
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:184
+#: framework/customizer/sections/search/properties-search-page.php:169
 msgid "Four Columns"
 msgstr "四列"
 
@@ -3328,7 +3249,6 @@ msgid "Footer Columns"
 msgstr "页脚列"
 
 #: framework/customizer/sections/footer/layout.php:52
-#, fuzzy
 msgid "Select the number of footer widgets columns you want to use."
 msgstr "选择要使用的页脚窗口小部件列数。"
 
@@ -3360,9 +3280,9 @@ msgstr "页脚标语"
 #: framework/customizer/sections/footer/partners.php:23
 #: framework/customizer/sections/home/partners.php:26
 #: framework/customizer/sections/home/partners.php:71
-#: framework/customizer/sections/home/sections-manager.php:104
-#: framework/include/admin/class-rh-admin-menu.php:154
-#: framework/include/admin/class-rh-admin-menu.php:155
+#: framework/customizer/sections/home/sections-manager.php:105
+#: framework/include/admin/class-rh-admin-menu.php:169
+#: framework/include/admin/class-rh-admin-menu.php:170
 #: framework/include/partners-post-type.php:21
 msgid "Partners"
 msgstr "合作伙伴"
@@ -3424,8 +3344,8 @@ msgid "Contact Information"
 msgstr "联系信息"
 
 #: framework/customizer/sections/header/contact-information.php:36
-#: framework/meta-box/config-meta-boxes.php:660
-#: framework/meta-box/config-meta-boxes.php:748
+#: framework/meta-box/config-meta-boxes.php:653
+#: framework/meta-box/config-meta-boxes.php:741
 msgid "Email Address"
 msgstr "电子邮件地址"
 
@@ -3438,43 +3358,25 @@ msgid "Sticky Header"
 msgstr "粘性标题"
 
 #: framework/customizer/sections/header/others.php:49
+msgid "Display WPML Language Switcher in Top Header"
+msgstr "你想在顶部的页眉显示WPML语言切换"
+
+#: framework/customizer/sections/header/others.php:50
+msgid "Only works if WPML is installed."
+msgstr "仅在安装WPML时有效。"
+
+#: framework/customizer/sections/header/others.php:65
 msgid "Choose Header Variation"
 msgstr "选择标题变化"
 
-#: framework/customizer/sections/header/others.php:53
-#: framework/customizer/sections/home/sections-manager.php:41
+#: framework/customizer/sections/header/others.php:69
+#: framework/customizer/sections/home/sections-manager.php:42
 msgid "Default"
 msgstr "默认"
 
-#: framework/customizer/sections/header/others.php:54
+#: framework/customizer/sections/header/others.php:70
 msgid "Center"
 msgstr "居中"
-
-#: framework/customizer/sections/header/responsive-header.php:29
-#, fuzzy
-#| msgid "Responsive Menu"
-msgid "Responsive Header"
-msgstr "响应菜单"
-
-#: framework/customizer/sections/header/responsive-header.php:41
-#, fuzzy
-#| msgid "Search Results Page Header"
-msgid "Select Responsive Header"
-msgstr "搜索结果页面标题"
-
-#: framework/customizer/sections/header/responsive-header.php:44
-msgid "Enabling responsive header on mobile devices."
-msgstr "在移动设备上启用响应式标头。"
-
-#: framework/customizer/sections/header/responsive-header.php:46
-#, fuzzy
-#| msgid "(no parent)"
-msgid "Transparent"
-msgstr "(无父级)"
-
-#: framework/customizer/sections/header/responsive-header.php:47
-msgid "Solid"
-msgstr "固体"
 
 #: framework/customizer/sections/header/search-form.php:24
 #: framework/customizer/sections/home/search-form.php:24
@@ -3500,9 +3402,9 @@ msgid "Show or Hide Social Icons"
 msgstr "显示或隐藏社交图标"
 
 #: framework/customizer/sections/header/social-icons.php:104
-#: framework/functions/basic.php:399
-#: framework/meta-box/config-meta-boxes.php:714
-#: framework/meta-box/config-meta-boxes.php:802
+#: framework/functions/basic.php:416
+#: framework/meta-box/config-meta-boxes.php:707
+#: framework/meta-box/config-meta-boxes.php:795
 msgid "Instagram URL"
 msgstr "Instagram URL"
 
@@ -3522,39 +3424,13 @@ msgstr "Pinterest网址"
 msgid "RSS URL"
 msgstr "RSS网址"
 
-#: framework/customizer/sections/header/user-navigation.php:24
+#: framework/customizer/sections/header/user-navigation.php:25
 msgid "User Navigation"
 msgstr "用户导航"
 
-#: framework/customizer/sections/header/user-navigation.php:34
-#, fuzzy
-#| msgid "Select Login and Register Page (Optional)"
-msgid "User Login and Register Links Display"
-msgstr "选择登录和注册页面（可选）"
-
-#: framework/customizer/sections/header/user-navigation.php:51
-#, fuzzy
-#| msgid "Display WPML Language Switcher in Top Header"
-msgid "WPML Language Switcher Display"
-msgstr "你想在顶部的页眉显示WPML语言切换"
-
-#: framework/customizer/sections/header/user-navigation.php:65
-msgid "Switcher Language Display Options"
-msgstr "切换器语言显示选项"
-
-#: framework/customizer/sections/header/user-navigation.php:69
-msgid "Name and Flag"
-msgstr "名称和旗帜"
-
-#: framework/customizer/sections/header/user-navigation.php:70
-#, fuzzy
-#| msgid "Name Color"
-msgid "Name Only"
-msgstr "名字颜色"
-
-#: framework/customizer/sections/header/user-navigation.php:71
-msgid "Flag Only "
-msgstr "仅标志"
+#: framework/customizer/sections/header/user-navigation.php:35
+msgid "Header Navigation for User Login and Register"
+msgstr "用户登录和注册的页眉导航"
 
 #: framework/customizer/sections/home/cta-contact.php:26
 msgid "Call to Action — Contact"
@@ -3566,17 +3442,16 @@ msgstr "CTA联系主页"
 
 #: framework/customizer/sections/home/cta-contact.php:56
 #: framework/customizer/sections/home/cta.php:56
-#, fuzzy
 msgid "CTA Background"
 msgstr "CTA背景"
 
-#: framework/customizer/sections/home/cta-contact.php:68
+#: framework/customizer/sections/home/cta-contact.php:84
 msgid "Trouble Finding"
 msgstr "查找问题"
 
-#: framework/customizer/sections/home/cta-contact.php:72
+#: framework/customizer/sections/home/cta-contact.php:88
 #: framework/customizer/sections/home/featured-properties.php:73
-#: framework/customizer/sections/home/features-section.php:90
+#: framework/customizer/sections/home/features-section.php:125
 #: framework/customizer/sections/home/home-agents.php:75
 #: framework/customizer/sections/home/home-features.php:75
 #: framework/customizer/sections/home/home-news.php:66
@@ -3585,11 +3460,11 @@ msgstr "查找问题"
 msgid "Section Title"
 msgstr "章节标题"
 
-#: framework/customizer/sections/home/cta-contact.php:90
+#: framework/customizer/sections/home/cta-contact.php:106
 msgid "Need help? Talk to our expert."
 msgstr "需要帮忙？ 与我们的专家交谈。"
 
-#: framework/customizer/sections/home/cta-contact.php:94
+#: framework/customizer/sections/home/cta-contact.php:110
 #: framework/customizer/sections/home/featured-properties.php:99
 #: framework/customizer/sections/home/home-agents.php:97
 #: framework/customizer/sections/home/home-features.php:97
@@ -3599,37 +3474,33 @@ msgstr "需要帮忙？ 与我们的专家交谈。"
 msgid "Section Description"
 msgstr "章节描述"
 
-#: framework/customizer/sections/home/cta-contact.php:130
+#: framework/customizer/sections/home/cta-contact.php:178
 #: framework/customizer/sections/home/cta.php:160
-#, fuzzy
 msgid "CTA Button Title One"
 msgstr "CTA按钮标题一"
 
-#: framework/customizer/sections/home/cta-contact.php:152
+#: framework/customizer/sections/home/cta-contact.php:200
 #: framework/customizer/sections/home/cta.php:182
-#, fuzzy
 msgid "CTA Button URL One"
 msgstr "CTA按钮URL一"
 
-#: framework/customizer/sections/home/cta-contact.php:174
-#: framework/customizer/sections/home/cta.php:203
+#: framework/customizer/sections/home/cta-contact.php:253
+#: framework/customizer/sections/home/cta.php:236
 msgid "Browse Property"
 msgstr "浏览房源"
 
-#: framework/customizer/sections/home/cta-contact.php:178
-#: framework/customizer/sections/home/cta.php:207
-#, fuzzy
+#: framework/customizer/sections/home/cta-contact.php:257
+#: framework/customizer/sections/home/cta.php:240
 msgid "CTA Button Title Two"
 msgstr "CTA按钮标题二"
 
-#: framework/customizer/sections/home/cta-contact.php:200
-#: framework/customizer/sections/home/cta.php:229
-#, fuzzy
+#: framework/customizer/sections/home/cta-contact.php:279
+#: framework/customizer/sections/home/cta.php:262
 msgid "CTA Button URL Two"
 msgstr "CTA按钮URL二"
 
 #: framework/customizer/sections/home/cta.php:26
-#: framework/customizer/sections/home/sections-manager.php:101
+#: framework/customizer/sections/home/sections-manager.php:102
 msgid "Call to Action"
 msgstr "呼吁采取行动"
 
@@ -3668,7 +3539,7 @@ msgid "Select Featured Properties Variation"
 msgstr "选择特色属性变化"
 
 #: framework/customizer/sections/home/features-section.php:23
-#: framework/customizer/sections/home/sections-manager.php:75
+#: framework/customizer/sections/home/sections-manager.php:76
 msgid "Features Section"
 msgstr "功能部分"
 
@@ -3676,56 +3547,49 @@ msgstr "功能部分"
 msgid "Features Section on Homepage"
 msgstr "主页上的功能部分"
 
-#: framework/customizer/sections/home/features-section.php:65
+#: framework/customizer/sections/home/features-section.php:100
 msgid "Section Background Image"
 msgstr "Section-背景图"
 
-#: framework/customizer/sections/home/features-section.php:102
+#: framework/customizer/sections/home/features-section.php:137
 #: framework/customizer/sections/home/news-posts.php:70
 msgid "Description Text"
 msgstr "描述文本"
 
-#: framework/customizer/sections/home/features-section.php:126
-#, fuzzy
-msgid "First Feature "
-msgstr "特征"
-
-#: framework/customizer/sections/home/features-section.php:143
-#: framework/customizer/sections/home/features-section.php:236
-#: framework/customizer/sections/home/features-section.php:329
-#, fuzzy
-#| msgid "Icon Image"
-msgid "Image"
-msgstr "图标图像"
-
-#: framework/customizer/sections/home/features-section.php:207
-#: framework/customizer/sections/home/features-section.php:300
-#: framework/customizer/sections/home/features-section.php:393
-#: framework/customizer/sections/home/testimonial.php:124
-msgid "URL"
-msgstr "URL"
-
-#: framework/customizer/sections/home/features-section.php:218
-#, fuzzy
-msgid "Second Feature "
-msgstr "特征"
-
-#: framework/customizer/sections/home/features-section.php:312
-#, fuzzy
-msgid "Third Feature "
-msgstr "特征"
-
-#: framework/customizer/sections/home/features-section.php:428
-#: framework/customizer/sections/home/features-section.php:456
-#: framework/customizer/sections/home/features-section.php:484
+#: framework/customizer/sections/home/features-section.php:165
+#: framework/customizer/sections/home/features-section.php:246
+#: framework/customizer/sections/home/features-section.php:327
+#: framework/customizer/sections/home/features-section.php:426
+#: framework/customizer/sections/home/features-section.php:454
+#: framework/customizer/sections/home/features-section.php:482
 msgid "Feature Image"
 msgstr "特色图片"
 
+#: framework/customizer/sections/home/features-section.php:187
+#: framework/customizer/sections/home/features-section.php:268
+#: framework/customizer/sections/home/features-section.php:349
+msgid "Feature Title"
+msgstr "特色标题"
+
+#: framework/customizer/sections/home/features-section.php:208
+#: framework/customizer/sections/home/features-section.php:289
+#: framework/customizer/sections/home/features-section.php:370
+#: framework/meta-box/config-meta-boxes.php:1146
+msgid "Feature Description"
+msgstr "功能描述"
+
+#: framework/customizer/sections/home/features-section.php:229
+#: framework/customizer/sections/home/features-section.php:310
+#: framework/customizer/sections/home/features-section.php:391
+#: framework/meta-box/config-meta-boxes.php:1131
+msgid "Feature URL"
+msgstr "特征URL"
+
 #: framework/customizer/sections/home/home-agents.php:26
 #: framework/customizer/sections/home/home-agents.php:71
-#: framework/customizer/sections/home/sections-manager.php:102
-#: framework/include/admin/class-rh-admin-menu.php:146
-#: framework/include/admin/class-rh-admin-menu.php:147
+#: framework/customizer/sections/home/sections-manager.php:103
+#: framework/include/admin/class-rh-admin-menu.php:162
+#: framework/include/admin/class-rh-admin-menu.php:163
 #: framework/include/agent-post-type.php:20
 msgid "Agents"
 msgstr "代理"
@@ -3764,7 +3628,6 @@ msgid "General"
 msgstr "常规"
 
 #: framework/customizer/sections/home/home-general.php:20
-#, fuzzy
 msgid "Sections Border Angle"
 msgstr "部分边界角度"
 
@@ -3777,22 +3640,20 @@ msgid "Flat"
 msgstr "扁平"
 
 #: framework/customizer/sections/home/home-news.php:28
-#, fuzzy
 msgid "News on Homepage"
 msgstr "主页新闻"
 
 #: framework/customizer/sections/home/home-news.php:62
-#: framework/customizer/sections/home/sections-manager.php:105
+#: framework/customizer/sections/home/sections-manager.php:106
 msgid "News & Updates"
 msgstr "新闻和更新"
 
 #: framework/customizer/sections/home/home-news.php:82
-#, fuzzy
 msgid "Some recent news & updates of Real Homes theme."
 msgstr "Real Homes主题的最新消息和更新。"
 
 #: framework/customizer/sections/home/home-properties.php:45
-#: framework/customizer/sections/home/sections-manager.php:74
+#: framework/customizer/sections/home/sections-manager.php:75
 msgid "Home Properties"
 msgstr "主页房源"
 
@@ -3801,7 +3662,6 @@ msgid "Show or Hide Slogan + Properties on Homepage ?"
 msgstr "在主页上显示或隐藏口号+属性？"
 
 #: framework/customizer/sections/home/home-properties.php:73
-#, fuzzy
 msgid "Properties on Homepage"
 msgstr "主页上的属性"
 
@@ -3820,7 +3680,6 @@ msgid "Some amazing features of Real Homes theme."
 msgstr "Real Homes主题的一些惊人功能。"
 
 #: framework/customizer/sections/home/home-properties.php:155
-#, fuzzy
 msgid "Select the kind of properties You Want to display on Homepage ?"
 msgstr "选择您要在主页上显示的属性类型？"
 
@@ -3891,9 +3750,8 @@ msgid "Our"
 msgstr "我们"
 
 #: framework/customizer/sections/home/partners.php:93
-#, fuzzy
 msgid "Some amazing partners of Real Homes theme"
-msgstr "Real Homes主题的一些惊人的合作伙伴"
+msgstr "Real Homes主题的一些惊人的合作伙"
 
 #: framework/customizer/sections/home/search-form.php:35
 msgid "Properties Search Form on Homepage"
@@ -3904,17 +3762,14 @@ msgid "You can configure properties search form using related section."
 msgstr "您可以使用相关部分配置房源搜索表单。"
 
 #: framework/customizer/sections/home/search-form.php:56
-#, fuzzy
 msgid "Enable Advance Search Label"
 msgstr "启用高级搜索标签"
 
-#: framework/customizer/sections/home/search-form.php:83
-#, fuzzy
+#: framework/customizer/sections/home/search-form.php:116
 msgid "Advance Search Label Text"
 msgstr "高级搜索标签文本"
 
-#: framework/customizer/sections/home/search-form.php:84
-#, fuzzy
+#: framework/customizer/sections/home/search-form.php:117
 msgid "This text will be replaced with Advance Search Label Image"
 msgstr "此文本将替换为高级搜索标签图像"
 
@@ -3926,36 +3781,33 @@ msgstr "区域管理器"
 msgid "Order Settings"
 msgstr "顺序设置"
 
-#: framework/customizer/sections/home/sections-manager.php:42
+#: framework/customizer/sections/home/sections-manager.php:43
 msgid "Custom"
 msgstr "自定义"
 
-#: framework/customizer/sections/home/sections-manager.php:69
-#: framework/customizer/sections/home/sections-manager.php:93
+#: framework/customizer/sections/home/sections-manager.php:70
+#: framework/customizer/sections/home/sections-manager.php:94
 msgid "Sections Order"
 msgstr "部分订单"
 
-#: framework/customizer/sections/home/sections-manager.php:70
-#: framework/customizer/sections/home/sections-manager.php:94
-#, fuzzy
+#: framework/customizer/sections/home/sections-manager.php:71
+#: framework/customizer/sections/home/sections-manager.php:95
 msgid "Select Custom Order Settings to apply these changes."
 msgstr "选择自定义订单设置以应用这些更改。"
 
-#: framework/customizer/sections/home/sections-manager.php:77
+#: framework/customizer/sections/home/sections-manager.php:78
 msgid "News/Blog Posts"
 msgstr "新闻/博客文章"
 
-#: framework/customizer/sections/home/sections-manager.php:98
-#, fuzzy
+#: framework/customizer/sections/home/sections-manager.php:99
 msgid "Latest Properties"
 msgstr "最新物业"
 
-#: framework/customizer/sections/home/sections-manager.php:100
+#: framework/customizer/sections/home/sections-manager.php:101
 msgid "Testimonials"
 msgstr "客户评价"
 
-#: framework/customizer/sections/home/sections-manager.php:106
-#, fuzzy
+#: framework/customizer/sections/home/sections-manager.php:107
 msgid "Call to Action -- Contact"
 msgstr "行动呼吁 - 联系"
 
@@ -3980,7 +3832,6 @@ msgstr "通过图像搜索表单"
 #: framework/customizer/sections/home/slider-area.php:45
 #: framework/customizer/sections/home/slider-area.php:59
 #: framework/customizer/sections/search/properties-search-page.php:63
-#, fuzzy
 msgid "Map with Properties Markers"
 msgstr "使用属性标记映射"
 
@@ -4051,7 +3902,7 @@ msgid ""
 msgstr "基于幻灯片的自定义幻灯片类型的幻灯片中显示的最大幻灯片数"
 
 #: framework/customizer/sections/home/slider-area.php:275
-#: framework/meta-box/config-meta-boxes.php:852
+#: framework/meta-box/config-meta-boxes.php:845
 msgid "Revolution Slider Alias"
 msgstr "Revolution Slider 别名"
 
@@ -4072,7 +3923,7 @@ msgid "Description Text Below Slogan"
 msgstr "标语下面的描述文字"
 
 #: framework/customizer/sections/home/testimonial.php:26
-#: framework/customizer/sections/home/testimonial.php:55
+#: framework/customizer/sections/home/testimonial.php:106
 msgid "Testimonial"
 msgstr "证明"
 
@@ -4080,7 +3931,7 @@ msgstr "证明"
 msgid "Testimonial on Homepage"
 msgstr "推荐在首页"
 
-#: framework/customizer/sections/home/testimonial.php:51
+#: framework/customizer/sections/home/testimonial.php:102
 msgid ""
 "Best theme for Real Estate Agency fast installation and translation can be "
 "done with po-edit software. Cool & comfortable design, thanks for this "
@@ -4089,12 +3940,16 @@ msgstr ""
 "最好的主题为房地产代理快速安装和翻译可以做的PO编辑软件。凉爽舒适的设计，感谢"
 "这个惊人的主题。建议所有房地产代理。"
 
-#: framework/customizer/sections/home/testimonial.php:85
+#: framework/customizer/sections/home/testimonial.php:136
 msgid "giovannigr"
 msgstr "giovannigr"
 
+#: framework/customizer/sections/home/testimonial.php:191
+msgid "URL"
+msgstr "URL"
+
 #: framework/customizer/sections/property/agent.php:34
-#: framework/meta-box/config-meta-boxes.php:131
+#: framework/meta-box/config-meta-boxes.php:121
 msgid "Agent Information"
 msgstr "代理信息"
 
@@ -4114,22 +3969,8 @@ msgstr "获取邮件副本的电子邮件地址"
 msgid "Given email address will get a copy of message sent to agent."
 msgstr "给定的电子邮件地址将获得发送给座席的消息副本。"
 
-#: framework/customizer/sections/property/agent.php:96
-#: framework/customizer/sections/styles/basic-settings.php:47
-#, fuzzy
-msgid "Important Note:"
-msgstr "重要的提示："
-
-#: framework/customizer/sections/property/agent.php:97
-msgid ""
-"For agent form layout on property detail page, please go to Customizer > "
-"Property Detail Page > Basics ."
-msgstr ""
-"对于属性详细信息页面上的代理表单布局，请转到定制程序&gt;属性详细信息页面&gt;"
-"基础知识。"
-
 #: framework/customizer/sections/property/attachments.php:24
-#: framework/meta-box/config-meta-boxes.php:506
+#: framework/meta-box/config-meta-boxes.php:499
 msgid "Attachments"
 msgstr "附件"
 
@@ -4151,7 +3992,7 @@ msgid "Basics"
 msgstr "基本"
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:97
+#: framework/customizer/sections/search/properties-search-page.php:82
 msgid "Header variation to display on Property Detail Page."
 msgstr "属性属性页上显示的页眉变化。"
 
@@ -4168,7 +4009,7 @@ msgid "Agent info in Sidebar"
 msgstr "Sidebar中的代理信息"
 
 #: framework/customizer/sections/property/basics.php:81
-#: framework/meta-box/config-meta-boxes.php:287
+#: framework/meta-box/config-meta-boxes.php:277
 msgid "Property Address"
 msgstr "地址"
 
@@ -4330,6 +4171,7 @@ msgstr "根据。显示类似的房源"
 
 #: framework/customizer/sections/property/similar-properties.php:84
 #: framework/customizer/sections/search/search-form-basics.php:73
+#: framework/include/admin/class-rh-admin-menu.php:121
 #: framework/include/property-post-type.php:87
 #: framework/include/property-post-type.php:88
 #: framework/include/property-post-type.php:101
@@ -4344,7 +4186,7 @@ msgstr "房产位置"
 
 #: framework/customizer/sections/property/video.php:34
 #: framework/customizer/sections/property/video.php:47
-#: framework/meta-box/config-meta-boxes.php:127
+#: framework/meta-box/config-meta-boxes.php:117
 msgid "Property Video"
 msgstr "房产视频"
 
@@ -4397,50 +4239,29 @@ msgid ""
 "page ?"
 msgstr "你想在房源搜索结果页面下面的区域中显示什么？"
 
-#: framework/customizer/sections/search/properties-search-page.php:77
-#, fuzzy
-#| msgid "Search Results"
-msgid "Search Results Layout"
-msgstr "搜索结果"
-
-#: framework/customizer/sections/search/properties-search-page.php:78
-#, fuzzy
-#| msgid "Search Results Page Header"
-msgid "Search results page layout."
-msgstr "搜索结果页面标题"
-
-#: framework/customizer/sections/search/properties-search-page.php:82
-msgid "With Map"
-msgstr "用地图"
-
-#: framework/customizer/sections/search/properties-search-page.php:83
-msgid "Without Map"
-msgstr "没有地图"
-
-#: framework/customizer/sections/search/properties-search-page.php:117
-#, fuzzy
+#: framework/customizer/sections/search/properties-search-page.php:102
 msgid "Properties Per Page"
 msgstr "每页属性"
 
-#: framework/customizer/sections/search/properties-search-page.php:118
+#: framework/customizer/sections/search/properties-search-page.php:103
 msgid "Number of properties to display on search results page"
 msgstr "要在搜索结果页面上显示的属性数量"
 
-#: framework/customizer/sections/search/properties-search-page.php:155
+#: framework/customizer/sections/search/properties-search-page.php:140
 msgid "Display Featured Properties on Top in Search Results Page?"
 msgstr "在搜索结果页面的顶部显示精选房源？"
 
-#: framework/customizer/sections/search/properties-search-page.php:156
+#: framework/customizer/sections/search/properties-search-page.php:141
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New "
 "and New to Old) only."
 msgstr "此设置仅适用于基于日期排序（旧到新和新到旧）的排序。"
 
-#: framework/customizer/sections/search/properties-search-page.php:177
+#: framework/customizer/sections/search/properties-search-page.php:162
 msgid "Search Page Variation"
 msgstr "搜索页面变化"
 
-#: framework/customizer/sections/search/properties-search-page.php:178
+#: framework/customizer/sections/search/properties-search-page.php:163
 msgid "Search page variation to display properties."
 msgstr "搜索页面变体以显示房源。"
 
@@ -4469,7 +4290,7 @@ msgid "Area Measurement Unit for Min and Max Area fields."
 msgstr "最小和最大面积字段的面积测量单位。"
 
 #: framework/customizer/sections/search/search-form-areas.php:110
-#: framework/meta-box/config-meta-boxes.php:365
+#: framework/meta-box/config-meta-boxes.php:358
 msgid "Example: sq ft"
 msgstr "例如：平方米"
 
@@ -4538,7 +4359,6 @@ msgid "Label for Property Type"
 msgstr "房源类型的标签"
 
 #: framework/customizer/sections/search/search-form-basics.php:289
-#, fuzzy
 msgid "Label for Agent"
 msgstr "代理商的标签"
 
@@ -4687,7 +4507,6 @@ msgid "Optimize Locations by hiding the ones with zero property."
 msgstr "通过隐藏零房源来优化位置。"
 
 #: framework/customizer/sections/search/search-form-locations.php:119
-#, fuzzy
 msgid "Sort Locations Alphabetically ?"
 msgstr "按字母顺序排序位置？"
 
@@ -4700,7 +4519,6 @@ msgid "Label for Min Price Field"
 msgstr "最低价格字段的标签"
 
 #: framework/customizer/sections/search/search-form-prices.php:60
-#, fuzzy
 msgid "Minimum Prices List"
 msgstr "最低价格清单"
 
@@ -4759,32 +4577,30 @@ msgid "Banner Sub Title Background Color"
 msgstr "Banner 副标题背景颜色"
 
 #: framework/customizer/sections/styles/banner.php:95
-#, fuzzy
 msgid "Default color is #37B3D9"
 msgstr "默认颜色为＃37B3D9"
 
 #: framework/customizer/sections/styles/basic-settings.php:14
-#, fuzzy
 msgid "Default or Custom"
 msgstr "默认或自定义"
 
 #: framework/customizer/sections/styles/basic-settings.php:30
-#, fuzzy
 msgid "You are going to use default theme colors or your own custom colors?"
 msgstr "您将使用默认主题颜色或您自己的自定义颜色？"
 
 #: framework/customizer/sections/styles/basic-settings.php:35
-#, fuzzy
 msgid "Default Theme Colors"
 msgstr "默认主题颜色"
 
 #: framework/customizer/sections/styles/basic-settings.php:36
-#, fuzzy
 msgid "My Own Custom Colors"
-msgstr "我自己的自定义颜色"
+msgstr "我自己的自定義顏色"
+
+#: framework/customizer/sections/styles/basic-settings.php:47
+msgid "Important Note:"
+msgstr "重要的提示："
 
 #: framework/customizer/sections/styles/basic-settings.php:48
-#, fuzzy
 msgid ""
 "Above settings will automatically change to Default whenever you change the "
 "design variation. So that you can view freshly changed design variation in "
@@ -4795,19 +4611,16 @@ msgstr ""
 
 #: framework/customizer/sections/styles/basic.php:24
 #: framework/customizer/sections/styles/basic.php:34
-#, fuzzy
 msgid "Quick CSS (DEPRECATED)"
 msgstr "快速CSS（已弃用）"
 
 #: framework/customizer/sections/styles/basic.php:35
-#, fuzzy
 msgid ""
 "Quick CSS will be removed in future updates. So, Please move your CSS from "
 "here to Additional CSS under main panel."
 msgstr "将来的更新中将删除快速CSS。所以，请将CSS从这里移到主面板下的附加CSS。"
 
 #: framework/customizer/sections/styles/basic.php:72
-#, fuzzy
 msgctxt "Admin Notice"
 msgid ""
 "Styles > Quick CSS option in customizer has been DEPRECATED in favour of "
@@ -4815,7 +4628,6 @@ msgid ""
 msgstr "定制器中的样式&gt;快速CSS选项已被弃用，支持WordPress的附加CSS！"
 
 #: framework/customizer/sections/styles/basic.php:73
-#, fuzzy
 msgctxt "Admin Notice"
 msgid ""
 "So move your CSS from Styles > Quick CSS to Additional CSS under main panel. "
@@ -4844,9 +4656,9 @@ msgstr "按钮背景颜色"
 #: framework/customizer/sections/styles/property-item.php:158
 #: framework/customizer/sections/styles/slider.php:85
 #: framework/customizer/sections/styles/slider.php:128
-#, fuzzy, php-format
+#, php-format
 msgid "Default color is %s"
-msgstr "默认颜色为％s"
+msgstr "Default color is %s"
 
 #: framework/customizer/sections/styles/buttons.php:76
 msgid "Button Hover Text Color"
@@ -4864,7 +4676,6 @@ msgstr "滚动到顶部按钮背景颜色"
 #: framework/customizer/sections/styles/header-styles.php:311
 #: framework/customizer/sections/styles/news.php:66
 #: framework/customizer/sections/styles/property-item.php:176
-#, fuzzy
 msgid "Default color is #4dc7ec"
 msgstr "默认颜色为＃4dc7ec"
 
@@ -4875,7 +4686,6 @@ msgstr "滚动到顶部按钮背景悬停颜色"
 #: framework/customizer/sections/styles/buttons.php:146
 #: framework/customizer/sections/styles/header-styles.php:352
 #: framework/customizer/sections/styles/slider.php:162
-#, fuzzy
 msgid "Default color is #37b3d9"
 msgstr "默认颜色为＃37b3d9"
 
@@ -4888,7 +4698,6 @@ msgid "Advance Search Button Background"
 msgstr "高级搜索按钮背景"
 
 #: framework/customizer/sections/styles/buttons.php:181
-#, fuzzy
 msgid "Default color is #18998e"
 msgstr "默认颜色为＃18998e"
 
@@ -4897,12 +4706,10 @@ msgid "Advance Search Button Hover Background"
 msgstr "前进搜索按钮悬停背景"
 
 #: framework/customizer/sections/styles/buttons.php:198
-#, fuzzy
 msgid "Default color is #179086"
 msgstr "默认颜色是＃179086"
 
 #: framework/customizer/sections/styles/core-styles.php:14
-#, fuzzy
 msgid "Core Colors"
 msgstr "核心色彩"
 
@@ -4910,8 +4717,8 @@ msgstr "核心色彩"
 msgid "Important Notes:"
 msgstr "非常重要的提示："
 
-#: framework/customizer/sections/styles/core-styles.php:27
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:28
+#, php-format
 msgid ""
 "• These color options replace the core colors %1$s mostly %2$s all over the "
 "theme. You can also override these colors for almost each section in %1$s "
@@ -4920,22 +4727,21 @@ msgstr ""
 "•这些颜色选项取代了主题上的核心颜色%1$s，主要是%2$s。您还可以在%1$s定制器&gt;"
 "样式%2$s中的几乎每个部分覆盖这些颜色。"
 
-#: framework/customizer/sections/styles/core-styles.php:40
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:42
+#, php-format
 msgid ""
 "• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
 "option is selected in %1$s Customizer > Styles > Default or Custom %2$s. "
 msgstr ""
 "•要应用这些核心颜色，请确保在%1$s定制程序&gt;样式&gt;默认或自定义%2$s中选"
-"择%1$s我自己的自定义颜色%2$s选项。"
+"择%1$s我自己的自定义颜色%2$s选项 "
 
-#: framework/customizer/sections/styles/core-styles.php:71
-#, fuzzy
+#: framework/customizer/sections/styles/core-styles.php:73
 msgid "Orange Light"
 msgstr "橙色光"
 
-#: framework/customizer/sections/styles/core-styles.php:72
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:74
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu %1$s\n"
@@ -4953,15 +4759,14 @@ msgid ""
 msgstr ""
 "更改%1$s的核心颜色•主菜单%1$s•搜索表单按钮%1$s•属性状态标记%1$s•代理知道更多"
 "按钮%1$s•代理联系表单按钮%1$s•发布阅读更多按钮%1$s•发布作者链接%1$s•发布标"
-"签%1$s•发布回复按钮%1$s•图库过滤器%1$s•联系表单按钮%1$s默认颜色为＃ ec894d"
+"签%1$s•发布回复按钮%1$s•图库过滤器%1$s•联系表单按钮%1$s默认颜色为＃ ec894d "
 
-#: framework/customizer/sections/styles/core-styles.php:99
-#, fuzzy
+#: framework/customizer/sections/styles/core-styles.php:101
 msgid "Orange Dark"
 msgstr "橙色黑暗"
 
-#: framework/customizer/sections/styles/core-styles.php:100
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:102
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Hover %1$s\n"
@@ -4970,15 +4775,14 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #dc7d44 "
 msgstr ""
 "更改%1$s的核心颜色•主菜单悬停%1$s•页脚小部件链接悬停%1$s•补充工具栏小部件链接"
-"悬停%1$s默认颜色为＃dc7d44"
+"悬停%1$s默认颜色为＃dc7d44 "
 
-#: framework/customizer/sections/styles/core-styles.php:119
-#, fuzzy
+#: framework/customizer/sections/styles/core-styles.php:121
 msgid "Orange Glow"
 msgstr "橙色发光"
 
-#: framework/customizer/sections/styles/core-styles.php:120
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:122
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Search Form Button Hover %1$s\n"
@@ -4992,15 +4796,14 @@ msgid ""
 msgstr ""
 "更改%1$s的核心颜色•搜索表单按钮悬停%1$s•代理知道按钮悬停%1$s•代理联系表单按钮"
 "悬停%1$s•发布阅读更多按钮悬停%1$s•发布标签悬停%1$s•发布回复按钮悬停%1$s•分"
-"页%1$s默认颜色为＃e3712c"
+"页%1$s默认颜色为＃e3712c "
 
-#: framework/customizer/sections/styles/core-styles.php:143
-#, fuzzy
+#: framework/customizer/sections/styles/core-styles.php:145
 msgid "Orange Burnt"
 msgstr "橙色烧焦"
 
-#: framework/customizer/sections/styles/core-styles.php:144
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:146
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Slider price and Title Hover %1$s\n"
@@ -5019,15 +4822,14 @@ msgstr ""
 "更改%1$s的核心颜色•主页滑块价格和标题悬停%1$s•物业标题悬停%1$s•物业更多详情链"
 "接悬停%1$s•页脚链接悬停%1$s•帖子标题悬停%1$s•代理商名称悬停在列表%1$s•名称悬"
 "停的特色属性小组件%1$s•联系页面电子邮件悬停%1$s•功能搜索悬停在搜索表单小组件"
-"中%1$s默认颜色为＃df5400"
+"中%1$s默认颜色为＃df5400 "
 
-#: framework/customizer/sections/styles/core-styles.php:169
-#, fuzzy
+#: framework/customizer/sections/styles/core-styles.php:171
 msgid "Blue light"
 msgstr "蓝光"
 
-#: framework/customizer/sections/styles/core-styles.php:170
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:172
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Header Phone Number Background %1$s\n"
@@ -5043,14 +4845,14 @@ msgid ""
 msgstr ""
 "更改%1$s的核心颜色•标题电话号码背景%1$s•搜索表单下拉项目背景%1$s•主页滑块了解"
 "更多%1$s•物业价格和类型颜色/背景%1$s•滚动到顶部按钮%1$s•发布格式图标背景%1$s•"
-"发布滑块导航%1$s•图库属性覆盖%1$s默认颜色为＃4dc7ec"
+"发布滑块导航%1$s•图库属性覆盖%1$s默认颜色为＃4dc7ec "
 
-#: framework/customizer/sections/styles/core-styles.php:196
+#: framework/customizer/sections/styles/core-styles.php:215
 msgid "Blue Dark"
 msgstr "蓝黑色"
 
-#: framework/customizer/sections/styles/core-styles.php:197
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:216
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Header Phone Icon %1$s\n"
@@ -5062,14 +4864,14 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #37b3d9 "
 msgstr ""
 "更改%1$s的核心颜色•标题电话图标%1$s•主页滑块了解更多悬停%1$s•滚动到顶部按钮悬"
-"停%1$s•横幅描述背景%1$s•横幅面包屑背景%1$s默认颜色为＃37b3d9"
+"停%1$s•横幅描述背景%1$s•横幅面包屑背景%1$s默认颜色为＃37b3d9 "
 
-#: framework/customizer/sections/styles/core-styles.php:221
+#: framework/customizer/sections/styles/core-styles.php:240
 msgid "Orange"
 msgstr "橙色"
 
-#: framework/customizer/sections/styles/core-styles.php:222
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:241
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Background %1$s\n"
@@ -5087,14 +4889,14 @@ msgstr ""
 "更改%1$s的核心颜色•主菜单背景%1$s•主页滑块方向导航%1$s•属性特色标记%1$s•添加"
 "到收藏夹标签%1$s•特色属性滑块方向导航%1$s•端口库格式滑块方向导航%1$s•CTA按钮"
 "一个背景%1$s•家庭代理箭头%1$s•补充工具栏小部件链接%1$s•代理商查看我的列表链"
-"接%1$s默认颜色是＃ea723d"
+"接%1$s默认颜色是＃ea723d "
 
-#: framework/customizer/sections/styles/core-styles.php:248
+#: framework/customizer/sections/styles/core-styles.php:267
 msgid "Green"
 msgstr "绿色"
 
-#: framework/customizer/sections/styles/core-styles.php:249
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:268
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button %1$s\n"
@@ -5126,14 +4928,14 @@ msgstr ""
 "钮%1$s•首页见证背景%1$s•首页部分字幕%1$s•首页CTA-联络背景%1$s•代理商名称和电"
 "子邮件悬停%1$s•代理人数量和财产数量%1$s•代理商联系表格按钮%1$s•新闻标题和元背"
 "景栏%1$s•评论提交按钮%1$s•新闻阅读更多%1$s•图库项目叠加%1$s•图库过滤下划"
-"线%1$s•联系页面表格按钮%1$s•分页%1$s默认颜色为＃1ea69a"
+"线%1$s•联系页面表格按钮%1$s•分页%1$s默认颜色为＃1ea69a "
 
-#: framework/customizer/sections/styles/core-styles.php:287
+#: framework/customizer/sections/styles/core-styles.php:306
 msgid "Green Dark"
 msgstr "绿黑色"
 
-#: framework/customizer/sections/styles/core-styles.php:288
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:307
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button Hover %1$s\n"
@@ -5148,7 +4950,7 @@ msgid ""
 msgstr ""
 "更改%1$s的核心颜色•属性提交按钮悬停%1$s•属性搜索按钮悬停%1$s•主页推荐报价标"
 "记%1$s•属性边栏按钮悬停%1$s•评论提交按钮悬停%1$s•新闻阅读更多悬停%1$s•代理商"
-"联系表格按钮悬停%1$s•联系PAge表格按钮悬停%1$s默认颜色为＃1c9d92"
+"联系表格按钮悬停%1$s•联系PAge表格按钮悬停%1$s默认颜色为＃1c9d92 "
 
 #: framework/customizer/sections/styles/footer.php:38
 msgid "Footer Widget Title Color"
@@ -5165,7 +4967,6 @@ msgid "Footer Link Color"
 msgstr "页脚链接颜色"
 
 #: framework/customizer/sections/styles/footer.php:72
-#, fuzzy
 msgid "Default color is #75797A"
 msgstr "默认颜色为＃75797A"
 
@@ -5175,7 +4976,6 @@ msgid "Footer Link Hover Color"
 msgstr "页脚链接悬停颜色"
 
 #: framework/customizer/sections/styles/footer.php:89
-#, fuzzy
 msgid "Default color is #dc7d44"
 msgstr "默认颜色为＃dc7d44"
 
@@ -5219,12 +5019,9 @@ msgstr "标题背景颜色"
 #: framework/customizer/sections/styles/header-styles.php:85
 #: framework/customizer/sections/styles/header-styles.php:252
 #: framework/customizer/sections/styles/header-styles.php:334
-#: framework/customizer/sections/styles/header-styles.php:369
-#: framework/customizer/sections/styles/header-styles.php:385
-#: framework/customizer/sections/styles/header-styles.php:401
-#, fuzzy, php-format
+#, php-format
 msgid "Default Color is %s"
-msgstr "默认颜色为％s"
+msgstr "默認顏色是 %s"
 
 #: framework/customizer/sections/styles/header-styles.php:61
 msgid "Logo Text Color"
@@ -5260,17 +5057,14 @@ msgid "Main Menu Text Color"
 msgstr "主菜单文本颜色"
 
 #: framework/customizer/sections/styles/header-styles.php:189
-#, fuzzy
 msgid "Default Color is #afb4b5"
 msgstr "默认颜色为＃afb4b5"
 
 #: framework/customizer/sections/styles/header-styles.php:209
-#, fuzzy
 msgid "Default Color is #ffffff"
 msgstr "默认颜色为#ffffff"
 
 #: framework/customizer/sections/styles/header-styles.php:225
-#, fuzzy
 msgid "Main Menu Hover Background"
 msgstr "主菜单悬停背景"
 
@@ -5278,7 +5072,6 @@ msgstr "主菜单悬停背景"
 #: framework/customizer/sections/styles/home-page.php:370
 #: framework/customizer/sections/styles/property-item.php:92
 #: framework/customizer/sections/styles/slider.php:41
-#, fuzzy
 msgid "Default color is #ea723d"
 msgstr "默认颜色为＃ea723d"
 
@@ -5295,7 +5088,6 @@ msgid "Drop Down Menu Background Color on Mouse Over"
 msgstr "鼠标上的下拉菜单背景颜色"
 
 #: framework/customizer/sections/styles/header-styles.php:294
-#, fuzzy
 msgid "Default Color is #dc7d44."
 msgstr "默认颜色为＃dc7d44。"
 
@@ -5311,28 +5103,9 @@ msgstr "顶部电话号码文字颜色"
 msgid "Header Phone Icon Background Color"
 msgstr "顶部电话图标背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:367
-#, fuzzy
-#| msgid "Banner Title Background Color"
-msgid "Language Switch Background Color"
-msgstr "Banner 标题背景颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:383
-#, fuzzy
-#| msgid "Display WPML Language Switcher in Top Header"
-msgid "Language Switch Link Color"
-msgstr "你想在顶部的页眉显示WPML语言切换"
-
-#: framework/customizer/sections/styles/header-styles.php:399
-#, fuzzy
-#| msgid "Header Links Hover Color"
-msgid "Language Switch Link Hover Color"
-msgstr "标题连接悬停颜色"
-
 #: framework/customizer/sections/styles/home-page.php:27
-#, fuzzy
 msgid "Home Properties "
-msgstr "家庭财产"
+msgstr "家庭财产 "
 
 #: framework/customizer/sections/styles/home-page.php:45
 #: framework/customizer/sections/styles/home-page.php:138
@@ -5356,7 +5129,6 @@ msgstr "标题颜色文本"
 #: framework/customizer/sections/styles/news.php:87
 #: framework/customizer/sections/styles/property-item.php:75
 #: framework/customizer/sections/styles/slider.php:230
-#, fuzzy
 msgid "Default color is #1ea69a"
 msgstr "默认颜色为＃1ea69a"
 
@@ -5390,26 +5162,22 @@ msgid "Section Background Color"
 msgstr "部分背景颜色"
 
 #: framework/customizer/sections/styles/home-page.php:121
-#, fuzzy
 msgid "Featured Properties "
-msgstr "特色物业"
+msgstr "特色物业 "
 
 #: framework/customizer/sections/styles/home-page.php:201
-#, fuzzy
 msgid "Testimonials "
-msgstr "褒奖"
+msgstr "褒奖 "
 
 #: framework/customizer/sections/styles/home-page.php:218
 msgid "Testimonial Text Color"
 msgstr "推荐文本颜色"
 
 #: framework/customizer/sections/styles/home-page.php:236
-#, fuzzy
 msgid "Testimonial Quote Mark Color"
 msgstr "推荐引用标记颜色"
 
 #: framework/customizer/sections/styles/home-page.php:238
-#, fuzzy
 msgid "Default color is #1c9d92"
 msgstr "默认颜色为＃1c9d92"
 
@@ -5418,14 +5186,12 @@ msgid "Name Color"
 msgstr "名字颜色"
 
 #: framework/customizer/sections/styles/home-page.php:271
-#, fuzzy
 msgid "URL Color"
 msgstr "网址颜色"
 
 #: framework/customizer/sections/styles/home-page.php:301
-#, fuzzy
 msgid "Call To Action "
-msgstr "呼吁采取行动"
+msgstr "呼吁采取行动 "
 
 #: framework/customizer/sections/styles/home-page.php:318
 msgid "CTA Title Color"
@@ -5437,31 +5203,27 @@ msgstr "CTA描述颜色"
 
 #: framework/customizer/sections/styles/home-page.php:352
 #: framework/customizer/sections/styles/home-page.php:929
-#, fuzzy
 msgid "CTA Button Color One"
 msgstr "CTA按钮颜色一"
 
 #: framework/customizer/sections/styles/home-page.php:368
 #: framework/customizer/sections/styles/home-page.php:945
-#, fuzzy
 msgid "CTA Button Background Color One"
 msgstr "CTA按钮背景颜色一"
 
 #: framework/customizer/sections/styles/home-page.php:385
 #: framework/customizer/sections/styles/home-page.php:961
-#, fuzzy
 msgid "CTA Button Color Two"
 msgstr "CTA按钮颜色二"
 
 #: framework/customizer/sections/styles/home-page.php:401
 #: framework/customizer/sections/styles/home-page.php:977
-#, fuzzy
 msgid "CTA Button Background Color Two"
 msgstr "CTA按钮背景颜色二"
 
 #: framework/customizer/sections/styles/home-page.php:413
 msgid "Agents "
-msgstr "经纪人"
+msgstr "经纪人 "
 
 #: framework/customizer/sections/styles/home-page.php:482
 msgid "Agent Title Color"
@@ -5476,7 +5238,6 @@ msgid "Agent Text Color"
 msgstr "经纪人文本色"
 
 #: framework/customizer/sections/styles/home-page.php:534
-#, fuzzy
 msgid "Agent Phone And Email Hover Color"
 msgstr "代理电话和电子邮件悬停颜色"
 
@@ -5485,9 +5246,8 @@ msgid "Agent Listed Properties Color"
 msgstr "经纪人列出的房源颜色"
 
 #: framework/customizer/sections/styles/home-page.php:581
-#, fuzzy
 msgid "Features "
-msgstr "特征"
+msgstr "特征 "
 
 #: framework/customizer/sections/styles/home-page.php:650
 msgid "Feature Title Color"
@@ -5498,26 +5258,22 @@ msgid "Feature Text Color"
 msgstr "精选文字颜色"
 
 #: framework/customizer/sections/styles/home-page.php:697
-#, fuzzy
 msgid "Partners "
-msgstr "伙伴"
+msgstr "伙伴 "
 
 #: framework/customizer/sections/styles/home-page.php:777
-#, fuzzy
 msgid "News & Updates "
-msgstr "新闻和更新"
+msgstr "新闻和更新 "
 
 #: framework/customizer/sections/styles/home-page.php:861
-#, fuzzy
 msgid "CTA-Contact "
-msgstr "CTA-联系"
+msgstr "CTA-联系 "
 
 #: framework/customizer/sections/styles/home-page.php:878
 msgid "CTA Overlay Color"
 msgstr "CTA叠加颜色"
 
 #: framework/customizer/sections/styles/home-page.php:880
-#, fuzzy
 msgid "Default color is #1EA69A"
 msgstr "默认颜色为＃1EA69A"
 
@@ -5530,16 +5286,14 @@ msgid "CTA Contact Description Color"
 msgstr "CTA联系人标题颜色"
 
 #: framework/customizer/sections/styles/home-page.php:994
-#, fuzzy
 msgid "Features Section "
-msgstr "特色部分"
+msgstr "特色部分 "
 
 #: framework/customizer/sections/styles/home-page.php:1011
 msgid "Section Text Color"
 msgstr "部分的文字颜色"
 
 #: framework/customizer/sections/styles/home-page.php:1030
-#, fuzzy
 msgid "Default color is #3EB6E0"
 msgstr "默认颜色为＃3EB6E0"
 
@@ -5548,7 +5302,6 @@ msgid "Text Color"
 msgstr "文本颜色"
 
 #: framework/customizer/sections/styles/news.php:64
-#, fuzzy
 msgid "Post Border, Icon And Slider Nav Colors"
 msgstr "邮政边框，图标和滑块导航颜色"
 
@@ -5602,7 +5355,6 @@ msgid "Property Status Background Color"
 msgstr "房产状态背景色"
 
 #: framework/customizer/sections/styles/property-item.php:209
-#, fuzzy
 msgid "Default color is #ec894d"
 msgstr "默认颜色是＃ec894d"
 
@@ -5619,7 +5371,6 @@ msgid "More Details Text Hover Color"
 msgstr "更多详情文本悬停颜色"
 
 #: framework/customizer/sections/styles/property-item.php:265
-#, fuzzy
 msgid "Default color is #df5400"
 msgstr "默认颜色为＃df5400"
 
@@ -5672,7 +5423,6 @@ msgid "Slide Know More Button Hover Background Color"
 msgstr "更多按钮悬停背景色"
 
 #: framework/customizer/sections/styles/slider.php:179
-#, fuzzy
 msgid "Default color is #2aa6cc"
 msgstr "默认颜色为＃2aa6cc"
 
@@ -5697,12 +5447,10 @@ msgid "Google Font for Primary Headings"
 msgstr "主要标题的谷歌字体"
 
 #: framework/customizer/sections/styles/typography.php:48
-#, fuzzy
 msgid "Google Font for Secondary Headings and Text"
 msgstr "用于次要标题和文字的Google字体"
 
 #: framework/customizer/sections/styles/typography.php:60
-#, fuzzy
 msgid "Google Font for Body Text"
 msgstr "用于正文的Google字体"
 
@@ -5715,12 +5463,10 @@ msgid "Styles"
 msgstr "样式"
 
 #: framework/customizer/url-slugs.php:15
-#, fuzzy
 msgid "URL Slugs"
 msgstr "URL Slugs"
 
 #: framework/customizer/url-slugs.php:27
-#, fuzzy
 msgid "Important Note for URL Slugs"
 msgstr "URL Slugs的重要说明"
 
@@ -5752,12 +5498,10 @@ msgstr "经纪人 Slug"
 
 #: framework/customizer/url-slugs.php:68
 #: framework/include/agency-post-type.php:63
-#, fuzzy
 msgid "agency"
 msgstr "机构"
 
 #: framework/customizer/url-slugs.php:72
-#, fuzzy
 msgid "Agency Slug"
 msgstr "代理商Slug"
 
@@ -5797,18 +5541,17 @@ msgstr "房源特色"
 msgid "Property Feature Slug"
 msgstr "房源特色 Slug"
 
-#: framework/functions/basic.php:374
+#: framework/functions/basic.php:390
 msgid "No more properties are available."
 msgstr "沒有更多的房源可用。"
 
-#: framework/functions/basic.php:394
-#: framework/meta-box/config-meta-boxes.php:672
-#: framework/meta-box/config-meta-boxes.php:760
-#, fuzzy
+#: framework/functions/basic.php:411
+#: framework/meta-box/config-meta-boxes.php:665
+#: framework/meta-box/config-meta-boxes.php:753
 msgid "WhatsApp Number"
 msgstr "WhatsApp号码"
 
-#: framework/functions/basic.php:747
+#: framework/functions/basic.php:772
 #: framework/functions/design-variations-handler.php:536
 msgid "Go to..."
 msgstr "转到..."
@@ -5829,13 +5572,11 @@ msgstr "无效参数"
 #: framework/functions/compare.php:117 framework/functions/favorites.php:106
 #: framework/functions/favorites.php:127
 #: framework/functions/my-properties.php:34
-#, fuzzy
 msgid "Removed Successfully!"
 msgstr "删除成功！"
 
 #: framework/functions/compare.php:124 framework/functions/favorites.php:113
 #: framework/functions/favorites.php:134
-#, fuzzy
 msgid "Failed to remove!"
 msgstr "无法删除！"
 
@@ -5886,14 +5627,13 @@ msgstr "他们的附加信息如下."
 
 #: framework/functions/contact-form-handlers.php:96
 #: framework/functions/contact-form-handlers.php:258
-#, fuzzy
 msgid "GDPR Agreement: "
-msgstr "GDPR协议："
+msgstr "GDPR协议： "
 
 #: framework/functions/contact-form-handlers.php:100
 #: framework/functions/contact-form-handlers.php:262
 msgid "You can contact "
-msgstr "你可以联系"
+msgstr "你可以联系 "
 
 #: framework/functions/contact-form-handlers.php:100
 #: framework/functions/contact-form-handlers.php:262
@@ -5917,7 +5657,6 @@ msgid "Invalid Request !"
 msgstr "无效的请求！"
 
 #: framework/functions/contact-form-handlers.php:236
-#, fuzzy
 msgid "using agency contact form at"
 msgstr "使用代理联系表格"
 
@@ -6091,7 +5830,6 @@ msgid "Available Memberships"
 msgstr "可用会员资格"
 
 #: framework/functions/membership.php:57
-#, fuzzy
 msgid "Your Current Membership"
 msgstr "您目前的会员资格"
 
@@ -6144,9 +5882,9 @@ msgid "Time Duration: %s %s"
 msgstr "时间期限：%s %s"
 
 #: framework/functions/membership.php:221
-#, fuzzy, php-format
+#, php-format
 msgid "Due Date: %s"
-msgstr "截止日期：％s"
+msgstr "Due Date: %s"
 
 #: framework/functions/membership.php:230
 #: framework/functions/membership.php:237
@@ -6154,7 +5892,6 @@ msgid "Cancel Membership"
 msgstr "取消会员资格"
 
 #: framework/functions/my-properties.php:41
-#, fuzzy
 msgid "Failed to Remove!"
 msgstr "无法删除！"
 
@@ -6217,19 +5954,19 @@ msgstr "给审阅者的消息：%s"
 msgid "You can contact the submitter \"%s\" via email %s"
 msgstr "你可以联系提交“%s”通过电子邮件%s"
 
-#: framework/functions/real-estate-search.php:930
+#: framework/functions/real-estate-search.php:913
 msgid "Main Location"
 msgstr "主要位置"
 
-#: framework/functions/real-estate-search.php:931
+#: framework/functions/real-estate-search.php:914
 msgid "Child Location"
 msgstr "子位置"
 
-#: framework/functions/real-estate-search.php:932
+#: framework/functions/real-estate-search.php:915
 msgid "Grand Child Location"
 msgstr "Grand Child Location"
 
-#: framework/functions/real-estate-search.php:933
+#: framework/functions/real-estate-search.php:916
 msgid "Great Grand Child Location"
 msgstr "子位置"
 
@@ -6310,56 +6047,82 @@ msgstr "%1$s 在 %2$s"
 msgid "said"
 msgstr "说"
 
-#: framework/include/admin/class-rh-admin-menu.php:99
-#: framework/include/admin/class-rh-admin-menu.php:100
+#: framework/include/admin/class-rh-admin-menu.php:97
+#: framework/include/admin/class-rh-admin-menu.php:98
 msgid "Real Homes"
 msgstr "Real Homes"
 
-#: framework/include/admin/class-rh-admin-menu.php:116
+#: framework/include/admin/class-rh-admin-menu.php:113
 #: framework/include/property-post-type.php:21
 msgid "Add New Property"
 msgstr "添加一个新的广告"
 
-#: framework/include/admin/class-rh-admin-menu.php:117
+#: framework/include/admin/class-rh-admin-menu.php:114
 #: framework/include/property-post-type.php:23
 msgid "New Property"
 msgstr "新房源"
 
-#: framework/include/admin/class-rh-admin-menu.php:138
-#: framework/include/admin/class-rh-admin-menu.php:139
+#: framework/include/admin/class-rh-admin-menu.php:120
+msgid "Add New Property Features"
+msgstr "添加新的属性功能"
+
+#: framework/include/admin/class-rh-admin-menu.php:127
+msgid "Add New Property Types"
+msgstr "添加新的房源类型"
+
+#: framework/include/admin/class-rh-admin-menu.php:128
+#: framework/include/property-post-type.php:136
+#: widgets/property-types-widget.php:74
+msgid "Property Types"
+msgstr "房源类型"
+
+#: framework/include/admin/class-rh-admin-menu.php:134
+msgid "Add New Property Cities"
+msgstr "添加新的房源城市"
+
+#: framework/include/admin/class-rh-admin-menu.php:135
+#: framework/include/property-post-type.php:171
+msgid "Property Cities"
+msgstr "房源所属城市"
+
+#: framework/include/admin/class-rh-admin-menu.php:141
+#: framework/include/property-post-type.php:201
+msgid "Add New Property Status"
+msgstr "新建"
+
+#: framework/include/admin/class-rh-admin-menu.php:155
+#: framework/include/admin/class-rh-admin-menu.php:156
 #: framework/include/agency-post-type.php:18
-#, fuzzy
 msgid "Agencies"
 msgstr "机构"
 
-#: framework/include/admin/class-rh-admin-menu.php:162
-#: framework/include/admin/class-rh-admin-menu.php:163
+#: framework/include/admin/class-rh-admin-menu.php:176
+#: framework/include/admin/class-rh-admin-menu.php:177
 #: framework/include/slide-post-type.php:20
 msgid "Slides"
 msgstr "幻灯片"
 
-#: framework/include/admin/class-rh-admin-menu.php:170
-#: framework/include/admin/class-rh-admin-menu.php:171
+#: framework/include/admin/class-rh-admin-menu.php:183
+#: framework/include/admin/class-rh-admin-menu.php:184
 msgid "Customize Settings"
 msgstr "自定义设置"
 
-#: framework/include/admin/class-rh-admin-menu.php:178
-#: framework/include/admin/class-rh-admin-menu.php:179
+#: framework/include/admin/class-rh-admin-menu.php:190
+#: framework/include/admin/class-rh-admin-menu.php:191
 msgid "Design"
 msgstr "设计"
 
-#: framework/include/admin/class-rh-admin-menu.php:189
-#: framework/include/admin/class-rh-admin-menu.php:190
-#: framework/include/admin/class-rh-admin-menu.php:237
+#: framework/include/admin/class-rh-admin-menu.php:202
+#: framework/include/admin/class-rh-admin-menu.php:203
+#: framework/include/admin/class-rh-admin-menu.php:248
 msgid "Demo Import"
 msgstr "演示导入"
 
-#: framework/include/admin/class-rh-admin-menu.php:236
+#: framework/include/admin/class-rh-admin-menu.php:247
 msgid "One Click Demo Import"
 msgstr "一键导入演示"
 
 #: framework/include/agency-post-type.php:16
-#, fuzzy
 msgctxt "Post Type General Name"
 msgid "Agencies"
 msgstr "机构"
@@ -6370,27 +6133,22 @@ msgid "Agency"
 msgstr "机构"
 
 #: framework/include/agency-post-type.php:20
-#, fuzzy
 msgid "Agency Archives"
 msgstr "机构档案"
 
 #: framework/include/agency-post-type.php:21
-#, fuzzy
 msgid "Agency Attributes"
 msgstr "机构属性"
 
 #: framework/include/agency-post-type.php:22
-#, fuzzy
 msgid "Parent Agency:"
 msgstr "家长代理："
 
 #: framework/include/agency-post-type.php:23
-#, fuzzy
 msgid "All Agencies"
 msgstr "所有机构"
 
 #: framework/include/agency-post-type.php:24
-#, fuzzy
 msgid "Add New Agency"
 msgstr "添加新机构"
 
@@ -6403,32 +6161,26 @@ msgid "Add New"
 msgstr "添加新的"
 
 #: framework/include/agency-post-type.php:26
-#, fuzzy
 msgid "New Agency"
 msgstr "新机构"
 
 #: framework/include/agency-post-type.php:27
-#, fuzzy
 msgid "Edit Agency"
 msgstr "编辑机构"
 
 #: framework/include/agency-post-type.php:28
-#, fuzzy
 msgid "Update Agency"
 msgstr "更新机构"
 
 #: framework/include/agency-post-type.php:29
-#, fuzzy
 msgid "View Agency"
 msgstr "查看机构"
 
 #: framework/include/agency-post-type.php:30
-#, fuzzy
 msgid "View Agencies"
 msgstr "查看代理商"
 
 #: framework/include/agency-post-type.php:31
-#, fuzzy
 msgid "Search Agency"
 msgstr "搜索机构"
 
@@ -6441,57 +6193,46 @@ msgid "Not found in Trash"
 msgstr "在垃圾桶中找不到"
 
 #: framework/include/agency-post-type.php:34
-#, fuzzy
 msgid "Agency Logo Image"
 msgstr "代理商标图像"
 
 #: framework/include/agency-post-type.php:35
-#, fuzzy
 msgid "Set agency logo image"
 msgstr "设置代理商标图像"
 
 #: framework/include/agency-post-type.php:36
-#, fuzzy
 msgid "Remove agency logo image"
 msgstr "删除代理商标图片"
 
 #: framework/include/agency-post-type.php:37
-#, fuzzy
 msgid "Use as agency logo image"
 msgstr "用作代理商标图片"
 
 #: framework/include/agency-post-type.php:38
-#, fuzzy
 msgid "Insert into agency"
 msgstr "插入代理商"
 
 #: framework/include/agency-post-type.php:39
-#, fuzzy
 msgid "Uploaded to this agency"
 msgstr "上传到该机构"
 
 #: framework/include/agency-post-type.php:40
-#, fuzzy
 msgid "Agencies list"
 msgstr "代理商名单"
 
 #: framework/include/agency-post-type.php:41
-#, fuzzy
 msgid "Agencies list navigation"
 msgstr "代理商列出导航"
 
 #: framework/include/agency-post-type.php:42
-#, fuzzy
 msgid "Filter agencies list"
 msgstr "筛选代理商列表"
 
 #: framework/include/agency-post-type.php:46
-#, fuzzy
 msgid "An agency is a company of realtors."
 msgstr "代理商是房地产经纪人的公司。"
 
 #: framework/include/agency-post-type.php:66
-#, fuzzy
 msgid "agencies"
 msgstr "机构"
 
@@ -6514,7 +6255,6 @@ msgstr "已发布房源"
 
 #: framework/include/agency-post-type.php:114
 #: framework/include/agent-post-type.php:97
-#, fuzzy
 msgid "Other Properties"
 msgstr "其他属性"
 
@@ -6558,7 +6298,6 @@ msgid "No Agent found in Trash"
 msgstr "回收站中没有代理"
 
 #: framework/include/agent-post-type.php:51
-#, fuzzy
 msgid "agents"
 msgstr "代理"
 
@@ -6589,7 +6328,7 @@ msgstr "合作伙伴搜索"
 
 #: framework/include/partners-post-type.php:29
 msgid "No Partner found"
-msgstr "没有找到记录！"
+msgstr "没有找到记录"
 
 #: framework/include/partners-post-type.php:30
 msgid "No Partner found in Trash"
@@ -6626,7 +6365,6 @@ msgid "No Property found in Trash"
 msgstr "回收站中没有找到记录"
 
 #: framework/include/property-post-type.php:48
-#, fuzzy
 msgid "properties"
 msgstr "性能"
 
@@ -6679,7 +6417,6 @@ msgid "Choose from the most used Property Features"
 msgstr "从最常用的特色中选择"
 
 #: framework/include/property-post-type.php:117
-#, fuzzy
 msgid "property-features"
 msgstr "财产的功能"
 
@@ -6731,13 +6468,7 @@ msgstr "添加或移除房源类型"
 msgid "Choose from the most used Property Types"
 msgstr "从最常用的类型中选择"
 
-#: framework/include/property-post-type.php:136
-#: widgets/property-types-widget.php:74
-msgid "Property Types"
-msgstr "房源类型"
-
 #: framework/include/property-post-type.php:152
-#, fuzzy
 msgid "property-types"
 msgstr "物业类型"
 
@@ -6789,12 +6520,7 @@ msgstr "添加或移除房源所属城市"
 msgid "Choose from the most used Property Cities"
 msgstr "从最常用的城市中选择"
 
-#: framework/include/property-post-type.php:171
-msgid "Property Cities"
-msgstr "房源所属城市"
-
 #: framework/include/property-post-type.php:187
-#, fuzzy
 msgid "property-cities"
 msgstr "财产型城市"
 
@@ -6826,10 +6552,6 @@ msgstr "编辑房源状态"
 msgid "Update Property Status"
 msgstr "更新房源状态"
 
-#: framework/include/property-post-type.php:201
-msgid "Add New Property Status"
-msgstr "新建"
-
 #: framework/include/property-post-type.php:202
 msgid "New Property Status Name"
 msgstr "状态名称"
@@ -6847,7 +6569,6 @@ msgid "Choose from the most used Property Status"
 msgstr "从最常用的状态中选择"
 
 #: framework/include/property-post-type.php:222
-#, fuzzy
 msgid "property-statuses"
 msgstr "财产状态"
 
@@ -6885,7 +6606,6 @@ msgid "List of Properties"
 msgstr "房源列表"
 
 #: framework/include/shortcodes/vc-map.php:79
-#, fuzzy
 msgid "Real Homes Theme"
 msgstr "真实的家园主题"
 
@@ -6911,20 +6631,20 @@ msgid "Ascending"
 msgstr "升序"
 
 #: framework/include/shortcodes/vc-map.php:143
-#: framework/meta-box/config-meta-boxes.php:964
-#: framework/meta-box/config-meta-boxes.php:1070
+#: framework/meta-box/config-meta-boxes.php:957
+#: framework/meta-box/config-meta-boxes.php:1063
 msgid "Locations"
 msgstr "位置"
 
 #: framework/include/shortcodes/vc-map.php:150
-#: framework/meta-box/config-meta-boxes.php:973
-#: framework/meta-box/config-meta-boxes.php:1078
+#: framework/meta-box/config-meta-boxes.php:966
+#: framework/meta-box/config-meta-boxes.php:1071
 msgid "Statuses"
 msgstr "状态"
 
 #: framework/include/shortcodes/vc-map.php:157
-#: framework/meta-box/config-meta-boxes.php:982
-#: framework/meta-box/config-meta-boxes.php:1086
+#: framework/meta-box/config-meta-boxes.php:975
+#: framework/meta-box/config-meta-boxes.php:1079
 msgid "Types"
 msgstr "类型"
 
@@ -6945,7 +6665,7 @@ msgid "Maximum Bathrooms"
 msgstr "最大浴室数"
 
 #: framework/include/shortcodes/vc-map.php:242
-#: framework/meta-box/config-meta-boxes.php:1018
+#: framework/meta-box/config-meta-boxes.php:1011
 msgid "Minimum Price"
 msgstr "最低价格"
 
@@ -6957,7 +6677,7 @@ msgid "Only provide digits"
 msgstr "仅能输入数字"
 
 #: framework/include/shortcodes/vc-map.php:250
-#: framework/meta-box/config-meta-boxes.php:1027
+#: framework/meta-box/config-meta-boxes.php:1020
 msgid "Maximum Price"
 msgstr "最高价格"
 
@@ -7049,7 +6769,7 @@ msgid ""
 msgstr "如果您不使用自托管视频，请提供视频嵌入代码，并删除宽度和高度属性。"
 
 #: framework/meta-box/config-meta-boxes.php:66
-#: framework/meta-box/config-meta-boxes.php:119
+#: framework/meta-box/config-meta-boxes.php:109
 msgid "Gallery Images"
 msgstr "画廊图片"
 
@@ -7058,199 +6778,181 @@ msgid "Upload Gallery Images"
 msgstr "上传图片画廊"
 
 #: framework/meta-box/config-meta-boxes.php:74
-#, fuzzy
 msgid ""
 "Images should have minimum width of 830px and minimum height of 460px, "
 "Bigger size images will be cropped automatically."
 msgstr "图像的最小宽度为830像素，最小高度为460像素，较大尺寸的图像将自动裁剪。"
 
-#: framework/meta-box/config-meta-boxes.php:99
-msgid "Gallery with thumbnails on right"
-msgstr "显示在右侧的图集"
-
-#: framework/meta-box/config-meta-boxes.php:100
-msgid "Gallery with thumbnails on bottom"
-msgstr "显示在底部的图集"
-
-#: framework/meta-box/config-meta-boxes.php:104
-#, fuzzy
-#| msgid "Default Order"
-msgid "Default Gallery"
-msgstr "默认排序"
-
 #: framework/meta-box/config-meta-boxes.php:105
-#, fuzzy
-#| msgid "Gallery with thumbnails on right"
-msgid "Gallery with thumbnails"
-msgstr "显示在右侧的图集"
-
-#: framework/meta-box/config-meta-boxes.php:115
 msgid "Basic Information"
 msgstr "基本信息"
 
-#: framework/meta-box/config-meta-boxes.php:139
+#: framework/meta-box/config-meta-boxes.php:129
 msgid "Homepage Slider"
 msgstr "主页滑块"
 
-#: framework/meta-box/config-meta-boxes.php:143
+#: framework/meta-box/config-meta-boxes.php:133
 msgid "Top Banner"
 msgstr "顶部横幅"
 
-#: framework/meta-box/config-meta-boxes.php:153
+#: framework/meta-box/config-meta-boxes.php:143
 msgid "Sale or Rent Price ( Only digits )"
 msgstr "出售、出租价格（仅数字）"
 
-#: framework/meta-box/config-meta-boxes.php:154
+#: framework/meta-box/config-meta-boxes.php:144
 msgid "Example Value: 435000"
 msgstr "例如：435000"
 
-#: framework/meta-box/config-meta-boxes.php:163
+#: framework/meta-box/config-meta-boxes.php:153
 msgid "Example Value: Per Month"
 msgstr "例如：每月"
 
-#: framework/meta-box/config-meta-boxes.php:171
+#: framework/meta-box/config-meta-boxes.php:161
 msgid "Area Size ( Only digits )"
 msgstr "面积（仅数字）"
 
-#: framework/meta-box/config-meta-boxes.php:172
+#: framework/meta-box/config-meta-boxes.php:162
 msgid "Example Value: 2500"
 msgstr "例如：250"
 
-#: framework/meta-box/config-meta-boxes.php:180
+#: framework/meta-box/config-meta-boxes.php:170
 msgid "Area Size Postfix"
 msgstr "区域大小后缀"
 
-#: framework/meta-box/config-meta-boxes.php:181
-#: framework/meta-box/config-meta-boxes.php:199
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:171
+#: framework/meta-box/config-meta-boxes.php:189
 msgid "Example Value: sq ft"
 msgstr "示例值：sq ft"
 
-#: framework/meta-box/config-meta-boxes.php:189
+#: framework/meta-box/config-meta-boxes.php:179
 msgid "Lot Size ( Only digits )"
 msgstr "土地面积（仅数字）"
 
-#: framework/meta-box/config-meta-boxes.php:190
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:180
 msgid "Example Value: 3000"
 msgstr "示例值：3000"
 
-#: framework/meta-box/config-meta-boxes.php:198
+#: framework/meta-box/config-meta-boxes.php:188
 msgid "Lot Size Postfix"
 msgstr "批量大小的后缀"
 
-#: framework/meta-box/config-meta-boxes.php:208
+#: framework/meta-box/config-meta-boxes.php:198
 msgid "Example Value: 4"
 msgstr "例如：4"
 
-#: framework/meta-box/config-meta-boxes.php:217
+#: framework/meta-box/config-meta-boxes.php:207
 msgid "Example Value: 2"
 msgstr "例如：2"
 
-#: framework/meta-box/config-meta-boxes.php:226
+#: framework/meta-box/config-meta-boxes.php:216
 msgid "Example Value: 1"
 msgstr "例如：1"
 
-#: framework/meta-box/config-meta-boxes.php:235
+#: framework/meta-box/config-meta-boxes.php:225
 msgid "It will help you search a property directly."
 msgstr "使用该值进行房源的快速搜索。"
 
-#: framework/meta-box/config-meta-boxes.php:247
+#: framework/meta-box/config-meta-boxes.php:237
 msgid "Example Value: 2017"
 msgstr "示例值：2017"
 
-#: framework/meta-box/config-meta-boxes.php:254
+#: framework/meta-box/config-meta-boxes.php:244
 msgid "Mark this property as featured ?"
 msgstr "将此房源标记为精选？"
 
-#: framework/meta-box/config-meta-boxes.php:274
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:264
 msgid "Hide map on property detail page ?"
 msgstr "隐藏地图详情页面上的地图？"
 
-#: framework/meta-box/config-meta-boxes.php:288
+#: framework/meta-box/config-meta-boxes.php:278
 msgid "Leaving it empty will hide the google map on property detail page."
 msgstr "如果为空，则详情页会自动隐藏谷歌地图。"
 
-#: framework/meta-box/config-meta-boxes.php:296
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:286
 msgid "Property Location on Map"
 msgstr "物业位置在地图上"
 
-#: framework/meta-box/config-meta-boxes.php:297
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:287
 msgid ""
 "Drag the map marker to point property location. Address field given above "
 "can be used to search location."
 msgstr "将地图标记拖动到点属性位置。上面给出的地址字段可用于搜索位置。"
 
-#: framework/meta-box/config-meta-boxes.php:309
+#: framework/meta-box/config-meta-boxes.php:299
 msgid "Gallery Type You Want to Use"
 msgstr "选择要使用的图集类型"
 
-#: framework/meta-box/config-meta-boxes.php:318
+#: framework/meta-box/config-meta-boxes.php:304
+msgid "Gallery with thumbnails on right"
+msgstr "显示在右侧的图集"
+
+#: framework/meta-box/config-meta-boxes.php:305
+msgid "Gallery with thumbnails on bottom"
+msgstr "显示在底部的图集"
+
+#: framework/meta-box/config-meta-boxes.php:311
 msgid "Property Gallery Images"
 msgstr "图集图片"
 
-#: framework/meta-box/config-meta-boxes.php:336
+#: framework/meta-box/config-meta-boxes.php:329
 msgid "Floor Name"
 msgstr "楼层名称"
 
-#: framework/meta-box/config-meta-boxes.php:338
+#: framework/meta-box/config-meta-boxes.php:331
 msgid "Example: Ground Floor"
 msgstr "例如：首层"
 
-#: framework/meta-box/config-meta-boxes.php:342
+#: framework/meta-box/config-meta-boxes.php:335
 msgid "Floor Price ( Only digits )"
 msgstr "楼层价格(仅数字)"
 
-#: framework/meta-box/config-meta-boxes.php:344
+#: framework/meta-box/config-meta-boxes.php:337
 msgid "Example: 4000"
 msgstr "例如：4000"
 
-#: framework/meta-box/config-meta-boxes.php:351
+#: framework/meta-box/config-meta-boxes.php:344
 msgid "Example: Per Month"
 msgstr "例如：每月"
 
-#: framework/meta-box/config-meta-boxes.php:356
+#: framework/meta-box/config-meta-boxes.php:349
 msgid "Floor Size ( Only digits )"
 msgstr "楼面面积（仅数字）"
 
-#: framework/meta-box/config-meta-boxes.php:358
+#: framework/meta-box/config-meta-boxes.php:351
 msgid "Example: 2500"
 msgstr "例如：2500"
 
-#: framework/meta-box/config-meta-boxes.php:363
+#: framework/meta-box/config-meta-boxes.php:356
 msgid "Size Postfix"
 msgstr "面积后缀"
 
-#: framework/meta-box/config-meta-boxes.php:372
+#: framework/meta-box/config-meta-boxes.php:365
 msgid "Example: 4"
 msgstr "例如：4"
 
-#: framework/meta-box/config-meta-boxes.php:379
+#: framework/meta-box/config-meta-boxes.php:372
 msgid "Example: 2"
 msgstr "例如：2"
 
-#: framework/meta-box/config-meta-boxes.php:389
+#: framework/meta-box/config-meta-boxes.php:382
 msgid "Floor Plan Image"
 msgstr "房型图"
 
-#: framework/meta-box/config-meta-boxes.php:391
+#: framework/meta-box/config-meta-boxes.php:384
 msgid "The recommended minimum width is 770px and height is flexible."
 msgstr "建议图片最小宽度为 770px，高度自适应。"
 
-#: framework/meta-box/config-meta-boxes.php:402
+#: framework/meta-box/config-meta-boxes.php:395
 msgid ""
 "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
 "supported"
 msgstr "提供虚拟旅游视频网址。 支持YouTube，Vimeo，SWF文件和MOV文件"
 
-#: framework/meta-box/config-meta-boxes.php:408
+#: framework/meta-box/config-meta-boxes.php:401
 msgid "Virtual Tour Video Image"
 msgstr "虚拟旅游视频图像"
 
-#: framework/meta-box/config-meta-boxes.php:410
+#: framework/meta-box/config-meta-boxes.php:403
 msgid ""
 "Provide an image that will be displayed as a place holder and when user will "
 "click over it the video will be opened in a lightbox. You must provide this "
@@ -7262,12 +6964,11 @@ msgstr ""
 "此图像否则视频将不会显示。图像必须至少818px和最小高度417px宽度。更大尺寸的图"
 "像将自动裁剪。"
 
-#: framework/meta-box/config-meta-boxes.php:424
+#: framework/meta-box/config-meta-boxes.php:417
 msgid "360 Virtual Tour"
 msgstr "360 °虚拟环境"
 
-#: framework/meta-box/config-meta-boxes.php:427
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:420
 msgid ""
 "Provide iframe embed code for the 360 virtual tour. For more details please "
 "consult <a href=\"https://realhomes.io/documentation/add-property/#add-video-"
@@ -7277,66 +6978,65 @@ msgstr ""
 "\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
 "virtual-tour\" target=\"_blank\">添加属性</a> 。"
 
-#: framework/meta-box/config-meta-boxes.php:447
+#: framework/meta-box/config-meta-boxes.php:440
 msgid "Author information."
 msgstr "作者信息。"
 
-#: framework/meta-box/config-meta-boxes.php:448
+#: framework/meta-box/config-meta-boxes.php:441
 msgid "Agent Information. ( Select the agent below )"
 msgstr "代理信息。(选择下面的代理)"
 
-#: framework/meta-box/config-meta-boxes.php:449
+#: framework/meta-box/config-meta-boxes.php:442
 msgid "None. ( Hide information box )"
 msgstr "没有。(隐藏信息框)"
 
-#: framework/meta-box/config-meta-boxes.php:468
+#: framework/meta-box/config-meta-boxes.php:461
 msgid "Make this property sticky for home and listings pages"
 msgstr "将此房源粘贴到家庭和列表页面"
 
-#: framework/meta-box/config-meta-boxes.php:482
+#: framework/meta-box/config-meta-boxes.php:475
 msgid "Property Label Text"
 msgstr "房源标签文本"
 
-#: framework/meta-box/config-meta-boxes.php:484
+#: framework/meta-box/config-meta-boxes.php:477
 msgid ""
 "You can add a property label to display on property thumbnails. Example "
 "Value: Hot Deal"
 msgstr "您可以添加房源标签以显示在属性缩略图上。 示例值：热卖"
 
-#: framework/meta-box/config-meta-boxes.php:490
+#: framework/meta-box/config-meta-boxes.php:483
 msgid "Label Background Color"
 msgstr "标签背景颜色"
 
-#: framework/meta-box/config-meta-boxes.php:492
+#: framework/meta-box/config-meta-boxes.php:485
 msgid ""
 "Set a label background color. Otherwise label text will be displayed with "
 "transparent background."
 msgstr "设置标签背景颜色。 否则，标签文本将以透明背景显示。"
 
-#: framework/meta-box/config-meta-boxes.php:507
+#: framework/meta-box/config-meta-boxes.php:500
 msgid ""
 "You can attach PDF files, Map images OR other documents to provide further "
 "details related to property."
 msgstr "您可以附加PDF文件，地图图像或其他文件，以提供有关财产的进一步细节。"
 
-#: framework/meta-box/config-meta-boxes.php:521
+#: framework/meta-box/config-meta-boxes.php:514
 msgid "Property Owner Name"
 msgstr "业主姓名"
 
-#: framework/meta-box/config-meta-boxes.php:528
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:521
 msgid "Owner Contact"
 msgstr "业主联系"
 
-#: framework/meta-box/config-meta-boxes.php:536
+#: framework/meta-box/config-meta-boxes.php:529
 msgid "Owner Address"
 msgstr "业主地址"
 
-#: framework/meta-box/config-meta-boxes.php:543
+#: framework/meta-box/config-meta-boxes.php:536
 msgid "Private Note"
 msgstr "私人笔记"
 
-#: framework/meta-box/config-meta-boxes.php:544
+#: framework/meta-box/config-meta-boxes.php:537
 msgid ""
 "In this textarea, You can write your private note about this property. This "
 "field will not be displayed anywhere else."
@@ -7344,23 +7044,23 @@ msgstr ""
 "在这个区域，你可以写你的私人笔记关于这个属性。此字段将不会显示在任何其他地"
 "方。"
 
-#: framework/meta-box/config-meta-boxes.php:560
+#: framework/meta-box/config-meta-boxes.php:553
 msgid "Do you want to add this property in Homepage Slider ?"
 msgstr "是否要在主页滑块中添加此房产？"
 
-#: framework/meta-box/config-meta-boxes.php:561
+#: framework/meta-box/config-meta-boxes.php:554
 msgid "If Yes, Then you need to provide a slider image below."
 msgstr "如果是，那么你需要提供一个滑块图像如下。"
 
-#: framework/meta-box/config-meta-boxes.php:566
+#: framework/meta-box/config-meta-boxes.php:559
 msgid "Yes "
 msgstr "是 "
 
-#: framework/meta-box/config-meta-boxes.php:573
+#: framework/meta-box/config-meta-boxes.php:566
 msgid "Slider Image"
 msgstr "滑块图像"
 
-#: framework/meta-box/config-meta-boxes.php:575
+#: framework/meta-box/config-meta-boxes.php:568
 msgid ""
 "The recommended image size is 2000px by 700px. You can use bigger or smaller "
 "image but try to keep the same height to width ratio and use the exactly "
@@ -7369,11 +7069,11 @@ msgstr ""
 "推荐的图像的大小是由700px 2000px。您可以使用更大或更小的图像，但尽量保持相同"
 "的高度和宽度比，并使用相同的大小图像的所有属性将被添加在滑块。"
 
-#: framework/meta-box/config-meta-boxes.php:584
+#: framework/meta-box/config-meta-boxes.php:577
 msgid "Top Banner Image"
 msgstr "顶部的横幅图像"
 
-#: framework/meta-box/config-meta-boxes.php:586
+#: framework/meta-box/config-meta-boxes.php:579
 msgid ""
 "Upload the banner image, If you want to change it for this property. "
 "Otherwise default banner image uploaded from theme options will be "
@@ -7383,42 +7083,41 @@ msgstr ""
 "上传横幅图片，如果你想改变这个属性。否则将显示从主题选项上传的默认横幅图像。"
 "图像必须至少2000px和最小高度230px宽度。"
 
-#: framework/meta-box/config-meta-boxes.php:598
+#: framework/meta-box/config-meta-boxes.php:591
 msgid "Custom Property Type Map Icon"
 msgstr "自定义房源类型地图图标"
 
-#: framework/meta-box/config-meta-boxes.php:602
-#: framework/meta-box/config-meta-boxes.php:624
+#: framework/meta-box/config-meta-boxes.php:595
+#: framework/meta-box/config-meta-boxes.php:617
 msgid "Icon Image"
 msgstr "图标图像"
 
-#: framework/meta-box/config-meta-boxes.php:609
+#: framework/meta-box/config-meta-boxes.php:602
 msgid "Retina Icon Image"
 msgstr "视网膜图标图像"
 
-#: framework/meta-box/config-meta-boxes.php:625
+#: framework/meta-box/config-meta-boxes.php:618
 msgid "Recommended image size for icon is 64px by 64px."
 msgstr "建议的图标大小为64像素×64像素。"
 
-#: framework/meta-box/config-meta-boxes.php:637
+#: framework/meta-box/config-meta-boxes.php:630
 msgid "Partner Information"
 msgstr "合作伙伴信息"
 
-#: framework/meta-box/config-meta-boxes.php:643
+#: framework/meta-box/config-meta-boxes.php:636
 msgid "Website URL"
 msgstr "网址"
 
-#: framework/meta-box/config-meta-boxes.php:645
+#: framework/meta-box/config-meta-boxes.php:638
 msgid "Provide Website URL"
 msgstr "提供网站URL"
 
-#: framework/meta-box/config-meta-boxes.php:654
-#: framework/meta-box/config-meta-boxes.php:742
+#: framework/meta-box/config-meta-boxes.php:647
+#: framework/meta-box/config-meta-boxes.php:735
 msgid "Provide Related Information"
 msgstr "提供相关信息"
 
-#: framework/meta-box/config-meta-boxes.php:662
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:655
 msgid ""
 "Provide Agency Email Address. Agency related messages from contact form on "
 "property details page, will be sent on this email address."
@@ -7426,51 +7125,43 @@ msgstr ""
 "提供代理电邮地址。来自房产详细信息页面上的联系表格的代理商相关消息将通过此电"
 "子邮件地址发送。"
 
-#: framework/meta-box/config-meta-boxes.php:668
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:661
 msgid "Provide Agency mobile number"
 msgstr "提供代理商手机号码"
 
-#: framework/meta-box/config-meta-boxes.php:674
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:667
 msgid "Provide Agency whatsapp number"
 msgstr "提供代理商whatsapp号码"
 
-#: framework/meta-box/config-meta-boxes.php:680
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:673
 msgid "Provide Agency office number"
 msgstr "提供代理商办公室号码"
 
-#: framework/meta-box/config-meta-boxes.php:686
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:679
 msgid "Provide Agency fax number"
 msgstr "提供代理商传真号码"
 
-#: framework/meta-box/config-meta-boxes.php:692
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:685
 msgid "Provide Agency Facebook URL"
 msgstr "提供代理商Facebook URL"
 
-#: framework/meta-box/config-meta-boxes.php:698
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:691
 msgid "Provide Agency Twitter URL"
 msgstr "提供代理Twitter链接"
 
-#: framework/meta-box/config-meta-boxes.php:704
+#: framework/meta-box/config-meta-boxes.php:697
 msgid "Provide Agency Google Plus URL"
 msgstr "提供代理谷歌加URL"
 
-#: framework/meta-box/config-meta-boxes.php:710
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:703
 msgid "Provide Agency LinkedIn URL"
 msgstr "提供代理商LinkedIn URL"
 
-#: framework/meta-box/config-meta-boxes.php:716
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:709
 msgid "Provide Agency Instagram URL"
 msgstr "提供代理商Instagram的URL"
 
-#: framework/meta-box/config-meta-boxes.php:750
+#: framework/meta-box/config-meta-boxes.php:743
 msgid ""
 "Provide Agent Email Address. Agent related messages from contact form on "
 "property details page, will be sent on this email address."
@@ -7478,152 +7169,142 @@ msgstr ""
 "提供代理电子邮件地址。从属性详细信息页上的联系方式相关的代理信息，将被发送到"
 "这个电子邮件地址。"
 
-#: framework/meta-box/config-meta-boxes.php:756
+#: framework/meta-box/config-meta-boxes.php:749
 msgid "Provide Agent mobile number"
 msgstr "提供代理移动号码"
 
-#: framework/meta-box/config-meta-boxes.php:762
+#: framework/meta-box/config-meta-boxes.php:755
 msgid "Provide Agent whatsapp number"
 msgstr "提供代理whatsapp号码"
 
-#: framework/meta-box/config-meta-boxes.php:768
+#: framework/meta-box/config-meta-boxes.php:761
 msgid "Provide Agent office number"
 msgstr "提供代理办公电话"
 
-#: framework/meta-box/config-meta-boxes.php:774
+#: framework/meta-box/config-meta-boxes.php:767
 msgid "Provide Agent fax number"
 msgstr "提供传真号码"
 
-#: framework/meta-box/config-meta-boxes.php:780
+#: framework/meta-box/config-meta-boxes.php:773
 msgid "Provide Agent Facebook URL"
 msgstr "提供代理的脸书 URL"
 
-#: framework/meta-box/config-meta-boxes.php:786
+#: framework/meta-box/config-meta-boxes.php:779
 msgid "Provide Agent Twitter URL"
 msgstr "提供代理的Twitter URL"
 
-#: framework/meta-box/config-meta-boxes.php:792
+#: framework/meta-box/config-meta-boxes.php:785
 msgid "Provide Agent Google Plus URL"
 msgstr "提供代理的谷歌Plus URL"
 
-#: framework/meta-box/config-meta-boxes.php:798
+#: framework/meta-box/config-meta-boxes.php:791
 msgid "Provide Agent LinkedIn URL"
 msgstr "提供代理的LinkedIn URL"
 
-#: framework/meta-box/config-meta-boxes.php:804
+#: framework/meta-box/config-meta-boxes.php:797
 msgid "Provide Agent Instagram URL"
 msgstr "提供代理Instagram网址"
 
-#: framework/meta-box/config-meta-boxes.php:814
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:807
 msgid "Select Related Agency."
 msgstr "选择相关机构。"
 
-#: framework/meta-box/config-meta-boxes.php:825
-#: framework/meta-box/config-meta-boxes.php:862
+#: framework/meta-box/config-meta-boxes.php:818
+#: framework/meta-box/config-meta-boxes.php:855
 msgid "Top Banner Area Settings"
 msgstr "顶部横幅区域设置"
 
-#: framework/meta-box/config-meta-boxes.php:833
-#: framework/meta-box/config-meta-boxes.php:870
+#: framework/meta-box/config-meta-boxes.php:826
+#: framework/meta-box/config-meta-boxes.php:863
 msgid ""
 "Please provide the Banner Title, Otherwise the Page Title will be displayed "
 "in its place."
 msgstr "请提供横幅标题，否则页面标题将显示在它的位置。"
 
-#: framework/meta-box/config-meta-boxes.php:839
+#: framework/meta-box/config-meta-boxes.php:832
 msgid "Please provide the Banner Sub Title."
 msgstr "请提供横幅标题。"
 
-#: framework/meta-box/config-meta-boxes.php:845
-#: framework/meta-box/config-meta-boxes.php:874
+#: framework/meta-box/config-meta-boxes.php:838
+#: framework/meta-box/config-meta-boxes.php:867
 msgid "Banner Image"
 msgstr "横幅图像"
 
-#: framework/meta-box/config-meta-boxes.php:847
-#: framework/meta-box/config-meta-boxes.php:876
+#: framework/meta-box/config-meta-boxes.php:840
+#: framework/meta-box/config-meta-boxes.php:869
 msgid ""
 "Please upload the Banner Image. Otherwise the default banner image from "
 "theme options will be displayed."
 msgstr "请上传横幅图片。否则将显示主题选项的默认横幅图像。"
 
-#: framework/meta-box/config-meta-boxes.php:854
+#: framework/meta-box/config-meta-boxes.php:847
 msgid ""
 "If you want to replace banner with revolution slider then provide its alias "
 "here."
 msgstr "如果你想用革命滑块取代旗帜，然后在这里提供别名。"
 
-#: framework/meta-box/config-meta-boxes.php:888
+#: framework/meta-box/config-meta-boxes.php:881
 msgid "Page Title"
 msgstr "页面标题"
 
-#: framework/meta-box/config-meta-boxes.php:894
+#: framework/meta-box/config-meta-boxes.php:887
 msgid "Page Title Display Status"
 msgstr "网页标题显示状态"
 
-#: framework/meta-box/config-meta-boxes.php:927
+#: framework/meta-box/config-meta-boxes.php:920
 msgid "Properties Filter Settings"
 msgstr "房产过滤设置"
 
-#: framework/meta-box/config-meta-boxes.php:941
-#: framework/meta-box/config-meta-boxes.php:1062
+#: framework/meta-box/config-meta-boxes.php:934
+#: framework/meta-box/config-meta-boxes.php:1055
 msgid "Number of Properties Per Page"
 msgstr "每页房产数"
 
-#: framework/meta-box/config-meta-boxes.php:950
+#: framework/meta-box/config-meta-boxes.php:943
 msgid "Order Properties By"
 msgstr "房产排序"
 
-#: framework/meta-box/config-meta-boxes.php:1000
+#: framework/meta-box/config-meta-boxes.php:993
 msgid "Minimum Beds"
 msgstr "最少床位"
 
-#: framework/meta-box/config-meta-boxes.php:1009
+#: framework/meta-box/config-meta-boxes.php:1002
 msgid "Minimum Baths"
 msgstr "最少卫生间"
 
-#: framework/meta-box/config-meta-boxes.php:1035
+#: framework/meta-box/config-meta-boxes.php:1028
 msgid "Properties by Agents"
 msgstr "代理的房源"
 
-#: framework/meta-box/config-meta-boxes.php:1048
+#: framework/meta-box/config-meta-boxes.php:1041
 msgid "Properties Gallery Filter Settings"
 msgstr "房源图库筛选器设置"
 
-#: framework/meta-box/config-meta-boxes.php:1106
+#: framework/meta-box/config-meta-boxes.php:1099
 msgid "Home Page Settings"
 msgstr "主页设置"
 
-#: framework/meta-box/config-meta-boxes.php:1131
+#: framework/meta-box/config-meta-boxes.php:1124
 msgid "Feature Name"
 msgstr "功能名称"
 
-#: framework/meta-box/config-meta-boxes.php:1133
+#: framework/meta-box/config-meta-boxes.php:1126
 msgid "Example: Perfect Backend"
 msgstr "例如：完美的后端"
 
-#: framework/meta-box/config-meta-boxes.php:1138
-msgid "Feature URL"
-msgstr "特征URL"
-
-#: framework/meta-box/config-meta-boxes.php:1140
-#, fuzzy
+#: framework/meta-box/config-meta-boxes.php:1133
 msgid "Example: https://inspirythemes.com"
 msgstr "示例：https：//inspirythemes.com"
 
-#: framework/meta-box/config-meta-boxes.php:1145
+#: framework/meta-box/config-meta-boxes.php:1138
 msgid "Feature Icon"
 msgstr "精选图标"
 
-#: framework/meta-box/config-meta-boxes.php:1147
+#: framework/meta-box/config-meta-boxes.php:1140
 msgid "Icon should have minimum width of 150px and minimum height of 150px."
 msgstr "图标的最小宽度应为150px，最小高度应为150px。"
 
-#: framework/meta-box/config-meta-boxes.php:1153
-msgid "Feature Description"
-msgstr "功能描述"
-
-#: framework/meta-box/config-meta-boxes.php:1186
+#: framework/meta-box/config-meta-boxes.php:1179
 msgid ""
 "Images should have minimum size of 1200px by 680px. Bigger size images will "
 "be cropped automatically. Minimum 2 images are required to display gallery."
@@ -7631,7 +7312,7 @@ msgstr ""
 "图片的最小尺寸应为1200px x 680px。 更大尺寸的图像将自动裁剪。 展示图库需要至"
 "少2张图片。"
 
-#: framework/meta-box/config-meta-boxes.php:1190
+#: framework/meta-box/config-meta-boxes.php:1183
 msgid ""
 "Images should have minimum size of 770px by 386px for thumbnails on right "
 "and 830px by 460px for thumbnails on bottom. Bigger size images will be "
@@ -7782,12 +7463,10 @@ msgid "Sidebar widget area for agent detail page."
 msgstr "小部件边侧栏的代理详细页。"
 
 #: functions.php:412
-#, fuzzy
 msgid "Agency Sidebar"
 msgstr "代理商边栏"
 
 #: functions.php:414
-#, fuzzy
 msgid "Sidebar widget area for agency detail page."
 msgstr "代理商明细页面的侧边栏小部件区域。"
 
@@ -7926,36 +7605,13 @@ msgid "RealHomes - Contact Information"
 msgstr "RealHomes - 联系信息"
 
 #: widgets/rh-contact-information-widget.php:93
-#, fuzzy
 msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
 msgstr "3015 Grand Ave，Coconut Grove，Merrick Way，FL 12345"
 
 #: widgets/rh-contact-information-widget.php:94
-#, fuzzy
 msgid "+123-456-789"
 msgstr "+ 123-456-789"
 
 #: widgets/rh-contact-information-widget.php:95
-#, fuzzy
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
-
-#, fuzzy
-#~ msgid "Only works if WPML is installed."
-#~ msgstr "仅在安装WPML时有效。"
-
-#~ msgid "Header Navigation for User Login and Register"
-#~ msgstr "用户登录和注册的页眉导航"
-
-#~ msgid "Feature Title"
-#~ msgstr "特色标题"
-
-#, fuzzy
-#~ msgid "Add New Property Features"
-#~ msgstr "添加新的属性功能"
-
-#~ msgid "Add New Property Types"
-#~ msgstr "添加新的房源类型"
-
-#~ msgid "Add New Property Cities"
-#~ msgstr "添加新的房源城市"
