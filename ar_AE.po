@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-27 19:08+0500\n"
-"PO-Revision-Date: 2018-09-27 19:12+0500\n"
+"POT-Creation-Date: 2018-10-02 14:52+0500\n"
+"PO-Revision-Date: 2018-10-02 15:36+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: ar_AE\n"
@@ -51,7 +51,11 @@ msgstr "404 - لم يتم العثور على الصفحة!"
 msgid "The page you are looking for is not here!"
 msgstr "الصفحة التي تبحث عنها ليست هنا!"
 
-#: assets/classic/partials/404.php:38
+#: assets/classic/partials/404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: assets/classic/partials/404.php:42
 #, fuzzy
 msgid "Please try using top navigation OR search for what you are looking for!"
 msgstr "يرجى محاولة استخدام أعلى الملاحة أو البحث عن ما تبحث عنه!"
@@ -76,7 +80,7 @@ msgstr "بيانات المتصل"
 #: assets/modern/partials/agency/single/card.php:99
 #: assets/modern/partials/agent/card.php:110
 #: assets/modern/partials/agent/single/card.php:100
-#: assets/modern/partials/author/agent-card.php:99
+#: assets/modern/partials/author/agent-card.php:103
 #: assets/modern/partials/page/users-list.php:210
 #: assets/modern/partials/property/single/agent-for-sidebar.php:57
 #: assets/modern/partials/property/single/agent.php:73
@@ -98,7 +102,7 @@ msgstr "مكتب. مقر. مركز"
 #: assets/modern/partials/agency/single/card.php:107
 #: assets/modern/partials/agent/card.php:113
 #: assets/modern/partials/agent/single/card.php:108
-#: assets/modern/partials/author/agent-card.php:106
+#: assets/modern/partials/author/agent-card.php:110
 #: assets/modern/partials/page/contact.php:201
 #: assets/modern/partials/page/users-list.php:218
 #: assets/modern/partials/property/single/agent-for-sidebar.php:64
@@ -122,7 +126,7 @@ msgstr "التليفون المحمول"
 #: assets/modern/partials/agency/single/card.php:115
 #: assets/modern/partials/agent/card.php:116
 #: assets/modern/partials/agent/single/card.php:116
-#: assets/modern/partials/author/agent-card.php:113
+#: assets/modern/partials/author/agent-card.php:117
 #: assets/modern/partials/page/contact.php:211
 #: assets/modern/partials/page/users-list.php:226
 #: assets/modern/partials/property/single/agent-for-sidebar.php:71
@@ -165,19 +169,19 @@ msgid "More Details"
 msgstr "المزيد من التفاصيل"
 
 #: assets/classic/partials/agency/single/contact-form.php:16
-#: assets/classic/partials/agent/single/contact-form.php:22
+#: assets/classic/partials/agent/single/contact-form.php:24
 #, fuzzy
 msgid "Send a Message"
 msgstr "ارسل رسالة"
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:177
 #: assets/classic/partials/property/single/agent.php:116
 #: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
-#: assets/modern/partials/author/agent-card.php:146
+#: assets/modern/partials/author/agent-card.php:150
 #: assets/modern/partials/author/author-contact-form.php:27
 #: assets/modern/partials/page/contact.php:98
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
@@ -189,13 +193,13 @@ msgid "Name"
 msgstr "الاسم"
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:178
 #: assets/classic/partials/property/single/agent.php:117
 #: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
@@ -205,7 +209,7 @@ msgid "* Please provide your name"
 msgstr "* يرجى تقديم اسمك"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/footer/modal-login.php:133
 #: assets/classic/partials/page/contact.php:122
 #: assets/classic/partials/page/contact.php:182
@@ -220,8 +224,8 @@ msgstr "* يرجى تقديم اسمك"
 #: assets/modern/partials/agent/card.php:122
 #: assets/modern/partials/agent/single/card.php:132
 #: assets/modern/partials/agent/single/contact-form.php:33
-#: assets/modern/partials/author/agent-card.php:118
-#: assets/modern/partials/author/agent-card.php:152
+#: assets/modern/partials/author/agent-card.php:122
+#: assets/modern/partials/author/agent-card.php:156
 #: assets/modern/partials/author/author-contact-form.php:33
 #: assets/modern/partials/header/modal.php:108
 #: assets/modern/partials/page/contact.php:103
@@ -241,12 +245,12 @@ msgid "Email"
 msgstr "البريد الإلكتروني"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/property/single/agent.php:120
 #: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/property/single/agent-for-sidebar.php:116
 #: assets/modern/partials/property/single/agent.php:134
@@ -255,13 +259,13 @@ msgid "* Please provide valid email address"
 msgstr "* يرجى تقديم عنوان بريد إلكتروني صالح"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/page/contact.php:83
 #: assets/classic/partials/property/single/agent.php:121
 #: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
-#: assets/modern/partials/author/agent-card.php:158
+#: assets/modern/partials/author/agent-card.php:162
 #: assets/modern/partials/author/author-contact-form.php:39
 #: assets/modern/partials/page/contact.php:108
 #: assets/modern/partials/page/contact.php:191
@@ -273,12 +277,12 @@ msgid "Phone"
 msgstr "الهاتف"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/property/single/agent.php:123
 #: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/property/single/agent-for-sidebar.php:121
 #: assets/modern/partials/property/single/agent.php:140
@@ -287,13 +291,13 @@ msgid "* Please provide valid phone number"
 msgstr "* يرجى تقديم رقم هاتف صالح"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:192
 #: assets/classic/partials/property/single/agent.php:124
 #: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
-#: assets/modern/partials/author/agent-card.php:164
+#: assets/modern/partials/author/agent-card.php:168
 #: assets/modern/partials/author/author-contact-form.php:45
 #: assets/modern/partials/page/contact.php:113
 #: assets/modern/partials/property/single/agent-for-sidebar.php:125
@@ -302,13 +306,13 @@ msgid "Message"
 msgstr "رسالة"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:193
 #: assets/classic/partials/property/single/agent.php:125
 #: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent-for-sidebar.php:126
@@ -318,18 +322,18 @@ msgid "* Please provide your message"
 msgstr "* يرجى تقديم رسالتك"
 
 #: assets/classic/partials/agency/single/contact-form.php:86
-#: assets/classic/partials/agent/single/contact-form.php:91
+#: assets/classic/partials/agent/single/contact-form.php:93
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/agent.php:188
 #: assets/classic/partials/property/single/sidebar-agent.php:105
-#: assets/classic/partials/property/single/sidebar-agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:185
 #: assets/modern/partials/agency/single/contact-form.php:89
 #: assets/modern/partials/agent/single/contact-form.php:95
-#: assets/modern/partials/author/agent-card.php:174
+#: assets/modern/partials/author/agent-card.php:187
 #: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:176
-#: assets/modern/partials/property/single/agent.php:206
+#: assets/modern/partials/property/single/agent-for-sidebar.php:192
+#: assets/modern/partials/property/single/agent.php:216
 msgid "Send Message"
 msgstr "إرسال رسالة"
 
@@ -341,7 +345,6 @@ msgstr "إرسال رسالة"
 #: assets/classic/partials/properties/search/search-card.php:41
 #: assets/classic/partials/property/single/children.php:73
 #: assets/classic/partials/property/single/similar-property-card.php:33
-#, fuzzy
 msgid "More Details "
 msgstr "المزيد من التفاصيل"
 
@@ -359,7 +362,6 @@ msgstr "جميع العقارات بواسطة"
 #: assets/modern/partials/member/properties.php:249
 #: assets/modern/partials/properties/compare.php:392
 #: framework/include/shortcodes/elements.php:318
-#, fuzzy
 msgid "No Properties Found!"
 msgstr "لا توجد عقارات"
 
@@ -643,7 +645,6 @@ msgid "by"
 msgstr "بواسطة"
 
 #: assets/classic/partials/home/sections/blog-posts.php:89
-#, fuzzy
 msgid "Read More "
 msgstr "اقرأ أكثر"
 
@@ -1089,7 +1090,7 @@ msgstr "يرجى الاشتراك في حزمة عضوية لبدء نشر ال�
 
 #: assets/classic/partials/page/my-properties.php:188
 #, fuzzy
-msgid "Posted on :"
+msgid "Posted on:"
 msgstr "نشر على :"
 
 #: assets/classic/partials/page/my-properties.php:229
@@ -1247,12 +1248,12 @@ msgid "Result"
 msgstr "نتيجة"
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:275
-#: assets/classic/partials/property/single/sidebar-agent.php:272
+#: assets/classic/partials/property/single/agent.php:292
+#: assets/classic/partials/property/single/sidebar-agent.php:286
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:279
-#: assets/modern/partials/property/single/agent.php:314
+#: assets/modern/partials/property/single/agent-for-sidebar.php:296
+#: assets/modern/partials/property/single/agent.php:325
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1442,15 +1443,14 @@ msgstr "المزيد من المجالات"
 #: assets/classic/partials/properties/search/four-columns.php:17
 #: assets/classic/partials/properties/search/one-column.php:16
 #: assets/classic/partials/properties/search/two-columns.php:21
-#, fuzzy
 msgid "No Property Found!"
 msgstr "لا يوجد عقار"
 
 #: assets/classic/partials/properties/search/results-with-sidebar.php:47
-#, fuzzy, php-format
+#, php-format
 msgid "<strong>%s</strong> Result"
 msgid_plural "<strong>%s</strong> Results"
-msgstr[0] "<strong>٪ s</strong> النتيجة"
+msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
@@ -1557,7 +1557,7 @@ msgstr "ما يتم عرضه في مربع معلومات الوكيل؟"
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:87
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
@@ -1858,8 +1858,8 @@ msgstr "أضف إلى المفضلة"
 msgid "Contact"
 msgstr "اتصل"
 
-#: assets/classic/partials/property/single/agent.php:248
-#: assets/modern/partials/property/single/agent.php:287
+#: assets/classic/partials/property/single/agent.php:265
+#: assets/modern/partials/property/single/agent.php:298
 #, fuzzy
 msgid "Submitted by"
 msgstr "مقدم من"
@@ -2007,7 +2007,7 @@ msgstr "وكلائنا"
 
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent.php:128
@@ -2017,7 +2017,7 @@ msgstr "اسمك"
 
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/page/contact.php:104
 #: assets/modern/partials/property/single/agent.php:134
@@ -2026,7 +2026,7 @@ msgstr "بريدك الإلكتروني"
 
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/page/contact.php:109
 #: assets/modern/partials/property/single/agent.php:140
@@ -2036,7 +2036,7 @@ msgstr "هاتفك"
 
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent.php:145
@@ -2075,7 +2075,6 @@ msgid "Posted in"
 msgstr "نشر في"
 
 #: assets/modern/partials/blog/post/meta.php:25
-#, fuzzy
 msgid "On "
 msgstr "على"
 
@@ -2144,7 +2143,6 @@ msgid "Add to favorites"
 msgstr "اضافة الى المفضلة"
 
 #: assets/modern/partials/home/section/news.php:96
-#, fuzzy
 msgid "In "
 msgstr "في"
 
@@ -2191,13 +2189,11 @@ msgstr "من"
 #: assets/modern/partials/member/properties.php:41
 #: assets/modern/partials/page/favorites.php:58
 #: assets/modern/partials/page/favorites.php:62
-#, fuzzy
 msgid " Properties"
 msgstr "الخصائص"
 
 #: assets/modern/partials/member/properties.php:39
 #: assets/modern/partials/page/favorites.php:60
-#, fuzzy
 msgid " Property"
 msgstr "خاصية"
 
@@ -2389,7 +2385,6 @@ msgstr "أضف للمقارنة"
 
 #: assets/modern/partials/properties/grid.php:77
 #: assets/modern/partials/properties/list.php:77
-#, fuzzy
 msgid "Sorry No Results Found!"
 msgstr "عذرا لا توجد نتائج"
 
@@ -2413,7 +2408,6 @@ msgid "Browse Images"
 msgstr "تصفح الصور"
 
 #: assets/modern/partials/property/form-fields/images.php:59
-#, fuzzy
 msgid "Note: "
 msgstr "ملحوظة:"
 
@@ -2508,7 +2502,7 @@ msgstr "صفحات الوكالات"
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:96
+#: framework/customizer/sections/search/properties-search-page.php:81
 #, fuzzy
 msgid "Header Variation"
 msgstr "تغيير الرأس"
@@ -2525,7 +2519,7 @@ msgstr "شكل رأس لعرضه على صفحات الوكالة."
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:101
+#: framework/customizer/sections/search/properties-search-page.php:86
 #: framework/customizer/sections/styles/banner.php:23
 #, fuzzy
 msgid "Banner"
@@ -2969,7 +2963,7 @@ msgstr ""
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:160
+#: framework/customizer/sections/search/properties-search-page.php:183
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
@@ -2987,7 +2981,7 @@ msgstr "نعم"
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:161
+#: framework/customizer/sections/search/properties-search-page.php:184
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
@@ -3023,7 +3017,6 @@ msgid "GDPR agreement checkbox text"
 msgstr "نص خانة الاختيار اتفاقية إجمالي الناتج المحلي"
 
 #: framework/customizer/gdpr.php:56
-#, fuzzy
 msgid "You can use <a> tag in your GDPR agreement checkbox text."
 msgstr ""
 "يمكنك استخدام <a>العلامة في نص مربع اختيار اتفاقية إجمالي الناتج المحلي.</a>"
@@ -3524,7 +3517,6 @@ msgid "Misc"
 msgstr "متفرقات"
 
 #: framework/customizer/misc.php:40
-#, fuzzy
 msgid "Replace \"Know More\" Button Text"
 msgstr "استبدل النص &quot;اعرف المزيد&quot;"
 
@@ -3734,13 +3726,13 @@ msgid "Layout"
 msgstr "الهيكل"
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:182
+#: framework/customizer/sections/search/properties-search-page.php:205
 #, fuzzy
 msgid "One Column"
 msgstr "عمود واحد"
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:183
+#: framework/customizer/sections/search/properties-search-page.php:206
 #, fuzzy
 msgid "Two Columns"
 msgstr "عمودين"
@@ -3751,7 +3743,7 @@ msgid "Three Columns"
 msgstr "ثلاثة أعمدة"
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:184
+#: framework/customizer/sections/search/properties-search-page.php:207
 #, fuzzy
 msgid "Four Columns"
 msgstr "أربعة أعمدة"
@@ -4716,7 +4708,7 @@ msgid "Basics"
 msgstr "مبادئ"
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:97
+#: framework/customizer/sections/search/properties-search-page.php:82
 #, fuzzy
 msgid "Header variation to display on Property Detail Page."
 msgstr "شكل رأس الصفحة لعرضه على صفحة تفاصيل الموقع."
@@ -5019,41 +5011,51 @@ msgid ""
 msgstr ""
 "ما الذي تريد عرضه في المساحة الموجودة أسفل العنوان على صفحة نتائج بحث الخصائص؟"
 
-#: framework/customizer/sections/search/properties-search-page.php:77
+#: framework/customizer/sections/search/properties-search-page.php:98
 #, fuzzy
 #| msgid "Search Results"
 msgid "Search Results Layout"
 msgstr "نتائج البحث"
 
-#: framework/customizer/sections/search/properties-search-page.php:78
+#: framework/customizer/sections/search/properties-search-page.php:99
 #, fuzzy
 msgid "Search results page layout."
 msgstr "صفحة نتائج البحث"
 
-#: framework/customizer/sections/search/properties-search-page.php:82
+#: framework/customizer/sections/search/properties-search-page.php:103
 msgid "With Map"
 msgstr "مع خريطة"
 
-#: framework/customizer/sections/search/properties-search-page.php:83
+#: framework/customizer/sections/search/properties-search-page.php:104
 msgid "Without Map"
 msgstr "بدون خريطة"
 
-#: framework/customizer/sections/search/properties-search-page.php:117
+#: framework/customizer/sections/search/properties-search-page.php:119
 #, fuzzy
-msgid "Properties Per Page"
-msgstr "خصائص لكل صفحة"
-
-#: framework/customizer/sections/search/properties-search-page.php:118
-#, fuzzy
-msgid "Number of properties to display on search results page"
+msgid "Number of properties to display on a page?"
 msgstr "عدد الخصائص التي سيتم عرضها في صفحة نتائج البحث"
 
-#: framework/customizer/sections/search/properties-search-page.php:155
+#: framework/customizer/sections/search/properties-search-page.php:158
 #, fuzzy
-msgid "Display Featured Properties on Top in Search Results Page?"
+msgid "Number of properties to mark on map?"
+msgstr "عدد الخصائص على كل صفحة"
+
+#: framework/customizer/sections/search/properties-search-page.php:162
+#, fuzzy
+msgid "All found"
+msgstr "غير معثور عليه"
+
+#: framework/customizer/sections/search/properties-search-page.php:163
+#, fuzzy
+msgid "As on one page"
+msgstr "CTA على الصفحة الرئيسية"
+
+#: framework/customizer/sections/search/properties-search-page.php:178
+#, fuzzy
+msgid "Display featured properties on top in search results?"
 msgstr "عرض خصائص مميزة في أعلى صفحة نتائج البحث؟"
 
-#: framework/customizer/sections/search/properties-search-page.php:156
+#: framework/customizer/sections/search/properties-search-page.php:179
 #, fuzzy
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New and "
@@ -5062,12 +5064,12 @@ msgstr ""
 "سيتم تطبيق هذا الإعداد على الفرز استنادًا إلى فرز حسب التاريخ (قديم إلى جديد "
 "وحديث إلى قديم) فقط."
 
-#: framework/customizer/sections/search/properties-search-page.php:177
+#: framework/customizer/sections/search/properties-search-page.php:200
 #, fuzzy
 msgid "Search Page Variation"
 msgstr "تغيير صفحة البحث"
 
-#: framework/customizer/sections/search/properties-search-page.php:178
+#: framework/customizer/sections/search/properties-search-page.php:201
 #, fuzzy
 msgid "Search page variation to display properties."
 msgstr "شكل صفحة البحث لعرض خصائص."
@@ -5114,7 +5116,7 @@ msgid "Search Form Basics"
 msgstr "أساسيات نموذج البحث"
 
 #: framework/customizer/sections/search/search-form-basics.php:37
-#: widgets/advance-search-widget.php:55
+#: widgets/advance-search-widget.php:24 widgets/advance-search-widget.php:54
 #, fuzzy
 msgid "Find Your Home"
 msgstr "ابحث عن منزلك"
@@ -5648,12 +5650,12 @@ msgstr ""
 "• لتطبيق هذه الألوان الأساسية ، تأكد من تحديد الخيار٪ 1 $ s My Own Custom "
 "Colors٪ 2 $ s في Customize٪ 1 $ s&gt; Styles&gt; Default أو Custom٪ 2 $ s."
 
-#: framework/customizer/sections/styles/core-styles.php:71
+#: framework/customizer/sections/styles/core-styles.php:72
 #, fuzzy
 msgid "Orange Light"
 msgstr "الضوء البرتقالي"
 
-#: framework/customizer/sections/styles/core-styles.php:72
+#: framework/customizer/sections/styles/core-styles.php:73
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5676,12 +5678,12 @@ msgstr ""
 "الرسالة٪ 1 $ s • نشر العلامات٪ 1 $ s • نشر رد الزر٪ 1 $ s • تصفية المعرض٪ 1 $ "
 "s • نموذج الاتصال بنا الزر٪ 1 $ s اللون الافتراضي هو # ec894d"
 
-#: framework/customizer/sections/styles/core-styles.php:99
+#: framework/customizer/sections/styles/core-styles.php:101
 #, fuzzy
 msgid "Orange Dark"
 msgstr "برتقالي داكن"
 
-#: framework/customizer/sections/styles/core-styles.php:100
+#: framework/customizer/sections/styles/core-styles.php:102
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5694,12 +5696,12 @@ msgstr ""
 "Widgets Links Hover٪ 1 $ s • Sidebar Widgets Links Hover٪ 1 $ s Default color "
 "is # dc7d44"
 
-#: framework/customizer/sections/styles/core-styles.php:119
+#: framework/customizer/sections/styles/core-styles.php:122
 #, fuzzy
 msgid "Orange Glow"
 msgstr "البرتقالي الوهج"
 
-#: framework/customizer/sections/styles/core-styles.php:120
+#: framework/customizer/sections/styles/core-styles.php:123
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5717,12 +5719,12 @@ msgstr ""
 "قراءة المزيد زر Hover٪ 1 $ s • إضافة علامات مرّر٪ 1 $ s • أرسل رد زر Hover٪ 1 "
 "$ s • ترقيم الصفحات٪ 1 $ s اللون الافتراضي هو # e3712c"
 
-#: framework/customizer/sections/styles/core-styles.php:143
+#: framework/customizer/sections/styles/core-styles.php:147
 #, fuzzy
 msgid "Orange Burnt"
 msgstr "أورانج بورنت"
 
-#: framework/customizer/sections/styles/core-styles.php:144
+#: framework/customizer/sections/styles/core-styles.php:148
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5745,12 +5747,12 @@ msgstr ""
 "Contact Page Email Hover٪ 1 $ s • Feature Search Hover in Search Form Widget٪ "
 "1 $ s Default color is # df5400"
 
-#: framework/customizer/sections/styles/core-styles.php:169
+#: framework/customizer/sections/styles/core-styles.php:174
 #, fuzzy
 msgid "Blue light"
 msgstr "ضوء أزرق"
 
-#: framework/customizer/sections/styles/core-styles.php:170
+#: framework/customizer/sections/styles/core-styles.php:175
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5771,12 +5773,12 @@ msgstr ""
 "• مشاركة تنسيق رمز الخلفية٪ 1 $ s • مشاركة مربع التمرير للتنقل٪ 1 $ s • معرض "
 "الصور تراكب٪ 1 $ s اللون الافتراضي هو # 4dc7ec"
 
-#: framework/customizer/sections/styles/core-styles.php:196
+#: framework/customizer/sections/styles/core-styles.php:202
 #, fuzzy
 msgid "Blue Dark"
 msgstr "الأزرق الداكن"
 
-#: framework/customizer/sections/styles/core-styles.php:197
+#: framework/customizer/sections/styles/core-styles.php:203
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5793,12 +5795,12 @@ msgstr ""
 "وصف الخلفية٪ 1 $ s • بانر Breadcrumbs Background٪ 1 $ s اللون الافتراضي هو # "
 "37b3d9"
 
-#: framework/customizer/sections/styles/core-styles.php:221
+#: framework/customizer/sections/styles/core-styles.php:228
 #, fuzzy
 msgid "Orange"
 msgstr "البرتقالي"
 
-#: framework/customizer/sections/styles/core-styles.php:222
+#: framework/customizer/sections/styles/core-styles.php:229
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5821,12 +5823,12 @@ msgstr ""
 "1 $ s • روابط عناصر روابط الشريط الجانبي٪ 1 $ s • عرض عامل عرض القوائم الخاصة "
 "بي٪ 1 $ s اللون الافتراضي هو # ea723d"
 
-#: framework/customizer/sections/styles/core-styles.php:248
+#: framework/customizer/sections/styles/core-styles.php:256
 #, fuzzy
 msgid "Green"
 msgstr "أخضر"
 
-#: framework/customizer/sections/styles/core-styles.php:249
+#: framework/customizer/sections/styles/core-styles.php:257
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5866,12 +5868,12 @@ msgstr ""
 "تصفية تسطير٪ 1 $ s • زر نموذج صفحة جهة اتصال٪ 1 $ s • ترقيم الصفحات٪ 1 $ s "
 "اللون الافتراضي هو # 1ea69a"
 
-#: framework/customizer/sections/styles/core-styles.php:287
+#: framework/customizer/sections/styles/core-styles.php:296
 #, fuzzy
 msgid "Green Dark"
 msgstr "الأخضر المظلم"
 
-#: framework/customizer/sections/styles/core-styles.php:288
+#: framework/customizer/sections/styles/core-styles.php:297
 #, fuzzy, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -9027,7 +9029,7 @@ msgstr "هذه القطعة تعرض نموذج بحث متقدم."
 msgid "RealHomes - Advance Search Widget"
 msgstr "RealHomes - بحث متقدم القطعة"
 
-#: widgets/advance-search-widget.php:45
+#: widgets/advance-search-widget.php:44
 #, fuzzy
 msgid ""
 "Advance search page is not configured yet. Please read this theme "
@@ -9036,7 +9038,7 @@ msgstr ""
 "لم يتم تكوين صفحة البحث المتقدم حتى الآن. يرجى قراءة وثائق السمة لصفحة البحث "
 "المتقدم وتفاصيل تهيئة النموذج."
 
-#: widgets/advance-search-widget.php:61
+#: widgets/advance-search-widget.php:60
 #: widgets/agent-featured-properties-widget.php:324
 #: widgets/agent-properties-widget.php:338
 #: widgets/featured-properties-widget.php:326
@@ -9150,6 +9152,10 @@ msgstr "+ 123-456-789"
 #, fuzzy
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
+
+#, fuzzy
+#~ msgid "Properties Per Page"
+#~ msgstr "خصائص لكل صفحة"
 
 #, fuzzy
 #~ msgid "Only works if WPML is installed."
