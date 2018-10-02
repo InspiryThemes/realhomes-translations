@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-27 19:08+0500\n"
-"PO-Revision-Date: 2018-09-27 19:12+0500\n"
+"POT-Creation-Date: 2018-10-02 14:52+0500\n"
+"PO-Revision-Date: 2018-10-02 15:09+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: ms_MY\n"
@@ -41,17 +41,18 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-21: common/js\n"
 
 #: assets/classic/partials/404.php:13 assets/modern/partials/404.php:13
-#, fuzzy
 msgid "404 - Page Not Found!"
 msgstr "404 - Laman Tidak Ditemui!"
 
 #: assets/classic/partials/404.php:14 assets/modern/partials/404.php:14
-#, fuzzy
 msgid "The page you are looking for is not here!"
 msgstr "Halaman yang anda cari tidak ada di sini!"
 
-#: assets/classic/partials/404.php:38
-#, fuzzy
+#: assets/classic/partials/404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Halaman itu tidak dapat dijumpai."
+
+#: assets/classic/partials/404.php:42
 msgid "Please try using top navigation OR search for what you are looking for!"
 msgstr "Sila cuba menggunakan navigasi atas ATAU cari apa yang anda cari!"
 
@@ -74,11 +75,10 @@ msgstr "Alamat Surat Menyurat"
 #: assets/modern/partials/agency/single/card.php:99
 #: assets/modern/partials/agent/card.php:110
 #: assets/modern/partials/agent/single/card.php:100
-#: assets/modern/partials/author/agent-card.php:99
+#: assets/modern/partials/author/agent-card.php:103
 #: assets/modern/partials/page/users-list.php:210
 #: assets/modern/partials/property/single/agent-for-sidebar.php:57
 #: assets/modern/partials/property/single/agent.php:73
-#, fuzzy
 msgid "Office"
 msgstr "Pejabat"
 
@@ -96,13 +96,12 @@ msgstr "Pejabat"
 #: assets/modern/partials/agency/single/card.php:107
 #: assets/modern/partials/agent/card.php:113
 #: assets/modern/partials/agent/single/card.php:108
-#: assets/modern/partials/author/agent-card.php:106
+#: assets/modern/partials/author/agent-card.php:110
 #: assets/modern/partials/page/contact.php:201
 #: assets/modern/partials/page/users-list.php:218
 #: assets/modern/partials/property/single/agent-for-sidebar.php:64
 #: assets/modern/partials/property/single/agent.php:81
 #: framework/customizer/contact.php:413
-#, fuzzy
 msgid "Mobile"
 msgstr "Mobile"
 
@@ -120,13 +119,12 @@ msgstr "Mobile"
 #: assets/modern/partials/agency/single/card.php:115
 #: assets/modern/partials/agent/card.php:116
 #: assets/modern/partials/agent/single/card.php:116
-#: assets/modern/partials/author/agent-card.php:113
+#: assets/modern/partials/author/agent-card.php:117
 #: assets/modern/partials/page/contact.php:211
 #: assets/modern/partials/page/users-list.php:226
 #: assets/modern/partials/property/single/agent-for-sidebar.php:71
 #: assets/modern/partials/property/single/agent.php:89
 #: framework/customizer/contact.php:438
-#, fuzzy
 msgid "Fax"
 msgstr "Faks"
 
@@ -144,12 +142,10 @@ msgstr "Faks"
 #: assets/modern/partials/page/users-list.php:233
 #: assets/modern/partials/property/single/agent-for-sidebar.php:78
 #: assets/modern/partials/property/single/agent.php:97
-#, fuzzy
 msgid "WhatsApp"
 msgstr "WhatsApp"
 
 #: assets/classic/partials/agency/single/agency.php:218
-#, fuzzy
 msgid "Our Agents:"
 msgstr "Ejen kami:"
 
@@ -158,24 +154,22 @@ msgstr "Ejen kami:"
 #: assets/classic/partials/page/agencies-list.php:126
 #: assets/classic/partials/page/agents-list.php:129
 #: assets/classic/partials/page/users-list.php:172
-#, fuzzy
 msgid "More Details"
 msgstr "Maklumat lanjut"
 
 #: assets/classic/partials/agency/single/contact-form.php:16
-#: assets/classic/partials/agent/single/contact-form.php:22
-#, fuzzy
+#: assets/classic/partials/agent/single/contact-form.php:24
 msgid "Send a Message"
 msgstr "Hantar satu mesej"
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:177
 #: assets/classic/partials/property/single/agent.php:116
 #: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
-#: assets/modern/partials/author/agent-card.php:146
+#: assets/modern/partials/author/agent-card.php:150
 #: assets/modern/partials/author/author-contact-form.php:27
 #: assets/modern/partials/page/contact.php:98
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
@@ -187,23 +181,22 @@ msgid "Name"
 msgstr "Nama"
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:178
 #: assets/classic/partials/property/single/agent.php:117
 #: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
 #: assets/modern/partials/property/single/agent.php:128
-#, fuzzy
 msgid "* Please provide your name"
 msgstr "* Sila berikan nama anda"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/footer/modal-login.php:133
 #: assets/classic/partials/page/contact.php:122
 #: assets/classic/partials/page/contact.php:182
@@ -218,8 +211,8 @@ msgstr "* Sila berikan nama anda"
 #: assets/modern/partials/agent/card.php:122
 #: assets/modern/partials/agent/single/card.php:132
 #: assets/modern/partials/agent/single/contact-form.php:33
-#: assets/modern/partials/author/agent-card.php:118
-#: assets/modern/partials/author/agent-card.php:152
+#: assets/modern/partials/author/agent-card.php:122
+#: assets/modern/partials/author/agent-card.php:156
 #: assets/modern/partials/author/author-contact-form.php:33
 #: assets/modern/partials/header/modal.php:108
 #: assets/modern/partials/page/contact.php:103
@@ -239,27 +232,26 @@ msgid "Email"
 msgstr "Emel"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/property/single/agent.php:120
 #: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/property/single/agent-for-sidebar.php:116
 #: assets/modern/partials/property/single/agent.php:134
-#, fuzzy
 msgid "* Please provide valid email address"
 msgstr "* Sila berikan alamat e-mel yang sah"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/page/contact.php:83
 #: assets/classic/partials/property/single/agent.php:121
 #: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
-#: assets/modern/partials/author/agent-card.php:158
+#: assets/modern/partials/author/agent-card.php:162
 #: assets/modern/partials/author/author-contact-form.php:39
 #: assets/modern/partials/page/contact.php:108
 #: assets/modern/partials/page/contact.php:191
@@ -267,32 +259,30 @@ msgstr "* Sila berikan alamat e-mel yang sah"
 #: assets/modern/partials/property/single/agent-for-sidebar.php:121
 #: assets/modern/partials/property/single/agent.php:139
 #: framework/customizer/contact.php:427
-#, fuzzy
 msgid "Phone"
 msgstr "Telefon"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/property/single/agent.php:123
 #: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/property/single/agent-for-sidebar.php:121
 #: assets/modern/partials/property/single/agent.php:140
-#, fuzzy
 msgid "* Please provide valid phone number"
 msgstr "* Sila berikan nombor telefon yang sah"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:192
 #: assets/classic/partials/property/single/agent.php:124
 #: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
-#: assets/modern/partials/author/agent-card.php:164
+#: assets/modern/partials/author/agent-card.php:168
 #: assets/modern/partials/author/author-contact-form.php:45
 #: assets/modern/partials/page/contact.php:113
 #: assets/modern/partials/property/single/agent-for-sidebar.php:125
@@ -301,35 +291,33 @@ msgid "Message"
 msgstr "Mesej"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:193
 #: assets/classic/partials/property/single/agent.php:125
 #: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent-for-sidebar.php:126
 #: assets/modern/partials/property/single/agent.php:146
-#, fuzzy
 msgid "* Please provide your message"
 msgstr "* Sila berikan mesej anda"
 
 #: assets/classic/partials/agency/single/contact-form.php:86
-#: assets/classic/partials/agent/single/contact-form.php:91
+#: assets/classic/partials/agent/single/contact-form.php:93
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/agent.php:188
 #: assets/classic/partials/property/single/sidebar-agent.php:105
-#: assets/classic/partials/property/single/sidebar-agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:185
 #: assets/modern/partials/agency/single/contact-form.php:89
 #: assets/modern/partials/agent/single/contact-form.php:95
-#: assets/modern/partials/author/agent-card.php:174
+#: assets/modern/partials/author/agent-card.php:187
 #: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:176
-#: assets/modern/partials/property/single/agent.php:206
-#, fuzzy
+#: assets/modern/partials/property/single/agent-for-sidebar.php:192
+#: assets/modern/partials/property/single/agent.php:216
 msgid "Send Message"
 msgstr "Menghantar mesej"
 
@@ -341,13 +329,11 @@ msgstr "Menghantar mesej"
 #: assets/classic/partials/properties/search/search-card.php:41
 #: assets/classic/partials/property/single/children.php:73
 #: assets/classic/partials/property/single/similar-property-card.php:33
-#, fuzzy
 msgid "More Details "
-msgstr "Maklumat lanjut"
+msgstr "Maklumat lanjut "
 
 #: assets/classic/partials/author.php:20 assets/modern/partials/author.php:35
 #: assets/modern/partials/author.php:63
-#, fuzzy
 msgid "All Properties By"
 msgstr "Semua Hartanah Oleh"
 
@@ -359,7 +345,6 @@ msgstr "Semua Hartanah Oleh"
 #: assets/modern/partials/member/properties.php:249
 #: assets/modern/partials/properties/compare.php:392
 #: framework/include/shortcodes/elements.php:318
-#, fuzzy
 msgid "No Properties Found!"
 msgstr "Tiada Hartanah Ditemui!"
 
@@ -648,9 +633,8 @@ msgid "by"
 msgstr "oleh"
 
 #: assets/classic/partials/home/sections/blog-posts.php:89
-#, fuzzy
 msgid "Read More "
-msgstr "Baca Lebih Lanjut"
+msgstr "Baca Lebih Lanjut "
 
 #: assets/classic/partials/home/sections/featured-properties.php:122
 #, fuzzy
@@ -753,7 +737,6 @@ msgid "Loading..."
 msgstr "Loading..."
 
 #: assets/classic/partials/home/slider/search-form-over-image.php:252
-#, fuzzy
 msgid "Advanced Search"
 msgstr "carian terperinci"
 
@@ -1092,7 +1075,7 @@ msgstr "Sila melanggan pakej keahlian untuk memulakan hartanah penerbitan."
 
 #: assets/classic/partials/page/my-properties.php:188
 #, fuzzy
-msgid "Posted on :"
+msgid "Posted on:"
 msgstr "Dihantar pada:"
 
 #: assets/classic/partials/page/my-properties.php:229
@@ -1248,12 +1231,12 @@ msgid "Result"
 msgstr "Keputusan"
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:275
-#: assets/classic/partials/property/single/sidebar-agent.php:272
+#: assets/classic/partials/property/single/agent.php:292
+#: assets/classic/partials/property/single/sidebar-agent.php:286
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:279
-#: assets/modern/partials/property/single/agent.php:314
+#: assets/modern/partials/property/single/agent-for-sidebar.php:296
+#: assets/modern/partials/property/single/agent.php:325
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1508,7 +1491,6 @@ msgstr "Jawatan yang diminta bukanlah pos hak milik yang sah!"
 #: framework/customizer/members.php:236
 #: framework/customizer/sections/property/basics.php:240
 #: framework/meta-box/custom-metaboxes/additional-details-metabox.php:72
-#, fuzzy
 msgid "Additional Details"
 msgstr "maklumat tambahan"
 
@@ -1555,7 +1537,7 @@ msgstr "Apa yang perlu dipaparkan dalam kotak maklumat agen?"
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:87
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
@@ -1638,7 +1620,6 @@ msgstr "Tandakan harta ini sebagai ciri yang dipaparkan"
 #: framework/meta-box/config-meta-boxes.php:991
 #: framework/meta-box/config-meta-boxes.php:1094
 #: framework/meta-box/config-meta-boxes.php:1117
-#, fuzzy
 msgid "Features"
 msgstr "ciri-ciri"
 
@@ -1857,8 +1838,8 @@ msgstr "Tambah ke kegemaran"
 msgid "Contact"
 msgstr "Hubungi"
 
-#: assets/classic/partials/property/single/agent.php:248
-#: assets/modern/partials/property/single/agent.php:287
+#: assets/classic/partials/property/single/agent.php:265
+#: assets/modern/partials/property/single/agent.php:298
 msgid "Submitted by"
 msgstr "Dihantar oleh"
 
@@ -2005,7 +1986,7 @@ msgstr "Ejen kami"
 
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent.php:128
@@ -2015,7 +1996,7 @@ msgstr "Nama awak"
 
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/page/contact.php:104
 #: assets/modern/partials/property/single/agent.php:134
@@ -2025,7 +2006,7 @@ msgstr "Emel anda"
 
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/page/contact.php:109
 #: assets/modern/partials/property/single/agent.php:140
@@ -2035,7 +2016,7 @@ msgstr "Telefon awak"
 
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent.php:145
@@ -2074,7 +2055,6 @@ msgid "Posted in"
 msgstr "Dalam Kategori"
 
 #: assets/modern/partials/blog/post/meta.php:25
-#, fuzzy
 msgid "On "
 msgstr "Pada"
 
@@ -2142,7 +2122,6 @@ msgid "Add to favorites"
 msgstr "Tambah ke kegemaran"
 
 #: assets/modern/partials/home/section/news.php:96
-#, fuzzy
 msgid "In "
 msgstr "In"
 
@@ -2187,14 +2166,11 @@ msgstr "daripada"
 #: assets/modern/partials/member/properties.php:41
 #: assets/modern/partials/page/favorites.php:58
 #: assets/modern/partials/page/favorites.php:62
-#, fuzzy
-#| msgid "Properties"
 msgid " Properties"
-msgstr "Sifat"
+msgstr "Hartanah"
 
 #: assets/modern/partials/member/properties.php:39
 #: assets/modern/partials/page/favorites.php:60
-#, fuzzy
 msgid " Property"
 msgstr "Harta"
 
@@ -2408,7 +2384,6 @@ msgid "Browse Images"
 msgstr "Semak imbas Imej"
 
 #: assets/modern/partials/property/form-fields/images.php:59
-#, fuzzy
 msgid "Note: "
 msgstr "Nota:"
 
@@ -2503,7 +2478,7 @@ msgstr "Laman Agensi"
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:96
+#: framework/customizer/sections/search/properties-search-page.php:81
 #, fuzzy
 msgid "Header Variation"
 msgstr "Variasi Header"
@@ -2520,7 +2495,7 @@ msgstr "Variasi header untuk dipaparkan pada halaman agensi."
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:101
+#: framework/customizer/sections/search/properties-search-page.php:86
 #: framework/customizer/sections/styles/banner.php:23
 #, fuzzy
 msgid "Banner"
@@ -2757,7 +2732,6 @@ msgstr "Maklumat perhubungan Tajuk"
 
 #: framework/customizer/contact.php:173
 #: widgets/rh-contact-information-widget.php:108
-#, fuzzy
 msgid "Contact Address"
 msgstr "alamat"
 
@@ -2968,7 +2942,7 @@ msgstr "Tambah kotak semak perjanjian GDPR dalam bentuk di seluruh laman web?"
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:160
+#: framework/customizer/sections/search/properties-search-page.php:183
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
@@ -2986,7 +2960,7 @@ msgstr "Ya"
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:161
+#: framework/customizer/sections/search/properties-search-page.php:184
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
@@ -3022,7 +2996,6 @@ msgid "GDPR agreement checkbox text"
 msgstr "Teks kotak tanda perjanjian GDPR"
 
 #: framework/customizer/gdpr.php:56
-#, fuzzy
 msgid "You can use <a> tag in your GDPR agreement checkbox text."
 msgstr ""
 "Anda boleh menggunakan <a>tanda dalam kotak pilihan kotak persetujuan GDPR "
@@ -3543,7 +3516,6 @@ msgid "Misc"
 msgstr "Misc"
 
 #: framework/customizer/misc.php:40
-#, fuzzy
 msgid "Replace \"Know More\" Button Text"
 msgstr "Gantikan Teks &quot;Ketahui Lebih Lanjut&quot;"
 
@@ -3759,13 +3731,13 @@ msgid "Layout"
 msgstr "Bentangan"
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:182
+#: framework/customizer/sections/search/properties-search-page.php:205
 #, fuzzy
 msgid "One Column"
 msgstr "Satu Lajur"
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:183
+#: framework/customizer/sections/search/properties-search-page.php:206
 #, fuzzy
 msgid "Two Columns"
 msgstr "Dua Lajur"
@@ -3776,7 +3748,7 @@ msgid "Three Columns"
 msgstr "Tiga Lajur"
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:184
+#: framework/customizer/sections/search/properties-search-page.php:207
 #, fuzzy
 msgid "Four Columns"
 msgstr "Empat Lajur"
@@ -4200,9 +4172,8 @@ msgid "Description Text"
 msgstr "Huraian Teks"
 
 #: framework/customizer/sections/home/features-section.php:126
-#, fuzzy
 msgid "First Feature "
-msgstr "ciri-ciri"
+msgstr "Ciri Pertama"
 
 #: framework/customizer/sections/home/features-section.php:143
 #: framework/customizer/sections/home/features-section.php:236
@@ -4219,14 +4190,12 @@ msgid "URL"
 msgstr "URL"
 
 #: framework/customizer/sections/home/features-section.php:218
-#, fuzzy
 msgid "Second Feature "
-msgstr "ciri-ciri"
+msgstr "Ciri Kedua"
 
 #: framework/customizer/sections/home/features-section.php:312
-#, fuzzy
 msgid "Third Feature "
-msgstr "ciri-ciri"
+msgstr "Ciri Ketiga"
 
 #: framework/customizer/sections/home/features-section.php:428
 #: framework/customizer/sections/home/features-section.php:456
@@ -4755,7 +4724,7 @@ msgid "Basics"
 msgstr "Asas-asas"
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:97
+#: framework/customizer/sections/search/properties-search-page.php:82
 #, fuzzy
 msgid "Header variation to display on Property Detail Page."
 msgstr "Variasi header untuk dipaparkan pada Halaman Butiran Harta."
@@ -5063,40 +5032,47 @@ msgstr ""
 "Apa yang anda ingin paparkan di kawasan di bawah pengepala pada halaman "
 "hasil carian sifat?"
 
-#: framework/customizer/sections/search/properties-search-page.php:77
+#: framework/customizer/sections/search/properties-search-page.php:98
 #, fuzzy
 msgid "Search Results Layout"
 msgstr "Keputusan Carian"
 
-#: framework/customizer/sections/search/properties-search-page.php:78
-#, fuzzy
+#: framework/customizer/sections/search/properties-search-page.php:99
 msgid "Search results page layout."
-msgstr "Carian Halaman Hasil Carian"
+msgstr "Susun atur halaman hasil carian."
 
-#: framework/customizer/sections/search/properties-search-page.php:82
+#: framework/customizer/sections/search/properties-search-page.php:103
 msgid "With Map"
 msgstr "Dengan Peta"
 
-#: framework/customizer/sections/search/properties-search-page.php:83
+#: framework/customizer/sections/search/properties-search-page.php:104
 msgid "Without Map"
 msgstr "Tanpa Peta"
 
-#: framework/customizer/sections/search/properties-search-page.php:117
-#, fuzzy
-msgid "Properties Per Page"
-msgstr "Properties Per Page"
+#: framework/customizer/sections/search/properties-search-page.php:119
+msgid "Number of properties to display on a page?"
+msgstr "Bilangan hartanah yang dipaparkan pada halaman?"
 
-#: framework/customizer/sections/search/properties-search-page.php:118
-#, fuzzy
-msgid "Number of properties to display on search results page"
-msgstr "Bilangan sifat untuk dipaparkan pada halaman hasil carian"
+#: framework/customizer/sections/search/properties-search-page.php:158
+msgid "Number of properties to mark on map?"
+msgstr "Bilangan hartanah untuk ditandakan di peta?"
 
-#: framework/customizer/sections/search/properties-search-page.php:155
+#: framework/customizer/sections/search/properties-search-page.php:162
 #, fuzzy
-msgid "Display Featured Properties on Top in Search Results Page?"
+msgid "All found"
+msgstr "Tidak ditemui"
+
+#: framework/customizer/sections/search/properties-search-page.php:163
+#, fuzzy
+msgid "As on one page"
+msgstr "CTA di Laman Web"
+
+#: framework/customizer/sections/search/properties-search-page.php:178
+#, fuzzy
+msgid "Display featured properties on top in search results?"
 msgstr "Paparkan Hartanah Pilihan di Halaman Keputusan Carian di Atas?"
 
-#: framework/customizer/sections/search/properties-search-page.php:156
+#: framework/customizer/sections/search/properties-search-page.php:179
 #, fuzzy
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New "
@@ -5105,12 +5081,12 @@ msgstr ""
 "Tetapan ini akan digunakan pada penyisihan berdasarkan Sort by Date (Lama "
 "hingga Baru dan Baru hingga Lama) sahaja."
 
-#: framework/customizer/sections/search/properties-search-page.php:177
+#: framework/customizer/sections/search/properties-search-page.php:200
 #, fuzzy
 msgid "Search Page Variation"
 msgstr "Variasi Halaman Carian"
 
-#: framework/customizer/sections/search/properties-search-page.php:178
+#: framework/customizer/sections/search/properties-search-page.php:201
 #, fuzzy
 msgid "Search page variation to display properties."
 msgstr "Cari variasi halaman untuk memaparkan sifat."
@@ -5157,7 +5133,7 @@ msgid "Search Form Basics"
 msgstr "Cari Asas Borang"
 
 #: framework/customizer/sections/search/search-form-basics.php:37
-#: widgets/advance-search-widget.php:55
+#: widgets/advance-search-widget.php:24 widgets/advance-search-widget.php:54
 #, fuzzy
 msgid "Find Your Home"
 msgstr "Cari Rumah Anda"
@@ -5686,7 +5662,7 @@ msgstr ""
 "bahagian dalam%1$s Customizer&gt; Styles %2$s."
 
 #: framework/customizer/sections/styles/core-styles.php:40
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
 "option is selected in %1$s Customizer > Styles > Default or Custom %2$s. "
@@ -5694,13 +5670,13 @@ msgstr ""
 "• Untuk memohon warna-warna teras ini, pastikan%1$s Warna Custom Saya Sendiri"
 "%2$s dipilih dalam%1$s Customizer&gt; Styles&gt; Default atau Custom%2$s."
 
-#: framework/customizer/sections/styles/core-styles.php:71
+#: framework/customizer/sections/styles/core-styles.php:72
 #, fuzzy
 msgid "Orange Light"
 msgstr "Orange Light"
 
-#: framework/customizer/sections/styles/core-styles.php:72
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:73
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu %1$s\n"
@@ -5716,19 +5692,14 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact Form Button %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ec894d "
 msgstr ""
-"Ubah warna teras dari%1$s • Menu Utama%1$s • Butang Borang Carian%1$s • "
-"Status Status Tag%1$s • Agen Tahu Lebih Banyak Butang%1$s • Butiran Hubungan "
-"Ejen Button%1$s • Post Baca Lagi Butang%1$s • Pautan Pengarang Pautan%1$s • "
-"Pautan Pos %1$s • Tuntutan Balas Pos %1$s • Penapis Galeri%1$s • Borang "
-"Hubungi Butang%1$s Warna Default ialah # ec894d"
 
-#: framework/customizer/sections/styles/core-styles.php:99
+#: framework/customizer/sections/styles/core-styles.php:101
 #, fuzzy
 msgid "Orange Dark"
 msgstr "Orange Dark"
 
-#: framework/customizer/sections/styles/core-styles.php:100
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:102
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Hover %1$s\n"
@@ -5736,16 +5707,14 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Sidebar Widgets Links Hover %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #dc7d44 "
 msgstr ""
-"Tukar warna teras %1$s • Menu Utama Hover%1$s • Footer Widget Pautan Hover"
-"%1$s • Widget Sidebar Pautan Hover%1$s Warna lalai ialah # dc7d44"
 
-#: framework/customizer/sections/styles/core-styles.php:119
+#: framework/customizer/sections/styles/core-styles.php:122
 #, fuzzy
 msgid "Orange Glow"
 msgstr "Orange Glow"
 
-#: framework/customizer/sections/styles/core-styles.php:120
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:123
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Search Form Button Hover %1$s\n"
@@ -5757,18 +5726,14 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Pagination %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #e3712c "
 msgstr ""
-"Tukar warna teras %1$s • Butang Borang Carian Hover%1$s • Agen Tahu Lebih "
-"Banyak Butang Hover%1$s • Borang Hubungi Ejen Button Hover%1$s • Post Baca "
-"Lagi Button Hover%1$s • Post Tags Berlegar%1$s • Siarkan Siaran Butang Hover"
-"%1$s • Penomboran%1$s Warna lalai ialah # e3712c"
 
-#: framework/customizer/sections/styles/core-styles.php:143
+#: framework/customizer/sections/styles/core-styles.php:147
 #, fuzzy
 msgid "Orange Burnt"
 msgstr "Burning Orange"
 
-#: framework/customizer/sections/styles/core-styles.php:144
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:148
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Slider price and Title Hover %1$s\n"
@@ -5784,20 +5749,14 @@ msgid ""
 "%1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #df5400 "
 msgstr ""
-"Tukar warna teras %1$s • Harga Slider Utama dan Tajuk Hover%1$s • Hover "
-"Properties Hover%1$s • Harta Lebih Details Pautan Hover%1$s • footer Pautan "
-"Hover%1$s • Judul Pos Hover%1$s • Tajuk Ejen Hover dalam Penyenaraian%1$s • "
-"Tajuk Hover of Properties Featured Widget%1$s • Hubungi E-mel Halaman Hover"
-"%1$s • Ciri Carian Hover dalam Borang Carian Widget%1$s Warna lalai adalah # "
-"df5400"
 
-#: framework/customizer/sections/styles/core-styles.php:169
+#: framework/customizer/sections/styles/core-styles.php:174
 #, fuzzy
 msgid "Blue light"
 msgstr "Cahaya biru"
 
-#: framework/customizer/sections/styles/core-styles.php:170
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:175
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Header Phone Number Background %1$s\n"
@@ -5811,19 +5770,14 @@ msgid ""
 "\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #4dc7ec "
 msgstr ""
-"Ubah warna teras %1$s • Latar Belakang Nombor Latar Belakang%1$s • Borang "
-"Carian Drop Down Latar Belakang Item%1$s • Slider Utama Ketahui Lebih Banyak"
-"%1$s • Harga Harta &amp; jenis warna / Latar Belakang%1$s • Tatal ke Atas "
-"Butang%1$s • Latar Belakang Format Langganan%1$s • Navigasi Slider Siaran"
-"%1$s • Hamparan Harta Galeri%1$s Warna lalai ialah # 4dc7ec"
 
-#: framework/customizer/sections/styles/core-styles.php:196
+#: framework/customizer/sections/styles/core-styles.php:202
 #, fuzzy
 msgid "Blue Dark"
 msgstr "Blue Dark"
 
-#: framework/customizer/sections/styles/core-styles.php:197
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:203
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Header Phone Icon %1$s\n"
@@ -5834,17 +5788,22 @@ msgid ""
 "\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #37b3d9 "
 msgstr ""
-"Tukar warna teras %1$s • Ikon Telefon Header%1$s • Slider Utama Tahu Lebih "
-"Hover%1$s • Skrol Ke Atas Hover Button%1$s • Gambaran Banner Latar Belakang"
-"%1$s • Banner Breadcrumbs Background% 1 $ Default warna adalah # 37b3d9"
+"Change core colors of %1$s\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Header Phone Icon %1$s\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Slider Know More Hover %1$s\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Scroll To Top Button Hover %1$s\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Banner Description Background %1$s\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Banner Breadcrumbs Background %1$s\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #37b3d9 "
 
-#: framework/customizer/sections/styles/core-styles.php:221
+#: framework/customizer/sections/styles/core-styles.php:228
 #, fuzzy
 msgid "Orange"
 msgstr "Orange"
 
-#: framework/customizer/sections/styles/core-styles.php:222
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:229
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Background %1$s\n"
@@ -5859,20 +5818,14 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agent View My Listings Link %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ea723d "
 msgstr ""
-"Ubah warna teras %1$s • Latar Belakang Menu Utama%1$s • Navigasi Halaman "
-"Utama Nav%1$s • Tag Pilihan Hartanah%1$s • Tambah ke Tag Kegemaran%1$s • "
-"Ciri-ciri Pilihan Slider Direction Nav%1$s • Format Galeri Port Slider "
-"Direction Nav%1$s • CTA Button Satu Latar Belakang%1$s • Ejen Laman Utama "
-"Arrow%1$s • Sambungan widget Sidebar%1$s • Ejen Lihat Penyenaraian Saya "
-"Pautan%1$s Warna Default adalah # ea723d"
 
-#: framework/customizer/sections/styles/core-styles.php:248
+#: framework/customizer/sections/styles/core-styles.php:256
 #, fuzzy
 msgid "Green"
 msgstr "Hijau"
 
-#: framework/customizer/sections/styles/core-styles.php:249
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:257
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button %1$s\n"
@@ -5899,24 +5852,14 @@ msgid ""
 "\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1ea69a "
 msgstr ""
-"Tukar warna teras %1$s • Butang Hantarkan Hartanah%1$s • Meta Icons Hartanah "
-"Slider Utama%1$s • Harga Hartanah%1$s • Tajuk Hover Hartanah%1$s • Hamparan "
-"Imej Hartanah%1$s • Borang Carian Hartanah%1$s • Tajuk Butiran Hartanah%1$s "
-"• Butang Sidebar Properties %1$s • Latar Belakang Testimoni Utama%1$s • "
-"Bahagian Rumah Subtitle%1$s • Latar Belakang CTA-Laman Utama%1$s • Tajuk "
-"Ejen dan Hover E-mel%1$s • Nombor Ejen dan Bilangan Harta%1$s • Butiran "
-"Hubungan Ejen Button%1$s • Tajuk Berita dan Bar Latar Belakang Meta%1$s • "
-"Comment Submit Button%1$s • Berita Baca Lebih banyak%1$s • Overlay Item "
-"Galeri%1$s • Penapis Galeri Menggariskan%1$s • Butang Borang Halaman Hubungi"
-"%1$s • Penomboran%1$s Warna lalai adalah # 1ea69a"
 
-#: framework/customizer/sections/styles/core-styles.php:287
+#: framework/customizer/sections/styles/core-styles.php:296
 #, fuzzy
 msgid "Green Dark"
 msgstr "Green Dark"
 
-#: framework/customizer/sections/styles/core-styles.php:288
-#, fuzzy, php-format
+#: framework/customizer/sections/styles/core-styles.php:297
+#, php-format
 msgid ""
 "Change core colors of %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button Hover %1$s\n"
@@ -5929,11 +5872,6 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact PAge Form Button Hover %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1c9d92 "
 msgstr ""
-"Tukar warna teras %1$s • Harta Serahkan Hover Properti%1$s • Harta Carian "
-"Butang Hover%1$s • Laman Utama Testimoni Cakap Markah%1$s • Butang Sidebar "
-"Properties Hovers %1$s • Comment Submit Button Hover%1$s • Berita Baca Lebih "
-"Lanjut Hover%1$s • Borang Hubungi Ejen Button Hover%1$s • Hubungi Borang "
-"Lengkapkan Button Button Hover%1$s Warna default adalah # 1c9d92"
 
 #: framework/customizer/sections/styles/footer.php:38
 #, fuzzy
@@ -6139,7 +6077,6 @@ msgid "Language Switch Link Hover Color"
 msgstr "Pautan Pautan Warna Hover"
 
 #: framework/customizer/sections/styles/home-page.php:27
-#, fuzzy
 msgid "Home Properties "
 msgstr "Hartanah Rumah"
 
@@ -6203,12 +6140,10 @@ msgid "Section Background Color"
 msgstr "Bahagian Warna Latar Belakang"
 
 #: framework/customizer/sections/styles/home-page.php:121
-#, fuzzy
 msgid "Featured Properties "
 msgstr "Hartanah yang Disediakan"
 
 #: framework/customizer/sections/styles/home-page.php:201
-#, fuzzy
 msgid "Testimonials "
 msgstr "Testimoni"
 
@@ -6238,7 +6173,6 @@ msgid "URL Color"
 msgstr "Warna URL"
 
 #: framework/customizer/sections/styles/home-page.php:301
-#, fuzzy
 msgid "Call To Action "
 msgstr "Panggilan Untuk Tindakan"
 
@@ -6277,7 +6211,6 @@ msgid "CTA Button Background Color Two"
 msgstr "Warna Latar Belakang CTA Dua"
 
 #: framework/customizer/sections/styles/home-page.php:413
-#, fuzzy
 msgid "Agents "
 msgstr "Ejen"
 
@@ -6307,7 +6240,6 @@ msgid "Agent Listed Properties Color"
 msgstr "Warna Properties Listed Agent"
 
 #: framework/customizer/sections/styles/home-page.php:581
-#, fuzzy
 msgid "Features "
 msgstr "ciri-ciri"
 
@@ -6322,17 +6254,14 @@ msgid "Feature Text Color"
 msgstr "Ciri Warna Teks"
 
 #: framework/customizer/sections/styles/home-page.php:697
-#, fuzzy
 msgid "Partners "
 msgstr "Rakan kongsi"
 
 #: framework/customizer/sections/styles/home-page.php:777
-#, fuzzy
 msgid "News & Updates "
 msgstr "Berita &amp; Maklumat"
 
 #: framework/customizer/sections/styles/home-page.php:861
-#, fuzzy
 msgid "CTA-Contact "
 msgstr "CTA-Contact"
 
@@ -6357,7 +6286,6 @@ msgid "CTA Contact Description Color"
 msgstr "CTA Hubungi Penerangan Warna"
 
 #: framework/customizer/sections/styles/home-page.php:994
-#, fuzzy
 msgid "Features Section "
 msgstr "Ciri Seksyen"
 
@@ -6653,7 +6581,6 @@ msgstr "Slug Status Harta"
 
 #: framework/customizer/url-slugs.php:110
 #: framework/include/property-post-type.php:149
-#, fuzzy
 msgid "property-type"
 msgstr "Jenis hartanah"
 
@@ -6758,12 +6685,10 @@ msgstr "menggunakan borang hubungan di"
 
 #: framework/functions/contact-form-handlers.php:84
 #: framework/functions/contact-form-handlers.php:243
-#, fuzzy
 msgid "You have received a message from: "
 msgstr "Anda telah menerima mesej dari:"
 
 #: framework/functions/contact-form-handlers.php:86
-#, fuzzy
 msgid "Phone Number : "
 msgstr "Nombor telefon :"
 
@@ -6775,19 +6700,16 @@ msgstr "Mesej tambahan mereka adalah seperti berikut."
 
 #: framework/functions/contact-form-handlers.php:96
 #: framework/functions/contact-form-handlers.php:258
-#, fuzzy
 msgid "GDPR Agreement: "
 msgstr "Perjanjian GDPR:"
 
 #: framework/functions/contact-form-handlers.php:100
 #: framework/functions/contact-form-handlers.php:262
-#, fuzzy
 msgid "You can contact "
 msgstr "Anda boleh menghubungi"
 
 #: framework/functions/contact-form-handlers.php:100
 #: framework/functions/contact-form-handlers.php:262
-#, fuzzy
 msgid " via email, "
 msgstr "melalui e-mail,"
 
@@ -6821,17 +6743,14 @@ msgid "using agent contact form at"
 msgstr "menggunakan borang hubungan ejen di"
 
 #: framework/functions/contact-form-handlers.php:245
-#, fuzzy
 msgid "Property Title : "
 msgstr "Tajuk Harta:"
 
 #: framework/functions/contact-form-handlers.php:248
-#, fuzzy
 msgid "Property URL : "
 msgstr "URL Harta:"
 
 #: framework/functions/contact-form-handlers.php:263
-#, fuzzy
 msgid " or via contact number "
 msgstr "atau melalui nombor kenalan"
 
@@ -7022,23 +6941,19 @@ msgid "Your Current Membership"
 msgstr "Keahlian Semasa anda"
 
 #: framework/functions/membership.php:112
-#, fuzzy
 msgid "Price: "
 msgstr "Harga:"
 
 #: framework/functions/membership.php:116
-#, fuzzy
 msgid "Properties Allowed: "
 msgstr "Hartanah yang Dibenarkan:"
 
 #: framework/functions/membership.php:120
-#, fuzzy
 msgid "Featured Properties: "
 msgstr "Ciri-ciri yang dipilih:"
 
 #: framework/functions/membership.php:128
 #: framework/functions/membership.php:132
-#, fuzzy
 msgid "Time Duration: "
 msgstr "Tempoh Masa:"
 
@@ -7142,7 +7057,6 @@ msgid "A new property is submitted by %s at %s"
 msgstr "Sifat baru diserahkan oleh %s pada %s"
 
 #: framework/functions/property-submit-handler.php:163
-#, fuzzy
 msgid "You can preview it here : "
 msgstr "Anda boleh pratonton di sini:"
 
@@ -8508,7 +8422,6 @@ msgid "If Yes, Then you need to provide a slider image below."
 msgstr "Jika Ya, Kemudian anda perlu memberikan imej slider di bawah."
 
 #: framework/meta-box/config-meta-boxes.php:566
-#, fuzzy
 msgid "Yes "
 msgstr "Ya"
 
@@ -8969,7 +8882,6 @@ msgstr ""
 "Kawasan widget untuk bar sisi dalam senarai sifat, grid dan halaman arkib."
 
 #: functions.php:346
-#, fuzzy
 msgid "dsIDX Sidebar"
 msgstr "Sidebar dsIDX"
 
@@ -9079,23 +8991,19 @@ msgid "Optima Express Sidebar"
 msgstr "Sidebar Optima Express"
 
 #: functions.php:465
-#, fuzzy
 msgid "An extra sidebar to use with Optima Express if needed."
 msgstr ""
 "Sidebar tambahan untuk digunakan dengan Optima Express jika diperlukan."
 
 #: widgets/advance-search-widget.php:16
-#, fuzzy
 msgid "This widget displays advance search form."
 msgstr "Widget ini memaparkan borang carian awal."
 
 #: widgets/advance-search-widget.php:18
-#, fuzzy
 msgid "RealHomes - Advance Search Widget"
 msgstr "RealHomes - Widget Carian Awal"
 
-#: widgets/advance-search-widget.php:45
-#, fuzzy
+#: widgets/advance-search-widget.php:44
 msgid ""
 "Advance search page is not configured yet. Please read this theme "
 "documentation for the Advance Search page & form configuration details."
@@ -9103,7 +9011,7 @@ msgstr ""
 "Halaman carian pendahuluan belum dikonfigurasi. Sila baca dokumentasi tema "
 "ini untuk butiran konfigurasi halaman &amp; Carian Carian."
 
-#: widgets/advance-search-widget.php:61
+#: widgets/advance-search-widget.php:60
 #: widgets/agent-featured-properties-widget.php:324
 #: widgets/agent-properties-widget.php:338
 #: widgets/featured-properties-widget.php:326
@@ -9218,6 +9126,10 @@ msgstr "+ 123-456-789"
 #, fuzzy
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
+
+#, fuzzy
+#~ msgid "Properties Per Page"
+#~ msgstr "Properties Per Page"
 
 #, fuzzy
 #~ msgid "Only works if WPML is installed."
