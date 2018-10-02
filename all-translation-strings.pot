@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-27 19:08+0500\n"
+"POT-Creation-Date: 2018-10-02 14:52+0500\n"
 "PO-Revision-Date: 2016-09-17 12:30+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
@@ -49,7 +49,11 @@ msgstr ""
 msgid "The page you are looking for is not here!"
 msgstr ""
 
-#: assets/classic/partials/404.php:38
+#: assets/classic/partials/404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: assets/classic/partials/404.php:42
 msgid "Please try using top navigation OR search for what you are looking for!"
 msgstr ""
 
@@ -72,7 +76,7 @@ msgstr ""
 #: assets/modern/partials/agency/single/card.php:99
 #: assets/modern/partials/agent/card.php:110
 #: assets/modern/partials/agent/single/card.php:100
-#: assets/modern/partials/author/agent-card.php:99
+#: assets/modern/partials/author/agent-card.php:103
 #: assets/modern/partials/page/users-list.php:210
 #: assets/modern/partials/property/single/agent-for-sidebar.php:57
 #: assets/modern/partials/property/single/agent.php:73
@@ -93,7 +97,7 @@ msgstr ""
 #: assets/modern/partials/agency/single/card.php:107
 #: assets/modern/partials/agent/card.php:113
 #: assets/modern/partials/agent/single/card.php:108
-#: assets/modern/partials/author/agent-card.php:106
+#: assets/modern/partials/author/agent-card.php:110
 #: assets/modern/partials/page/contact.php:201
 #: assets/modern/partials/page/users-list.php:218
 #: assets/modern/partials/property/single/agent-for-sidebar.php:64
@@ -116,7 +120,7 @@ msgstr ""
 #: assets/modern/partials/agency/single/card.php:115
 #: assets/modern/partials/agent/card.php:116
 #: assets/modern/partials/agent/single/card.php:116
-#: assets/modern/partials/author/agent-card.php:113
+#: assets/modern/partials/author/agent-card.php:117
 #: assets/modern/partials/page/contact.php:211
 #: assets/modern/partials/page/users-list.php:226
 #: assets/modern/partials/property/single/agent-for-sidebar.php:71
@@ -155,18 +159,18 @@ msgid "More Details"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:16
-#: assets/classic/partials/agent/single/contact-form.php:22
+#: assets/classic/partials/agent/single/contact-form.php:24
 msgid "Send a Message"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:177
 #: assets/classic/partials/property/single/agent.php:116
 #: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
-#: assets/modern/partials/author/agent-card.php:146
+#: assets/modern/partials/author/agent-card.php:150
 #: assets/modern/partials/author/author-contact-form.php:27
 #: assets/modern/partials/page/contact.php:98
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
@@ -178,13 +182,13 @@ msgid "Name"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:178
 #: assets/classic/partials/property/single/agent.php:117
 #: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
@@ -193,7 +197,7 @@ msgid "* Please provide your name"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/footer/modal-login.php:133
 #: assets/classic/partials/page/contact.php:122
 #: assets/classic/partials/page/contact.php:182
@@ -208,8 +212,8 @@ msgstr ""
 #: assets/modern/partials/agent/card.php:122
 #: assets/modern/partials/agent/single/card.php:132
 #: assets/modern/partials/agent/single/contact-form.php:33
-#: assets/modern/partials/author/agent-card.php:118
-#: assets/modern/partials/author/agent-card.php:152
+#: assets/modern/partials/author/agent-card.php:122
+#: assets/modern/partials/author/agent-card.php:156
 #: assets/modern/partials/author/author-contact-form.php:33
 #: assets/modern/partials/header/modal.php:108
 #: assets/modern/partials/page/contact.php:103
@@ -229,12 +233,12 @@ msgid "Email"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/property/single/agent.php:120
 #: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/property/single/agent-for-sidebar.php:116
 #: assets/modern/partials/property/single/agent.php:134
@@ -242,13 +246,13 @@ msgid "* Please provide valid email address"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/page/contact.php:83
 #: assets/classic/partials/property/single/agent.php:121
 #: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
-#: assets/modern/partials/author/agent-card.php:158
+#: assets/modern/partials/author/agent-card.php:162
 #: assets/modern/partials/author/author-contact-form.php:39
 #: assets/modern/partials/page/contact.php:108
 #: assets/modern/partials/page/contact.php:191
@@ -260,12 +264,12 @@ msgid "Phone"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/property/single/agent.php:123
 #: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/property/single/agent-for-sidebar.php:121
 #: assets/modern/partials/property/single/agent.php:140
@@ -273,13 +277,13 @@ msgid "* Please provide valid phone number"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:192
 #: assets/classic/partials/property/single/agent.php:124
 #: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
-#: assets/modern/partials/author/agent-card.php:164
+#: assets/modern/partials/author/agent-card.php:168
 #: assets/modern/partials/author/author-contact-form.php:45
 #: assets/modern/partials/page/contact.php:113
 #: assets/modern/partials/property/single/agent-for-sidebar.php:125
@@ -288,13 +292,13 @@ msgid "Message"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:193
 #: assets/classic/partials/property/single/agent.php:125
 #: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent-for-sidebar.php:126
@@ -303,18 +307,18 @@ msgid "* Please provide your message"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:86
-#: assets/classic/partials/agent/single/contact-form.php:91
+#: assets/classic/partials/agent/single/contact-form.php:93
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/agent.php:188
 #: assets/classic/partials/property/single/sidebar-agent.php:105
-#: assets/classic/partials/property/single/sidebar-agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:185
 #: assets/modern/partials/agency/single/contact-form.php:89
 #: assets/modern/partials/agent/single/contact-form.php:95
-#: assets/modern/partials/author/agent-card.php:174
+#: assets/modern/partials/author/agent-card.php:187
 #: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:176
-#: assets/modern/partials/property/single/agent.php:206
+#: assets/modern/partials/property/single/agent-for-sidebar.php:192
+#: assets/modern/partials/property/single/agent.php:216
 msgid "Send Message"
 msgstr ""
 
@@ -999,7 +1003,7 @@ msgid "Please subscribe a membership package to start publishing properties."
 msgstr ""
 
 #: assets/classic/partials/page/my-properties.php:188
-msgid "Posted on :"
+msgid "Posted on:"
 msgstr ""
 
 #: assets/classic/partials/page/my-properties.php:229
@@ -1141,12 +1145,12 @@ msgid "Result"
 msgstr ""
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:275
-#: assets/classic/partials/property/single/sidebar-agent.php:272
+#: assets/classic/partials/property/single/agent.php:292
+#: assets/classic/partials/property/single/sidebar-agent.php:286
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:279
-#: assets/modern/partials/property/single/agent.php:314
+#: assets/modern/partials/property/single/agent-for-sidebar.php:296
+#: assets/modern/partials/property/single/agent.php:325
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1418,7 +1422,7 @@ msgstr ""
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:87
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
@@ -1683,8 +1687,8 @@ msgstr ""
 msgid "Contact"
 msgstr ""
 
-#: assets/classic/partials/property/single/agent.php:248
-#: assets/modern/partials/property/single/agent.php:287
+#: assets/classic/partials/property/single/agent.php:265
+#: assets/modern/partials/property/single/agent.php:298
 msgid "Submitted by"
 msgstr ""
 
@@ -1809,7 +1813,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent.php:128
@@ -1818,7 +1822,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/page/contact.php:104
 #: assets/modern/partials/property/single/agent.php:134
@@ -1827,7 +1831,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/page/contact.php:109
 #: assets/modern/partials/property/single/agent.php:140
@@ -1836,7 +1840,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent.php:145
@@ -2236,7 +2240,7 @@ msgstr ""
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:96
+#: framework/customizer/sections/search/properties-search-page.php:81
 msgid "Header Variation"
 msgstr ""
 
@@ -2251,7 +2255,7 @@ msgstr ""
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:101
+#: framework/customizer/sections/search/properties-search-page.php:86
 #: framework/customizer/sections/styles/banner.php:23
 msgid "Banner"
 msgstr ""
@@ -2618,7 +2622,7 @@ msgstr ""
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:160
+#: framework/customizer/sections/search/properties-search-page.php:183
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
@@ -2636,7 +2640,7 @@ msgstr ""
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:161
+#: framework/customizer/sections/search/properties-search-page.php:184
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
@@ -3242,12 +3246,12 @@ msgid "Layout"
 msgstr ""
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:182
+#: framework/customizer/sections/search/properties-search-page.php:205
 msgid "One Column"
 msgstr ""
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:183
+#: framework/customizer/sections/search/properties-search-page.php:206
 msgid "Two Columns"
 msgstr ""
 
@@ -3256,7 +3260,7 @@ msgid "Three Columns"
 msgstr ""
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:184
+#: framework/customizer/sections/search/properties-search-page.php:207
 msgid "Four Columns"
 msgstr ""
 
@@ -4045,7 +4049,7 @@ msgid "Basics"
 msgstr ""
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:97
+#: framework/customizer/sections/search/properties-search-page.php:82
 msgid "Header variation to display on Property Detail Page."
 msgstr ""
 
@@ -4291,45 +4295,53 @@ msgid ""
 "page ?"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:77
+#: framework/customizer/sections/search/properties-search-page.php:98
 msgid "Search Results Layout"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:78
+#: framework/customizer/sections/search/properties-search-page.php:99
 msgid "Search results page layout."
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:82
+#: framework/customizer/sections/search/properties-search-page.php:103
 msgid "With Map"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:83
+#: framework/customizer/sections/search/properties-search-page.php:104
 msgid "Without Map"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:117
-msgid "Properties Per Page"
+#: framework/customizer/sections/search/properties-search-page.php:119
+msgid "Number of properties to display on a page?"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:118
-msgid "Number of properties to display on search results page"
+#: framework/customizer/sections/search/properties-search-page.php:158
+msgid "Number of properties to mark on map?"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:155
-msgid "Display Featured Properties on Top in Search Results Page?"
+#: framework/customizer/sections/search/properties-search-page.php:162
+msgid "All found"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:156
+#: framework/customizer/sections/search/properties-search-page.php:163
+msgid "As on one page"
+msgstr ""
+
+#: framework/customizer/sections/search/properties-search-page.php:178
+msgid "Display featured properties on top in search results?"
+msgstr ""
+
+#: framework/customizer/sections/search/properties-search-page.php:179
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New "
 "and New to Old) only."
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:177
+#: framework/customizer/sections/search/properties-search-page.php:200
 msgid "Search Page Variation"
 msgstr ""
 
-#: framework/customizer/sections/search/properties-search-page.php:178
+#: framework/customizer/sections/search/properties-search-page.php:201
 msgid "Search page variation to display properties."
 msgstr ""
 
@@ -4367,7 +4379,7 @@ msgid "Search Form Basics"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:37
-#: widgets/advance-search-widget.php:55
+#: widgets/advance-search-widget.php:24 widgets/advance-search-widget.php:54
 msgid "Find Your Home"
 msgstr ""
 
@@ -4787,11 +4799,11 @@ msgid ""
 "option is selected in %1$s Customizer > Styles > Default or Custom %2$s. "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:71
+#: framework/customizer/sections/styles/core-styles.php:72
 msgid "Orange Light"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:72
+#: framework/customizer/sections/styles/core-styles.php:73
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4809,11 +4821,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ec894d "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:99
+#: framework/customizer/sections/styles/core-styles.php:101
 msgid "Orange Dark"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:100
+#: framework/customizer/sections/styles/core-styles.php:102
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4823,11 +4835,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #dc7d44 "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:119
+#: framework/customizer/sections/styles/core-styles.php:122
 msgid "Orange Glow"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:120
+#: framework/customizer/sections/styles/core-styles.php:123
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4841,11 +4853,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #e3712c "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:143
+#: framework/customizer/sections/styles/core-styles.php:147
 msgid "Orange Burnt"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:144
+#: framework/customizer/sections/styles/core-styles.php:148
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4863,11 +4875,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #df5400 "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:169
+#: framework/customizer/sections/styles/core-styles.php:174
 msgid "Blue light"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:170
+#: framework/customizer/sections/styles/core-styles.php:175
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4883,11 +4895,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #4dc7ec "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:196
+#: framework/customizer/sections/styles/core-styles.php:202
 msgid "Blue Dark"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:197
+#: framework/customizer/sections/styles/core-styles.php:203
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4900,11 +4912,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #37b3d9 "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:221
+#: framework/customizer/sections/styles/core-styles.php:228
 msgid "Orange"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:222
+#: framework/customizer/sections/styles/core-styles.php:229
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4921,11 +4933,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ea723d "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:248
+#: framework/customizer/sections/styles/core-styles.php:256
 msgid "Green"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:249
+#: framework/customizer/sections/styles/core-styles.php:257
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4954,11 +4966,11 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1ea69a "
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:287
+#: framework/customizer/sections/styles/core-styles.php:296
 msgid "Green Dark"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-styles.php:288
+#: framework/customizer/sections/styles/core-styles.php:297
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -7526,13 +7538,13 @@ msgstr ""
 msgid "RealHomes - Advance Search Widget"
 msgstr ""
 
-#: widgets/advance-search-widget.php:45
+#: widgets/advance-search-widget.php:44
 msgid ""
 "Advance search page is not configured yet. Please read this theme "
 "documentation for the Advance Search page & form configuration details."
 msgstr ""
 
-#: widgets/advance-search-widget.php:61
+#: widgets/advance-search-widget.php:60
 #: widgets/agent-featured-properties-widget.php:324
 #: widgets/agent-properties-widget.php:338
 #: widgets/featured-properties-widget.php:326
