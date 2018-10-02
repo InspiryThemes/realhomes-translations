@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-09-27 19:08+0500\n"
-"PO-Revision-Date: 2018-09-27 19:14+0500\n"
+"POT-Creation-Date: 2018-10-02 14:52+0500\n"
+"PO-Revision-Date: 2018-10-02 15:03+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: ru_RU\n"
@@ -49,7 +49,11 @@ msgstr "404 Страница не найдена!"
 msgid "The page you are looking for is not here!"
 msgstr "Страница, которую вы ищете, не здесь!"
 
-#: assets/classic/partials/404.php:38
+#: assets/classic/partials/404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: assets/classic/partials/404.php:42
 msgid "Please try using top navigation OR search for what you are looking for!"
 msgstr ""
 "Пожалуйста, попробуйте использовать верхней панели навигации или выполнить "
@@ -74,7 +78,7 @@ msgstr "Контактная информация"
 #: assets/modern/partials/agency/single/card.php:99
 #: assets/modern/partials/agent/card.php:110
 #: assets/modern/partials/agent/single/card.php:100
-#: assets/modern/partials/author/agent-card.php:99
+#: assets/modern/partials/author/agent-card.php:103
 #: assets/modern/partials/page/users-list.php:210
 #: assets/modern/partials/property/single/agent-for-sidebar.php:57
 #: assets/modern/partials/property/single/agent.php:73
@@ -95,7 +99,7 @@ msgstr "Офис"
 #: assets/modern/partials/agency/single/card.php:107
 #: assets/modern/partials/agent/card.php:113
 #: assets/modern/partials/agent/single/card.php:108
-#: assets/modern/partials/author/agent-card.php:106
+#: assets/modern/partials/author/agent-card.php:110
 #: assets/modern/partials/page/contact.php:201
 #: assets/modern/partials/page/users-list.php:218
 #: assets/modern/partials/property/single/agent-for-sidebar.php:64
@@ -118,7 +122,7 @@ msgstr "Мобильный"
 #: assets/modern/partials/agency/single/card.php:115
 #: assets/modern/partials/agent/card.php:116
 #: assets/modern/partials/agent/single/card.php:116
-#: assets/modern/partials/author/agent-card.php:113
+#: assets/modern/partials/author/agent-card.php:117
 #: assets/modern/partials/page/contact.php:211
 #: assets/modern/partials/page/users-list.php:226
 #: assets/modern/partials/property/single/agent-for-sidebar.php:71
@@ -157,18 +161,18 @@ msgid "More Details"
 msgstr "Подробнее"
 
 #: assets/classic/partials/agency/single/contact-form.php:16
-#: assets/classic/partials/agent/single/contact-form.php:22
+#: assets/classic/partials/agent/single/contact-form.php:24
 msgid "Send a Message"
 msgstr "Отправить сообщение"
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:177
 #: assets/classic/partials/property/single/agent.php:116
 #: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
-#: assets/modern/partials/author/agent-card.php:146
+#: assets/modern/partials/author/agent-card.php:150
 #: assets/modern/partials/author/author-contact-form.php:27
 #: assets/modern/partials/page/contact.php:98
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
@@ -180,13 +184,13 @@ msgid "Name"
 msgstr "Имя"
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:27
+#: assets/classic/partials/agent/single/contact-form.php:29
 #: assets/classic/partials/page/contact.php:178
 #: assets/classic/partials/property/single/agent.php:117
 #: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
@@ -195,7 +199,7 @@ msgid "* Please provide your name"
 msgstr "* Введите свое имя"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/footer/modal-login.php:133
 #: assets/classic/partials/page/contact.php:122
 #: assets/classic/partials/page/contact.php:182
@@ -210,8 +214,8 @@ msgstr "* Введите свое имя"
 #: assets/modern/partials/agent/card.php:122
 #: assets/modern/partials/agent/single/card.php:132
 #: assets/modern/partials/agent/single/contact-form.php:33
-#: assets/modern/partials/author/agent-card.php:118
-#: assets/modern/partials/author/agent-card.php:152
+#: assets/modern/partials/author/agent-card.php:122
+#: assets/modern/partials/author/agent-card.php:156
 #: assets/modern/partials/author/author-contact-form.php:33
 #: assets/modern/partials/header/modal.php:108
 #: assets/modern/partials/page/contact.php:103
@@ -231,12 +235,12 @@ msgid "Email"
 msgstr "Email"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:31
+#: assets/classic/partials/agent/single/contact-form.php:33
 #: assets/classic/partials/property/single/agent.php:120
 #: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/property/single/agent-for-sidebar.php:116
 #: assets/modern/partials/property/single/agent.php:134
@@ -244,13 +248,13 @@ msgid "* Please provide valid email address"
 msgstr "* Введите действительный адрес электронной почты"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/page/contact.php:83
 #: assets/classic/partials/property/single/agent.php:121
 #: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
-#: assets/modern/partials/author/agent-card.php:158
+#: assets/modern/partials/author/agent-card.php:162
 #: assets/modern/partials/author/author-contact-form.php:39
 #: assets/modern/partials/page/contact.php:108
 #: assets/modern/partials/page/contact.php:191
@@ -262,12 +266,12 @@ msgid "Phone"
 msgstr "Телефон"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:37
+#: assets/classic/partials/agent/single/contact-form.php:39
 #: assets/classic/partials/property/single/agent.php:123
 #: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/property/single/agent-for-sidebar.php:121
 #: assets/modern/partials/property/single/agent.php:140
@@ -275,13 +279,13 @@ msgid "* Please provide valid phone number"
 msgstr "Пожалуйста, укажите действительный номер телефона"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:192
 #: assets/classic/partials/property/single/agent.php:124
 #: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
-#: assets/modern/partials/author/agent-card.php:164
+#: assets/modern/partials/author/agent-card.php:168
 #: assets/modern/partials/author/author-contact-form.php:45
 #: assets/modern/partials/page/contact.php:113
 #: assets/modern/partials/property/single/agent-for-sidebar.php:125
@@ -290,13 +294,13 @@ msgid "Message"
 msgstr "Сообщение"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:43
+#: assets/classic/partials/agent/single/contact-form.php:45
 #: assets/classic/partials/page/contact.php:193
 #: assets/classic/partials/property/single/agent.php:125
 #: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent-for-sidebar.php:126
@@ -305,18 +309,18 @@ msgid "* Please provide your message"
 msgstr "* Введите ваше сообщение"
 
 #: assets/classic/partials/agency/single/contact-form.php:86
-#: assets/classic/partials/agent/single/contact-form.php:91
+#: assets/classic/partials/agent/single/contact-form.php:93
 #: assets/classic/partials/page/contact.php:236
-#: assets/classic/partials/property/single/agent.php:172
+#: assets/classic/partials/property/single/agent.php:188
 #: assets/classic/partials/property/single/sidebar-agent.php:105
-#: assets/classic/partials/property/single/sidebar-agent.php:172
+#: assets/classic/partials/property/single/sidebar-agent.php:185
 #: assets/modern/partials/agency/single/contact-form.php:89
 #: assets/modern/partials/agent/single/contact-form.php:95
-#: assets/modern/partials/author/agent-card.php:174
+#: assets/modern/partials/author/agent-card.php:187
 #: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
-#: assets/modern/partials/property/single/agent-for-sidebar.php:176
-#: assets/modern/partials/property/single/agent.php:206
+#: assets/modern/partials/property/single/agent-for-sidebar.php:192
+#: assets/modern/partials/property/single/agent.php:216
 msgid "Send Message"
 msgstr "Отправить сообщение"
 
@@ -1004,7 +1008,7 @@ msgid "Please subscribe a membership package to start publishing properties."
 msgstr "Чтобы добавить место необходимо выбрать подписку."
 
 #: assets/classic/partials/page/my-properties.php:188
-msgid "Posted on :"
+msgid "Posted on:"
 msgstr "Опубликовано:"
 
 #: assets/classic/partials/page/my-properties.php:229
@@ -1146,12 +1150,12 @@ msgid "Result"
 msgstr "Результат"
 
 #: assets/classic/partials/properties/search/fields/agent.php:10
-#: assets/classic/partials/property/single/agent.php:275
-#: assets/classic/partials/property/single/sidebar-agent.php:272
+#: assets/classic/partials/property/single/agent.php:292
+#: assets/classic/partials/property/single/sidebar-agent.php:286
 #: assets/modern/partials/agent/single/agent.php:35
 #: assets/modern/partials/properties/search/fields/agent.php:15
-#: assets/modern/partials/property/single/agent-for-sidebar.php:279
-#: assets/modern/partials/property/single/agent.php:314
+#: assets/modern/partials/property/single/agent-for-sidebar.php:296
+#: assets/modern/partials/property/single/agent.php:325
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
 #: framework/customizer/sections/search/search-form-basics.php:68
@@ -1425,7 +1429,7 @@ msgstr "Что отображать в информационном окне а�
 #: framework/customizer/news.php:42 framework/customizer/news.php:135
 #: framework/customizer/sections/home/slider-area.php:57
 #: framework/customizer/sections/property/basics.php:47
-#: framework/customizer/sections/search/properties-search-page.php:102
+#: framework/customizer/sections/search/properties-search-page.php:87
 #: framework/functions/property-submit-handler.php:251
 #: framework/functions/property-submit-handler.php:253
 #: framework/functions/property-submit-handler.php:296
@@ -1694,8 +1698,8 @@ msgstr "Нравится"
 msgid "Contact"
 msgstr "Контакты"
 
-#: assets/classic/partials/property/single/agent.php:248
-#: assets/modern/partials/property/single/agent.php:287
+#: assets/classic/partials/property/single/agent.php:265
+#: assets/modern/partials/property/single/agent.php:298
 msgid "Submitted by"
 msgstr "Представленный"
 
@@ -1820,7 +1824,7 @@ msgstr "Наш агент"
 
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:147
+#: assets/modern/partials/author/agent-card.php:151
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent.php:128
@@ -1829,7 +1833,7 @@ msgstr "Ваше имя"
 
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:153
+#: assets/modern/partials/author/agent-card.php:157
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/page/contact.php:104
 #: assets/modern/partials/property/single/agent.php:134
@@ -1838,7 +1842,7 @@ msgstr "Ваш Email"
 
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:159
+#: assets/modern/partials/author/agent-card.php:163
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/page/contact.php:109
 #: assets/modern/partials/property/single/agent.php:140
@@ -1847,7 +1851,7 @@ msgstr "Ваш телефон"
 
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:165
+#: assets/modern/partials/author/agent-card.php:169
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent.php:145
@@ -1985,17 +1989,13 @@ msgstr " из "
 #: assets/modern/partials/member/properties.php:41
 #: assets/modern/partials/page/favorites.php:58
 #: assets/modern/partials/page/favorites.php:62
-#, fuzzy
-#| msgid "Properties"
 msgid " Properties"
-msgstr "Свойства"
+msgstr " Свойства"
 
 #: assets/modern/partials/member/properties.php:39
 #: assets/modern/partials/page/favorites.php:60
-#, fuzzy
-#| msgid "Property"
 msgid " Property"
-msgstr "Недвижимость"
+msgstr " Недвижимость"
 
 #: assets/modern/partials/member/properties.php:132
 #: assets/modern/partials/member/properties.php:137
@@ -2259,7 +2259,7 @@ msgstr "Страница"
 #: framework/customizer/members.php:73 framework/customizer/news.php:36
 #: framework/customizer/news.php:129
 #: framework/customizer/sections/property/basics.php:41
-#: framework/customizer/sections/search/properties-search-page.php:96
+#: framework/customizer/sections/search/properties-search-page.php:81
 msgid "Header Variation"
 msgstr "Изменение заголовка"
 
@@ -2274,7 +2274,7 @@ msgstr "Изменение заголовка для отображения на
 #: framework/customizer/news.php:134
 #: framework/customizer/sections/header/banner.php:24
 #: framework/customizer/sections/property/basics.php:46
-#: framework/customizer/sections/search/properties-search-page.php:101
+#: framework/customizer/sections/search/properties-search-page.php:86
 #: framework/customizer/sections/styles/banner.php:23
 msgid "Banner"
 msgstr "Баннер"
@@ -2669,7 +2669,7 @@ msgstr "Добавить флажок «Согласование ВВП» в ф�
 #: framework/customizer/payments.php:115
 #: framework/customizer/sections/header/banner.php:65
 #: framework/customizer/sections/property/agent.php:71
-#: framework/customizer/sections/search/properties-search-page.php:160
+#: framework/customizer/sections/search/properties-search-page.php:183
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
@@ -2687,7 +2687,7 @@ msgstr "Да"
 #: framework/customizer/payments.php:116
 #: framework/customizer/sections/header/banner.php:66
 #: framework/customizer/sections/property/agent.php:72
-#: framework/customizer/sections/search/properties-search-page.php:161
+#: framework/customizer/sections/search/properties-search-page.php:184
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
@@ -3330,12 +3330,12 @@ msgid "Layout"
 msgstr "Макет"
 
 #: framework/customizer/sections/footer/layout.php:42
-#: framework/customizer/sections/search/properties-search-page.php:182
+#: framework/customizer/sections/search/properties-search-page.php:205
 msgid "One Column"
 msgstr "Одна колонка"
 
 #: framework/customizer/sections/footer/layout.php:43
-#: framework/customizer/sections/search/properties-search-page.php:183
+#: framework/customizer/sections/search/properties-search-page.php:206
 msgid "Two Columns"
 msgstr "Две колонки"
 
@@ -3344,7 +3344,7 @@ msgid "Three Columns"
 msgstr "Три колонки"
 
 #: framework/customizer/sections/footer/layout.php:45
-#: framework/customizer/sections/search/properties-search-page.php:184
+#: framework/customizer/sections/search/properties-search-page.php:207
 msgid "Four Columns"
 msgstr "Четыре колонки"
 
@@ -3480,26 +3480,20 @@ msgid "Center"
 msgstr "Центр"
 
 #: framework/customizer/sections/header/responsive-header.php:29
-#, fuzzy
-#| msgid "Responsive Menu"
 msgid "Responsive Header"
-msgstr "Адаптивное меню"
+msgstr "Отзывчивый заголовок"
 
 #: framework/customizer/sections/header/responsive-header.php:41
-#, fuzzy
-#| msgid "Search Results Page Header"
 msgid "Select Responsive Header"
-msgstr "Страница результатов поиска заголовка"
+msgstr "Выберите «Отзывчивый заголовок»"
 
 #: framework/customizer/sections/header/responsive-header.php:44
 msgid "Enabling responsive header on mobile devices."
 msgstr "Включение адаптивного заголовка на мобильных устройствах."
 
 #: framework/customizer/sections/header/responsive-header.php:46
-#, fuzzy
-#| msgid "(no parent)"
 msgid "Transparent"
-msgstr "(нет родителя)"
+msgstr "Прозрачный"
 
 #: framework/customizer/sections/header/responsive-header.php:47
 msgid "Solid"
@@ -3558,16 +3552,12 @@ msgid "User Navigation"
 msgstr "Hавигации пользователя"
 
 #: framework/customizer/sections/header/user-navigation.php:34
-#, fuzzy
-#| msgid "Select Login and Register Page (Optional)"
 msgid "User Login and Register Links Display"
-msgstr "Выберите логин и страницу регистрации (опционально)"
+msgstr "Вход пользователя и регистрация ссылок"
 
 #: framework/customizer/sections/header/user-navigation.php:51
-#, fuzzy
-#| msgid "Display WPML Language Switcher in Top Header"
 msgid "WPML Language Switcher Display"
-msgstr "Дисплей WPML Language Switcher в верхней строке"
+msgstr "WPML Language Switcher Display"
 
 #: framework/customizer/sections/header/user-navigation.php:65
 msgid "Switcher Language Display Options"
@@ -3578,14 +3568,12 @@ msgid "Name and Flag"
 msgstr "Имя и флаг"
 
 #: framework/customizer/sections/header/user-navigation.php:70
-#, fuzzy
-#| msgid "Name Color"
 msgid "Name Only"
-msgstr "Цвет имени"
+msgstr "Только наименование"
 
 #: framework/customizer/sections/header/user-navigation.php:71
 msgid "Flag Only "
-msgstr "Только флаг"
+msgstr "Только флаг "
 
 #: framework/customizer/sections/home/cta-contact.php:26
 msgid "Call to Action — Contact"
@@ -3713,18 +3701,14 @@ msgid "Description Text"
 msgstr "Текст описания"
 
 #: framework/customizer/sections/home/features-section.php:126
-#, fuzzy
-#| msgid "Features "
 msgid "First Feature "
-msgstr "Особенности "
+msgstr "Первая функция "
 
 #: framework/customizer/sections/home/features-section.php:143
 #: framework/customizer/sections/home/features-section.php:236
 #: framework/customizer/sections/home/features-section.php:329
-#, fuzzy
-#| msgid "Icon Image"
 msgid "Image"
-msgstr "Nзображение значка"
+msgstr "Изображение"
 
 #: framework/customizer/sections/home/features-section.php:207
 #: framework/customizer/sections/home/features-section.php:300
@@ -3734,16 +3718,12 @@ msgid "URL"
 msgstr "URL"
 
 #: framework/customizer/sections/home/features-section.php:218
-#, fuzzy
-#| msgid "Features "
 msgid "Second Feature "
-msgstr "Особенности "
+msgstr "Вторая особенность "
 
 #: framework/customizer/sections/home/features-section.php:312
-#, fuzzy
-#| msgid "Features "
 msgid "Third Feature "
-msgstr "Особенности "
+msgstr "Третья особенность "
 
 #: framework/customizer/sections/home/features-section.php:428
 #: framework/customizer/sections/home/features-section.php:456
@@ -4183,7 +4163,7 @@ msgid "Basics"
 msgstr "Основы"
 
 #: framework/customizer/sections/property/basics.php:42
-#: framework/customizer/sections/search/properties-search-page.php:97
+#: framework/customizer/sections/search/properties-search-page.php:82
 msgid "Header variation to display on Property Detail Page."
 msgstr "Изменение заголовка для отображения на странице свойств объекта."
 
@@ -4436,40 +4416,43 @@ msgstr ""
 "То, что вы хотите отобразить в области ниже заголовка на свойства страницы "
 "результатов поиска?"
 
-#: framework/customizer/sections/search/properties-search-page.php:77
-#, fuzzy
-#| msgid "Search Results"
+#: framework/customizer/sections/search/properties-search-page.php:98
 msgid "Search Results Layout"
-msgstr "Результаты поиска"
+msgstr "Макет результатов поиска"
 
-#: framework/customizer/sections/search/properties-search-page.php:78
-#, fuzzy
-#| msgid "Search Results Page Header"
+#: framework/customizer/sections/search/properties-search-page.php:99
 msgid "Search results page layout."
-msgstr "Страница результатов поиска заголовка"
+msgstr "Макет страницы результатов поиска."
 
-#: framework/customizer/sections/search/properties-search-page.php:82
+#: framework/customizer/sections/search/properties-search-page.php:103
 msgid "With Map"
 msgstr "С картой"
 
-#: framework/customizer/sections/search/properties-search-page.php:83
+#: framework/customizer/sections/search/properties-search-page.php:104
 msgid "Without Map"
 msgstr "Без карты"
 
-#: framework/customizer/sections/search/properties-search-page.php:117
-msgid "Properties Per Page"
-msgstr "Свойства на страницу"
+#: framework/customizer/sections/search/properties-search-page.php:119
+msgid "Number of properties to display on a page?"
+msgstr "Количество свойств для отображения на странице?"
 
-#: framework/customizer/sections/search/properties-search-page.php:118
-msgid "Number of properties to display on search results page"
-msgstr "Количество объектов для отображения на странице результатов поиска"
+#: framework/customizer/sections/search/properties-search-page.php:158
+msgid "Number of properties to mark on map?"
+msgstr "Количество свойств для маркировки на карте?"
 
-#: framework/customizer/sections/search/properties-search-page.php:155
-msgid "Display Featured Properties on Top in Search Results Page?"
-msgstr ""
-"Дисплей Рекомендуемые свойства на вершине в результатах поиска страницы?"
+#: framework/customizer/sections/search/properties-search-page.php:162
+msgid "All found"
+msgstr "Все найдено"
 
-#: framework/customizer/sections/search/properties-search-page.php:156
+#: framework/customizer/sections/search/properties-search-page.php:163
+msgid "As on one page"
+msgstr "Как на одной странице"
+
+#: framework/customizer/sections/search/properties-search-page.php:178
+msgid "Display featured properties on top in search results?"
+msgstr "Показать свойства в верхней части результатов поиска?"
+
+#: framework/customizer/sections/search/properties-search-page.php:179
 msgid ""
 "This setting will be applied on sorting based on Sort by Date (Old to New "
 "and New to Old) only."
@@ -4477,11 +4460,11 @@ msgstr ""
 "Эта установка будет применяться на сортировке на основе Сортировка по дате "
 "(от старых к новым и от новых к старым) только."
 
-#: framework/customizer/sections/search/properties-search-page.php:177
+#: framework/customizer/sections/search/properties-search-page.php:200
 msgid "Search Page Variation"
 msgstr "Изменение страницы поиска"
 
-#: framework/customizer/sections/search/properties-search-page.php:178
+#: framework/customizer/sections/search/properties-search-page.php:201
 msgid "Search page variation to display properties."
 msgstr "Выбор страницы для отображения свойств."
 
@@ -4519,7 +4502,7 @@ msgid "Search Form Basics"
 msgstr "Основы Форма поиска"
 
 #: framework/customizer/sections/search/search-form-basics.php:37
-#: widgets/advance-search-widget.php:55
+#: widgets/advance-search-widget.php:24 widgets/advance-search-widget.php:54
 msgid "Find Your Home"
 msgstr "Найди свой дом"
 
@@ -4970,11 +4953,11 @@ msgstr ""
 "собственные пользовательские цвета%2$s выбран в%1$s Customizer&gt; Стили&gt; "
 "Default или Custom%2$s. "
 
-#: framework/customizer/sections/styles/core-styles.php:71
+#: framework/customizer/sections/styles/core-styles.php:72
 msgid "Orange Light"
 msgstr "Оранжевый свет"
 
-#: framework/customizer/sections/styles/core-styles.php:72
+#: framework/customizer/sections/styles/core-styles.php:73
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -4997,11 +4980,11 @@ msgstr ""
 "Опубликовать теги%1$s • Создать ответную кнопку%1$s • Фильтр галереи%1$s • "
 "Форма контакта Кнопка%1$s Цвет по умолчанию # ec894d "
 
-#: framework/customizer/sections/styles/core-styles.php:99
+#: framework/customizer/sections/styles/core-styles.php:101
 msgid "Orange Dark"
 msgstr "Оранжевый цвет"
 
-#: framework/customizer/sections/styles/core-styles.php:100
+#: framework/customizer/sections/styles/core-styles.php:102
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5014,11 +4997,11 @@ msgstr ""
 "колонтитула Ссылки Hover%1$s • Виджеты боковой панели Ссылки Hover%1$s Цвет "
 "по умолчанию - # dc7d44 "
 
-#: framework/customizer/sections/styles/core-styles.php:119
+#: framework/customizer/sections/styles/core-styles.php:122
 msgid "Orange Glow"
 msgstr "Оранжевый свет"
 
-#: framework/customizer/sections/styles/core-styles.php:120
+#: framework/customizer/sections/styles/core-styles.php:123
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5036,11 +5019,11 @@ msgstr ""
 "Сообщение Читать дальше Кнопка Hover%1$s • Добавить теги Hover%1$s • Создать "
 "ответную кнопку Hover%1$s • Pagination%1$s Цвет по умолчанию - # e3712c "
 
-#: framework/customizer/sections/styles/core-styles.php:143
+#: framework/customizer/sections/styles/core-styles.php:147
 msgid "Orange Burnt"
 msgstr "Оранжевый Утомленный"
 
-#: framework/customizer/sections/styles/core-styles.php:144
+#: framework/customizer/sections/styles/core-styles.php:148
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5064,11 +5047,11 @@ msgstr ""
 "заголовка свойств свойств виджета%1$s • Контактная страница Email Hover%1$s "
 "• Поиск объектов в форме поиска Виджет%1$s Цвет по умолчанию: # df5400 "
 
-#: framework/customizer/sections/styles/core-styles.php:169
+#: framework/customizer/sections/styles/core-styles.php:174
 msgid "Blue light"
 msgstr "Синий свет"
 
-#: framework/customizer/sections/styles/core-styles.php:170
+#: framework/customizer/sections/styles/core-styles.php:175
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5089,11 +5072,11 @@ msgstr ""
 "• Значок оповещения в формате PostScript%1$s • Навигация ползунка%1$s • "
 "Наложение свойства галереи%1$s Цвет по умолчанию - # 4dc7ec "
 
-#: framework/customizer/sections/styles/core-styles.php:196
+#: framework/customizer/sections/styles/core-styles.php:202
 msgid "Blue Dark"
 msgstr "Тёмно-голубой"
 
-#: framework/customizer/sections/styles/core-styles.php:197
+#: framework/customizer/sections/styles/core-styles.php:203
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5110,11 +5093,11 @@ msgstr ""
 "Баннер Описание Background%1$s • Banner Breadcrumbs Background%1$s Цвет по "
 "умолчанию - # 37b3d9 "
 
-#: framework/customizer/sections/styles/core-styles.php:221
+#: framework/customizer/sections/styles/core-styles.php:228
 msgid "Orange"
 msgstr "Оранжевый"
 
-#: framework/customizer/sections/styles/core-styles.php:222
+#: framework/customizer/sections/styles/core-styles.php:229
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5137,11 +5120,11 @@ msgstr ""
 "Домашние агенты Arrow%1$s • Ссылки виджета боковой панели%1$s • Агент "
 "Просмотр моих объектов Ссылка%1$s Цвет по умолчанию # ea723d "
 
-#: framework/customizer/sections/styles/core-styles.php:248
+#: framework/customizer/sections/styles/core-styles.php:256
 msgid "Green"
 msgstr "Зеленый"
 
-#: framework/customizer/sections/styles/core-styles.php:249
+#: framework/customizer/sections/styles/core-styles.php:257
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5182,11 +5165,11 @@ msgstr ""
 "Кнопка контакта с формой страницы%1$s • Пагинация%1$s Цвет по умолчанию - # "
 "1ea69a "
 
-#: framework/customizer/sections/styles/core-styles.php:287
+#: framework/customizer/sections/styles/core-styles.php:296
 msgid "Green Dark"
 msgstr "Темно-зеленый"
 
-#: framework/customizer/sections/styles/core-styles.php:288
+#: framework/customizer/sections/styles/core-styles.php:297
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -5364,22 +5347,16 @@ msgid "Header Phone Icon Background Color"
 msgstr "Заголовок телефона Цвет фона значка"
 
 #: framework/customizer/sections/styles/header-styles.php:367
-#, fuzzy
-#| msgid "Banner Title Background Color"
 msgid "Language Switch Background Color"
-msgstr "Баннер Название Цвет фона"
+msgstr "Цвет фона переключателя языка"
 
 #: framework/customizer/sections/styles/header-styles.php:383
-#, fuzzy
-#| msgid "Display WPML Language Switcher in Top Header"
 msgid "Language Switch Link Color"
-msgstr "Дисплей WPML Language Switcher в верхней строке"
+msgstr "Цвет переключателя языка"
 
 #: framework/customizer/sections/styles/header-styles.php:399
-#, fuzzy
-#| msgid "Header Links Hover Color"
 msgid "Language Switch Link Hover Color"
-msgstr "Заголовок ссылки Hover Цвет"
+msgstr "Язык Переключатель"
 
 #: framework/customizer/sections/styles/home-page.php:27
 msgid "Home Properties "
@@ -7064,16 +7041,12 @@ msgid "Gallery with thumbnails on bottom"
 msgstr "Галерея с эскизами на дно"
 
 #: framework/meta-box/config-meta-boxes.php:104
-#, fuzzy
-#| msgid "Default Order"
 msgid "Default Gallery"
-msgstr "По умолчанию"
+msgstr "Галерея по умолчанию"
 
 #: framework/meta-box/config-meta-boxes.php:105
-#, fuzzy
-#| msgid "Gallery with thumbnails on right"
 msgid "Gallery with thumbnails"
-msgstr "Галерея с эскизами на правом"
+msgstr "Галерея с эскизами"
 
 #: framework/meta-box/config-meta-boxes.php:115
 msgid "Basic Information"
@@ -7849,7 +7822,7 @@ msgstr "Этот виджет отображает форму расширенн
 msgid "RealHomes - Advance Search Widget"
 msgstr "RealHomes - Виджет расширенного поиска"
 
-#: widgets/advance-search-widget.php:45
+#: widgets/advance-search-widget.php:44
 msgid ""
 "Advance search page is not configured yet. Please read this theme "
 "documentation for the Advance Search page & form configuration details."
@@ -7858,7 +7831,7 @@ msgstr ""
 "этой документацией по теме для деталей конфигурации страницы и формы "
 "предварительного поиска."
 
-#: widgets/advance-search-widget.php:61
+#: widgets/advance-search-widget.php:60
 #: widgets/agent-featured-properties-widget.php:324
 #: widgets/agent-properties-widget.php:338
 #: widgets/featured-properties-widget.php:326
@@ -7954,6 +7927,9 @@ msgstr "+ 123-456-789"
 #: widgets/rh-contact-information-widget.php:95
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
+
+#~ msgid "Properties Per Page"
+#~ msgstr "Свойства на страницу"
 
 #~ msgid "Only works if WPML is installed."
 #~ msgstr "Работает только если установлен WPML."
