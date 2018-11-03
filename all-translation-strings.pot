@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2018-10-02 14:52+0500\n"
+"POT-Creation-Date: 2018-10-12 18:00+0500\n"
 "PO-Revision-Date: 2016-09-17 12:30+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
@@ -76,7 +76,7 @@ msgstr ""
 #: assets/modern/partials/agency/single/card.php:99
 #: assets/modern/partials/agent/card.php:110
 #: assets/modern/partials/agent/single/card.php:100
-#: assets/modern/partials/author/agent-card.php:103
+#: assets/modern/partials/author/agent-card.php:105
 #: assets/modern/partials/page/users-list.php:210
 #: assets/modern/partials/property/single/agent-for-sidebar.php:57
 #: assets/modern/partials/property/single/agent.php:73
@@ -97,7 +97,7 @@ msgstr ""
 #: assets/modern/partials/agency/single/card.php:107
 #: assets/modern/partials/agent/card.php:113
 #: assets/modern/partials/agent/single/card.php:108
-#: assets/modern/partials/author/agent-card.php:110
+#: assets/modern/partials/author/agent-card.php:112
 #: assets/modern/partials/page/contact.php:201
 #: assets/modern/partials/page/users-list.php:218
 #: assets/modern/partials/property/single/agent-for-sidebar.php:64
@@ -120,7 +120,7 @@ msgstr ""
 #: assets/modern/partials/agency/single/card.php:115
 #: assets/modern/partials/agent/card.php:116
 #: assets/modern/partials/agent/single/card.php:116
-#: assets/modern/partials/author/agent-card.php:117
+#: assets/modern/partials/author/agent-card.php:119
 #: assets/modern/partials/page/contact.php:211
 #: assets/modern/partials/page/users-list.php:226
 #: assets/modern/partials/property/single/agent-for-sidebar.php:71
@@ -159,18 +159,18 @@ msgid "More Details"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:16
-#: assets/classic/partials/agent/single/contact-form.php:24
+#: assets/classic/partials/agent/single/contact-form.php:26
 msgid "Send a Message"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:29
+#: assets/classic/partials/agent/single/contact-form.php:31
 #: assets/classic/partials/page/contact.php:177
 #: assets/classic/partials/property/single/agent.php:116
 #: assets/classic/partials/property/single/sidebar-agent.php:108
 #: assets/modern/partials/agency/single/contact-form.php:20
 #: assets/modern/partials/agent/single/contact-form.php:27
-#: assets/modern/partials/author/agent-card.php:150
+#: assets/modern/partials/author/agent-card.php:152
 #: assets/modern/partials/author/author-contact-form.php:27
 #: assets/modern/partials/page/contact.php:98
 #: assets/modern/partials/property/single/agent-for-sidebar.php:110
@@ -182,13 +182,13 @@ msgid "Name"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:21
-#: assets/classic/partials/agent/single/contact-form.php:29
+#: assets/classic/partials/agent/single/contact-form.php:31
 #: assets/classic/partials/page/contact.php:178
 #: assets/classic/partials/property/single/agent.php:117
 #: assets/classic/partials/property/single/sidebar-agent.php:109
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:151
+#: assets/modern/partials/author/agent-card.php:153
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent-for-sidebar.php:111
@@ -197,7 +197,7 @@ msgid "* Please provide your name"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:33
+#: assets/classic/partials/agent/single/contact-form.php:35
 #: assets/classic/partials/footer/modal-login.php:133
 #: assets/classic/partials/page/contact.php:122
 #: assets/classic/partials/page/contact.php:182
@@ -212,8 +212,8 @@ msgstr ""
 #: assets/modern/partials/agent/card.php:122
 #: assets/modern/partials/agent/single/card.php:132
 #: assets/modern/partials/agent/single/contact-form.php:33
-#: assets/modern/partials/author/agent-card.php:122
-#: assets/modern/partials/author/agent-card.php:156
+#: assets/modern/partials/author/agent-card.php:124
+#: assets/modern/partials/author/agent-card.php:158
 #: assets/modern/partials/author/author-contact-form.php:33
 #: assets/modern/partials/header/modal.php:108
 #: assets/modern/partials/page/contact.php:103
@@ -233,12 +233,12 @@ msgid "Email"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:25
-#: assets/classic/partials/agent/single/contact-form.php:33
+#: assets/classic/partials/agent/single/contact-form.php:35
 #: assets/classic/partials/property/single/agent.php:120
 #: assets/classic/partials/property/single/sidebar-agent.php:112
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:157
+#: assets/modern/partials/author/agent-card.php:159
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/property/single/agent-for-sidebar.php:116
 #: assets/modern/partials/property/single/agent.php:134
@@ -246,13 +246,13 @@ msgid "* Please provide valid email address"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:39
+#: assets/classic/partials/agent/single/contact-form.php:41
 #: assets/classic/partials/page/contact.php:83
 #: assets/classic/partials/property/single/agent.php:121
 #: assets/classic/partials/property/single/sidebar-agent.php:113
 #: assets/modern/partials/agency/single/contact-form.php:32
 #: assets/modern/partials/agent/single/contact-form.php:39
-#: assets/modern/partials/author/agent-card.php:162
+#: assets/modern/partials/author/agent-card.php:164
 #: assets/modern/partials/author/author-contact-form.php:39
 #: assets/modern/partials/page/contact.php:108
 #: assets/modern/partials/page/contact.php:191
@@ -264,12 +264,12 @@ msgid "Phone"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:31
-#: assets/classic/partials/agent/single/contact-form.php:39
+#: assets/classic/partials/agent/single/contact-form.php:41
 #: assets/classic/partials/property/single/agent.php:123
 #: assets/classic/partials/property/single/sidebar-agent.php:115
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:163
+#: assets/modern/partials/author/agent-card.php:165
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/property/single/agent-for-sidebar.php:121
 #: assets/modern/partials/property/single/agent.php:140
@@ -277,13 +277,13 @@ msgid "* Please provide valid phone number"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:45
+#: assets/classic/partials/agent/single/contact-form.php:47
 #: assets/classic/partials/page/contact.php:192
 #: assets/classic/partials/property/single/agent.php:124
 #: assets/classic/partials/property/single/sidebar-agent.php:116
 #: assets/modern/partials/agency/single/contact-form.php:38
 #: assets/modern/partials/agent/single/contact-form.php:45
-#: assets/modern/partials/author/agent-card.php:168
+#: assets/modern/partials/author/agent-card.php:170
 #: assets/modern/partials/author/author-contact-form.php:45
 #: assets/modern/partials/page/contact.php:113
 #: assets/modern/partials/property/single/agent-for-sidebar.php:125
@@ -292,13 +292,13 @@ msgid "Message"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:37
-#: assets/classic/partials/agent/single/contact-form.php:45
+#: assets/classic/partials/agent/single/contact-form.php:47
 #: assets/classic/partials/page/contact.php:193
 #: assets/classic/partials/property/single/agent.php:125
 #: assets/classic/partials/property/single/sidebar-agent.php:117
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:169
+#: assets/modern/partials/author/agent-card.php:171
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent-for-sidebar.php:126
@@ -307,14 +307,14 @@ msgid "* Please provide your message"
 msgstr ""
 
 #: assets/classic/partials/agency/single/contact-form.php:86
-#: assets/classic/partials/agent/single/contact-form.php:93
+#: assets/classic/partials/agent/single/contact-form.php:96
 #: assets/classic/partials/page/contact.php:236
 #: assets/classic/partials/property/single/agent.php:188
 #: assets/classic/partials/property/single/sidebar-agent.php:105
 #: assets/classic/partials/property/single/sidebar-agent.php:185
 #: assets/modern/partials/agency/single/contact-form.php:89
 #: assets/modern/partials/agent/single/contact-form.php:95
-#: assets/modern/partials/author/agent-card.php:187
+#: assets/modern/partials/author/agent-card.php:189
 #: assets/modern/partials/author/author-contact-form.php:55
 #: assets/modern/partials/page/contact.php:158
 #: assets/modern/partials/property/single/agent-for-sidebar.php:192
@@ -540,18 +540,22 @@ msgstr ""
 msgid "* Provide valid email address!"
 msgstr ""
 
+#: assets/classic/partials/header/phone-number.php:11
+msgid "Make a Call"
+msgstr ""
+
 #: assets/classic/partials/header/user-nav.php:17
 #: assets/modern/partials/header/modal.php:278
 #: assets/modern/partials/member/properties.php:99
 #: assets/modern/partials/page/edit-profile.php:76
 #: assets/modern/partials/page/favorites.php:122
-#: assets/modern/partials/page/submit-property.php:393
+#: assets/modern/partials/page/submit-property.php:397
 #: framework/customizer/favorites.php:35
 msgid "Favorites"
 msgstr ""
 
 #: assets/classic/partials/header/user-nav.php:29
-#: assets/modern/partials/header.php:101
+#: assets/modern/partials/header.php:98
 msgid "Submit"
 msgstr ""
 
@@ -560,7 +564,7 @@ msgstr ""
 #: assets/modern/partials/member/properties.php:89
 #: assets/modern/partials/page/edit-profile.php:66
 #: assets/modern/partials/page/favorites.php:112
-#: assets/modern/partials/page/submit-property.php:383
+#: assets/modern/partials/page/submit-property.php:387
 #: framework/customizer/members.php:432
 msgid "My Properties"
 msgstr ""
@@ -573,7 +577,7 @@ msgstr ""
 #: assets/modern/partials/member/properties.php:79
 #: assets/modern/partials/page/edit-profile.php:56
 #: assets/modern/partials/page/favorites.php:102
-#: assets/modern/partials/page/submit-property.php:373
+#: assets/modern/partials/page/submit-property.php:377
 msgid "Profile"
 msgstr ""
 
@@ -586,8 +590,8 @@ msgstr ""
 msgid "Login / Register"
 msgstr ""
 
-#: assets/classic/partials/header/variation-center.php:119
-#: assets/classic/partials/header/variation-simple.php:100
+#: assets/classic/partials/header/variation-center.php:112
+#: assets/classic/partials/header/variation-simple.php:93
 msgid "Menu"
 msgstr ""
 
@@ -637,9 +641,9 @@ msgstr ""
 #: framework/customizer/members.php:225
 #: framework/meta-box/config-meta-boxes.php:207
 #: framework/meta-box/config-meta-boxes.php:370
-#: widgets/agent-featured-properties-widget.php:225
-#: widgets/agent-properties-widget.php:230
-#: widgets/featured-properties-widget.php:225
+#: widgets/agent-featured-properties-widget.php:228
+#: widgets/agent-properties-widget.php:233
+#: widgets/featured-properties-widget.php:228
 msgid "Bedrooms"
 msgstr ""
 
@@ -672,9 +676,9 @@ msgstr ""
 #: framework/customizer/members.php:226
 #: framework/meta-box/config-meta-boxes.php:216
 #: framework/meta-box/config-meta-boxes.php:377
-#: widgets/agent-featured-properties-widget.php:237
-#: widgets/agent-properties-widget.php:242
-#: widgets/featured-properties-widget.php:237
+#: widgets/agent-featured-properties-widget.php:240
+#: widgets/agent-properties-widget.php:245
+#: widgets/featured-properties-widget.php:240
 msgid "Bathrooms"
 msgstr ""
 
@@ -700,7 +704,7 @@ msgstr ""
 msgid "Loading..."
 msgstr ""
 
-#: assets/classic/partials/home/slider/search-form-over-image.php:252
+#: assets/classic/partials/home/slider/search-form-over-image.php:90
 msgid "Advanced Search"
 msgstr ""
 
@@ -865,7 +869,7 @@ msgstr ""
 
 #: assets/classic/partials/page/edit-profile.php:236
 #: assets/classic/partials/page/my-properties.php:307
-#: assets/classic/partials/page/submit-property.php:443
+#: assets/classic/partials/page/submit-property.php:447
 #: assets/modern/partials/member/properties.php:132
 #: assets/modern/partials/member/properties.php:134
 #: assets/modern/partials/member/properties.php:137
@@ -875,9 +879,9 @@ msgstr ""
 #: assets/modern/partials/page/membership.php:59
 #: assets/modern/partials/page/membership.php:61
 #: assets/modern/partials/page/membership.php:64
-#: assets/modern/partials/page/submit-property.php:424
-#: assets/modern/partials/page/submit-property.php:426
-#: assets/modern/partials/page/submit-property.php:429
+#: assets/modern/partials/page/submit-property.php:428
+#: assets/modern/partials/page/submit-property.php:430
+#: assets/modern/partials/page/submit-property.php:433
 msgid "Login Required:"
 msgstr ""
 
@@ -944,14 +948,14 @@ msgstr ""
 #: assets/classic/partials/page/my-properties.php:25
 #: assets/classic/partials/page/my-properties.php:27
 #: assets/classic/partials/page/my-properties.php:29
-#: assets/classic/partials/page/submit-property.php:373
 #: assets/classic/partials/page/submit-property.php:377
+#: assets/classic/partials/page/submit-property.php:381
 #: assets/modern/partials/member/properties.php:142
 #: assets/modern/partials/member/properties.php:144
 #: assets/modern/partials/member/properties.php:146
 #: assets/modern/partials/member/properties.php:148
-#: assets/modern/partials/page/submit-property.php:441
 #: assets/modern/partials/page/submit-property.php:445
+#: assets/modern/partials/page/submit-property.php:449
 msgid "Success:"
 msgstr ""
 
@@ -976,9 +980,9 @@ msgid "Payment Submitted."
 msgstr ""
 
 #: assets/classic/partials/page/my-properties.php:31
-#: assets/classic/partials/page/submit-property.php:367
+#: assets/classic/partials/page/submit-property.php:371
 #: assets/modern/partials/member/properties.php:150
-#: assets/modern/partials/page/submit-property.php:435
+#: assets/modern/partials/page/submit-property.php:439
 msgid "Error:"
 msgstr ""
 
@@ -1026,20 +1030,20 @@ msgstr ""
 msgid "Please, Login to view your properties!"
 msgstr ""
 
-#: assets/classic/partials/page/submit-property.php:367
-#: assets/modern/partials/page/submit-property.php:435
+#: assets/classic/partials/page/submit-property.php:371
+#: assets/modern/partials/page/submit-property.php:439
 #: framework/functions/edit-profile-handler.php:257
 msgid "Security check failed!"
 msgstr ""
 
-#: assets/classic/partials/page/submit-property.php:377
-#: assets/modern/partials/page/submit-property.php:445
+#: assets/classic/partials/page/submit-property.php:381
+#: assets/modern/partials/page/submit-property.php:449
 msgid "Property updated successfully!"
 msgstr ""
 
-#: assets/classic/partials/page/submit-property.php:443
-#: assets/modern/partials/page/submit-property.php:424
-#: assets/modern/partials/page/submit-property.php:429
+#: assets/classic/partials/page/submit-property.php:447
+#: assets/modern/partials/page/submit-property.php:428
+#: assets/modern/partials/page/submit-property.php:433
 msgid "Please login to submit property!"
 msgstr ""
 
@@ -1073,9 +1077,9 @@ msgstr ""
 #: assets/modern/partials/property/single/meta.php:115
 #: assets/modern/partials/property/single/similar-property-card.php:107
 #: framework/customizer/members.php:231
-#: widgets/agent-featured-properties-widget.php:249
-#: widgets/agent-properties-widget.php:254
-#: widgets/featured-properties-widget.php:249
+#: widgets/agent-featured-properties-widget.php:252
+#: widgets/agent-properties-widget.php:257
+#: widgets/featured-properties-widget.php:252
 msgid "Area"
 msgstr ""
 
@@ -1115,7 +1119,7 @@ msgstr ""
 
 #: assets/classic/partials/properties/gallery.php:37
 #: assets/modern/partials/properties/gallery.php:29
-#: framework/include/shortcodes/vc-map.php:96
+#: framework/include/shortcodes/vc-map.php:97
 msgid "All"
 msgstr ""
 
@@ -1153,45 +1157,37 @@ msgstr ""
 #: assets/modern/partials/property/single/agent.php:325
 #: framework/customizer/members.php:239
 #: framework/customizer/sections/property/agent.php:24
-#: framework/customizer/sections/search/search-form-basics.php:68
-#: framework/customizer/sections/search/search-form-basics.php:83
-#: framework/customizer/sections/search/search-form-basics.php:283
+#: framework/customizer/sections/search/search-form-basics.php:69
+#: framework/customizer/sections/search/search-form-basics.php:317
 #: framework/include/agent-post-type.php:21
 #: framework/include/agent-post-type.php:93
-#: framework/include/shortcodes/vc-map.php:136
+#: framework/include/shortcodes/vc-map.php:137
 #: framework/meta-box/config-meta-boxes.php:455
 msgid "Agent"
 msgstr ""
 
 #: assets/classic/partials/properties/search/fields/button.php:8
 #: assets/modern/partials/properties/search/fields/button.php:42
-#: framework/customizer/sections/search/search-form-basics.php:300
+#: framework/customizer/sections/search/search-form-basics.php:334
 msgid "Search"
 msgstr ""
 
-#: assets/classic/partials/properties/search/fields/features.php:28
-#: framework/customizer/sections/search/search-form-basics.php:345
-msgid "Looking for certain features"
-msgstr ""
-
-#: assets/classic/partials/properties/search/fields/keyword.php:11
-#: assets/modern/partials/properties/search/fields/keyword.php:16
-#: framework/customizer/sections/search/search-form-basics.php:157
+#: assets/classic/partials/properties/search/fields/keyword-search.php:11
+#: assets/modern/partials/properties/search/fields/keyword-search.php:16
+#: framework/customizer/sections/search/search-form-basics.php:191
 msgid "Keyword"
 msgstr ""
 
 #: assets/classic/partials/properties/search/fields/min-baths.php:10
 #: assets/modern/partials/properties/search/fields/min-baths.php:17
-#: framework/customizer/sections/search/search-form-basics.php:70
-#: framework/customizer/sections/search/search-form-basics.php:85
+#: framework/customizer/sections/search/search-form-basics.php:71
 #: framework/customizer/sections/search/search-form-bed.php:58
 msgid "Min Baths"
 msgstr ""
 
 #: assets/classic/partials/properties/search/fields/min-beds.php:10
 #: assets/modern/partials/properties/search/fields/min-beds.php:17
-#: framework/customizer/sections/search/search-form-basics.php:69
-#: framework/customizer/sections/search/search-form-basics.php:84
+#: framework/customizer/sections/search/search-form-basics.php:70
 #: framework/customizer/sections/search/search-form-bed.php:32
 msgid "Min Beds"
 msgstr ""
@@ -1199,7 +1195,6 @@ msgstr ""
 #: assets/classic/partials/properties/search/fields/min-garages.php:17
 #: assets/modern/partials/properties/search/fields/min-garages.php:17
 #: framework/customizer/sections/search/search-form-basics.php:74
-#: framework/customizer/sections/search/search-form-basics.php:88
 #: framework/customizer/sections/search/search-form-garages.php:32
 msgid "Min Garages"
 msgstr ""
@@ -1241,6 +1236,12 @@ msgstr ""
 msgid "Max Price"
 msgstr ""
 
+#: assets/classic/partials/properties/search/fields/property-features.php:28
+#: assets/modern/partials/properties/search/fields/property-features.php:43
+#: framework/customizer/sections/search/search-form-basics.php:379
+msgid "Looking for certain features"
+msgstr ""
+
 #: assets/classic/partials/properties/search/fields/property-id.php:11
 #: assets/classic/partials/property/form-fields/property-id.php:2
 #: assets/classic/partials/property/form-fields/property-id.php:16
@@ -1251,9 +1252,8 @@ msgstr ""
 #: assets/modern/partials/property/form-fields/property-id.php:26
 #: assets/modern/partials/property/single/content.php:19
 #: framework/customizer/members.php:228
-#: framework/customizer/sections/search/search-form-basics.php:64
-#: framework/customizer/sections/search/search-form-basics.php:79
-#: framework/customizer/sections/search/search-form-basics.php:203
+#: framework/customizer/sections/search/search-form-basics.php:65
+#: framework/customizer/sections/search/search-form-basics.php:237
 #: framework/functions/real-estate.php:117
 #: framework/include/property-post-type.php:330
 #: framework/meta-box/config-meta-boxes.php:234
@@ -1271,9 +1271,9 @@ msgstr ""
 #: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:16
 #: framework/customizer/sections/search/search-form-areas.php:55
 #: framework/customizer/sections/search/search-form-areas.php:92
-#: framework/customizer/sections/search/search-form-basics.php:174
-#: framework/customizer/sections/search/search-form-basics.php:220
-#: framework/customizer/sections/search/search-form-basics.php:328
+#: framework/customizer/sections/search/search-form-basics.php:208
+#: framework/customizer/sections/search/search-form-basics.php:254
+#: framework/customizer/sections/search/search-form-basics.php:362
 #: framework/functions/real-estate-search.php:147
 msgid "Any"
 msgstr ""
@@ -1292,9 +1292,8 @@ msgstr ""
 #: assets/modern/partials/properties/search/fields/status.php:17
 #: framework/customizer/sections/property/breadcrumbs.php:55
 #: framework/customizer/sections/property/similar-properties.php:87
-#: framework/customizer/sections/search/search-form-basics.php:66
-#: framework/customizer/sections/search/search-form-basics.php:81
-#: framework/customizer/sections/search/search-form-basics.php:249
+#: framework/customizer/sections/search/search-form-basics.php:67
+#: framework/customizer/sections/search/search-form-basics.php:283
 #: framework/functions/real-estate.php:118
 #: framework/include/property-post-type.php:192
 #: framework/include/property-post-type.php:193
@@ -1306,15 +1305,14 @@ msgstr ""
 #: assets/modern/partials/properties/search/fields/type.php:17
 #: framework/customizer/sections/property/breadcrumbs.php:54
 #: framework/customizer/sections/property/similar-properties.php:85
-#: framework/customizer/sections/search/search-form-basics.php:67
-#: framework/customizer/sections/search/search-form-basics.php:82
-#: framework/customizer/sections/search/search-form-basics.php:266
+#: framework/customizer/sections/search/search-form-basics.php:68
+#: framework/customizer/sections/search/search-form-basics.php:300
 #: framework/include/property-post-type.php:122
 #: framework/include/property-post-type.php:123
 msgid "Property Type"
 msgstr ""
 
-#: assets/classic/partials/properties/search/form.php:113
+#: assets/classic/partials/properties/search/form.php:45
 #: framework/functions/design-variations-handler.php:537
 msgid "More fields"
 msgstr ""
@@ -1414,7 +1412,7 @@ msgstr ""
 #: assets/modern/partials/property/form-fields/property-type.php:21
 #: assets/modern/partials/property/single/content.php:25
 #: framework/customizer/agencies.php:33 framework/customizer/agents.php:33
-#: framework/customizer/contact.php:60 framework/customizer/customizer.php:115
+#: framework/customizer/contact.php:60 framework/customizer/customizer.php:116
 #: framework/customizer/gallery.php:33
 #: framework/customizer/list-and-taxonomy.php:35
 #: framework/customizer/list-and-taxonomy.php:65
@@ -1492,7 +1490,7 @@ msgstr ""
 #: framework/customizer/sections/home/home-features.php:71
 #: framework/customizer/sections/home/sections-manager.php:103
 #: framework/customizer/sections/property/basics.php:270
-#: framework/include/shortcodes/vc-map.php:284
+#: framework/include/shortcodes/vc-map.php:285
 #: framework/meta-box/config-meta-boxes.php:991
 #: framework/meta-box/config-meta-boxes.php:1094
 #: framework/meta-box/config-meta-boxes.php:1117
@@ -1668,12 +1666,12 @@ msgstr ""
 #: assets/modern/partials/properties/shortcode/list-card.php:70
 #: assets/modern/partials/property/single/similar-property-card.php:47
 #: assets/modern/partials/property/single/similar-property-card.php:57
-#: widgets/agent-featured-properties-widget.php:189
-#: widgets/agent-featured-properties-widget.php:199
-#: widgets/agent-properties-widget.php:194
-#: widgets/agent-properties-widget.php:204
-#: widgets/featured-properties-widget.php:189
-#: widgets/featured-properties-widget.php:199
+#: widgets/agent-featured-properties-widget.php:191
+#: widgets/agent-featured-properties-widget.php:201
+#: widgets/agent-properties-widget.php:196
+#: widgets/agent-properties-widget.php:206
+#: widgets/featured-properties-widget.php:191
+#: widgets/featured-properties-widget.php:201
 msgid "Added to favorites"
 msgstr ""
 
@@ -1813,7 +1811,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:21
 #: assets/modern/partials/agent/single/contact-form.php:28
-#: assets/modern/partials/author/agent-card.php:151
+#: assets/modern/partials/author/agent-card.php:153
 #: assets/modern/partials/author/author-contact-form.php:28
 #: assets/modern/partials/page/contact.php:99
 #: assets/modern/partials/property/single/agent.php:128
@@ -1822,7 +1820,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:27
 #: assets/modern/partials/agent/single/contact-form.php:34
-#: assets/modern/partials/author/agent-card.php:157
+#: assets/modern/partials/author/agent-card.php:159
 #: assets/modern/partials/author/author-contact-form.php:34
 #: assets/modern/partials/page/contact.php:104
 #: assets/modern/partials/property/single/agent.php:134
@@ -1831,7 +1829,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:33
 #: assets/modern/partials/agent/single/contact-form.php:40
-#: assets/modern/partials/author/agent-card.php:163
+#: assets/modern/partials/author/agent-card.php:165
 #: assets/modern/partials/author/author-contact-form.php:40
 #: assets/modern/partials/page/contact.php:109
 #: assets/modern/partials/property/single/agent.php:140
@@ -1840,7 +1838,7 @@ msgstr ""
 
 #: assets/modern/partials/agency/single/contact-form.php:39
 #: assets/modern/partials/agent/single/contact-form.php:46
-#: assets/modern/partials/author/agent-card.php:169
+#: assets/modern/partials/author/agent-card.php:171
 #: assets/modern/partials/author/author-contact-form.php:46
 #: assets/modern/partials/page/contact.php:114
 #: assets/modern/partials/property/single/agent.php:145
@@ -1929,9 +1927,9 @@ msgstr ""
 #: assets/modern/partials/properties/half-map-card.php:70
 #: assets/modern/partials/properties/shortcode/grid-card.php:71
 #: assets/modern/partials/property/single/similar-property-card.php:60
-#: widgets/agent-featured-properties-widget.php:202
-#: widgets/agent-properties-widget.php:207
-#: widgets/featured-properties-widget.php:202
+#: widgets/agent-featured-properties-widget.php:204
+#: widgets/agent-properties-widget.php:209
+#: widgets/featured-properties-widget.php:204
 msgid "Add to favorites"
 msgstr ""
 
@@ -1952,7 +1950,7 @@ msgid "Preview"
 msgstr ""
 
 #: assets/modern/partials/member/my-property.php:134
-#: assets/modern/partials/page/submit-property.php:349
+#: assets/modern/partials/page/submit-property.php:353
 msgid "Edit"
 msgstr ""
 
@@ -2115,13 +2113,13 @@ msgstr ""
 msgid "Update Membership"
 msgstr ""
 
-#: assets/modern/partials/page/submit-property.php:350
+#: assets/modern/partials/page/submit-property.php:354
 #: framework/include/property-post-type.php:19
 #: framework/meta-box/config-meta-boxes.php:111
 msgid "Property"
 msgstr ""
 
-#: assets/modern/partials/page/submit-property.php:426
+#: assets/modern/partials/page/submit-property.php:430
 #, php-format
 msgid "Please %1$s login %2$s to submit property!"
 msgstr ""
@@ -2145,7 +2143,7 @@ msgstr ""
 msgid "Sorry No Results Found!"
 msgstr ""
 
-#: assets/modern/partials/properties/search/widget-form.php:112
+#: assets/modern/partials/properties/search/widget-form.php:57
 msgid "Advance Search is already enabled in the header."
 msgstr ""
 
@@ -2287,6 +2285,7 @@ msgstr ""
 
 #: framework/customizer/agents.php:44
 #: framework/customizer/sections/home/home-agents.php:117
+#: widgets/agents-list-widget.php:129
 msgid "Number of Agents"
 msgstr ""
 
@@ -2315,7 +2314,7 @@ msgstr ""
 #: framework/customizer/sections/property/basics.php:356
 #: framework/customizer/sections/property/basics.php:375
 #: framework/customizer/sections/property/basics.php:394
-#: framework/customizer/sections/search/search-form-basics.php:136
+#: framework/customizer/sections/search/search-form-basics.php:169
 msgid "Enable"
 msgstr ""
 
@@ -2326,7 +2325,7 @@ msgstr ""
 #: framework/customizer/sections/property/basics.php:357
 #: framework/customizer/sections/property/basics.php:376
 #: framework/customizer/sections/property/basics.php:395
-#: framework/customizer/sections/search/search-form-basics.php:135
+#: framework/customizer/sections/search/search-form-basics.php:168
 msgid "Disable"
 msgstr ""
 
@@ -2395,6 +2394,7 @@ msgstr ""
 #: framework/customizer/sections/property/similar-properties.php:38
 #: framework/customizer/sections/property/video.php:38
 #: framework/customizer/sections/property/virtual-tour.php:37
+#: framework/customizer/sections/search/search-form-basics.php:112
 #: framework/meta-box/config-meta-boxes.php:899
 msgid "Show"
 msgstr ""
@@ -2434,6 +2434,7 @@ msgstr ""
 #: framework/customizer/sections/property/similar-properties.php:39
 #: framework/customizer/sections/property/video.php:39
 #: framework/customizer/sections/property/virtual-tour.php:38
+#: framework/customizer/sections/search/search-form-basics.php:113
 #: framework/meta-box/config-meta-boxes.php:900
 msgid "Hide"
 msgstr ""
@@ -2626,7 +2627,7 @@ msgstr ""
 #: framework/customizer/sections/search/search-form-locations.php:108
 #: framework/customizer/sections/search/search-form-locations.php:123
 #: framework/customizer/sections/styles/footer.php:119
-#: framework/include/shortcodes/vc-map.php:278
+#: framework/include/shortcodes/vc-map.php:279
 #: framework/meta-box/config-meta-boxes.php:259
 #: framework/meta-box/config-meta-boxes.php:279
 #: framework/meta-box/config-meta-boxes.php:469
@@ -2644,7 +2645,7 @@ msgstr ""
 #: framework/customizer/sections/search/search-form-locations.php:109
 #: framework/customizer/sections/search/search-form-locations.php:124
 #: framework/customizer/sections/styles/footer.php:120
-#: framework/include/shortcodes/vc-map.php:277
+#: framework/include/shortcodes/vc-map.php:278
 #: framework/meta-box/config-meta-boxes.php:260
 #: framework/meta-box/config-meta-boxes.php:280
 #: framework/meta-box/config-meta-boxes.php:567
@@ -2771,10 +2772,10 @@ msgid "Grid Layout"
 msgstr ""
 
 #: framework/customizer/list-and-taxonomy.php:92
-#: framework/include/shortcodes/vc-map.php:93
-#: widgets/agent-featured-properties-widget.php:335
-#: widgets/agent-properties-widget.php:355
-#: widgets/featured-properties-widget.php:330
+#: framework/include/shortcodes/vc-map.php:94
+#: widgets/agent-featured-properties-widget.php:338
+#: widgets/agent-properties-widget.php:358
+#: widgets/featured-properties-widget.php:333
 msgid "Number of Properties"
 msgstr ""
 
@@ -2934,7 +2935,7 @@ msgstr ""
 
 #: framework/customizer/members.php:229
 #: framework/include/property-post-type.php:329
-#: framework/include/shortcodes/vc-map.php:122
+#: framework/include/shortcodes/vc-map.php:123
 msgid "Price"
 msgstr ""
 
@@ -3241,7 +3242,7 @@ msgid "Properties Search"
 msgstr ""
 
 #: framework/customizer/sections/footer/layout.php:24
-#: framework/include/shortcodes/vc-map.php:83
+#: framework/include/shortcodes/vc-map.php:84
 msgid "Layout"
 msgstr ""
 
@@ -3644,7 +3645,8 @@ msgstr ""
 #: framework/customizer/sections/home/sections-manager.php:102
 #: framework/include/admin/class-rh-admin-menu.php:146
 #: framework/include/admin/class-rh-admin-menu.php:147
-#: framework/include/agent-post-type.php:20
+#: framework/include/agent-post-type.php:20 widgets/agents-list-widget.php:32
+#: widgets/agents-list-widget.php:114
 msgid "Agents"
 msgstr ""
 
@@ -3723,7 +3725,7 @@ msgstr ""
 
 #: framework/customizer/sections/home/home-properties.php:108
 #: framework/include/property-post-type.php:18
-#: framework/include/shortcodes/vc-map.php:76
+#: framework/include/shortcodes/vc-map.php:77
 msgid "Properties"
 msgstr ""
 
@@ -3767,9 +3769,9 @@ msgstr ""
 
 #: framework/customizer/sections/home/home-properties.php:235
 #: framework/customizer/sections/property/similar-properties.php:106
-#: widgets/agent-featured-properties-widget.php:331
-#: widgets/agent-properties-widget.php:351
-#: widgets/featured-properties-widget.php:337
+#: widgets/agent-featured-properties-widget.php:334
+#: widgets/agent-properties-widget.php:354
+#: widgets/featured-properties-widget.php:340
 msgid "Random"
 msgstr ""
 
@@ -4227,7 +4229,6 @@ msgid "Show similar properties based on"
 msgstr ""
 
 #: framework/customizer/sections/property/similar-properties.php:84
-#: framework/customizer/sections/search/search-form-basics.php:73
 #: framework/include/property-post-type.php:87
 #: framework/include/property-post-type.php:88
 #: framework/include/property-post-type.php:101
@@ -4235,8 +4236,7 @@ msgid "Property Features"
 msgstr ""
 
 #: framework/customizer/sections/property/similar-properties.php:86
-#: framework/customizer/sections/search/search-form-basics.php:65
-#: framework/customizer/sections/search/search-form-basics.php:80
+#: framework/customizer/sections/search/search-form-basics.php:66
 msgid "Property Location"
 msgstr ""
 
@@ -4387,70 +4387,91 @@ msgstr ""
 msgid "Search Form Title"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:63
-#: framework/customizer/sections/search/search-form-basics.php:78
+#: framework/customizer/sections/search/search-form-basics.php:64
 msgid "Keyword Search"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:71
-#: framework/customizer/sections/search/search-form-basics.php:86
+#: framework/customizer/sections/search/search-form-basics.php:72
 msgid "Min and Max Price"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:72
-#: framework/customizer/sections/search/search-form-basics.php:87
+#: framework/customizer/sections/search/search-form-basics.php:73
 msgid "Min and Max Area"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:104
+#: framework/customizer/sections/search/search-form-basics.php:95
 msgid "Which fields you want to display in search form ?"
 msgstr ""
 
+#: framework/customizer/sections/search/search-form-basics.php:108
+msgid "Property Features Search Field "
+msgstr ""
+
+#: framework/customizer/sections/search/search-form-basics.php:126
+msgid "Number Of Fields To Display In Top Row"
+msgstr ""
+
 #: framework/customizer/sections/search/search-form-basics.php:130
-msgid "Collapse sidebar Advance Search form"
+msgid "One"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:131
-msgid "Collapse more Advance Search form fields in sidebar by default."
+msgid "Two"
+msgstr ""
+
+#: framework/customizer/sections/search/search-form-basics.php:132
+msgid "Three"
+msgstr ""
+
+#: framework/customizer/sections/search/search-form-basics.php:133
+msgid "Four"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:163
+msgid "Collapse sidebar Advance Search form"
+msgstr ""
+
+#: framework/customizer/sections/search/search-form-basics.php:164
+msgid "Collapse more Advance Search form fields in sidebar by default."
+msgstr ""
+
+#: framework/customizer/sections/search/search-form-basics.php:197
 msgid "Label for Keyword Search"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:180
+#: framework/customizer/sections/search/search-form-basics.php:214
 msgid "Placeholder Text for Keyword Search"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:209
+#: framework/customizer/sections/search/search-form-basics.php:243
 msgid "Label for Property ID"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:226
+#: framework/customizer/sections/search/search-form-basics.php:260
 msgid "Placeholder Text for Property ID"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:255
+#: framework/customizer/sections/search/search-form-basics.php:289
 msgid "Label for Property Status"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:272
+#: framework/customizer/sections/search/search-form-basics.php:306
 msgid "Label for Property Type"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:289
+#: framework/customizer/sections/search/search-form-basics.php:323
 msgid "Label for Agent"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:306
+#: framework/customizer/sections/search/search-form-basics.php:340
 msgid "Search Button Text"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:334
+#: framework/customizer/sections/search/search-form-basics.php:368
 msgid "Any Text"
 msgstr ""
 
-#: framework/customizer/sections/search/search-form-basics.php:351
+#: framework/customizer/sections/search/search-form-basics.php:385
 msgid "Title for Features Toggle"
 msgstr ""
 
@@ -6630,95 +6651,95 @@ msgstr ""
 msgid "Result:"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:77
+#: framework/include/shortcodes/vc-map.php:78
 msgid "List of Properties"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:79
+#: framework/include/shortcodes/vc-map.php:80
 msgid "Real Homes Theme"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:118
+#: framework/include/shortcodes/vc-map.php:119
 msgid "Order By"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:121
+#: framework/include/shortcodes/vc-map.php:122
 #: framework/include/slide-post-type.php:71
 msgid "Date"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:127
+#: framework/include/shortcodes/vc-map.php:128
 msgid "Order"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:130
+#: framework/include/shortcodes/vc-map.php:131
 msgid "Descending"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:131
+#: framework/include/shortcodes/vc-map.php:132
 msgid "Ascending"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:143
+#: framework/include/shortcodes/vc-map.php:144
 #: framework/meta-box/config-meta-boxes.php:964
 #: framework/meta-box/config-meta-boxes.php:1070
 msgid "Locations"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:150
+#: framework/include/shortcodes/vc-map.php:151
 #: framework/meta-box/config-meta-boxes.php:973
 #: framework/meta-box/config-meta-boxes.php:1078
 msgid "Statuses"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:157
+#: framework/include/shortcodes/vc-map.php:158
 #: framework/meta-box/config-meta-boxes.php:982
 #: framework/meta-box/config-meta-boxes.php:1086
 msgid "Types"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:164
+#: framework/include/shortcodes/vc-map.php:165
 msgid "Minimum Bedrooms"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:182
+#: framework/include/shortcodes/vc-map.php:183
 msgid "Maximum Bedrooms"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:203
+#: framework/include/shortcodes/vc-map.php:204
 msgid "Minimum Bathrooms"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:221
+#: framework/include/shortcodes/vc-map.php:222
 msgid "Maximum Bathrooms"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:242
+#: framework/include/shortcodes/vc-map.php:243
 #: framework/meta-box/config-meta-boxes.php:1018
 msgid "Minimum Price"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:243
-#: framework/include/shortcodes/vc-map.php:251
-#: framework/include/shortcodes/vc-map.php:259
-#: framework/include/shortcodes/vc-map.php:267
+#: framework/include/shortcodes/vc-map.php:244
+#: framework/include/shortcodes/vc-map.php:252
+#: framework/include/shortcodes/vc-map.php:260
+#: framework/include/shortcodes/vc-map.php:268
 msgid "Only provide digits"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:250
+#: framework/include/shortcodes/vc-map.php:251
 #: framework/meta-box/config-meta-boxes.php:1027
 msgid "Maximum Price"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:258
+#: framework/include/shortcodes/vc-map.php:259
 msgid "Minimum Area"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:266
+#: framework/include/shortcodes/vc-map.php:267
 msgid "Maximum Area"
 msgstr ""
 
-#: framework/include/shortcodes/vc-map.php:274
+#: framework/include/shortcodes/vc-map.php:275
 msgid "Display Only Featured Properties"
 msgstr ""
 
@@ -7545,9 +7566,9 @@ msgid ""
 msgstr ""
 
 #: widgets/advance-search-widget.php:60
-#: widgets/agent-featured-properties-widget.php:324
-#: widgets/agent-properties-widget.php:338
-#: widgets/featured-properties-widget.php:326
+#: widgets/agent-featured-properties-widget.php:327
+#: widgets/agent-properties-widget.php:341 widgets/agents-list-widget.php:123
+#: widgets/featured-properties-widget.php:329
 #: widgets/property-types-widget.php:80
 msgid "Widget Title"
 msgstr ""
@@ -7561,19 +7582,19 @@ msgid "RealHomes - Agent Featured Properties"
 msgstr ""
 
 #: widgets/agent-featured-properties-widget.php:131
-#: widgets/agent-featured-properties-widget.php:297
+#: widgets/agent-featured-properties-widget.php:300
 msgid "No Featured Property Found For This Agent"
 msgstr ""
 
-#: widgets/agent-featured-properties-widget.php:328
-#: widgets/agent-properties-widget.php:348
-#: widgets/featured-properties-widget.php:334
+#: widgets/agent-featured-properties-widget.php:331
+#: widgets/agent-properties-widget.php:351
+#: widgets/featured-properties-widget.php:337
 msgid "Sort By:"
 msgstr ""
 
-#: widgets/agent-featured-properties-widget.php:330
-#: widgets/agent-properties-widget.php:350
-#: widgets/featured-properties-widget.php:336
+#: widgets/agent-featured-properties-widget.php:333
+#: widgets/agent-properties-widget.php:353
+#: widgets/featured-properties-widget.php:339
 msgid "Most Recent"
 msgstr ""
 
@@ -7586,16 +7607,28 @@ msgid "RealHomes - Agent Related Properties"
 msgstr ""
 
 #: widgets/agent-properties-widget.php:137
-#: widgets/agent-properties-widget.php:302
+#: widgets/agent-properties-widget.php:305
 msgid "No Property Found Under Selected Agent!"
 msgstr ""
 
-#: widgets/agent-properties-widget.php:342
+#: widgets/agent-properties-widget.php:345
 msgid "Select an Agent:"
 msgstr ""
 
-#: widgets/agent-properties-widget.php:360
+#: widgets/agent-properties-widget.php:363
 msgid "Show only Featured Properties."
+msgstr ""
+
+#: widgets/agents-list-widget.php:21
+msgid "This widget displays agents list."
+msgstr ""
+
+#: widgets/agents-list-widget.php:24
+msgid "RealHomes - Agents"
+msgstr ""
+
+#: widgets/agents-list-widget.php:99
+msgid "No Agent Found!"
 msgstr ""
 
 #: widgets/featured-properties-widget.php:28
@@ -7607,7 +7640,7 @@ msgid "RealHomes - Featured Properties"
 msgstr ""
 
 #: widgets/featured-properties-widget.php:130
-#: widgets/featured-properties-widget.php:297
+#: widgets/featured-properties-widget.php:300
 msgid "No Featured Property Found!"
 msgstr ""
 
