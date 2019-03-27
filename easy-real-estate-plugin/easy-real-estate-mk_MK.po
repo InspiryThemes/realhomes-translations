@@ -1,0 +1,2617 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n%10==1 && n%100!=11);\n"
+"Project-Id-Version: Easy Real Estate\n"
+"POT-Creation-Date: 2019-02-26 16:18+0500\n"
+"PO-Revision-Date: 2019-03-27 18:18+0500\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-real-estate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: mk_MK\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: easy-real-estate.php:228 easy-real-estate.php:235
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-menu/class-ere-admin-menu.php:38
+#: includes/admin-menu/class-ere-admin-menu.php:39
+msgid "Easy Real Estate"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:51
+#: includes/custom-post-types/property.php:25
+msgid "Add New Property"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:52
+#: includes/custom-post-types/property.php:27
+msgid "New Property"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:73
+#: includes/admin-menu/class-ere-admin-menu.php:74
+#: includes/custom-post-types/agency.php:15
+msgid "Agencies"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:81
+#: includes/admin-menu/class-ere-admin-menu.php:82
+#: includes/custom-post-types/agent.php:20
+#: includes/widgets/agents-list-widget.php:34
+#: includes/widgets/agents-list-widget.php:116
+msgid "Agents"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:89
+#: includes/admin-menu/class-ere-admin-menu.php:90
+#: includes/custom-post-types/partners.php:11
+msgid "Partners"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:97
+#: includes/admin-menu/class-ere-admin-menu.php:98
+#: includes/custom-post-types/slide.php:11
+msgid "Slides"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:13
+msgctxt "Post Type General Name"
+msgid "Agencies"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:14
+msgctxt "Post Type Singular Name"
+msgid "Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:16
+#: includes/custom-post-types/agency.php:42
+#: includes/custom-post-types/agency.php:110
+#: includes/mb/agent-agency-meta-boxes-config.php:84
+msgid "Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:17
+msgid "Agency Archives"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:18
+msgid "Agency Attributes"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:19
+msgid "Parent Agency:"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:20
+msgid "All Agencies"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:21
+msgid "Add New Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:22
+#: includes/custom-post-types/agent.php:22
+#: includes/custom-post-types/partners.php:13
+#: includes/custom-post-types/property.php:24
+#: includes/custom-post-types/slide.php:13
+msgid "Add New"
+msgstr "Додади нов"
+
+#: includes/custom-post-types/agency.php:23
+msgid "New Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:24
+msgid "Edit Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:25
+msgid "Update Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:26
+msgid "View Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:27
+msgid "View Agencies"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:28
+msgid "Search Agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:29
+msgid "Not found"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:30
+msgid "Not found in Trash"
+msgstr "Нема пронајдени во корпата за ѓубре"
+
+#: includes/custom-post-types/agency.php:31
+msgid "Agency Logo Image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:32
+msgid "Set agency logo image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:33
+msgid "Remove agency logo image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:34
+msgid "Use as agency logo image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:35
+msgid "Insert into agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:36
+msgid "Uploaded to this agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:37
+msgid "Agencies list"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:38
+msgid "Agencies list navigation"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:39
+msgid "Filter agencies list"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:43
+msgid "An agency is a company of realtors."
+msgstr ""
+
+#: includes/custom-post-types/agency.php:60
+msgid "agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:63
+msgid "agencies"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:111
+#: includes/custom-post-types/agent.php:97
+#: includes/custom-post-types/property.php:382
+#: includes/custom-post-types/slide.php:63
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:112
+#: includes/custom-post-types/agent.php:98
+msgid "Total Properties"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:113
+#: includes/custom-post-types/agent.php:99
+msgid "Published Properties"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:114
+#: includes/custom-post-types/agent.php:100
+msgid "Other Properties"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:115
+#: includes/custom-post-types/agent.php:101
+msgid "Created"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:162
+#: includes/custom-post-types/agent.php:149
+#: includes/custom-post-types/property.php:427
+msgid "No Thumbnail"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:21
+#: includes/custom-post-types/agent.php:96
+#: includes/mb/property-meta-boxes-config.php:366
+#: includes/shortcodes/vc-map.php:137
+msgid "Agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:23
+msgid "Add New Agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:24
+msgid "Edit Agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:25
+msgid "New Agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:26
+msgid "View Agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:27
+msgid "Search Agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:28
+msgid "No Agent found"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:29
+msgid "No Agent found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:48
+msgid "agent"
+msgstr ""
+
+#: includes/custom-post-types/agent.php:51
+msgid "agents"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:12
+#: includes/custom-post-types/partners.php:65
+msgid "Partner"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:14
+msgid "Add New Partner"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:15
+msgid "Edit Partner"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:16
+msgid "New Partner"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:17
+msgid "View Partner"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:18
+msgid "Search Partner"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:19
+msgid "No Partner found"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:20
+msgid "No Partner found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:38
+#: includes/custom-post-types/partners.php:41
+msgid "partners"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:66
+msgid "Logo"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:67
+#: includes/custom-post-types/property.php:388
+msgid "Publish Time"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:91
+msgid "No logo provided"
+msgstr ""
+
+#: includes/custom-post-types/property.php:22 includes/shortcodes/vc-map.php:77
+msgid "Properties"
+msgstr "Своjства"
+
+#: includes/custom-post-types/property.php:23
+#: includes/mb/property-meta-boxes-config.php:24
+msgid "Property"
+msgstr ""
+
+#: includes/custom-post-types/property.php:26
+msgid "Edit Property"
+msgstr ""
+
+#: includes/custom-post-types/property.php:28
+#: includes/widgets/agent-featured-properties-widget.php:176
+#: includes/widgets/agent-properties-widget.php:181
+#: includes/widgets/featured-properties-widget.php:177
+msgid "View Property"
+msgstr ""
+
+#: includes/custom-post-types/property.php:29
+msgid "Search Property"
+msgstr ""
+
+#: includes/custom-post-types/property.php:30
+msgid "No Property found"
+msgstr ""
+
+#: includes/custom-post-types/property.php:31
+msgid "No Property found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/property.php:58
+msgid "property"
+msgstr ""
+
+#: includes/custom-post-types/property.php:61
+msgid "properties"
+msgstr ""
+
+#: includes/custom-post-types/property.php:116
+#: includes/custom-post-types/property.php:130
+msgid "Property Features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:117
+msgid "Property Feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:118
+msgid "Search Property Features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:119
+msgid "Popular Property Features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:120
+msgid "All Property Features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:121
+msgid "Parent Property Feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:122
+msgid "Parent Property Feature:"
+msgstr ""
+
+#: includes/custom-post-types/property.php:123
+msgid "Edit Property Feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:124
+msgid "Update Property Feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:125
+msgid "Add New Property Feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:126
+msgid "New Property Feature Name"
+msgstr ""
+
+#: includes/custom-post-types/property.php:127
+msgid "Separate Property Features with commas"
+msgstr ""
+
+#: includes/custom-post-types/property.php:128
+msgid "Add or remove Property Features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:129
+msgid "Choose from the most used Property Features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:143
+msgid "property-feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:146
+msgid "property-features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:160
+#: includes/custom-post-types/property.php:174
+#: includes/widgets/property-types-widget.php:71
+msgid "Property Types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:161
+msgid "Property Type"
+msgstr ""
+
+#: includes/custom-post-types/property.php:162
+msgid "Search Property Types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:163
+msgid "Popular Property Types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:164
+msgid "All Property Types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:165
+msgid "Parent Property Type"
+msgstr ""
+
+#: includes/custom-post-types/property.php:166
+msgid "Parent Property Type:"
+msgstr ""
+
+#: includes/custom-post-types/property.php:167
+msgid "Edit Property Type"
+msgstr ""
+
+#: includes/custom-post-types/property.php:168
+msgid "Update Property Type"
+msgstr ""
+
+#: includes/custom-post-types/property.php:169
+msgid "Add New Property Type"
+msgstr ""
+
+#: includes/custom-post-types/property.php:170
+msgid "New Property Type Name"
+msgstr ""
+
+#: includes/custom-post-types/property.php:171
+msgid "Separate Property Types with commas"
+msgstr ""
+
+#: includes/custom-post-types/property.php:172
+msgid "Add or remove Property Types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:173
+msgid "Choose from the most used Property Types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:187
+msgid "property-type"
+msgstr ""
+
+#: includes/custom-post-types/property.php:190
+msgid "property-types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:204
+#: includes/custom-post-types/property.php:218
+msgid "Property Cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:205
+msgid "Property City"
+msgstr ""
+
+#: includes/custom-post-types/property.php:206
+msgid "Search Property Cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:207
+msgid "Popular Property Cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:208
+msgid "All Property Cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:209
+msgid "Parent Property City"
+msgstr ""
+
+#: includes/custom-post-types/property.php:210
+msgid "Parent Property City:"
+msgstr ""
+
+#: includes/custom-post-types/property.php:211
+msgid "Edit Property City"
+msgstr ""
+
+#: includes/custom-post-types/property.php:212
+msgid "Update Property City"
+msgstr ""
+
+#: includes/custom-post-types/property.php:213
+msgid "Add New Property City"
+msgstr ""
+
+#: includes/custom-post-types/property.php:214
+msgid "New Property City Name"
+msgstr ""
+
+#: includes/custom-post-types/property.php:215
+msgid "Separate Property Cities with commas"
+msgstr ""
+
+#: includes/custom-post-types/property.php:216
+msgid "Add or remove Property Cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:217
+msgid "Choose from the most used Property Cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:231
+msgid "property-city"
+msgstr ""
+
+#: includes/custom-post-types/property.php:234
+msgid "property-cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:248
+msgid "Property Statuses"
+msgstr ""
+
+#: includes/custom-post-types/property.php:249
+#: includes/custom-post-types/property.php:262
+msgid "Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:250
+msgid "Search Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:251
+msgid "Popular Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:252
+msgid "All Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:253
+msgid "Parent Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:254
+msgid "Parent Property Status:"
+msgstr ""
+
+#: includes/custom-post-types/property.php:255
+msgid "Edit Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:256
+msgid "Update Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:257
+msgid "Add New Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:258
+msgid "New Property Status Name"
+msgstr ""
+
+#: includes/custom-post-types/property.php:259
+msgid "Separate Property Status with commas"
+msgstr ""
+
+#: includes/custom-post-types/property.php:260
+msgid "Add or remove Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:261
+msgid "Choose from the most used Property Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:275
+msgid "property-status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:278
+msgid "property-statuses"
+msgstr ""
+
+#: includes/custom-post-types/property.php:381
+msgid "Property Title"
+msgstr ""
+
+#: includes/custom-post-types/property.php:383
+msgid "City"
+msgstr "Град"
+
+#: includes/custom-post-types/property.php:384
+msgid "Type"
+msgstr "Тип"
+
+#: includes/custom-post-types/property.php:385
+msgid "Status"
+msgstr "Статус"
+
+#: includes/custom-post-types/property.php:386
+#: includes/shortcodes/vc-map.php:123
+msgid "Price"
+msgstr "Цена"
+
+#: includes/custom-post-types/property.php:387
+#: includes/mb/property-meta-boxes-config.php:151
+msgid "Property ID"
+msgstr ""
+
+#: includes/custom-post-types/property.php:435
+#: includes/custom-post-types/property.php:447
+#: includes/custom-post-types/property.php:475
+#: includes/custom-post-types/property.php:483
+#: includes/custom-post-types/property.php:491
+#: includes/custom-post-types/slide.php:97
+msgid "NA"
+msgstr ""
+
+#: includes/custom-post-types/property.php:458
+msgid "No Address Provided!"
+msgstr ""
+
+#: includes/custom-post-types/property.php:508
+msgid "Payment Information"
+msgstr ""
+
+#: includes/custom-post-types/property.php:523
+msgid "Not Available"
+msgstr ""
+
+#: includes/custom-post-types/property.php:538
+msgid "Transaction ID"
+msgstr "ID на трансакцијата"
+
+#: includes/custom-post-types/property.php:543
+msgid "Payment Date"
+msgstr ""
+
+#: includes/custom-post-types/property.php:548
+msgid "First Name"
+msgstr "Име"
+
+#: includes/custom-post-types/property.php:553
+msgid "Last Name"
+msgstr "Презиме"
+
+#: includes/custom-post-types/property.php:558
+msgid "Payer Email"
+msgstr ""
+
+#: includes/custom-post-types/property.php:563
+msgid "Payment Status"
+msgstr ""
+
+#: includes/custom-post-types/property.php:568
+msgid "Payment Amount"
+msgstr ""
+
+#: includes/custom-post-types/property.php:573
+msgid "Payment Currency"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:12
+msgid "Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:14
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:15
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:16
+msgid "New Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:17
+msgid "View Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:18
+msgid "Search Slide"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:19
+msgid "No Slide found"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:20
+msgid "No Slide found in Trash"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:62
+msgid "Slide Title"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:64
+msgid "Slide Sub Text"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:65 includes/shortcodes/vc-map.php:122
+msgid "Date"
+msgstr "Датум"
+
+#: includes/custom-post-types/slide.php:89
+msgid "No Slider Image"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:112
+msgid "Slide Information"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:131
+msgid "Sub Text"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:135
+msgid "This text will appear below Title on slide."
+msgstr ""
+
+#: includes/custom-post-types/slide.php:140
+msgid "Target URL"
+msgstr ""
+
+#: includes/custom-post-types/slide.php:144
+msgid "This URL will be applied on Slide Image."
+msgstr ""
+
+#: includes/functions/form-handlers.php:36
+#: includes/functions/form-handlers.php:182
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: includes/functions/form-handlers.php:52
+#: includes/functions/form-handlers.php:196
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: includes/functions/form-handlers.php:69
+#: includes/functions/form-handlers.php:225
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: includes/functions/form-handlers.php:77
+#: includes/functions/form-handlers.php:235
+msgid "New message sent by"
+msgstr ""
+
+#: includes/functions/form-handlers.php:77
+msgid "using contact form at"
+msgstr ""
+
+#: includes/functions/form-handlers.php:82
+#: includes/functions/form-handlers.php:241
+msgid "You have received a message from: "
+msgstr ""
+
+#: includes/functions/form-handlers.php:84
+msgid "Phone Number : "
+msgstr ""
+
+#: includes/functions/form-handlers.php:86
+#: includes/functions/form-handlers.php:248
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: includes/functions/form-handlers.php:94
+#: includes/functions/form-handlers.php:256
+msgid "GDPR Agreement: "
+msgstr ""
+
+#: includes/functions/form-handlers.php:98
+#: includes/functions/form-handlers.php:260
+msgid "You can contact "
+msgstr ""
+
+#: includes/functions/form-handlers.php:98
+#: includes/functions/form-handlers.php:260
+msgid " via email, "
+msgstr ""
+
+#: includes/functions/form-handlers.php:138
+#: includes/functions/form-handlers.php:291
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: includes/functions/form-handlers.php:143
+#: includes/functions/form-handlers.php:296
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#: includes/functions/form-handlers.php:151
+#: includes/functions/form-handlers.php:304
+msgid "Invalid Request !"
+msgstr ""
+
+#: includes/functions/form-handlers.php:234
+msgid "using agency contact form at"
+msgstr ""
+
+#: includes/functions/form-handlers.php:234
+msgid "using agent contact form at"
+msgstr ""
+
+#: includes/functions/form-handlers.php:243
+msgid "Property Title : "
+msgstr ""
+
+#: includes/functions/form-handlers.php:246
+msgid "Property URL : "
+msgstr ""
+
+#: includes/functions/form-handlers.php:261
+msgid " or via contact number "
+msgstr ""
+
+#: includes/functions/form-handlers.php:429
+msgid "reCAPTCHA Failed:"
+msgstr ""
+
+#: includes/functions/members.php:25
+msgid "Provide a valid username or email address!"
+msgstr ""
+
+#: includes/functions/members.php:31
+msgid "No user found for given email!"
+msgstr ""
+
+#: includes/functions/members.php:37
+msgid "No user found for given username!"
+msgstr ""
+
+#: includes/functions/members.php:40
+msgid "Invalid username or email!"
+msgstr ""
+
+#: includes/functions/members.php:68
+#, php-format
+msgid "Your New Password For %s"
+msgstr ""
+
+#: includes/functions/members.php:69
+#, php-format
+msgid "Your new password is: %s"
+msgstr ""
+
+#: includes/functions/members.php:81
+msgid "Check your email for new password"
+msgstr ""
+
+#: includes/functions/members.php:83
+msgid "Failed to send you new password email!"
+msgstr ""
+
+#: includes/functions/members.php:87
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr ""
+
+#: includes/functions/members.php:133
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/functions/members.php:134
+#, php-format
+msgid "Username: %s"
+msgstr "Корисничко име: %s"
+
+#: includes/functions/members.php:135
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: includes/functions/members.php:137
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/functions/members.php:142 includes/functions/members.php:148
+#: includes/mb/main/inc/about/sections/welcome.php:13
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: includes/functions/members.php:143
+#, php-format
+msgid "Your username is: %s"
+msgstr ""
+
+#: includes/functions/members.php:144
+#, php-format
+msgid "You can login using following password: %s"
+msgstr ""
+
+#: includes/functions/members.php:145
+msgid "It is highly recommended to change your password after login."
+msgstr ""
+
+#: includes/functions/members.php:146
+msgid "For more details visit:"
+msgstr ""
+
+#: includes/functions/price.php:13
+msgid "$"
+msgstr ""
+
+#: includes/functions/price.php:25
+msgid "On Call"
+msgstr ""
+
+#: includes/functions/property-submit.php:26
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr ""
+
+#: includes/functions/property-submit.php:35
+msgid "You can preview it here : "
+msgstr ""
+
+#: includes/functions/property-submit.php:44
+#, php-format
+msgid "Message to the Reviewer : %s"
+msgstr ""
+
+#: includes/functions/property-submit.php:49
+#, php-format
+msgid "You can contact the submitter \"%s\" via email %s"
+msgstr ""
+
+#: includes/functions/real-estate.php:165
+msgid "Any"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:14
+#: includes/mb/agent-agency-meta-boxes-config.php:114
+msgid "Provide Related Information"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:20
+#: includes/mb/agent-agency-meta-boxes-config.php:120
+msgid "Email Address"
+msgstr "Е-маил адреса"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:22
+msgid ""
+"Provide Agent Email Address. Agent related messages from contact form on "
+"property details page, will be sent on this email address."
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:26
+#: includes/mb/agent-agency-meta-boxes-config.php:126
+msgid "Mobile Number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:28
+msgid "Provide Agent mobile number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:32
+#: includes/mb/agent-agency-meta-boxes-config.php:132
+msgid "WhatsApp Number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:34
+msgid "Provide Agent whatsapp number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:38
+#: includes/mb/agent-agency-meta-boxes-config.php:138
+msgid "Office Number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:40
+msgid "Provide Agent office number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:44
+#: includes/mb/agent-agency-meta-boxes-config.php:144
+msgid "Fax Number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:46
+msgid "Provide Agent fax number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:50
+#: includes/mb/agent-agency-meta-boxes-config.php:150
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:52
+msgid "Provide Agent Facebook URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:56
+#: includes/mb/agent-agency-meta-boxes-config.php:156
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:58
+msgid "Provide Agent Twitter URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:62
+#: includes/mb/agent-agency-meta-boxes-config.php:162
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:64
+msgid "Provide Agent Google Plus URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:68
+#: includes/mb/agent-agency-meta-boxes-config.php:168
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:70
+msgid "Provide Agent LinkedIn URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:74
+#: includes/mb/agent-agency-meta-boxes-config.php:174
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:76
+msgid "Provide Agent Instagram URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:86
+msgid "Select Related Agency."
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:122
+msgid ""
+"Provide Agency Email Address. Agency related messages from contact form on "
+"property details page, will be sent on this email address."
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:128
+msgid "Provide Agency mobile number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:134
+msgid "Provide Agency whatsapp number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:140
+msgid "Provide Agency office number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:146
+msgid "Provide Agency fax number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:152
+msgid "Provide Agency Facebook URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:158
+msgid "Provide Agency Twitter URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:164
+msgid "Provide Agency Google Plus URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:170
+msgid "Provide Agency LinkedIn URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:176
+msgid "Provide Agency Instagram URL"
+msgstr ""
+
+#: includes/mb/class-ere-meta-boxes.php:109
+msgid "Meta Box plugin has been deactivated!"
+msgstr ""
+
+#: includes/mb/class-ere-meta-boxes.php:110
+msgid ""
+"As similar functionality is already embedded with in Easy Real Estate plugin."
+msgstr ""
+
+#: includes/mb/class-ere-meta-boxes.php:111
+msgid "So, You should completely remove it from your plugins."
+msgstr ""
+
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:46
+msgid "Additional Details"
+msgstr ""
+
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:79
+#: includes/widgets/rh-contact-information-widget.php:101
+msgid "Title"
+msgstr "Наслов"
+
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:80
+#: includes/mb/main/inc/fields/key-value.php:135
+msgid "Value"
+msgstr ""
+
+#: includes/mb/exts/mb-term-meta/inc/class-mb-term-meta-box.php:97
+msgid "Term added."
+msgstr ""
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:147
+#: includes/mb/main/inc/fields/file-input.php:45
+msgid "Remove"
+msgstr "Избриши"
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:345
+msgid "Entry {#}"
+msgstr ""
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:345
+msgid "Entry"
+msgstr ""
+
+#: includes/mb/main/inc/about/about.php:50
+msgid "About"
+msgstr ""
+
+#: includes/mb/main/inc/about/about.php:62
+#: includes/mb/main/inc/about/about.php:63
+msgid "Meta Box"
+msgstr ""
+
+#: includes/mb/main/inc/about/about.php:78
+msgid "Welcome to Meta Box"
+msgstr ""
+
+#: includes/mb/main/inc/about/about.php:79
+msgid "Dashboard"
+msgstr "Контролна табла"
+
+#: includes/mb/main/inc/about/about.php:157
+#, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:11
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary! Save over 70% with our extensions bundles."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:11
+msgid "View Bundles"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:19
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:23
+#: includes/mb/main/inc/about/sections/extensions.php:47
+#: includes/mb/main/inc/about/sections/extensions.php:59
+#: includes/mb/main/inc/about/sections/extensions.php:71
+#: includes/mb/main/inc/about/sections/extensions.php:83
+#: includes/mb/main/inc/about/sections/extensions.php:95
+#: includes/mb/main/inc/about/sections/extensions.php:107
+#: includes/mb/main/inc/about/sections/extensions.php:119
+#: includes/mb/main/inc/about/sections/extensions.php:131
+#: includes/mb/main/inc/about/sections/extensions.php:143
+#: includes/mb/main/inc/about/sections/extensions.php:215
+#: includes/mb/main/inc/about/sections/extensions.php:227
+#: includes/mb/main/inc/about/sections/extensions.php:239
+#: includes/mb/main/inc/about/sections/extensions.php:287
+#: includes/mb/main/inc/about/sections/extensions.php:299
+#: includes/mb/main/inc/about/sections/extensions.php:311
+#: includes/mb/main/inc/about/sections/extensions.php:323
+#: includes/mb/main/inc/about/sections/extensions.php:335
+#: includes/mb/main/inc/about/sections/getting-started.php:23
+msgid "Learn More"
+msgstr "Дознај повеќе"
+
+#: includes/mb/main/inc/about/sections/extensions.php:31
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:35
+#: includes/mb/main/inc/about/sections/extensions.php:155
+#: includes/mb/main/inc/about/sections/extensions.php:167
+#: includes/mb/main/inc/about/sections/extensions.php:179
+#: includes/mb/main/inc/about/sections/extensions.php:191
+#: includes/mb/main/inc/about/sections/extensions.php:203
+#: includes/mb/main/inc/about/sections/extensions.php:251
+#: includes/mb/main/inc/about/sections/extensions.php:263
+#: includes/mb/main/inc/about/sections/extensions.php:275
+#: includes/mb/main/inc/about/sections/extensions.php:347
+msgid "Free Download"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:43
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:55
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:67
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:79
+msgid "Easily add custom fields to categories, tags or any custom taxonomy."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:91
+msgid ""
+"Add custom fields to user profile (user meta) quickly with simple syntax."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:103
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:115
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:127
+msgid "Add as many custom fields as you want and organize them into tabs."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:139
+msgid ""
+"Save custom fields data to custom table instead of the default meta tables. "
+"Reduce database size and increase performance."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:151
+msgid "Pull all meta value from posts, terms into the WP REST API responses."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:163
+msgid ""
+"A lightweight WordPress plugin for creating many-to-many relationships "
+"between posts, terms and users."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:175
+msgid ""
+"Integrates Meta Box and FacetWP, makes custom fields searchable and "
+"filterable in the frontend."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:187
+msgid ""
+"Select and show custom fields created by the Meta Box plugin in the Beaver "
+"Themer field connection."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:199
+msgid ""
+"Add custom fields to comments in WordPress. Support all field types and "
+"options."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:211
+msgid ""
+"Track changes of custom fields with WordPress revision. Save, compare, "
+"restore the changes easily."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:223
+msgid ""
+"Automatically and instantly populate location data with the power of Google "
+"Maps Geolocation API."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:235
+msgid ""
+"Display custom fields in table columns in admin screens for All Posts "
+"(types)."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:247
+msgid ""
+"Add content of custom fields to Yoast SEO Content Analysis to have better/"
+"correct SEO score."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:259
+msgid ""
+"Limit the number of characters or words entered for text and textarea fields."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:271
+msgid ""
+"Automatically updates all Meta Box extensions within the WordPress Admin "
+"area."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:283
+msgid "Define custom meta boxes and custom fields easier with templates."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:295
+msgid "Display help information for fields using beautiful tooltips."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:307
+msgid "Toggle meta boxes by page template, post format or taxonomy using JS."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:319
+msgid "Display fields more beautiful by putting them into 12-columns grid."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:331
+msgid "Show or hide meta boxes whenever and for whomever you choose."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:343
+msgid ""
+"Create and manage custom taxonomies with an easy-to-use interface in "
+"WordPress."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:13
+msgid ""
+"The fastest way to getting started with Meta Box is use our online generator "
+"to generate meta boxes with custom fields. It provides a friendly UI for you "
+"to create meta boxes and custom fields just by drag and drop fields."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:21
+msgid "Understand The Basics"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:22
+msgid ""
+"Meta Box doesn't have any admin page for configuration or settings. Instead "
+"of that, it provides a very powerful API to speed up the process of creating "
+"meta boxes and custom fields. It might take you a little time at first, but "
+"then you'll love the way it work because it helps you do and customize "
+"almost everything."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:25
+#: includes/mb/main/inc/about/sections/tabs.php:12
+#: includes/mb/main/inc/about/sections/welcome.php:20
+#: includes/mb/main/inc/core.php:39
+msgid "Extensions"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:26
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:28
+msgid "Meta Box Group"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:29
+msgid "Meta Box Conditional Logic"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:30
+msgid "MB Settings Page"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:31
+msgid "MB Term Meta"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/newsletter.php:11
+msgid "Meta Box Newsletter"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/newsletter.php:13
+msgid ""
+"Want to learn how to use Meta Box to its full potential? Sign up to get "
+"valuable tips and resources. We will never spam you."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/newsletter.php:15
+msgid "Subscribe"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:18
+#, php-format
+msgid ""
+"Still need help with Meta Box? We offer excellent support for you. But don't "
+"forget to check our <a href=\"%s\">documentation</a> first."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:24
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:31
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/tabs.php:13
+#: includes/mb/main/inc/about/sections/welcome.php:21
+msgid "Support"
+msgstr "Подршка"
+
+#: includes/mb/main/inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:13
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/welcome.php:16
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/welcome.php:19
+#: includes/mb/main/inc/core.php:38
+msgid "Documentation"
+msgstr "Документација"
+
+#: includes/mb/main/inc/field.php:364
+msgid "+ Add more"
+msgstr ""
+
+#: includes/mb/main/inc/fields/autocomplete.php:23
+#: includes/mb/main/inc/fields/autocomplete.php:85
+#: includes/mb/main/inc/fields/autocomplete.php:97
+msgid "Delete"
+msgstr "Избриши"
+
+#: includes/mb/main/inc/fields/background.php:64
+msgid "Background Image"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:78
+msgid "-- Background Repeat --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:80
+msgid "No Repeat"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:81
+msgid "Repeat All"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:82
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:83
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:84
+#: includes/mb/main/inc/fields/background.php:122
+#: includes/mb/main/inc/fields/background.php:136
+msgid "Inherit"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:96
+msgid "-- Background Position --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:98
+msgid "Top Left"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:99
+msgid "Top Center"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:100
+msgid "Top Right"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:101
+msgid "Center Left"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:102
+msgid "Center Center"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:103
+msgid "Center Right"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:104
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:105
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:106
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:118
+msgid "-- Background Attachment --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:120
+msgid "Fixed"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:121
+msgid "Scroll"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:134
+msgid "-- Background Size --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:137
+msgid "Cover"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:138
+msgid "Contain"
+msgstr ""
+
+#: includes/mb/main/inc/fields/button.php:34
+msgid "Click me"
+msgstr ""
+
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property-meta-boxes-config.php:176
+#: includes/mb/property-meta-boxes-config.php:211
+#: includes/mb/property-meta-boxes-config.php:380
+#: includes/shortcodes/vc-map.php:279
+msgid "Yes"
+msgstr "Да"
+
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property-meta-boxes-config.php:177
+#: includes/mb/property-meta-boxes-config.php:212
+#: includes/mb/property-meta-boxes-config.php:478
+#: includes/shortcodes/vc-map.php:278
+msgid "No"
+msgstr "Не"
+
+#: includes/mb/main/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "Изберете фаjл"
+
+#: includes/mb/main/inc/fields/file-input.php:43
+#: includes/mb/main/inc/fields/select.php:92
+msgid "Select"
+msgstr ""
+
+#: includes/mb/main/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: includes/mb/main/inc/fields/file.php:26
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: includes/mb/main/inc/fields/file.php:57
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: includes/mb/main/inc/fields/file.php:70
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: includes/mb/main/inc/fields/file.php:125
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Избриши"
+
+#: includes/mb/main/inc/fields/file.php:126
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Измени"
+
+#: includes/mb/main/inc/fields/input-list.php:92
+msgid "Select All / None"
+msgstr ""
+
+#: includes/mb/main/inc/fields/key-value.php:134
+msgid "Key"
+msgstr ""
+
+#: includes/mb/main/inc/fields/map.php:55
+#: includes/mb/main/inc/fields/osm.php:27
+msgid "No results found"
+msgstr "Не се пронајдени резултати"
+
+#: includes/mb/main/inc/fields/map.php:87
+#: includes/mb/main/inc/fields/osm.php:60
+msgid "Find Address"
+msgstr ""
+
+#: includes/mb/main/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: includes/mb/main/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: includes/mb/main/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: includes/mb/main/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "Избриши"
+
+#: includes/mb/main/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "Измени"
+
+#: includes/mb/main/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "Види"
+
+#: includes/mb/main/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: includes/mb/main/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "Изберете фајлови"
+
+#: includes/mb/main/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: includes/mb/main/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: includes/mb/main/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr ""
+
+#: includes/mb/main/inc/fields/post.php:35
+msgid "Select a post"
+msgstr ""
+
+#: includes/mb/main/inc/fields/post.php:41
+#: includes/mb/main/inc/fields/taxonomy.php:53
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: includes/mb/main/inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr ""
+
+#: includes/mb/main/inc/fields/select.php:92 includes/shortcodes/vc-map.php:97
+msgid "All"
+msgstr "СИТЕ"
+
+#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/meta-box-helper-functions.php:52
+#: includes/mb/meta-box-helper-functions.php:84
+msgid "None"
+msgstr "Никој"
+
+#: includes/mb/main/inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr ""
+
+#: includes/mb/main/inc/fields/switch.php:93
+msgid "On"
+msgstr "Вклучи"
+
+#: includes/mb/main/inc/fields/switch.php:94
+msgid "Off"
+msgstr "Исклучи"
+
+#: includes/mb/main/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: includes/mb/main/inc/fields/user.php:24
+msgid "Select an user"
+msgstr ""
+
+#: includes/mb/main/inc/validation.php:50
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: includes/mb/meta-box-helper-functions.php:116
+msgid ""
+"Images should have minimum size of 1200px by 680px. Bigger size images will "
+"be cropped automatically. Minimum 2 images are required to display gallery."
+msgstr ""
+
+#: includes/mb/meta-box-helper-functions.php:120
+msgid ""
+"Images should have minimum size of 770px by 386px for thumbnails on right "
+"and 830px by 460px for thumbnails on bottom. Bigger size images will be "
+"cropped automatically. Minimum 2 images are required to display gallery."
+msgstr ""
+
+#: includes/mb/partner-meta-boxes-config.php:14
+msgid "Partner Information"
+msgstr ""
+
+#: includes/mb/partner-meta-boxes-config.php:20
+msgid "Website URL"
+msgstr "Вебстрана УРЛ"
+
+#: includes/mb/partner-meta-boxes-config.php:22
+msgid "Provide Website URL"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:13
+msgid "Gallery with thumbnails on right"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:14
+msgid "Gallery with thumbnails on bottom"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:17
+msgid "Default Gallery"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:18
+msgid "Gallery with thumbnails"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:28
+msgid "Basic Information"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:32
+msgid "Location on Map"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:36
+msgid "Gallery Images"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:40
+msgid "Floor Plans"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:44
+msgid "Property Video"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:48
+msgid "Agent Information"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:52
+msgid "Misc"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:56
+msgid "Homepage Slider"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:60
+msgid "Top Banner"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:70
+msgid "Sale or Rent Price ( Only digits )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:71
+msgid "Example Value: 435000"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:79
+#: includes/mb/property-meta-boxes-config.php:260
+msgid "Price Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:80
+msgid "Example Value: Per Month"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:88
+msgid "Area Size ( Only digits )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:89
+msgid "Example Value: 2500"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:97
+msgid "Area Size Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:98
+#: includes/mb/property-meta-boxes-config.php:116
+msgid "Example Value: sq ft"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:106
+msgid "Lot Size ( Only digits )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:107
+msgid "Example Value: 3000"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:115
+msgid "Lot Size Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:124
+#: includes/mb/property-meta-boxes-config.php:281
+#: includes/widgets/agent-featured-properties-widget.php:224
+#: includes/widgets/agent-properties-widget.php:229
+#: includes/widgets/featured-properties-widget.php:227
+msgid "Bedrooms"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:125
+msgid "Example Value: 4"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:133
+#: includes/mb/property-meta-boxes-config.php:288
+#: includes/widgets/agent-featured-properties-widget.php:235
+#: includes/widgets/agent-properties-widget.php:240
+#: includes/widgets/featured-properties-widget.php:238
+msgid "Bathrooms"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:134
+msgid "Example Value: 2"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:142
+msgid "Garages"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:143
+msgid "Example Value: 1"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:152
+msgid "It will help you search a property directly."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:163
+msgid "Year Built"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:164
+msgid "Example Value: 2017"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:171
+msgid "Mark this property as featured ?"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:186
+msgid "Property Location on Map"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:187
+msgid ""
+"Drag the map marker to point property location. Address field given above "
+"can be used to search location."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:198
+msgid "Property Address"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:199
+msgid "Leaving it empty will hide the map on property detail page."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:206
+msgid "Hide map on property detail page ?"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:220
+msgid "Gallery Type You Want to Use"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:229
+msgid "Property Gallery Images"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:247
+msgid "Floor Name"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:249
+msgid "Example: Ground Floor"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:253
+msgid "Floor Price ( Only digits )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:255
+msgid "Example: 4000"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:262
+msgid "Example: Per Month"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:267
+msgid "Floor Size ( Only digits )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:269
+msgid "Example: 2500"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:274
+msgid "Size Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:276
+msgid "Example: sq ft"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:283
+msgid "Example: 4"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:290
+msgid "Example: 2"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:295
+msgid "Description"
+msgstr "Опис"
+
+#: includes/mb/property-meta-boxes-config.php:300
+msgid "Floor Plan Image"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:302
+msgid "The recommended minimum width is 770px and height is flexible."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:312
+msgid "Virtual Tour Video URL"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:313
+msgid ""
+"Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:319
+msgid "Virtual Tour Video Image"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:321
+msgid ""
+"Provide an image that will be displayed as a place holder and when user will "
+"click over it the video will be opened in a lightbox. You must provide this "
+"image otherwise the video will not be displayed. Image should have minimum "
+"width of 818px and minimum height 417px. Bigger size images will be cropped "
+"automatically."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:335
+msgid "360 Virtual Tour"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:338
+msgid ""
+"Provide iframe embed code for the 360 virtual tour. For more details please "
+"consult <a href=\"https://realhomes.io/documentation/add-property/#add-video-"
+"tour-and-virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:353
+msgid "What to display in agent information box ?"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:358
+msgid "Author information."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:359
+msgid "Agent Information. ( Select the agent below )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:360
+msgid "None. ( Hide information box )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:379
+msgid "Make this property sticky for home and listings pages"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:393
+msgid "Property Label Text"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:395
+msgid ""
+"You can add a property label to display on property thumbnails. Example "
+"Value: Hot Deal"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:401
+msgid "Label Background Color"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:403
+msgid ""
+"Set a label background color. Otherwise label text will be displayed with "
+"transparent background."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:417
+msgid "Attachments"
+msgstr "Атачмент"
+
+#: includes/mb/property-meta-boxes-config.php:418
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:432
+msgid "Property Owner Name"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:439
+msgid "Owner Contact"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:447
+msgid "Owner Address"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:454
+msgid "Private Note"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:455
+msgid ""
+"In this textarea, You can write your private note about this property. This "
+"field will not be displayed anywhere else."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:463
+msgid "Message to Reviewer"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:471
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:472
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:477
+msgid "Yes "
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:484
+msgid "Slider Image"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:486
+msgid ""
+"The recommended image size is 2000px by 700px. You can use bigger or smaller "
+"image but try to keep the same height to width ratio and use the exactly "
+"same size images for all properties that will be added in slider."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:495
+msgid "Top Banner Image"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:497
+msgid ""
+"Upload the banner image, If you want to change it for this property. "
+"Otherwise default banner image uploaded from theme options will be "
+"displayed. Image should have minimum width of 2000px and minimum height of "
+"230px."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:527
+msgid "Custom Property Type Map Icon"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:531
+#: includes/mb/property-meta-boxes-config.php:570
+msgid "Icon Image"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:538
+msgid "Retina Icon Image"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:571
+msgid "Recommended image size for icon is 64px by 64px."
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:29
+msgid "Properties Filter Settings"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:45
+#: includes/mb/templates-meta-boxes-config.php:197
+msgid "Number of Properties Per Page"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:54
+msgid "Order Properties By"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:57
+msgid "Date New to Old"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:58
+msgid "Date Old to New"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:59
+msgid "Price Low to High"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:60
+msgid "Price High to Low"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:68
+#: includes/mb/templates-meta-boxes-config.php:205
+#: includes/shortcodes/vc-map.php:144
+msgid "Locations"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:77
+#: includes/mb/templates-meta-boxes-config.php:213
+#: includes/shortcodes/vc-map.php:151
+msgid "Statuses"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:86
+#: includes/mb/templates-meta-boxes-config.php:221
+#: includes/shortcodes/vc-map.php:158
+msgid "Types"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:95
+#: includes/mb/templates-meta-boxes-config.php:229
+#: includes/shortcodes/vc-map.php:285
+msgid "Features"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:104
+msgid "Minimum Beds"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:113
+msgid "Minimum Baths"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:122
+#: includes/shortcodes/vc-map.php:243
+msgid "Minimum Price"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:131
+#: includes/shortcodes/vc-map.php:251
+msgid "Maximum Price"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:139
+msgid "Properties by Agents"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:183
+msgid "Properties Gallery Filter Settings"
+msgstr ""
+
+#: includes/shortcodes/elements.php:319
+msgid "Result:"
+msgstr ""
+
+#: includes/shortcodes/elements.php:319
+msgid "No Properties Found!"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:78
+msgid "List of Properties"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:80
+msgid "Real Homes Theme"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:84
+msgid "Layout"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:94
+#: includes/widgets/agent-featured-properties-widget.php:331
+#: includes/widgets/agent-properties-widget.php:351
+#: includes/widgets/featured-properties-widget.php:329
+msgid "Number of Properties"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:119
+msgid "Order By"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:128
+msgid "Order"
+msgstr "Нарачка"
+
+#: includes/shortcodes/vc-map.php:131
+msgid "Descending"
+msgstr "Опаѓачки"
+
+#: includes/shortcodes/vc-map.php:132
+msgid "Ascending"
+msgstr "Растечки"
+
+#: includes/shortcodes/vc-map.php:165
+msgid "Minimum Bedrooms"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:183
+msgid "Maximum Bedrooms"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:204
+msgid "Minimum Bathrooms"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:222
+msgid "Maximum Bathrooms"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:244 includes/shortcodes/vc-map.php:252
+#: includes/shortcodes/vc-map.php:260 includes/shortcodes/vc-map.php:268
+msgid "Only provide digits"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:259
+msgid "Minimum Area"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:267
+msgid "Maximum Area"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:275
+msgid "Display Only Featured Properties"
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:13
+msgid "This widget displays advance search form."
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:15
+msgid "RealHomes - Advance Search Widget"
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:21
+#: includes/widgets/advance-search-widget.php:51
+msgid "Find Your Home"
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:41
+msgid ""
+"Advance search page is not configured yet. Please read this theme "
+"documentation for the Advance Search page & form configuration details."
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:57
+#: includes/widgets/agent-featured-properties-widget.php:320
+#: includes/widgets/agent-properties-widget.php:334
+#: includes/widgets/agents-list-widget.php:125
+#: includes/widgets/featured-properties-widget.php:325
+#: includes/widgets/property-types-widget.php:77
+msgid "Widget Title"
+msgstr "Наслов на додатокот"
+
+#: includes/widgets/agent-featured-properties-widget.php:19
+msgid "Important: This widget is only for the Agent Sidebar."
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:22
+msgid "RealHomes - Agent Featured Properties"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:108
+#: includes/widgets/agent-properties-widget.php:113
+#: includes/widgets/featured-properties-widget.php:110
+msgid "Read More"
+msgstr "Повеќе"
+
+#: includes/widgets/agent-featured-properties-widget.php:127
+#: includes/widgets/agent-featured-properties-widget.php:293
+msgid "No Featured Property Found For This Agent"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:156
+#: includes/widgets/agent-properties-widget.php:161
+#: includes/widgets/featured-properties-widget.php:157
+msgid "Featured"
+msgstr "Избрана"
+
+#: includes/widgets/agent-featured-properties-widget.php:187
+#: includes/widgets/agent-featured-properties-widget.php:197
+#: includes/widgets/agent-properties-widget.php:192
+#: includes/widgets/agent-properties-widget.php:202
+#: includes/widgets/featured-properties-widget.php:190
+#: includes/widgets/featured-properties-widget.php:200
+msgid "Added to favorites"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:200
+#: includes/widgets/agent-properties-widget.php:205
+#: includes/widgets/featured-properties-widget.php:203
+msgid "Add to favorites"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:246
+#: includes/widgets/agent-properties-widget.php:251
+#: includes/widgets/featured-properties-widget.php:249
+msgid "Area"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:324
+#: includes/widgets/agent-properties-widget.php:344
+#: includes/widgets/featured-properties-widget.php:333
+msgid "Sort By:"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:326
+#: includes/widgets/agent-properties-widget.php:346
+#: includes/widgets/featured-properties-widget.php:335
+msgid "Most Recent"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:327
+#: includes/widgets/agent-properties-widget.php:347
+#: includes/widgets/featured-properties-widget.php:336
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/agent-properties-widget.php:23
+msgid "Displays random, recent or featured properties based on selected agent."
+msgstr ""
+
+#: includes/widgets/agent-properties-widget.php:26
+msgid "RealHomes - Agent Related Properties"
+msgstr ""
+
+#: includes/widgets/agent-properties-widget.php:133
+#: includes/widgets/agent-properties-widget.php:298
+msgid "No Property Found Under Selected Agent!"
+msgstr ""
+
+#: includes/widgets/agent-properties-widget.php:338
+msgid "Select an Agent:"
+msgstr ""
+
+#: includes/widgets/agent-properties-widget.php:356
+msgid "Show only Featured Properties."
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:23
+msgid "This widget displays agents list."
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:26
+msgid "RealHomes - Agents"
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:101
+msgid "No Agent Found!"
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:131
+msgid "Number of Agents"
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:28
+msgid "Displays Random or Recent Featured Properties."
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:33
+msgid "RealHomes - Featured Properties"
+msgstr ""
+
+#: includes/widgets/featured-properties-widget.php:129
+#: includes/widgets/featured-properties-widget.php:296
+msgid "No Featured Property Found!"
+msgstr ""
+
+#: includes/widgets/property-types-widget.php:26
+msgid "This widget displays a list of Property Types."
+msgstr ""
+
+#: includes/widgets/property-types-widget.php:29
+msgid "RealHomes - Property Types"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:26
+msgid "Displays general contact information."
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:29
+msgid "RealHomes - Contact Information"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:89
+msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:90
+msgid "+123-456-789"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:91
+msgid "robot@inspirythemes.com"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:104
+msgid "Contact Address"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:107
+msgid "Phone Number"
+msgstr "Телефон"
+
+#: includes/widgets/rh-contact-information-widget.php:110
+msgid "Email"
+msgstr "Е-маил"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides real estate functionality for Real Homes theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Inspiry Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://inspirythemes.com"
+msgstr ""
