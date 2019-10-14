@@ -1,15 +1,17 @@
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2019-06-02 16:28+0500\n"
-"PO-Revision-Date: 2019-06-29 11:04+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-08 18:04+0500\n"
+"PO-Revision-Date: 2019-10-14 18:19+0500\n"
 "Last-Translator: admin <postmaster@portocasasreurb.pt>\n"
 "Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.3\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -17,45 +19,71 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
-"Report-Msgid-Bugs-To: \n"
-"Language: pt_PT\n"
-"X-Loco-Version: 2.3.0; wp-5.2.2"
 
-#: easy-real-estate.php:221
+#: easy-real-estate.php:223
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:79
+#: includes/mb/property-meta-boxes-config.php:389
+#: includes/settings/social.php:143
+#: includes/widgets/rh-contact-information-widget.php:118
+msgid "Title"
+msgstr "Título"
+
+#: easy-real-estate.php:224 includes/settings/social.php:151
+#| msgid "Property URL : "
+msgid "Profile URL"
+msgstr ""
+
+#: easy-real-estate.php:225 includes/settings/social.php:158
+#, fuzzy
+#| msgid "Energy Class"
+msgid "Icon Class"
+msgstr "Classe Energética"
+
+#: easy-real-estate.php:226 includes/settings/social.php:158
+#| msgid "Example Value: 4"
+msgid "Example: fa-flicker"
+msgstr ""
+
+#: easy-real-estate.php:227
+msgid "Get icon!"
+msgstr ""
+
+#: easy-real-estate.php:238
 msgid "Price Format"
 msgstr "Formato do Preço"
 
-#: easy-real-estate.php:222
+#: easy-real-estate.php:239
 msgid "URL Slugs"
 msgstr "Slugs de URL"
 
-#: easy-real-estate.php:223
+#: easy-real-estate.php:240
 msgid "Maps"
 msgstr "Mapas"
 
-#: easy-real-estate.php:224
+#: easy-real-estate.php:241
 msgid "reCAPTCHA"
 msgstr "reCAPTCHA"
 
-#: easy-real-estate.php:225
+#: easy-real-estate.php:242
 msgid "Social"
 msgstr "Social"
 
-#: easy-real-estate.php:226
+#: easy-real-estate.php:243
 msgid "GDPR"
 msgstr "RGPD"
 
-#: easy-real-estate.php:282
+#: easy-real-estate.php:345
 msgid "Settings saved successfully!"
 msgstr "Definições gravadas com sucesso!"
 
-#: easy-real-estate.php:291
+#: easy-real-estate.php:354
 msgid "Cloning is forbidden!"
 msgstr "A clonagem é proibida!"
 
-#: easy-real-estate.php:298
+#: easy-real-estate.php:361
 msgid "Unserializing is forbidden!"
 msgstr "Unserializing é proibido!"
 
@@ -360,6 +388,7 @@ msgid "No logo provided"
 msgstr "Nenhum logotipo fornecido"
 
 #: includes/custom-post-types/property.php:22 includes/shortcodes/vc-map.php:77
+#: includes/widgets/properties-widget.php:409
 msgid "Properties"
 msgstr "Imóveis"
 
@@ -373,9 +402,18 @@ msgid "Edit Property"
 msgstr "Editar Imóvel"
 
 #: includes/custom-post-types/property.php:28
-#: includes/widgets/agent-featured-properties-widget.php:188
-#: includes/widgets/agent-properties-widget.php:198
-#: includes/widgets/featured-properties-widget.php:188
+#: includes/widgets/agent-featured-properties-widget.php:207
+#: includes/widgets/agent-featured-properties-widget.php:392
+#: includes/widgets/agent-featured-properties-widget.php:431
+#: includes/widgets/agent-properties-widget.php:216
+#: includes/widgets/agent-properties-widget.php:377
+#: includes/widgets/agent-properties-widget.php:430
+#: includes/widgets/featured-properties-widget.php:206
+#: includes/widgets/featured-properties-widget.php:396
+#: includes/widgets/featured-properties-widget.php:437
+#: includes/widgets/properties-widget.php:240
+#: includes/widgets/properties-widget.php:402
+#: includes/widgets/properties-widget.php:445
 msgid "View Property"
 msgstr "Ver Imóvel"
 
@@ -823,97 +861,132 @@ msgstr "URL de Destino"
 msgid "This URL will be applied on Slide Image."
 msgstr "Este URL será aplicado na imagem do slide."
 
+#: includes/functions/basic.php:342 includes/settings/gdpr.php:8
+msgid "GDPR Agreement"
+msgstr "Acordo RGPD"
+
+#: includes/functions/basic.php:343 includes/settings/gdpr.php:10
+msgid "* Please accept GDPR agreement"
+msgstr "* Por favor, aceite o acordo RGPD"
+
+#: includes/functions/basic.php:344 includes/settings/gdpr.php:9
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+"Eu concordo que este site armazene as minhas informações enviadas para que "
+"elas possam responder à minha consulta."
+
 #: includes/functions/form-handlers.php:36
-#: includes/functions/form-handlers.php:182
+#: includes/functions/form-handlers.php:198
+#: includes/functions/form-handlers.php:360
 msgid "Unverified Nonce!"
 msgstr "Não verificado Nonce!"
 
-#: includes/functions/form-handlers.php:52
-#: includes/functions/form-handlers.php:196
+#: includes/functions/form-handlers.php:58
+#: includes/functions/form-handlers.php:220
+#: includes/functions/form-handlers.php:374
 msgid "Target Email address is not properly configured!"
 msgstr "O endereço de e-mail de destino não está configurado corretamente!"
 
-#: includes/functions/form-handlers.php:69
-#: includes/functions/form-handlers.php:225
+#: includes/functions/form-handlers.php:75
+#: includes/functions/form-handlers.php:237
+#: includes/functions/form-handlers.php:403
 msgid "Provided Email address is invalid!"
 msgstr "O endereço de e-mail fornecido é inválido!"
 
-#: includes/functions/form-handlers.php:77
-#: includes/functions/form-handlers.php:235
+#: includes/functions/form-handlers.php:83
+#: includes/functions/form-handlers.php:245
+#: includes/functions/form-handlers.php:413
 msgid "New message sent by"
 msgstr "Nova mensagem enviada por"
 
-#: includes/functions/form-handlers.php:77
+#: includes/functions/form-handlers.php:83
 msgid "using contact form at"
 msgstr "usando o formulário de contato em"
 
-#: includes/functions/form-handlers.php:82
-#: includes/functions/form-handlers.php:241
+#: includes/functions/form-handlers.php:88
+#: includes/functions/form-handlers.php:250
+#: includes/functions/form-handlers.php:419
 msgid "You have received a message from: "
-msgstr "Você recebeu uma mensagem de:"
+msgstr "Você recebeu uma mensagem de: "
 
-#: includes/functions/form-handlers.php:84
+#: includes/functions/form-handlers.php:90
+#: includes/functions/form-handlers.php:252
 msgid "Phone Number : "
-msgstr "Telemóvel :"
+msgstr "Telemóvel : "
 
-#: includes/functions/form-handlers.php:86
-#: includes/functions/form-handlers.php:248
+#: includes/functions/form-handlers.php:92
+#: includes/functions/form-handlers.php:254
+#: includes/functions/form-handlers.php:426
 msgid "Their additional message is as follows."
 msgstr "Sua mensagem adicional é a seguinte."
 
-#: includes/functions/form-handlers.php:94
-#: includes/functions/form-handlers.php:256
+#: includes/functions/form-handlers.php:100
+#: includes/functions/form-handlers.php:262
+#: includes/functions/form-handlers.php:434
 msgid "GDPR Agreement: "
-msgstr "Acordo RGPD:"
+msgstr "Acordo RGPD: "
 
-#: includes/functions/form-handlers.php:98
-#: includes/functions/form-handlers.php:260
+#: includes/functions/form-handlers.php:104
+#: includes/functions/form-handlers.php:266
+#: includes/functions/form-handlers.php:438
 msgid "You can contact "
-msgstr "Você pode entrar em contacto"
+msgstr "Você pode entrar em contacto "
 
-#: includes/functions/form-handlers.php:98
-#: includes/functions/form-handlers.php:260
+#: includes/functions/form-handlers.php:104
+#: includes/functions/form-handlers.php:266
+#: includes/functions/form-handlers.php:438
 msgid " via email, "
-msgstr " por email,"
+msgstr " por email, "
 
-#: includes/functions/form-handlers.php:138
-#: includes/functions/form-handlers.php:291
+#: includes/functions/form-handlers.php:154
+#: includes/functions/form-handlers.php:316
+#: includes/functions/form-handlers.php:469
 msgid "Message Sent Successfully!"
 msgstr "Mensagem enviada com sucesso!"
 
-#: includes/functions/form-handlers.php:143
-#: includes/functions/form-handlers.php:296
+#: includes/functions/form-handlers.php:159
+#: includes/functions/form-handlers.php:321
+#: includes/functions/form-handlers.php:474
 msgid "Server Error: WordPress mail function failed!"
 msgstr "Erro do servidor: a função de correio do WordPress falhou!"
 
-#: includes/functions/form-handlers.php:151
-#: includes/functions/form-handlers.php:304
+#: includes/functions/form-handlers.php:167
+#: includes/functions/form-handlers.php:329
+#: includes/functions/form-handlers.php:482
 msgid "Invalid Request !"
 msgstr "Pedido inválido !"
 
-#: includes/functions/form-handlers.php:234
+#: includes/functions/form-handlers.php:245
+#, fuzzy
+#| msgid "using contact form at"
+msgid "using home contact form at"
+msgstr "usando o formulário de contato em"
+
+#: includes/functions/form-handlers.php:412
 msgid "using agency contact form at"
 msgstr "usando o formulário de contato da agência em"
 
-#: includes/functions/form-handlers.php:234
+#: includes/functions/form-handlers.php:412
 msgid "using agent contact form at"
 msgstr "usando o formulário de contato de comercial em"
 
-#: includes/functions/form-handlers.php:243
+#: includes/functions/form-handlers.php:421
 msgid "Property Title : "
-msgstr "Título do Imóvel :"
+msgstr "Título do Imóvel : "
 
-#: includes/functions/form-handlers.php:246
+#: includes/functions/form-handlers.php:424
 msgid "Property URL : "
-msgstr "URL do Imóvel :"
+msgstr "URL do Imóvel : "
 
-#: includes/functions/form-handlers.php:261
+#: includes/functions/form-handlers.php:439
 msgid " or via contact number "
-msgstr " ou através do número de contato"
+msgstr " ou através do número de contato "
 
-#: includes/functions/form-handlers.php:429
+#: includes/functions/form-handlers.php:607
 msgid "reCAPTCHA Failed:"
-msgstr "reCAPTCHA Falhou: "
+msgstr "reCAPTCHA Falhou:"
 
 #: includes/functions/members.php:25
 msgid "Provide a valid username or email address!"
@@ -956,7 +1029,7 @@ msgstr "Oops! Algo deu errado ao redefinir a sua password!"
 #: includes/functions/members.php:133
 #, php-format
 msgid "New user registration on your site %s:"
-msgstr "Novo registo de utilizador no seu site: %s"
+msgstr "Novo registo de utilizador no seu site %s:"
 
 #: includes/functions/members.php:134
 #, php-format
@@ -968,34 +1041,42 @@ msgstr "Utilizador: %s"
 msgid "Email: %s"
 msgstr "Email: %s"
 
-#: includes/functions/members.php:137
+#: includes/functions/members.php:139
 #, php-format
 msgid "[%s] New User Registration"
 msgstr "[%s] Registo de novo utilizador"
 
-#: includes/functions/members.php:142 includes/functions/members.php:148
+#: includes/functions/members.php:144 includes/functions/members.php:152
 #: includes/mb/main/inc/about/sections/welcome.php:15
 #, php-format
 msgid "Welcome to %s"
 msgstr "Bem Vindo a %s"
 
-#: includes/functions/members.php:143
+#: includes/functions/members.php:145
 #, php-format
 msgid "Your username is: %s"
 msgstr "O seu utilizador é: %s"
 
-#: includes/functions/members.php:144
+#: includes/functions/members.php:146
 #, php-format
 msgid "You can login using following password: %s"
 msgstr "Você pode fazer o login usando a seguinte password: %s"
 
-#: includes/functions/members.php:145
+#: includes/functions/members.php:147
 msgid "It is highly recommended to change your password after login."
 msgstr "É altamente recomendado alterar sua password após o login."
 
-#: includes/functions/members.php:146
+#: includes/functions/members.php:148
 msgid "For more details visit:"
 msgstr "Para mais detalhes visite:"
+
+#: includes/functions/plugin-update.php:82
+msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
+msgstr ""
+
+#: includes/functions/plugin-update.php:87
+msgid "An unknown error occurred"
+msgstr "Ocorreu um erro desconhecido"
 
 #: includes/functions/price.php:13
 msgid "$"
@@ -1012,7 +1093,7 @@ msgstr "Um novo imóvel foi inserido por %s em %s"
 
 #: includes/functions/property-submit.php:35
 msgid "You can preview it here : "
-msgstr "Você pode pré-visualizar aqui:"
+msgstr "Você pode pré-visualizar aqui: "
 
 #: includes/functions/property-submit.php:44
 #, php-format
@@ -1085,7 +1166,7 @@ msgstr "Inserir Fax do comercial"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:55
 #: includes/mb/agent-agency-meta-boxes-config.php:159
-#: includes/settings/social.php:52
+#: includes/settings/social.php:77
 msgid "Facebook URL"
 msgstr "Facebook URL"
 
@@ -1095,7 +1176,7 @@ msgstr "Inserir URL do Facebook do comercial"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:62
 #: includes/mb/agent-agency-meta-boxes-config.php:166
-#: includes/settings/social.php:56
+#: includes/settings/social.php:84
 msgid "Twitter URL"
 msgstr "Twitter URL"
 
@@ -1114,7 +1195,7 @@ msgstr "Inserir URL do LinkedIn do comercial"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:76
 #: includes/mb/agent-agency-meta-boxes-config.php:180
-#: includes/settings/social.php:64
+#: includes/settings/social.php:98
 msgid "Instagram URL"
 msgstr "Instagram URL"
 
@@ -1167,18 +1248,18 @@ msgstr "Inserir URL do LinkedIn da agência"
 msgid "Provide Agency Instagram URL"
 msgstr "Inserir URL do Instagram da agência"
 
-#: includes/mb/class-ere-meta-boxes.php:109
+#: includes/mb/class-ere-meta-boxes.php:129
 msgid "Meta Box plugin has been deactivated!"
 msgstr "O plugin Meta Box foi desativado!"
 
-#: includes/mb/class-ere-meta-boxes.php:110
+#: includes/mb/class-ere-meta-boxes.php:130
 msgid ""
 "As similar functionality is already embedded with in Easy Real Estate plugin."
 msgstr ""
 "Como funcionalidade semelhante já está incorporada no plugin Easy Real "
 "Estate."
 
-#: includes/mb/class-ere-meta-boxes.php:111
+#: includes/mb/class-ere-meta-boxes.php:132
 msgid "So, You should completely remove it from your plugins."
 msgstr "Então, você deve removê-lo completamente de seus plugins."
 
@@ -1186,14 +1267,8 @@ msgstr "Então, você deve removê-lo completamente de seus plugins."
 msgid "Additional Details"
 msgstr "Detalhes Adicionais"
 
-#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:79
-#: includes/mb/property-meta-boxes-config.php:389
-#: includes/widgets/rh-contact-information-widget.php:113
-msgid "Title"
-msgstr "Título"
-
 #: includes/mb/custom/class-ere-additional-details-meta-boxes.php:80
-#: includes/mb/main/inc/fields/key-value.php:135
+#: includes/mb/main/inc/fields/key-value.php:136
 msgid "Value"
 msgstr "Valor"
 
@@ -1207,6 +1282,7 @@ msgstr "Tem certeza de que deseja remover este grupo?"
 
 #: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:135
 #: includes/mb/main/inc/fields/file-input.php:45
+#: includes/settings/social.php:167
 msgid "Remove"
 msgstr "Eliminar"
 
@@ -1218,77 +1294,54 @@ msgstr "Entrada {#}"
 msgid "Entry"
 msgstr "Entrada"
 
-#: includes/mb/main/inc/about/about.php:38
+#: includes/mb/main/inc/about/about.php:54
 msgid "About"
 msgstr "Sobre"
 
-#: includes/mb/main/inc/about/about.php:50
-#: includes/mb/main/inc/about/about.php:51
+#: includes/mb/main/inc/about/about.php:66
+#: includes/mb/main/inc/about/about.php:67
 msgid "Meta Box"
 msgstr "Meta Box"
 
-#: includes/mb/main/inc/about/about.php:66
+#: includes/mb/main/inc/about/about.php:82
 msgid "Welcome to Meta Box"
 msgstr "Bem vindo ao Meta Box"
 
-#: includes/mb/main/inc/about/about.php:67
+#: includes/mb/main/inc/about/about.php:83
 msgid "Dashboard"
 msgstr "Dashboard"
 
-#: includes/mb/main/inc/about/about.php:145
+#: includes/mb/main/inc/about/about.php:153
 #, php-format
 msgid ""
-"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">"
-"&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" "
-"target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you "
-"from the Meta Box team!"
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
 msgstr ""
-"Por favor classifique <strong>Meta Box</strong> <a href=\"%1$s\" "
-"target=\"_blank\"> &#9733;&#9733;&#9733;&#9733;&#9733;</a>em<a href=\"%1$s\" "
-"target=\"_blank\">WordPress.org</a> para nos ajudar a espalhar a palavra. "
-"Obrigado da equipa Meta Box!"
+"Por favor classifique <strong>Meta Box</strong> <a href=\"%1$s\" target="
+"\"_blank\"> &#9733;&#9733;&#9733;&#9733;&#9733;</a>em<a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> para nos ajudar a espalhar a palavra. Obrigado "
+"da equipa Meta Box!"
 
 #: includes/mb/main/inc/about/sections/extensions.php:11
+#| msgid ""
+#| "Extend custom fields in WordPress well beyond what others would ever "
+#| "consider ordinary! Save over 70% with our extensions bundles."
 msgid ""
 "Extend custom fields in WordPress well beyond what others would ever "
-"consider ordinary! Save over 70% with our extensions bundles."
+"consider ordinary!"
 msgstr ""
-"Estenda campos personalizados no WordPress muito além do que os outros "
-"considerariam comuns! Economize mais de 70% com nossos pacotes de extensões."
 
-#: includes/mb/main/inc/about/sections/extensions.php:11
+#: includes/mb/main/inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:12
 msgid "View Bundles"
 msgstr "Ver Pacotes"
 
-#: includes/mb/main/inc/about/sections/extensions.php:19
-msgid ""
-"Drag and drop your custom fields into place without a single line of code."
-msgstr ""
-"Arraste e solte seus campos personalizados sem uma única linha de código."
-
-#: includes/mb/main/inc/about/sections/extensions.php:23
-#: includes/mb/main/inc/about/sections/extensions.php:47
-#: includes/mb/main/inc/about/sections/extensions.php:59
-#: includes/mb/main/inc/about/sections/extensions.php:71
-#: includes/mb/main/inc/about/sections/extensions.php:83
-#: includes/mb/main/inc/about/sections/extensions.php:95
-#: includes/mb/main/inc/about/sections/extensions.php:107
-#: includes/mb/main/inc/about/sections/extensions.php:119
-#: includes/mb/main/inc/about/sections/extensions.php:131
-#: includes/mb/main/inc/about/sections/extensions.php:143
-#: includes/mb/main/inc/about/sections/extensions.php:215
-#: includes/mb/main/inc/about/sections/extensions.php:227
-#: includes/mb/main/inc/about/sections/extensions.php:239
-#: includes/mb/main/inc/about/sections/extensions.php:287
-#: includes/mb/main/inc/about/sections/extensions.php:299
-#: includes/mb/main/inc/about/sections/extensions.php:311
-#: includes/mb/main/inc/about/sections/extensions.php:323
-#: includes/mb/main/inc/about/sections/extensions.php:335
-#: includes/mb/main/inc/about/sections/getting-started.php:23
-msgid "Learn More"
-msgstr "Saiba Mais"
-
-#: includes/mb/main/inc/about/sections/extensions.php:31
+#: includes/mb/main/inc/about/sections/extensions.php:20
 msgid ""
 "Create and manage custom post types easily in WordPress with an easy-to-use "
 "interface."
@@ -1296,20 +1349,29 @@ msgstr ""
 "Crie e gerencie tipos de posts personalizados facilmente no WordPress com "
 "uma interface fácil de usar."
 
-#: includes/mb/main/inc/about/sections/extensions.php:35
-#: includes/mb/main/inc/about/sections/extensions.php:155
-#: includes/mb/main/inc/about/sections/extensions.php:167
-#: includes/mb/main/inc/about/sections/extensions.php:179
-#: includes/mb/main/inc/about/sections/extensions.php:191
-#: includes/mb/main/inc/about/sections/extensions.php:203
-#: includes/mb/main/inc/about/sections/extensions.php:251
-#: includes/mb/main/inc/about/sections/extensions.php:263
-#: includes/mb/main/inc/about/sections/extensions.php:275
-#: includes/mb/main/inc/about/sections/extensions.php:347
+#: includes/mb/main/inc/about/sections/extensions.php:24
+#: includes/mb/main/inc/about/sections/extensions.php:120
 msgid "Free Download"
 msgstr "Download Grátis"
 
-#: includes/mb/main/inc/about/sections/extensions.php:43
+#: includes/mb/main/inc/about/sections/extensions.php:32
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+"Arraste e solte seus campos personalizados sem uma única linha de código."
+
+#: includes/mb/main/inc/about/sections/extensions.php:36
+#: includes/mb/main/inc/about/sections/extensions.php:48
+#: includes/mb/main/inc/about/sections/extensions.php:60
+#: includes/mb/main/inc/about/sections/extensions.php:72
+#: includes/mb/main/inc/about/sections/extensions.php:84
+#: includes/mb/main/inc/about/sections/extensions.php:96
+#: includes/mb/main/inc/about/sections/extensions.php:108
+#: includes/mb/main/inc/about/sections/getting-started.php:23
+msgid "Learn More"
+msgstr "Saiba Mais"
+
+#: includes/mb/main/inc/about/sections/extensions.php:44
 msgid ""
 "Create repeatable groups of custom fields for better appearance and "
 "structure."
@@ -1317,13 +1379,13 @@ msgstr ""
 "Crie grupos repetidos de campos personalizados para melhor aparência e "
 "estrutura."
 
-#: includes/mb/main/inc/about/sections/extensions.php:55
+#: includes/mb/main/inc/about/sections/extensions.php:56
 msgid "Create a powerful settings page for your theme, plugin or website."
 msgstr ""
 "Crie uma poderosa página de configurações para o seu tema, plug-in ou "
 "website."
 
-#: includes/mb/main/inc/about/sections/extensions.php:67
+#: includes/mb/main/inc/about/sections/extensions.php:68
 msgid ""
 "Control the visibility of meta boxes and fields or even HTML elements with "
 "ease."
@@ -1331,20 +1393,7 @@ msgstr ""
 "Controle a visibilidade de caixas meta e campos ou até mesmo elementos HTML "
 "com facilidade."
 
-#: includes/mb/main/inc/about/sections/extensions.php:79
-msgid "Easily add custom fields to categories, tags or any custom taxonomy."
-msgstr ""
-"Adicione facilmente campos personalizados a categorias, tags ou qualquer "
-"taxonomia personalizada."
-
-#: includes/mb/main/inc/about/sections/extensions.php:91
-msgid ""
-"Add custom fields to user profile (user meta) quickly with simple syntax."
-msgstr ""
-"Adicione campos personalizados ao perfil do utilizador (meta do utilizador) "
-"rapidamente com uma sintaxe simples."
-
-#: includes/mb/main/inc/about/sections/extensions.php:103
+#: includes/mb/main/inc/about/sections/extensions.php:80
 msgid ""
 "Create register, login and edit user profile forms in the frontend. Embed "
 "everywhere with shortcodes."
@@ -1352,7 +1401,7 @@ msgstr ""
 "Crie registos, efetue login e edite formulários de perfil de utilizador no "
 "frontend. Incorporar em todos os lugares com códigos de acesso."
 
-#: includes/mb/main/inc/about/sections/extensions.php:115
+#: includes/mb/main/inc/about/sections/extensions.php:92
 msgid ""
 "Create frontend forms for users to submit custom content. Embed everywhere "
 "with shortcode."
@@ -1360,134 +1409,34 @@ msgstr ""
 "Crie formulários de frontend para os utlizadores enviarem conteúdo "
 "personalizado. Incorporar em todos os lugares com shortcode."
 
-#: includes/mb/main/inc/about/sections/extensions.php:127
-msgid "Add as many custom fields as you want and organize them into tabs."
-msgstr "Adicione quantos campos personalizados desejar e organize-os em guias."
-
-#: includes/mb/main/inc/about/sections/extensions.php:139
+#: includes/mb/main/inc/about/sections/extensions.php:104
+#, fuzzy
+#| msgid ""
+#| "Save custom fields data to custom table instead of the default meta "
+#| "tables. Reduce database size and increase performance."
 msgid ""
-"Save custom fields data to custom table instead of the default meta tables. "
-"Reduce database size and increase performance."
+"Save custom fields data to custom table. Reduce database size and increase "
+"performance."
 msgstr ""
 "Salve os dados dos campos personalizados na tabela personalizada, em vez das "
 "tabelas meta padrão. Reduza o tamanho da base de dados e aumente o "
 "desempenho."
 
-#: includes/mb/main/inc/about/sections/extensions.php:151
-msgid "Pull all meta value from posts, terms into the WP REST API responses."
-msgstr ""
-"Puxe todo o meta valor de posts, termos para as respostas da WP REST API."
-
-#: includes/mb/main/inc/about/sections/extensions.php:163
-msgid ""
-"A lightweight WordPress plugin for creating many-to-many relationships "
-"between posts, terms and users."
+#: includes/mb/main/inc/about/sections/extensions.php:116
+#, fuzzy
+#| msgid ""
+#| "A lightweight WordPress plugin for creating many-to-many relationships "
+#| "between posts, terms and users."
+msgid "Create many-to-many relationships between posts, terms and users."
 msgstr ""
 "Um leve plugin WordPress para criar relacionamentos muitos-para-muitos entre "
 "posts, termos e utilizadores."
 
-#: includes/mb/main/inc/about/sections/extensions.php:175
-msgid ""
-"Integrates Meta Box and FacetWP, makes custom fields searchable and "
-"filterable in the frontend."
-msgstr ""
-"Integra Meta Box e FacetWP, torna os campos personalizados pesquisáveis e "
-"filtráveis no frontend."
-
-#: includes/mb/main/inc/about/sections/extensions.php:187
-msgid ""
-"Select and show custom fields created by the Meta Box plugin in the Beaver "
-"Themer field connection."
-msgstr ""
-"Selecione e mostre os campos personalizados criados pelo plug-in Meta Box na "
-"conexão de campo Beaver Themer."
-
-#: includes/mb/main/inc/about/sections/extensions.php:199
-msgid ""
-"Add custom fields to comments in WordPress. Support all field types and "
-"options."
-msgstr ""
-"Adicione campos personalizados aos comentários no WordPress. Suporta todos "
-"os tipos e opções de campos."
-
-#: includes/mb/main/inc/about/sections/extensions.php:211
-msgid ""
-"Track changes of custom fields with WordPress revision. Save, compare, "
-"restore the changes easily."
-msgstr ""
-"Acompanhe alterações de campos personalizados com a revisão do WordPress. "
-"Grave, compare, restaure as alterações facilmente."
-
-#: includes/mb/main/inc/about/sections/extensions.php:223
-msgid ""
-"Automatically and instantly populate location data with the power of Google "
-"Maps Geolocation API."
-msgstr ""
-"Preencha automaticamente e instantaneamente os dados de localização com o "
-"poder da API de localização geográfica do Google Maps."
-
-#: includes/mb/main/inc/about/sections/extensions.php:235
-msgid ""
-"Display custom fields in table columns in admin screens for All Posts (types)"
-"."
-msgstr ""
-"Exibe campos personalizados nas colunas da tabela nas telas de administração "
-"para todos os Posts (tipos)."
-
-#: includes/mb/main/inc/about/sections/extensions.php:247
-msgid ""
-"Add content of custom fields to Yoast SEO Content Analysis to have "
-"better/correct SEO score."
-msgstr ""
-"Adicione conteúdo de campos personalizados ao Yoast SEO Content Analysis "
-"para obter uma pontuação de SEO melhor / correta."
-
-#: includes/mb/main/inc/about/sections/extensions.php:259
-msgid ""
-"Limit the number of characters or words entered for text and textarea fields."
-msgstr ""
-"Limite o número de caracteres ou palavras inseridos para campos de texto."
-
-#: includes/mb/main/inc/about/sections/extensions.php:271
-msgid ""
-"Automatically updates all Meta Box extensions within the WordPress Admin "
-"area."
-msgstr ""
-"Atualiza automaticamente todas as extensões do Meta Box dentro da área Admin "
-"do WordPress."
-
-#: includes/mb/main/inc/about/sections/extensions.php:283
-msgid "Define custom meta boxes and custom fields easier with templates."
-msgstr ""
-"Defina caixas meta personalizadas e campos personalizados com mais "
-"facilidade com modelos."
-
-#: includes/mb/main/inc/about/sections/extensions.php:295
-msgid "Display help information for fields using beautiful tooltips."
-msgstr ""
-"Exibir informações de ajuda para campos usando lindas dicas de ferramentas."
-
-#: includes/mb/main/inc/about/sections/extensions.php:307
-msgid "Toggle meta boxes by page template, post format or taxonomy using JS."
-msgstr ""
-"Alternar caixas meta por modelo de página, formato de postagem ou taxonomia "
-"usando JS."
-
-#: includes/mb/main/inc/about/sections/extensions.php:319
-msgid "Display fields more beautiful by putting them into 12-columns grid."
-msgstr "Exiba os campos mais bonitos colocando-os em uma grade de 12 colunas."
-
-#: includes/mb/main/inc/about/sections/extensions.php:331
-msgid "Show or hide meta boxes whenever and for whomever you choose."
-msgstr "Mostrar ou ocultar caixas meta sempre e para quem você escolher."
-
-#: includes/mb/main/inc/about/sections/extensions.php:343
-msgid ""
-"Create and manage custom taxonomies with an easy-to-use interface in "
-"WordPress."
-msgstr ""
-"Crie e gerencie taxonomias personalizadas com uma interface fácil de usar no "
-"WordPress."
+#: includes/mb/main/inc/about/sections/extensions.php:124
+#, fuzzy
+#| msgid "More Extensions"
+msgid "View all extensions"
+msgstr "Mais Extensões"
 
 #: includes/mb/main/inc/about/sections/getting-started.php:12
 msgid "Getting Started With Online Generator"
@@ -1533,7 +1482,6 @@ msgstr ""
 #: includes/mb/main/inc/about/sections/getting-started.php:25
 #: includes/mb/main/inc/about/sections/tabs.php:12
 #: includes/mb/main/inc/about/sections/welcome.php:22
-#: includes/mb/main/inc/core.php:39
 msgid "Extensions"
 msgstr "Extensões"
 
@@ -1542,8 +1490,8 @@ msgid ""
 "Wanna see more features that transform your WordPress website into a "
 "powerful CMS? Check out some extensions below:"
 msgstr ""
-"Quer ver mais recursos que transformam seu site WordPress em um poderoso CMS?"
-" Confira algumas extensões abaixo:"
+"Quer ver mais recursos que transformam seu site WordPress em um poderoso "
+"CMS? Confira algumas extensões abaixo:"
 
 #: includes/mb/main/inc/about/sections/getting-started.php:28
 msgid "Meta Box Group"
@@ -1695,11 +1643,18 @@ msgstr ""
 "instruções abaixo para começar!"
 
 #: includes/mb/main/inc/about/sections/welcome.php:21
-#: includes/mb/main/inc/core.php:38
 msgid "Documentation"
 msgstr "Documentação"
 
-#: includes/mb/main/inc/field.php:331
+#: includes/mb/main/inc/core.php:38
+msgid "Docs"
+msgstr "Docs"
+
+#: includes/mb/main/inc/core.php:39
+msgid "Go Pro"
+msgstr "Ir pro"
+
+#: includes/mb/main/inc/field.php:354
 msgid "+ Add more"
 msgstr "+ Adicionar Mais"
 
@@ -1811,7 +1766,7 @@ msgstr "Clique em mim"
 #: includes/mb/property-meta-boxes-config.php:184
 #: includes/mb/property-meta-boxes-config.php:268
 #: includes/mb/property-meta-boxes-config.php:486 includes/settings/gdpr.php:33
-#: includes/settings/gdpr.php:71 includes/settings/map.php:35
+#: includes/settings/gdpr.php:75 includes/settings/map.php:48
 #: includes/shortcodes/vc-map.php:279
 msgid "Yes"
 msgstr "Sim"
@@ -1820,7 +1775,7 @@ msgstr "Sim"
 #: includes/mb/property-meta-boxes-config.php:185
 #: includes/mb/property-meta-boxes-config.php:269
 #: includes/mb/property-meta-boxes-config.php:584 includes/settings/gdpr.php:38
-#: includes/settings/gdpr.php:76 includes/settings/map.php:40
+#: includes/settings/gdpr.php:80 includes/settings/map.php:53
 #: includes/shortcodes/vc-map.php:278
 msgid "No"
 msgstr "Não"
@@ -1857,33 +1812,28 @@ msgctxt "file upload"
 msgid "+ Add new file"
 msgstr "+ Adicionar Novo Ficheiro"
 
-#: includes/mb/main/inc/fields/file.php:159
+#: includes/mb/main/inc/fields/file.php:169
 msgctxt "file upload"
 msgid "Delete"
 msgstr "Apagar"
 
-#: includes/mb/main/inc/fields/file.php:160
+#: includes/mb/main/inc/fields/file.php:170
 msgctxt "file upload"
 msgid "Edit"
 msgstr "Editar"
 
 #: includes/mb/main/inc/fields/input-list.php:92
-msgid "Select All / None"
-msgstr "Selecione Todos / Nenhum"
+msgid "Toggle All"
+msgstr "Seleccionar tudo"
 
-#: includes/mb/main/inc/fields/key-value.php:134
+#: includes/mb/main/inc/fields/key-value.php:135
 msgid "Key"
 msgstr "Chave"
 
 #: includes/mb/main/inc/fields/map.php:55
-#: includes/mb/main/inc/fields/osm.php:27
+#: includes/mb/main/inc/fields/osm.php:28
 msgid "No results found"
 msgstr "Nenhum resultado encontrado"
-
-#: includes/mb/main/inc/fields/map.php:87
-#: includes/mb/main/inc/fields/osm.php:60
-msgid "Find Address"
-msgstr "Encontrar endereço"
 
 #: includes/mb/main/inc/fields/media.php:27
 msgctxt "media"
@@ -1893,12 +1843,12 @@ msgstr "+ Adicionar Media"
 #: includes/mb/main/inc/fields/media.php:28
 msgctxt "media"
 msgid " file"
-msgstr "ficheiro"
+msgstr " ficheiro"
 
 #: includes/mb/main/inc/fields/media.php:29
 msgctxt "media"
 msgid " files"
-msgstr "ficheiros"
+msgstr " ficheiros"
 
 #: includes/mb/main/inc/fields/media.php:30
 msgctxt "media"
@@ -1939,12 +1889,12 @@ msgstr "Arrastar ficheiros aqui para enviar"
 msgid "Embed HTML not available."
 msgstr "Incorporar HTML não disponível."
 
-#: includes/mb/main/inc/fields/post.php:35
+#: includes/mb/main/inc/fields/post.php:78
 msgid "Select a post"
 msgstr "Selecione um post"
 
-#: includes/mb/main/inc/fields/post.php:41
-#: includes/mb/main/inc/fields/taxonomy.php:51
+#: includes/mb/main/inc/fields/post.php:84
+#: includes/mb/main/inc/fields/taxonomy.php:96
 #, php-format
 msgid "Select a %s"
 msgstr "Selecione uma %s"
@@ -1976,17 +1926,162 @@ msgstr "On"
 msgid "Off"
 msgstr "Off"
 
-#: includes/mb/main/inc/fields/taxonomy.php:47
+#: includes/mb/main/inc/fields/taxonomy.php:92
 msgid "Select a term"
 msgstr "Selecione um termo"
 
-#: includes/mb/main/inc/fields/user.php:24
+#: includes/mb/main/inc/fields/user.php:82
 msgid "Select an user"
 msgstr "Seleccione um Utilizador"
+
+#: includes/mb/main/inc/update/checker.php:133
+msgid ""
+"UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
+"updates."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:112
+#, php-format
+msgid ""
+"You have not set your Meta Box license key yet, which means you are missing "
+"out on automatic updates and support! Please <a href=\"%1$s\">enter your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:114
+#: includes/mb/main/inc/update/notification.php:116
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
+"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
+"new one</a> to enable automatic updates."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:118
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a> to get automatic updates and "
+"premium support."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:142
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:144
+#: includes/mb/main/inc/update/notification.php:146
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:148
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:171
+msgid "Activate License"
+msgstr "Activar licença"
+
+#: includes/mb/main/inc/update/notification.php:171
+msgid "Update License"
+msgstr "Atualizar Licença"
+
+#: includes/mb/main/inc/update/settings.php:72
+#: includes/mb/main/inc/update/settings.php:90
+#, fuzzy
+#| msgid "Meta Box Newsletter"
+msgid "Meta Box License"
+msgstr "Meta Box Newsletter"
+
+#: includes/mb/main/inc/update/settings.php:72
+msgid "License"
+msgstr "Licença"
+
+#: includes/mb/main/inc/update/settings.php:91
+msgid ""
+"Please enter your license key to enable automatic updates for Meta Box "
+"extensions."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:96
+#, php-format
+msgid ""
+"To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website. If you have not purchased any "
+"extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:108
+msgid "License Key"
+msgstr "Chave de licença"
+
+#: includes/mb/main/inc/update/settings.php:114
+#: includes/mb/main/inc/update/settings.php:116
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please update your license key or <a "
+"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:118
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:119
+msgid "Your license key is <b>active</b>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:130
+#: includes/settings/captcha.php:58 includes/settings/gdpr.php:89
+#: includes/settings/map.php:97 includes/settings/price.php:89
+#: includes/settings/slug.php:66 includes/settings/social.php:186
+msgid "Save Changes"
+msgstr "Gravar Alterações"
+
+#: includes/mb/main/inc/update/settings.php:156
+msgid ""
+"Something wrong with the connection to metabox.io. Please try again later."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:158
+msgid "Your license is activated."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:161
+#, php-format
+msgid ""
+"License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:167
+#, php-format
+msgid ""
+"Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
+"or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr ""
 
 #: includes/mb/main/inc/validation.php:50
 msgid "Please correct the errors highlighted below and try again."
 msgstr "Corrija os erros destacados abaixo e tente novamente."
+
+#: includes/mb/main/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
 
 #: includes/mb/meta-box-helper-functions.php:116
 msgid ""
@@ -2125,9 +2220,10 @@ msgstr "Tamanho do Lote Postfix"
 
 #: includes/mb/property-meta-boxes-config.php:132
 #: includes/mb/property-meta-boxes-config.php:338
-#: includes/widgets/agent-featured-properties-widget.php:258
-#: includes/widgets/agent-properties-widget.php:268
-#: includes/widgets/featured-properties-widget.php:260
+#: includes/widgets/agent-featured-properties-widget.php:286
+#: includes/widgets/agent-properties-widget.php:289
+#: includes/widgets/featured-properties-widget.php:286
+#: includes/widgets/properties-widget.php:314
 msgid "Bedrooms"
 msgstr "Quartos"
 
@@ -2137,9 +2233,10 @@ msgstr "Exemplo de valor: 4"
 
 #: includes/mb/property-meta-boxes-config.php:141
 #: includes/mb/property-meta-boxes-config.php:345
-#: includes/widgets/agent-featured-properties-widget.php:269
-#: includes/widgets/agent-properties-widget.php:279
-#: includes/widgets/featured-properties-widget.php:271
+#: includes/widgets/agent-featured-properties-widget.php:307
+#: includes/widgets/agent-properties-widget.php:300
+#: includes/widgets/featured-properties-widget.php:307
+#: includes/widgets/properties-widget.php:325
 msgid "Bathrooms"
 msgstr "WCs"
 
@@ -2325,18 +2422,18 @@ msgstr "360º Tour Virtual"
 
 #: includes/mb/property-meta-boxes-config.php:417
 msgid ""
-"Provide iframe embed code or <a href=\"https://wordpress."
-"org/plugins/ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">"
-"iPanorama</a> shortcode for the 360 virtual tour. For more details please "
-"consult <a href=\"https://realhomes.io/documentation/add-property/#add-video-"
-"tour-and-virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
+"Provide iframe embed code or <a href=\"https://wordpress.org/plugins/"
+"ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">iPanorama</a> "
+"shortcode for the 360 virtual tour. For more details please consult <a href="
+"\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
+"virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
 msgstr ""
-"Forneça o código de incorporação de iframe ou o shortcode do <a href=\"https:"
-"//wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/\" "
+"Forneça o código de incorporação de iframe ou o shortcode do <a href="
+"\"https://wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/\" "
 "target=\"_blank\"> iPanorama </a> para o tour virtual 360 . Para obter mais "
-"detalhes, consulte <a href=\"https://realhomes.io/documentation/add-"
-"property/#add-video-tour-and-virtual-tour\" target=\"_blank\"> Adicionar "
-"Imóvel </a> em documentação."
+"detalhes, consulte <a href=\"https://realhomes.io/documentation/add-property/"
+"#add-video-tour-and-virtual-tour\" target=\"_blank\"> Adicionar Imóvel </a> "
+"em documentação."
 
 #: includes/mb/property-meta-boxes-config.php:438
 #, php-format
@@ -2405,8 +2502,8 @@ msgid ""
 "You can add a property label to display on property thumbnails. Example "
 "Value: Hot Deal"
 msgstr ""
-"Você pode adicionar um rótulo de imóvel para exibir nas miniaturas do imóvel."
-" Exemplo de valor: oferta especial"
+"Você pode adicionar um rótulo de imóvel para exibir nas miniaturas do "
+"imóvel. Exemplo de valor: oferta especial"
 
 #: includes/mb/property-meta-boxes-config.php:507
 msgid "Label Background Color"
@@ -2494,8 +2591,9 @@ msgstr "Imagem de Banner superior"
 #: includes/mb/property-meta-boxes-config.php:603
 msgid ""
 "Upload the banner image, If you want to change it for this property. "
-"Otherwise default banner image uploaded from theme options will be displayed."
-" Image should have minimum width of 2000px and minimum height of 230px."
+"Otherwise default banner image uploaded from theme options will be "
+"displayed. Image should have minimum width of 2000px and minimum height of "
+"230px."
 msgstr ""
 "Carregue a imagem do banner, se você quer a mudar para este imóvel. Caso "
 "contrário, a imagem de banner padrão enviada a partir das opções de tema "
@@ -2631,28 +2729,6 @@ msgstr ""
 msgid "Secret Key"
 msgstr "Chave secreta"
 
-#: includes/settings/captcha.php:58 includes/settings/gdpr.php:85
-#: includes/settings/map.php:49 includes/settings/price.php:89
-#: includes/settings/slug.php:66 includes/settings/social.php:87
-msgid "Save Changes"
-msgstr "Gravar Alterações"
-
-#: includes/settings/gdpr.php:8
-msgid "GDPR Agreement"
-msgstr "Acordo RGPD"
-
-#: includes/settings/gdpr.php:9
-msgid ""
-"I consent to having this website store my submitted information so they can "
-"respond to my inquiry."
-msgstr ""
-"Eu concordo que este site armazene as minhas informações enviadas para que "
-"elas possam responder à minha consulta."
-
-#: includes/settings/gdpr.php:10
-msgid "* Please accept GDPR agreement"
-msgstr "* Por favor, aceite o acordo RGPD"
-
 #: includes/settings/gdpr.php:27 includes/settings/gdpr.php:30
 msgid "Add GDPR agreement checkbox in forms across website?"
 msgstr "Adicionar caixa de seleção de contrato RGPD em formulários no site?"
@@ -2665,23 +2741,37 @@ msgstr "Etiqueta de caixa de verificação do acordo RGPD"
 msgid "GDPR agreement checkbox text"
 msgstr "Texto da caixa de seleção do acordo RGPD"
 
-#: includes/settings/gdpr.php:58
-msgid "You can use <a> tag in your GDPR agreement checkbox text."
-msgstr "Você pode usar a tag <a> no texto da caixa de seleção do acordo RGPD."
-
 #: includes/settings/gdpr.php:62
+#| msgid "You can use <a> tag in your GDPR agreement checkbox text."
+msgid ""
+"You can use <a>,<br>,<em> and <strong> tags in your GDPR agreement text."
+msgstr ""
+
+#: includes/settings/gdpr.php:66
 msgid "GDPR agreement checkbox validation message"
 msgstr "Mensagem de validação da caixa de seleção do acordo RGPD"
 
-#: includes/settings/gdpr.php:65 includes/settings/gdpr.php:68
+#: includes/settings/gdpr.php:69 includes/settings/gdpr.php:72
 msgid "Add GDPR detail in resulting email?"
 msgstr "Adicionar detalhe RGPD no email resultante?"
 
-#: includes/settings/map.php:17
+#: includes/settings/map.php:10
+msgid "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
+msgstr ""
+
+#: includes/settings/map.php:11
+msgid "25.7308309,-80.44414899999998"
+msgstr ""
+
+#: includes/settings/map.php:12
+msgid "27.664827,-81.515755"
+msgstr ""
+
+#: includes/settings/map.php:25
 msgid "Open Street Map"
 msgstr "Open Street Map"
 
-#: includes/settings/map.php:19
+#: includes/settings/map.php:27
 msgid ""
 "By default, Open Street Map will be displayed if Google Maps API key is "
 "empty."
@@ -2689,13 +2779,44 @@ msgstr ""
 "Por padrão, o Open Street Map será exibido se a chave da API do Google Maps "
 "estiver vazia."
 
-#: includes/settings/map.php:25
+#: includes/settings/map.php:34
 msgid "Google Maps API Key"
 msgstr "Chave da API do Google Maps"
 
-#: includes/settings/map.php:29 includes/settings/map.php:32
+#: includes/settings/map.php:41 includes/settings/map.php:45
 msgid "Localize Google Maps"
 msgstr "Localize o Google Maps"
+
+#: includes/settings/map.php:60
+msgid "Google Maps Styles JSON (optional)"
+msgstr ""
+
+#: includes/settings/map.php:64
+#, php-format
+msgid ""
+"You can create Google Maps styles JSON using %s Google Styling Wizard %s or "
+"%s Snazzy Maps %s."
+msgstr ""
+
+#: includes/settings/map.php:69
+#, fuzzy
+#| msgid "Add New Property"
+msgid "Default Address for New Property"
+msgstr "Adicionar Novo Imóvel"
+
+#: includes/settings/map.php:77
+msgid "Default Map Location for New Property (Latitude,Longitude)"
+msgstr ""
+
+#: includes/settings/map.php:81 includes/settings/map.php:90
+#, php-format
+msgid ""
+"You can use %s OR %s to get Latitude and longitude of your desired location."
+msgstr ""
+
+#: includes/settings/map.php:86
+msgid "Default Properties Map Location (Latitude,Longitude)"
+msgstr ""
 
 #: includes/settings/price.php:29
 msgid "Currency Sign"
@@ -2836,41 +2957,56 @@ msgstr "Slug do Tipo do Imóvel"
 msgid "Property Feature Slug"
 msgstr "Slug da Característica do Imóvel"
 
-#: includes/settings/social.php:35 includes/settings/social.php:38
+#: includes/settings/social.php:55 includes/settings/social.php:59
 msgid "Show or Hide Social Icons"
 msgstr "Mostrar ou ocultar ícones sociais"
 
-#: includes/settings/social.php:41
+#: includes/settings/social.php:64
 msgid "Show"
 msgstr "Mostrar"
 
-#: includes/settings/social.php:46
+#: includes/settings/social.php:70
 msgid "Hide"
 msgstr "Ocultar"
 
-#: includes/settings/social.php:60
+#: includes/settings/social.php:91
 msgid "Linkedin URL"
 msgstr "Linkedin URL"
 
-#: includes/settings/social.php:68
+#: includes/settings/social.php:105
 msgid "YouTube URL"
 msgstr "YouTube URL"
 
-#: includes/settings/social.php:72
+#: includes/settings/social.php:112
 msgid "Pinterest URL"
 msgstr "Pinterest URL"
 
-#: includes/settings/social.php:76
+#: includes/settings/social.php:119
 msgid "RSS URL"
 msgstr "RSS URL"
 
-#: includes/settings/social.php:80
+#: includes/settings/social.php:125
 msgid "Skype Username"
 msgstr "Utilizador Skype"
 
+#: includes/settings/social.php:164
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/settings/social.php:165
+msgid "Ok"
+msgstr "OK"
+
+#: includes/settings/social.php:180
+#, fuzzy
+#| msgctxt "file upload"
+#| msgid "+ Add new file"
+msgid "+ Add New Social Network"
+msgstr "+ Adicionar Novo Ficheiro"
+
 #: includes/shortcodes/elements.php:319
 msgid "Result:"
-msgstr "Resultado"
+msgstr "Resultado:"
 
 #: includes/shortcodes/elements.php:319
 msgid "No Properties Found!"
@@ -2889,9 +3025,10 @@ msgid "Layout"
 msgstr "Layout"
 
 #: includes/shortcodes/vc-map.php:94
-#: includes/widgets/agent-featured-properties-widget.php:365
-#: includes/widgets/agent-properties-widget.php:391
-#: includes/widgets/featured-properties-widget.php:365
+#: includes/widgets/agent-featured-properties-widget.php:424
+#: includes/widgets/agent-properties-widget.php:419
+#: includes/widgets/featured-properties-widget.php:420
+#: includes/widgets/properties-widget.php:427
 msgid "Number of Properties"
 msgstr "Número de Imóveis"
 
@@ -2967,10 +3104,11 @@ msgstr ""
 "configuração de formulário."
 
 #: includes/widgets/advance-search-widget.php:57
-#: includes/widgets/agent-featured-properties-widget.php:354
-#: includes/widgets/agent-properties-widget.php:374
+#: includes/widgets/agent-featured-properties-widget.php:413
+#: includes/widgets/agent-properties-widget.php:402
 #: includes/widgets/agents-list-widget.php:125
-#: includes/widgets/featured-properties-widget.php:359
+#: includes/widgets/featured-properties-widget.php:414
+#: includes/widgets/properties-widget.php:421
 #: includes/widgets/property-types-widget.php:82
 msgid "Widget Title"
 msgstr "Título do Widget"
@@ -2983,62 +3121,80 @@ msgstr "Importante: Este widget é apenas para a Barra Lateral do Comercial."
 msgid "RealHomes - Agent Featured Properties"
 msgstr "RealHomes - Imóveis em destaque do comercial"
 
-#: includes/widgets/agent-featured-properties-widget.php:119
-#: includes/widgets/agent-properties-widget.php:129
-#: includes/widgets/featured-properties-widget.php:120
+#: includes/widgets/agent-featured-properties-widget.php:129
+#: includes/widgets/agent-featured-properties-widget.php:394
+#: includes/widgets/agent-featured-properties-widget.php:435
+#: includes/widgets/agent-properties-widget.php:139
+#: includes/widgets/agent-properties-widget.php:379
+#: includes/widgets/agent-properties-widget.php:434
+#: includes/widgets/featured-properties-widget.php:130
+#: includes/widgets/featured-properties-widget.php:398
+#: includes/widgets/featured-properties-widget.php:441
+#: includes/widgets/properties-widget.php:165
+#: includes/widgets/properties-widget.php:404
+#: includes/widgets/properties-widget.php:449
 msgid "Read More"
 msgstr "Ler Mais"
 
-#: includes/widgets/agent-featured-properties-widget.php:139
-#: includes/widgets/agent-featured-properties-widget.php:327
+#: includes/widgets/agent-featured-properties-widget.php:152
+#: includes/widgets/agent-featured-properties-widget.php:378
 msgid "No Featured Property Found For This Agent"
 msgstr "Nenhum imóvel em destaque encontrado para este comercial"
 
-#: includes/widgets/agent-featured-properties-widget.php:168
-#: includes/widgets/agent-properties-widget.php:178
-#: includes/widgets/featured-properties-widget.php:168
+#: includes/widgets/agent-featured-properties-widget.php:181
+#: includes/widgets/agent-properties-widget.php:191
+#: includes/widgets/featured-properties-widget.php:181
+#: includes/widgets/properties-widget.php:215
 msgid "Featured"
 msgstr "Destaque"
 
-#: includes/widgets/agent-featured-properties-widget.php:213
-#: includes/widgets/agent-featured-properties-widget.php:225
-#: includes/widgets/agent-properties-widget.php:223
-#: includes/widgets/agent-properties-widget.php:235
-#: includes/widgets/featured-properties-widget.php:215
-#: includes/widgets/featured-properties-widget.php:227
+#: includes/widgets/agent-featured-properties-widget.php:235
+#: includes/widgets/agent-featured-properties-widget.php:247
+#: includes/widgets/agent-properties-widget.php:244
+#: includes/widgets/agent-properties-widget.php:256
+#: includes/widgets/featured-properties-widget.php:235
+#: includes/widgets/featured-properties-widget.php:247
+#: includes/widgets/properties-widget.php:270
+#: includes/widgets/properties-widget.php:282
 msgid "Added to compare"
 msgstr "Adicionado para comparar"
 
-#: includes/widgets/agent-featured-properties-widget.php:217
-#: includes/widgets/agent-featured-properties-widget.php:229
-#: includes/widgets/agent-properties-widget.php:227
-#: includes/widgets/agent-properties-widget.php:239
-#: includes/widgets/featured-properties-widget.php:219
-#: includes/widgets/featured-properties-widget.php:231
+#: includes/widgets/agent-featured-properties-widget.php:239
+#: includes/widgets/agent-featured-properties-widget.php:251
+#: includes/widgets/agent-properties-widget.php:248
+#: includes/widgets/agent-properties-widget.php:260
+#: includes/widgets/featured-properties-widget.php:239
+#: includes/widgets/featured-properties-widget.php:251
+#: includes/widgets/properties-widget.php:274
+#: includes/widgets/properties-widget.php:286
 msgid "Add to compare"
 msgstr "Adicionar para comparar"
 
-#: includes/widgets/agent-featured-properties-widget.php:280
-#: includes/widgets/agent-properties-widget.php:290
-#: includes/widgets/featured-properties-widget.php:282
+#: includes/widgets/agent-featured-properties-widget.php:328
+#: includes/widgets/agent-properties-widget.php:311
+#: includes/widgets/featured-properties-widget.php:328
+#: includes/widgets/properties-widget.php:336
 msgid "Area"
 msgstr "Área"
 
-#: includes/widgets/agent-featured-properties-widget.php:358
-#: includes/widgets/agent-properties-widget.php:384
-#: includes/widgets/featured-properties-widget.php:371
+#: includes/widgets/agent-featured-properties-widget.php:417
+#: includes/widgets/agent-properties-widget.php:412
+#: includes/widgets/featured-properties-widget.php:426
+#: includes/widgets/properties-widget.php:433
 msgid "Sort By:"
 msgstr "Ordenar Por:"
 
-#: includes/widgets/agent-featured-properties-widget.php:360
-#: includes/widgets/agent-properties-widget.php:386
-#: includes/widgets/featured-properties-widget.php:374
+#: includes/widgets/agent-featured-properties-widget.php:419
+#: includes/widgets/agent-properties-widget.php:414
+#: includes/widgets/featured-properties-widget.php:429
+#: includes/widgets/properties-widget.php:436
 msgid "Most Recent"
 msgstr "Mais recente"
 
-#: includes/widgets/agent-featured-properties-widget.php:361
-#: includes/widgets/agent-properties-widget.php:387
-#: includes/widgets/featured-properties-widget.php:375
+#: includes/widgets/agent-featured-properties-widget.php:420
+#: includes/widgets/agent-properties-widget.php:415
+#: includes/widgets/featured-properties-widget.php:430
+#: includes/widgets/properties-widget.php:437
 msgid "Random"
 msgstr "Aleatório"
 
@@ -3052,16 +3208,16 @@ msgstr ""
 msgid "RealHomes - Agent Related Properties"
 msgstr "RealHomes - Imóveis Relacionadas ao Comercial"
 
-#: includes/widgets/agent-properties-widget.php:150
-#: includes/widgets/agent-properties-widget.php:337
+#: includes/widgets/agent-properties-widget.php:163
+#: includes/widgets/agent-properties-widget.php:358
 msgid "No Property Found Under Selected Agent!"
 msgstr "Nenhum imóvel encontrado do comercial selecionado!"
 
-#: includes/widgets/agent-properties-widget.php:378
+#: includes/widgets/agent-properties-widget.php:406
 msgid "Select an Agent:"
 msgstr "Selecione um Comercial:"
 
-#: includes/widgets/agent-properties-widget.php:396
+#: includes/widgets/agent-properties-widget.php:424
 msgid "Show only Featured Properties."
 msgstr "Mostrar apenas os imóveis em destaque."
 
@@ -3089,10 +3245,46 @@ msgstr "Exibe os Imóveis em Destaque aleatórios ou recentes."
 msgid "RealHomes - Featured Properties"
 msgstr "RealHomes - Imóveis em Destaque"
 
-#: includes/widgets/featured-properties-widget.php:140
-#: includes/widgets/featured-properties-widget.php:329
+#: includes/widgets/featured-properties-widget.php:153
+#: includes/widgets/featured-properties-widget.php:378
 msgid "No Featured Property Found!"
 msgstr "Nenhum imóvel em destaque encontrado!"
+
+#: includes/widgets/properties-widget.php:28
+msgid "Displays Properties based on custom filters."
+msgstr ""
+
+#: includes/widgets/properties-widget.php:33
+#, fuzzy
+#| msgid "RealHomes - Property Types"
+msgid "RealHomes - Properties"
+msgstr "RealHomes - Tipos de Imóvel"
+
+#: includes/widgets/properties-widget.php:188
+#: includes/widgets/properties-widget.php:383
+#| msgid "No Property found"
+msgid "No Property Found!"
+msgstr "Nenhum Imóvel Encontrado!"
+
+#: includes/widgets/properties-widget.php:465
+#| msgid "Property Location on Map"
+msgid "Property Location:"
+msgstr "Localização do Imóvel:"
+
+#: includes/widgets/properties-widget.php:499
+#| msgid "Property Status"
+msgid "Property Status:"
+msgstr "Estado do imóvel:"
+
+#: includes/widgets/properties-widget.php:532
+#| msgid "Property Types"
+msgid "Property Types:"
+msgstr ""
+
+#: includes/widgets/properties-widget.php:564
+#| msgid "Property Feature"
+msgid "Property Feature:"
+msgstr ""
 
 #: includes/widgets/property-types-widget.php:26
 msgid "This widget displays a list of Property Types."
@@ -3102,35 +3294,39 @@ msgstr "Este widget exibe uma lista de tipos de imóvel."
 msgid "RealHomes - Property Types"
 msgstr "RealHomes - Tipos de Imóvel"
 
-#: includes/widgets/rh-contact-information-widget.php:26
+#: includes/widgets/rh-contact-information-widget.php:24
 msgid "Displays general contact information."
 msgstr "Exibe informações gerais de contato."
 
-#: includes/widgets/rh-contact-information-widget.php:29
+#: includes/widgets/rh-contact-information-widget.php:27
 msgid "RealHomes - Contact Information"
 msgstr "RealHomes - Informação de Contacto"
 
-#: includes/widgets/rh-contact-information-widget.php:101
+#: includes/widgets/rh-contact-information-widget.php:106
 msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
 msgstr "Avenida dos Aliados, 1 - Porto"
 
-#: includes/widgets/rh-contact-information-widget.php:102
+#: includes/widgets/rh-contact-information-widget.php:107
 msgid "+123-456-789"
 msgstr "+351 91 234 56 78"
 
-#: includes/widgets/rh-contact-information-widget.php:103
+#: includes/widgets/rh-contact-information-widget.php:108
 msgid "robot@inspirythemes.com"
 msgstr "robot@inspirythemes.com"
 
-#: includes/widgets/rh-contact-information-widget.php:116
+#: includes/widgets/rh-contact-information-widget.php:122
 msgid "Contact Address"
 msgstr "Endereço de contato"
 
-#: includes/widgets/rh-contact-information-widget.php:119
+#: includes/widgets/rh-contact-information-widget.php:126
 msgid "Phone Number"
 msgstr "Telemóvel"
 
-#: includes/widgets/rh-contact-information-widget.php:122
+#: includes/widgets/rh-contact-information-widget.php:131
+msgid "Use WhatsApp icon for the phone number?"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:134
 msgid "Email"
 msgstr "Email"
 
@@ -3147,3 +3343,121 @@ msgstr "Fornece funcionalidade de imóveis para o tema Real Homes."
 #. Author URI of the plugin/theme
 msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
 msgstr "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
+
+#~ msgid "Easily add custom fields to categories, tags or any custom taxonomy."
+#~ msgstr ""
+#~ "Adicione facilmente campos personalizados a categorias, tags ou qualquer "
+#~ "taxonomia personalizada."
+
+#~ msgid ""
+#~ "Add custom fields to user profile (user meta) quickly with simple syntax."
+#~ msgstr ""
+#~ "Adicione campos personalizados ao perfil do utilizador (meta do "
+#~ "utilizador) rapidamente com uma sintaxe simples."
+
+#~ msgid "Add as many custom fields as you want and organize them into tabs."
+#~ msgstr ""
+#~ "Adicione quantos campos personalizados desejar e organize-os em guias."
+
+#~ msgid ""
+#~ "Pull all meta value from posts, terms into the WP REST API responses."
+#~ msgstr ""
+#~ "Puxe todo o meta valor de posts, termos para as respostas da WP REST API."
+
+#~ msgid ""
+#~ "Integrates Meta Box and FacetWP, makes custom fields searchable and "
+#~ "filterable in the frontend."
+#~ msgstr ""
+#~ "Integra Meta Box e FacetWP, torna os campos personalizados pesquisáveis e "
+#~ "filtráveis no frontend."
+
+#~ msgid ""
+#~ "Select and show custom fields created by the Meta Box plugin in the "
+#~ "Beaver Themer field connection."
+#~ msgstr ""
+#~ "Selecione e mostre os campos personalizados criados pelo plug-in Meta Box "
+#~ "na conexão de campo Beaver Themer."
+
+#~ msgid ""
+#~ "Add custom fields to comments in WordPress. Support all field types and "
+#~ "options."
+#~ msgstr ""
+#~ "Adicione campos personalizados aos comentários no WordPress. Suporta "
+#~ "todos os tipos e opções de campos."
+
+#~ msgid ""
+#~ "Track changes of custom fields with WordPress revision. Save, compare, "
+#~ "restore the changes easily."
+#~ msgstr ""
+#~ "Acompanhe alterações de campos personalizados com a revisão do WordPress. "
+#~ "Grave, compare, restaure as alterações facilmente."
+
+#~ msgid ""
+#~ "Automatically and instantly populate location data with the power of "
+#~ "Google Maps Geolocation API."
+#~ msgstr ""
+#~ "Preencha automaticamente e instantaneamente os dados de localização com o "
+#~ "poder da API de localização geográfica do Google Maps."
+
+#~ msgid ""
+#~ "Display custom fields in table columns in admin screens for All Posts "
+#~ "(types)."
+#~ msgstr ""
+#~ "Exibe campos personalizados nas colunas da tabela nas telas de "
+#~ "administração para todos os Posts (tipos)."
+
+#~ msgid ""
+#~ "Add content of custom fields to Yoast SEO Content Analysis to have better/"
+#~ "correct SEO score."
+#~ msgstr ""
+#~ "Adicione conteúdo de campos personalizados ao Yoast SEO Content Analysis "
+#~ "para obter uma pontuação de SEO melhor / correta."
+
+#~ msgid ""
+#~ "Limit the number of characters or words entered for text and textarea "
+#~ "fields."
+#~ msgstr ""
+#~ "Limite o número de caracteres ou palavras inseridos para campos de texto."
+
+#~ msgid ""
+#~ "Automatically updates all Meta Box extensions within the WordPress Admin "
+#~ "area."
+#~ msgstr ""
+#~ "Atualiza automaticamente todas as extensões do Meta Box dentro da área "
+#~ "Admin do WordPress."
+
+#~ msgid "Define custom meta boxes and custom fields easier with templates."
+#~ msgstr ""
+#~ "Defina caixas meta personalizadas e campos personalizados com mais "
+#~ "facilidade com modelos."
+
+#~ msgid "Display help information for fields using beautiful tooltips."
+#~ msgstr ""
+#~ "Exibir informações de ajuda para campos usando lindas dicas de "
+#~ "ferramentas."
+
+#~ msgid ""
+#~ "Toggle meta boxes by page template, post format or taxonomy using JS."
+#~ msgstr ""
+#~ "Alternar caixas meta por modelo de página, formato de postagem ou "
+#~ "taxonomia usando JS."
+
+#~ msgid "Display fields more beautiful by putting them into 12-columns grid."
+#~ msgstr ""
+#~ "Exiba os campos mais bonitos colocando-os em uma grade de 12 colunas."
+
+#~ msgid "Show or hide meta boxes whenever and for whomever you choose."
+#~ msgstr "Mostrar ou ocultar caixas meta sempre e para quem você escolher."
+
+#~ msgid ""
+#~ "Create and manage custom taxonomies with an easy-to-use interface in "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Crie e gerencie taxonomias personalizadas com uma interface fácil de usar "
+#~ "no WordPress."
+
+#~ msgid "Select All / None"
+#~ msgstr "Selecione Todos / Nenhum"
+
+#~ msgid "Find Address"
+#~ msgstr "Encontrar endereço"
