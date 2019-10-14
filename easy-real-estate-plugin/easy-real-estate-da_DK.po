@@ -1,0 +1,3226 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Easy Real Estate\n"
+"POT-Creation-Date: 2019-10-08 18:04+0500\n"
+"PO-Revision-Date: 2019-10-14 18:26+0500\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-real-estate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: da_DK\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: easy-real-estate.php:223
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:79
+#: includes/mb/property-meta-boxes-config.php:389
+#: includes/settings/social.php:143
+#: includes/widgets/rh-contact-information-widget.php:118
+msgid "Title"
+msgstr "Titel"
+
+#: easy-real-estate.php:224 includes/settings/social.php:151
+msgid "Profile URL"
+msgstr "Profil Link"
+
+#: easy-real-estate.php:225 includes/settings/social.php:158
+msgid "Icon Class"
+msgstr "Ikon klasse"
+
+#: easy-real-estate.php:226 includes/settings/social.php:158
+msgid "Example: fa-flicker"
+msgstr ""
+
+#: easy-real-estate.php:227
+msgid "Get icon!"
+msgstr ""
+
+#: easy-real-estate.php:238
+msgid "Price Format"
+msgstr "Pris format"
+
+#: easy-real-estate.php:239
+msgid "URL Slugs"
+msgstr "URL links"
+
+#: easy-real-estate.php:240
+msgid "Maps"
+msgstr "Kort"
+
+#: easy-real-estate.php:241
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: easy-real-estate.php:242
+msgid "Social"
+msgstr "Social"
+
+#: easy-real-estate.php:243
+msgid "GDPR"
+msgstr "GDPR"
+
+#: easy-real-estate.php:345
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: easy-real-estate.php:354
+msgid "Cloning is forbidden!"
+msgstr ""
+
+#: easy-real-estate.php:361
+msgid "Unserializing is forbidden!"
+msgstr "Unserialisering er forbudt!"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-menu/class-ere-admin-menu.php:38
+#: includes/admin-menu/class-ere-admin-menu.php:39
+#: includes/settings/settings.php:8 includes/settings/settings.php:11
+msgid "Easy Real Estate"
+msgstr ""
+
+#: includes/admin-menu/class-ere-admin-menu.php:51
+#: includes/custom-post-types/property.php:25
+msgid "Add New Property"
+msgstr "Tilføj ny ejendom"
+
+#: includes/admin-menu/class-ere-admin-menu.php:52
+#: includes/custom-post-types/property.php:27
+msgid "New Property"
+msgstr "Ny ydelse"
+
+#: includes/admin-menu/class-ere-admin-menu.php:73
+#: includes/admin-menu/class-ere-admin-menu.php:74
+#: includes/custom-post-types/agency.php:15
+msgid "Agencies"
+msgstr "Bureauer"
+
+#: includes/admin-menu/class-ere-admin-menu.php:81
+#: includes/admin-menu/class-ere-admin-menu.php:82
+#: includes/custom-post-types/agent.php:20
+#: includes/widgets/agents-list-widget.php:34
+#: includes/widgets/agents-list-widget.php:116
+msgid "Agents"
+msgstr "Mæglere"
+
+#: includes/admin-menu/class-ere-admin-menu.php:89
+#: includes/admin-menu/class-ere-admin-menu.php:90
+#: includes/custom-post-types/partners.php:11
+msgid "Partners"
+msgstr "Partnere"
+
+#: includes/admin-menu/class-ere-admin-menu.php:97
+#: includes/admin-menu/class-ere-admin-menu.php:98
+#: includes/custom-post-types/slide.php:11
+msgid "Slides"
+msgstr "Dias"
+
+#: includes/admin-menu/class-ere-admin-menu.php:105
+#: includes/admin-menu/class-ere-admin-menu.php:106
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/custom-post-types/agency.php:13
+msgctxt "Post Type General Name"
+msgid "Agencies"
+msgstr "Bureauer"
+
+#: includes/custom-post-types/agency.php:14
+msgctxt "Post Type Singular Name"
+msgid "Agency"
+msgstr "Firma"
+
+#: includes/custom-post-types/agency.php:16
+#: includes/custom-post-types/agency.php:42
+#: includes/custom-post-types/agency.php:110
+#: includes/mb/agent-agency-meta-boxes-config.php:87
+msgid "Agency"
+msgstr "Firma"
+
+#: includes/custom-post-types/agency.php:17
+msgid "Agency Archives"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:18
+msgid "Agency Attributes"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:19
+msgid "Parent Agency:"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:20
+msgid "All Agencies"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:21
+msgid "Add New Agency"
+msgstr "Tilføj nyt agentur"
+
+#: includes/custom-post-types/agency.php:22
+#: includes/custom-post-types/agent.php:22
+#: includes/custom-post-types/partners.php:13
+#: includes/custom-post-types/property.php:24
+#: includes/custom-post-types/slide.php:13
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: includes/custom-post-types/agency.php:23
+msgid "New Agency"
+msgstr "Nyt agentur"
+
+#: includes/custom-post-types/agency.php:24
+msgid "Edit Agency"
+msgstr "Rediger agentur"
+
+#: includes/custom-post-types/agency.php:25
+msgid "Update Agency"
+msgstr "Updater boligudlejer"
+
+#: includes/custom-post-types/agency.php:26
+msgid "View Agency"
+msgstr "Vis udlejer"
+
+#: includes/custom-post-types/agency.php:27
+msgid "View Agencies"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:28
+msgid "Search Agency"
+msgstr "Søg udlejere"
+
+#: includes/custom-post-types/agency.php:29
+msgid "Not found"
+msgstr "Ikke fundet"
+
+#: includes/custom-post-types/agency.php:30
+msgid "Not found in Trash"
+msgstr "Ikke fundet i papirkurven"
+
+#: includes/custom-post-types/agency.php:31
+msgid "Agency Logo Image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:32
+msgid "Set agency logo image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:33
+msgid "Remove agency logo image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:34
+msgid "Use as agency logo image"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:35
+msgid "Insert into agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:36
+msgid "Uploaded to this agency"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:37
+msgid "Agencies list"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:38
+msgid "Agencies list navigation"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:39
+msgid "Filter agencies list"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:43
+msgid "An agency is a company of realtors."
+msgstr ""
+
+#: includes/custom-post-types/agency.php:60 includes/settings/slug.php:9
+msgid "agency"
+msgstr "agent"
+
+#: includes/custom-post-types/agency.php:63
+msgid "agencies"
+msgstr "bureauer"
+
+#: includes/custom-post-types/agency.php:111
+#: includes/custom-post-types/agent.php:97
+#: includes/custom-post-types/property.php:382
+#: includes/custom-post-types/slide.php:63
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/custom-post-types/agency.php:112
+#: includes/custom-post-types/agent.php:98
+msgid "Total Properties"
+msgstr "Total antal ejendomme"
+
+#: includes/custom-post-types/agency.php:113
+#: includes/custom-post-types/agent.php:99
+msgid "Published Properties"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:114
+#: includes/custom-post-types/agent.php:100
+msgid "Other Properties"
+msgstr ""
+
+#: includes/custom-post-types/agency.php:115
+#: includes/custom-post-types/agent.php:101
+msgid "Created"
+msgstr "Oprettet"
+
+#: includes/custom-post-types/agency.php:162
+#: includes/custom-post-types/agent.php:149
+#: includes/custom-post-types/property.php:427
+msgid "No Thumbnail"
+msgstr "Ingen miniaturebillede"
+
+#: includes/custom-post-types/agent.php:21
+#: includes/custom-post-types/agent.php:96
+#: includes/mb/property-meta-boxes-config.php:472
+#: includes/shortcodes/vc-map.php:137
+msgid "Agent"
+msgstr "Agent"
+
+#: includes/custom-post-types/agent.php:23
+msgid "Add New Agent"
+msgstr "Tilføj ny mægler"
+
+#: includes/custom-post-types/agent.php:24
+msgid "Edit Agent"
+msgstr "Rediger mægler"
+
+#: includes/custom-post-types/agent.php:25
+msgid "New Agent"
+msgstr "Ny mægler"
+
+#: includes/custom-post-types/agent.php:26
+msgid "View Agent"
+msgstr "Se mægler"
+
+#: includes/custom-post-types/agent.php:27
+msgid "Search Agent"
+msgstr "Søg mægler"
+
+#: includes/custom-post-types/agent.php:28
+msgid "No Agent found"
+msgstr "Ingen mæglere fundet"
+
+#: includes/custom-post-types/agent.php:29
+msgid "No Agent found in Trash"
+msgstr "Ingen mæglere fundet i papirkurven"
+
+#: includes/custom-post-types/agent.php:48 includes/settings/slug.php:8
+msgid "agent"
+msgstr "mægler"
+
+#: includes/custom-post-types/agent.php:51
+msgid "agents"
+msgstr ""
+
+#: includes/custom-post-types/partners.php:12
+#: includes/custom-post-types/partners.php:65
+msgid "Partner"
+msgstr "Partner"
+
+#: includes/custom-post-types/partners.php:14
+msgid "Add New Partner"
+msgstr "Tilføj ny partner"
+
+#: includes/custom-post-types/partners.php:15
+msgid "Edit Partner"
+msgstr "Rediger partner"
+
+#: includes/custom-post-types/partners.php:16
+msgid "New Partner"
+msgstr "Ny partner"
+
+#: includes/custom-post-types/partners.php:17
+msgid "View Partner"
+msgstr "Se partner"
+
+#: includes/custom-post-types/partners.php:18
+msgid "Search Partner"
+msgstr "Søg partner"
+
+#: includes/custom-post-types/partners.php:19
+msgid "No Partner found"
+msgstr "Ingen partner fundet"
+
+#: includes/custom-post-types/partners.php:20
+msgid "No Partner found in Trash"
+msgstr "Ingen Partner fundet i papirkurven"
+
+#: includes/custom-post-types/partners.php:38
+#: includes/custom-post-types/partners.php:41
+msgid "partners"
+msgstr "partnere"
+
+#: includes/custom-post-types/partners.php:66
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/custom-post-types/partners.php:67
+#: includes/custom-post-types/property.php:388
+msgid "Publish Time"
+msgstr "Tid for udgivelse"
+
+#: includes/custom-post-types/partners.php:91
+msgid "No logo provided"
+msgstr "Ingen logo angivet!"
+
+#: includes/custom-post-types/property.php:22 includes/shortcodes/vc-map.php:77
+#: includes/widgets/properties-widget.php:409
+msgid "Properties"
+msgstr "Ejendomme"
+
+#: includes/custom-post-types/property.php:23
+#: includes/mb/property-meta-boxes-config.php:28
+msgid "Property"
+msgstr "Ejendom"
+
+#: includes/custom-post-types/property.php:26
+msgid "Edit Property"
+msgstr "Rediger ejendom"
+
+#: includes/custom-post-types/property.php:28
+#: includes/widgets/agent-featured-properties-widget.php:207
+#: includes/widgets/agent-featured-properties-widget.php:392
+#: includes/widgets/agent-featured-properties-widget.php:431
+#: includes/widgets/agent-properties-widget.php:216
+#: includes/widgets/agent-properties-widget.php:377
+#: includes/widgets/agent-properties-widget.php:430
+#: includes/widgets/featured-properties-widget.php:206
+#: includes/widgets/featured-properties-widget.php:396
+#: includes/widgets/featured-properties-widget.php:437
+#: includes/widgets/properties-widget.php:240
+#: includes/widgets/properties-widget.php:402
+#: includes/widgets/properties-widget.php:445
+msgid "View Property"
+msgstr "Vis ejendom"
+
+#: includes/custom-post-types/property.php:29
+msgid "Search Property"
+msgstr "Søg ydelse"
+
+#: includes/custom-post-types/property.php:30
+msgid "No Property found"
+msgstr "Ingen ejendomme fundet"
+
+#: includes/custom-post-types/property.php:31
+msgid "No Property found in Trash"
+msgstr "Ingen ejendomme fundet i papirkurv"
+
+#: includes/custom-post-types/property.php:32
+msgid "Parent Property"
+msgstr "Overordnet ejendom"
+
+#: includes/custom-post-types/property.php:58 includes/settings/slug.php:7
+msgid "property"
+msgstr "ejendom"
+
+#: includes/custom-post-types/property.php:61
+msgid "properties"
+msgstr "egendomme"
+
+#: includes/custom-post-types/property.php:116
+#: includes/custom-post-types/property.php:130
+msgid "Property Features"
+msgstr "Ejendomsegenskaber"
+
+#: includes/custom-post-types/property.php:117
+msgid "Property Feature"
+msgstr ""
+
+#: includes/custom-post-types/property.php:118
+msgid "Search Property Features"
+msgstr "Søg i ejendommes funktioner"
+
+#: includes/custom-post-types/property.php:119
+msgid "Popular Property Features"
+msgstr "Populære ejendomsfunktioner"
+
+#: includes/custom-post-types/property.php:120
+msgid "All Property Features"
+msgstr "Alle ejendomsfunktioner"
+
+#: includes/custom-post-types/property.php:121
+msgid "Parent Property Feature"
+msgstr "Overordnede ejendomsfunktioner"
+
+#: includes/custom-post-types/property.php:122
+msgid "Parent Property Feature:"
+msgstr "Overordnet ejendoms funktioner:"
+
+#: includes/custom-post-types/property.php:123
+msgid "Edit Property Feature"
+msgstr "Rediger ejendoms funktioner"
+
+#: includes/custom-post-types/property.php:124
+msgid "Update Property Feature"
+msgstr "Opdater ejendoms funktioner"
+
+#: includes/custom-post-types/property.php:125
+msgid "Add New Property Feature"
+msgstr "Tilføj ny ejendoms funktion"
+
+#: includes/custom-post-types/property.php:126
+msgid "New Property Feature Name"
+msgstr "Nyt ejendomsfunktionsnavn"
+
+#: includes/custom-post-types/property.php:127
+msgid "Separate Property Features with commas"
+msgstr "Adskil ejendomsfunktioner med kommaer"
+
+#: includes/custom-post-types/property.php:128
+msgid "Add or remove Property Features"
+msgstr "Tilføj eller fjern ejendomsfunktioner"
+
+#: includes/custom-post-types/property.php:129
+msgid "Choose from the most used Property Features"
+msgstr "Vælg fra de mest anvendte ejendomsfunktioner"
+
+#: includes/custom-post-types/property.php:143 includes/settings/slug.php:13
+msgid "property-feature"
+msgstr "ejendomsfunktion"
+
+#: includes/custom-post-types/property.php:146
+msgid "property-features"
+msgstr ""
+
+#: includes/custom-post-types/property.php:160
+#: includes/custom-post-types/property.php:174
+#: includes/widgets/property-types-widget.php:49
+#: includes/widgets/property-types-widget.php:76
+msgid "Property Types"
+msgstr "Ejendomstyper"
+
+#: includes/custom-post-types/property.php:161
+msgid "Property Type"
+msgstr "Ejendomstype"
+
+#: includes/custom-post-types/property.php:162
+msgid "Search Property Types"
+msgstr "Søg i ejendomstyper"
+
+#: includes/custom-post-types/property.php:163
+msgid "Popular Property Types"
+msgstr "Populære ejendomstyper"
+
+#: includes/custom-post-types/property.php:164
+#: includes/custom-post-types/property.php:675
+msgid "All Property Types"
+msgstr "Alle ydelsestyper"
+
+#: includes/custom-post-types/property.php:165
+msgid "Parent Property Type"
+msgstr "Overordnet ydelsestype"
+
+#: includes/custom-post-types/property.php:166
+msgid "Parent Property Type:"
+msgstr "Overordnet ydelsestype:"
+
+#: includes/custom-post-types/property.php:167
+msgid "Edit Property Type"
+msgstr "Rediger ydelsestype"
+
+#: includes/custom-post-types/property.php:168
+msgid "Update Property Type"
+msgstr "Opdatér ydelsestype"
+
+#: includes/custom-post-types/property.php:169
+msgid "Add New Property Type"
+msgstr "Tilføj ny ydelsestype"
+
+#: includes/custom-post-types/property.php:170
+msgid "New Property Type Name"
+msgstr "Ny ejendomstypenavn"
+
+#: includes/custom-post-types/property.php:171
+msgid "Separate Property Types with commas"
+msgstr "Adskil ejendomstyper med kommaer"
+
+#: includes/custom-post-types/property.php:172
+msgid "Add or remove Property Types"
+msgstr "Tilføj eller fjern ejendomstyper"
+
+#: includes/custom-post-types/property.php:173
+msgid "Choose from the most used Property Types"
+msgstr "Vælg mellem de mest brugte ejendomstyper"
+
+#: includes/custom-post-types/property.php:187 includes/settings/slug.php:12
+msgid "property-type"
+msgstr "ydelsestype"
+
+#: includes/custom-post-types/property.php:190
+msgid "property-types"
+msgstr ""
+
+#: includes/custom-post-types/property.php:204
+#: includes/custom-post-types/property.php:218
+msgid "Property Cities"
+msgstr "Ejendomsbeliggenheder"
+
+#: includes/custom-post-types/property.php:205
+msgid "Property City"
+msgstr "Beliggenhed"
+
+#: includes/custom-post-types/property.php:206
+msgid "Search Property Cities"
+msgstr "Søg i ejendomsbeliggenheder"
+
+#: includes/custom-post-types/property.php:207
+msgid "Popular Property Cities"
+msgstr "Populære beliggenheder"
+
+#: includes/custom-post-types/property.php:208
+#: includes/custom-post-types/property.php:662
+msgid "All Property Cities"
+msgstr "Alle beliggenheder"
+
+#: includes/custom-post-types/property.php:209
+msgid "Parent Property City"
+msgstr "Overordnet ejendomsbeliggenhed"
+
+#: includes/custom-post-types/property.php:210
+msgid "Parent Property City:"
+msgstr "Overordnet ejendomsbeliggenhed:"
+
+#: includes/custom-post-types/property.php:211
+msgid "Edit Property City"
+msgstr "Redigér ejendomsbeliggenhed"
+
+#: includes/custom-post-types/property.php:212
+msgid "Update Property City"
+msgstr "Opdatér ejendomsbeliggenhed"
+
+#: includes/custom-post-types/property.php:213
+msgid "Add New Property City"
+msgstr "Tilføj ny ejendomsbeliggenhed"
+
+#: includes/custom-post-types/property.php:214
+msgid "New Property City Name"
+msgstr "Ny ejendomsbeliggenhed"
+
+#: includes/custom-post-types/property.php:215
+msgid "Separate Property Cities with commas"
+msgstr "Adskil ejendomsbeliggenheder med kommaer"
+
+#: includes/custom-post-types/property.php:216
+msgid "Add or remove Property Cities"
+msgstr "Tilføj eller fjern ejendomsbeliggenheder"
+
+#: includes/custom-post-types/property.php:217
+msgid "Choose from the most used Property Cities"
+msgstr "Vælg fra de mest anvendte ejendomsbeliggenheder"
+
+#: includes/custom-post-types/property.php:231 includes/settings/slug.php:10
+msgid "property-city"
+msgstr "ejendoms beliggenhed"
+
+#: includes/custom-post-types/property.php:234
+msgid "property-cities"
+msgstr ""
+
+#: includes/custom-post-types/property.php:248
+msgid "Property Statuses"
+msgstr "Bolig statusser"
+
+#: includes/custom-post-types/property.php:249
+#: includes/custom-post-types/property.php:262
+msgid "Property Status"
+msgstr "Ejendomsstatus"
+
+#: includes/custom-post-types/property.php:250
+msgid "Search Property Status"
+msgstr "Søg ejendomsstatus"
+
+#: includes/custom-post-types/property.php:251
+msgid "Popular Property Status"
+msgstr "Populære ejendomsstatus"
+
+#: includes/custom-post-types/property.php:252
+msgid "All Property Status"
+msgstr "Alle ejendomsstatus"
+
+#: includes/custom-post-types/property.php:253
+msgid "Parent Property Status"
+msgstr "Overordnet ejendomsstatus"
+
+#: includes/custom-post-types/property.php:254
+msgid "Parent Property Status:"
+msgstr "Overordnet ejendomsstatus:"
+
+#: includes/custom-post-types/property.php:255
+msgid "Edit Property Status"
+msgstr "Redigér ejendomsstatus"
+
+#: includes/custom-post-types/property.php:256
+msgid "Update Property Status"
+msgstr "Opdatér ejendomsstatus"
+
+#: includes/custom-post-types/property.php:257
+msgid "Add New Property Status"
+msgstr "Tilføj nye ejendomsstatus"
+
+#: includes/custom-post-types/property.php:258
+msgid "New Property Status Name"
+msgstr "Nyt ejendomsstatusnavn"
+
+#: includes/custom-post-types/property.php:259
+msgid "Separate Property Status with commas"
+msgstr "Adskil ejendomsstatus med kommaer"
+
+#: includes/custom-post-types/property.php:260
+msgid "Add or remove Property Status"
+msgstr "Tilføj eller fjern ejendomsstatus"
+
+#: includes/custom-post-types/property.php:261
+msgid "Choose from the most used Property Status"
+msgstr "Vælg fra de mest anvendte ejendomsstatus"
+
+#: includes/custom-post-types/property.php:275 includes/settings/slug.php:11
+msgid "property-status"
+msgstr "ejendoms status"
+
+#: includes/custom-post-types/property.php:278
+msgid "property-statuses"
+msgstr ""
+
+#: includes/custom-post-types/property.php:381
+msgid "Property Title"
+msgstr "Ejendomsoverskrift"
+
+#: includes/custom-post-types/property.php:383
+msgid "City"
+msgstr "By"
+
+#: includes/custom-post-types/property.php:384
+msgid "Type"
+msgstr "Type"
+
+#: includes/custom-post-types/property.php:385
+msgid "Status"
+msgstr "Status"
+
+#: includes/custom-post-types/property.php:386
+#: includes/shortcodes/vc-map.php:123
+msgid "Price"
+msgstr "Pris"
+
+#: includes/custom-post-types/property.php:387
+#: includes/custom-post-types/property.php:719
+#: includes/mb/property-meta-boxes-config.php:159
+msgid "Property ID"
+msgstr "Konto ID"
+
+#: includes/custom-post-types/property.php:435
+#: includes/custom-post-types/property.php:447
+#: includes/custom-post-types/property.php:475
+#: includes/custom-post-types/property.php:483
+#: includes/custom-post-types/property.php:491
+#: includes/custom-post-types/slide.php:97
+msgid "NA"
+msgstr "Ikke tilgængelig"
+
+#: includes/custom-post-types/property.php:458
+msgid "No Address Provided!"
+msgstr "Ingen adresse angivet!"
+
+#: includes/custom-post-types/property.php:508
+msgid "Payment Information"
+msgstr "Betalingsinformation"
+
+#: includes/custom-post-types/property.php:523
+msgid "Not Available"
+msgstr "Ikke tilgængelig"
+
+#: includes/custom-post-types/property.php:538
+msgid "Transaction ID"
+msgstr "Transaktions-ID"
+
+#: includes/custom-post-types/property.php:543
+msgid "Payment Date"
+msgstr "Betalings Dato"
+
+#: includes/custom-post-types/property.php:548
+msgid "First Name"
+msgstr "Fornavn"
+
+#: includes/custom-post-types/property.php:553
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: includes/custom-post-types/property.php:558
+msgid "Payer Email"
+msgstr "Betaler email"
+
+#: includes/custom-post-types/property.php:563
+msgid "Payment Status"
+msgstr "Betalings status"
+
+#: includes/custom-post-types/property.php:568
+msgid "Payment Amount"
+msgstr "Betalings Beløb"
+
+#: includes/custom-post-types/property.php:573
+msgid "Payment Currency"
+msgstr "Betalings valuta"
+
+#: includes/custom-post-types/property.php:688
+msgid "All Property Statuses"
+msgstr ""
+
+#: includes/custom-post-types/property.php:701
+msgid "All Users"
+msgstr "Alle Brugere"
+
+#: includes/custom-post-types/slide.php:12
+msgid "Slide"
+msgstr "Slide"
+
+#: includes/custom-post-types/slide.php:14
+msgid "Add New Slide"
+msgstr "Tilføj nyt dias"
+
+#: includes/custom-post-types/slide.php:15
+msgid "Edit Slide"
+msgstr "Rediger dias"
+
+#: includes/custom-post-types/slide.php:16
+msgid "New Slide"
+msgstr "Nyt slide"
+
+#: includes/custom-post-types/slide.php:17
+msgid "View Slide"
+msgstr "Vis slide"
+
+#: includes/custom-post-types/slide.php:18
+msgid "Search Slide"
+msgstr "Søg slide"
+
+#: includes/custom-post-types/slide.php:19
+msgid "No Slide found"
+msgstr "Ingen slide fundet"
+
+#: includes/custom-post-types/slide.php:20
+msgid "No Slide found in Trash"
+msgstr "Ingen dias blev fundet i papirkurven"
+
+#: includes/custom-post-types/slide.php:62
+msgid "Slide Title"
+msgstr "Slide titel"
+
+#: includes/custom-post-types/slide.php:64
+msgid "Slide Sub Text"
+msgstr "Slide undertekst"
+
+#: includes/custom-post-types/slide.php:65 includes/shortcodes/vc-map.php:122
+msgid "Date"
+msgstr "Dato"
+
+#: includes/custom-post-types/slide.php:89
+msgid "No Slider Image"
+msgstr "Ingen slider billede"
+
+#: includes/custom-post-types/slide.php:112
+msgid "Slide Information"
+msgstr "Billed oplysninger"
+
+#: includes/custom-post-types/slide.php:131
+msgid "Sub Text"
+msgstr "Undertekst"
+
+#: includes/custom-post-types/slide.php:135
+msgid "This text will appear below Title on slide."
+msgstr "Denne tekst vises under titlen på slide."
+
+#: includes/custom-post-types/slide.php:140
+msgid "Target URL"
+msgstr "Link URL"
+
+#: includes/custom-post-types/slide.php:144
+msgid "This URL will be applied on Slide Image."
+msgstr ""
+
+#: includes/functions/basic.php:342 includes/settings/gdpr.php:8
+msgid "GDPR Agreement"
+msgstr ""
+
+#: includes/functions/basic.php:343 includes/settings/gdpr.php:10
+msgid "* Please accept GDPR agreement"
+msgstr ""
+
+#: includes/functions/basic.php:344 includes/settings/gdpr.php:9
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+
+#: includes/functions/form-handlers.php:36
+#: includes/functions/form-handlers.php:198
+#: includes/functions/form-handlers.php:360
+msgid "Unverified Nonce!"
+msgstr "Ubekræftet!"
+
+#: includes/functions/form-handlers.php:58
+#: includes/functions/form-handlers.php:220
+#: includes/functions/form-handlers.php:374
+msgid "Target Email address is not properly configured!"
+msgstr "Modtager e-mail adresse er ikke korrekt konfigureret!"
+
+#: includes/functions/form-handlers.php:75
+#: includes/functions/form-handlers.php:237
+#: includes/functions/form-handlers.php:403
+msgid "Provided Email address is invalid!"
+msgstr "E-mail adressen er ugyldig!"
+
+#: includes/functions/form-handlers.php:83
+#: includes/functions/form-handlers.php:245
+#: includes/functions/form-handlers.php:413
+msgid "New message sent by"
+msgstr "Ny besked sendt af"
+
+#: includes/functions/form-handlers.php:83
+msgid "using contact form at"
+msgstr ""
+
+#: includes/functions/form-handlers.php:88
+#: includes/functions/form-handlers.php:250
+#: includes/functions/form-handlers.php:419
+msgid "You have received a message from: "
+msgstr "Du har modtaget en besked fra: "
+
+#: includes/functions/form-handlers.php:90
+#: includes/functions/form-handlers.php:252
+msgid "Phone Number : "
+msgstr "Telefonnummer: "
+
+#: includes/functions/form-handlers.php:92
+#: includes/functions/form-handlers.php:254
+#: includes/functions/form-handlers.php:426
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: includes/functions/form-handlers.php:100
+#: includes/functions/form-handlers.php:262
+#: includes/functions/form-handlers.php:434
+msgid "GDPR Agreement: "
+msgstr ""
+
+#: includes/functions/form-handlers.php:104
+#: includes/functions/form-handlers.php:266
+#: includes/functions/form-handlers.php:438
+msgid "You can contact "
+msgstr "Du kan kontakte "
+
+#: includes/functions/form-handlers.php:104
+#: includes/functions/form-handlers.php:266
+#: includes/functions/form-handlers.php:438
+msgid " via email, "
+msgstr " via e-mail, "
+
+#: includes/functions/form-handlers.php:154
+#: includes/functions/form-handlers.php:316
+#: includes/functions/form-handlers.php:469
+msgid "Message Sent Successfully!"
+msgstr "Besked er sendt!"
+
+#: includes/functions/form-handlers.php:159
+#: includes/functions/form-handlers.php:321
+#: includes/functions/form-handlers.php:474
+msgid "Server Error: WordPress mail function failed!"
+msgstr "Serverfejl: WordPress e-mail funktion mislykkedes!"
+
+#: includes/functions/form-handlers.php:167
+#: includes/functions/form-handlers.php:329
+#: includes/functions/form-handlers.php:482
+msgid "Invalid Request !"
+msgstr ""
+
+#: includes/functions/form-handlers.php:245
+msgid "using home contact form at"
+msgstr ""
+
+#: includes/functions/form-handlers.php:412
+msgid "using agency contact form at"
+msgstr ""
+
+#: includes/functions/form-handlers.php:412
+msgid "using agent contact form at"
+msgstr "ved hjælp af mægler kontaktformular på"
+
+#: includes/functions/form-handlers.php:421
+msgid "Property Title : "
+msgstr "Ejendomsoverskrift: "
+
+#: includes/functions/form-handlers.php:424
+msgid "Property URL : "
+msgstr "Ejendoms URL: "
+
+#: includes/functions/form-handlers.php:439
+msgid " or via contact number "
+msgstr " eller via kontakt nummer "
+
+#: includes/functions/form-handlers.php:607
+msgid "reCAPTCHA Failed:"
+msgstr ""
+
+#: includes/functions/members.php:25
+msgid "Provide a valid username or email address!"
+msgstr "Angiv et gyldigt brugernavn eller e-mail adresse!"
+
+#: includes/functions/members.php:31
+msgid "No user found for given email!"
+msgstr "Ingen bruger fundet på den angivne e-mail adresse!"
+
+#: includes/functions/members.php:37
+msgid "No user found for given username!"
+msgstr "Ingen bruger fundet på det angivne brugernavn!"
+
+#: includes/functions/members.php:40
+msgid "Invalid username or email!"
+msgstr "Ugyldigt brugernavn eller e-mail adresse!"
+
+#: includes/functions/members.php:68
+#, php-format
+msgid "Your New Password For %s"
+msgstr ""
+
+#: includes/functions/members.php:69
+#, php-format
+msgid "Your new password is: %s"
+msgstr "Din nye adgangskode er: %s"
+
+#: includes/functions/members.php:81
+msgid "Check your email for new password"
+msgstr "Tjek din e-mail for ny adgangskode"
+
+#: includes/functions/members.php:83
+msgid "Failed to send you new password email!"
+msgstr "Det mislykkedes at sende nyt kodeord til din e-mail adresse!"
+
+#: includes/functions/members.php:87
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr "Ups! Noget gik galt under nulstilling af din adgangskode!"
+
+#: includes/functions/members.php:133
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "Ny brugerregistrering på dit websted %s:"
+
+#: includes/functions/members.php:134
+#, php-format
+msgid "Username: %s"
+msgstr "Brugernavn: %s"
+
+#: includes/functions/members.php:135
+#, php-format
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+#: includes/functions/members.php:139
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Ny brugerregistrering"
+
+#: includes/functions/members.php:144 includes/functions/members.php:152
+#: includes/mb/main/inc/about/sections/welcome.php:15
+#, php-format
+msgid "Welcome to %s"
+msgstr "Velkommen til %s"
+
+#: includes/functions/members.php:145
+#, php-format
+msgid "Your username is: %s"
+msgstr ""
+
+#: includes/functions/members.php:146
+#, php-format
+msgid "You can login using following password: %s"
+msgstr "Du kan logge ind med følgende adgangskode: %s"
+
+#: includes/functions/members.php:147
+msgid "It is highly recommended to change your password after login."
+msgstr "Det anbefales at ændre din adgangskode efter login."
+
+#: includes/functions/members.php:148
+msgid "For more details visit:"
+msgstr ""
+
+#: includes/functions/plugin-update.php:82
+msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
+msgstr ""
+
+#: includes/functions/plugin-update.php:87
+msgid "An unknown error occurred"
+msgstr "Der opstod en ukendt fejl"
+
+#: includes/functions/price.php:13
+msgid "$"
+msgstr "Kr."
+
+#: includes/functions/price.php:25
+msgid "On Call"
+msgstr ""
+
+#: includes/functions/property-submit.php:26
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr "En ny ejendom er indsendt af %s ved %s"
+
+#: includes/functions/property-submit.php:35
+msgid "You can preview it here : "
+msgstr "Du kan se den her: "
+
+#: includes/functions/property-submit.php:44
+#, php-format
+msgid "Message to the Reviewer : %s"
+msgstr "Besked til redaktøren: %s"
+
+#: includes/functions/property-submit.php:49
+#, php-format
+msgid "You can contact the submitter \"%s\" via email %s"
+msgstr ""
+
+#: includes/functions/real-estate.php:165
+msgid "Any"
+msgstr "Enhver"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:14
+#: includes/mb/agent-agency-meta-boxes-config.php:118
+msgid "Provide Related Information"
+msgstr "Angiv relaterede oplysninger"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:20
+#: includes/mb/agent-agency-meta-boxes-config.php:124
+msgid "Email Address"
+msgstr "E-mail Adresse"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:22
+msgid ""
+"Provide Agent Email Address. Agent related messages from contact form on "
+"property details page, will be sent on this email address."
+msgstr ""
+"Angiv mægler e-mail adresse. Mægler relaterede meddelelser fra "
+"kontaktformularen, vil blive sendt til denne e-mail adresse."
+
+#: includes/mb/agent-agency-meta-boxes-config.php:27
+#: includes/mb/agent-agency-meta-boxes-config.php:131
+msgid "Mobile Number"
+msgstr "Mobilnummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:29
+msgid "Provide Agent mobile number"
+msgstr "Angiv mæglers mobil nummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:34
+#: includes/mb/agent-agency-meta-boxes-config.php:138
+msgid "WhatsApp Number"
+msgstr "WhatsApp Nummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:36
+msgid "Provide Agent whatsapp number"
+msgstr "Angiv mæglers WhatsApp nummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:41
+#: includes/mb/agent-agency-meta-boxes-config.php:145
+msgid "Office Number"
+msgstr "Kontornummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:43
+msgid "Provide Agent office number"
+msgstr "Angiv mæglers kontornummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:48
+#: includes/mb/agent-agency-meta-boxes-config.php:152
+msgid "Fax Number"
+msgstr "Faxnummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:50
+msgid "Provide Agent fax number"
+msgstr "Angiv mæglers faxnummer"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:55
+#: includes/mb/agent-agency-meta-boxes-config.php:159
+#: includes/settings/social.php:77
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:57
+msgid "Provide Agent Facebook URL"
+msgstr "Angiv mæglers Facebook URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:62
+#: includes/mb/agent-agency-meta-boxes-config.php:166
+#: includes/settings/social.php:84
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:64
+msgid "Provide Agent Twitter URL"
+msgstr "Angiv mæglers Twitter URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:69
+#: includes/mb/agent-agency-meta-boxes-config.php:173
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:71
+msgid "Provide Agent LinkedIn URL"
+msgstr "Angiv mæglers LinkedIn URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:76
+#: includes/mb/agent-agency-meta-boxes-config.php:180
+#: includes/settings/social.php:98
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:78
+msgid "Provide Agent Instagram URL"
+msgstr "Angiv mæglers Instagram URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:89
+msgid "Select Related Agency."
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:126
+msgid ""
+"Provide Agency Email Address. Agency related messages from contact form on "
+"property details page, will be sent on this email address."
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:133
+msgid "Provide Agency mobile number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:140
+msgid "Provide Agency whatsapp number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:147
+msgid "Provide Agency office number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:154
+msgid "Provide Agency fax number"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:161
+msgid "Provide Agency Facebook URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:168
+msgid "Provide Agency Twitter URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:175
+msgid "Provide Agency LinkedIn URL"
+msgstr ""
+
+#: includes/mb/agent-agency-meta-boxes-config.php:182
+msgid "Provide Agency Instagram URL"
+msgstr ""
+
+#: includes/mb/class-ere-meta-boxes.php:129
+msgid "Meta Box plugin has been deactivated!"
+msgstr "Meta box plugin er blevet deaktiveret!"
+
+#: includes/mb/class-ere-meta-boxes.php:130
+msgid ""
+"As similar functionality is already embedded with in Easy Real Estate plugin."
+msgstr ""
+
+#: includes/mb/class-ere-meta-boxes.php:132
+msgid "So, You should completely remove it from your plugins."
+msgstr "Så skal du helt fjerne det fra dine plugins."
+
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:46
+msgid "Additional Details"
+msgstr "Yderligere oplysninger"
+
+#: includes/mb/custom/class-ere-additional-details-meta-boxes.php:80
+#: includes/mb/main/inc/fields/key-value.php:136
+msgid "Value"
+msgstr "Værdi"
+
+#: includes/mb/exts/mb-term-meta/inc/class-mb-term-meta-box.php:97
+msgid "Term added."
+msgstr ""
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:135
+#: includes/mb/main/inc/fields/file-input.php:45
+#: includes/settings/social.php:167
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:347
+msgid "Entry {#}"
+msgstr "Emne {#}"
+
+#: includes/mb/exts/meta-box-group/class-rwmb-group-field.php:347
+msgid "Entry"
+msgstr "Indtastning"
+
+#: includes/mb/main/inc/about/about.php:54
+msgid "About"
+msgstr "Om"
+
+#: includes/mb/main/inc/about/about.php:66
+#: includes/mb/main/inc/about/about.php:67
+msgid "Meta Box"
+msgstr "Meta box"
+
+#: includes/mb/main/inc/about/about.php:82
+msgid "Welcome to Meta Box"
+msgstr "Velkommen til Meta Box"
+
+#: includes/mb/main/inc/about/about.php:83
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: includes/mb/main/inc/about/about.php:153
+#, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
+msgstr ""
+"Bedøm <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;"
+"&#9733;&#9733;&#9733;&#9733;</a> på <a href=\"%1$s\" target=\"_blank"
+"\">WordPress.org</a> for at hjælpe os med at sprede budskabet. Tak fra Meta "
+"Box teamet!"
+
+#: includes/mb/main/inc/about/sections/extensions.php:11
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr "Vis pakker"
+
+#: includes/mb/main/inc/about/sections/extensions.php:20
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+"Opret og administrer brugerdefinerede indlægstyper nemt i WordPress med et "
+"intuitivt interface."
+
+#: includes/mb/main/inc/about/sections/extensions.php:24
+#: includes/mb/main/inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr "Gratis download"
+
+#: includes/mb/main/inc/about/sections/extensions.php:32
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr "Drag and drop dine brugerdefinerede felter på plads uden brug af kode."
+
+#: includes/mb/main/inc/about/sections/extensions.php:36
+#: includes/mb/main/inc/about/sections/extensions.php:48
+#: includes/mb/main/inc/about/sections/extensions.php:60
+#: includes/mb/main/inc/about/sections/extensions.php:72
+#: includes/mb/main/inc/about/sections/extensions.php:84
+#: includes/mb/main/inc/about/sections/extensions.php:96
+#: includes/mb/main/inc/about/sections/extensions.php:108
+#: includes/mb/main/inc/about/sections/getting-started.php:23
+msgid "Learn More"
+msgstr "Lær mere"
+
+#: includes/mb/main/inc/about/sections/extensions.php:44
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:68
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:80
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:92
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:104
+msgid ""
+"Save custom fields data to custom table. Reduce database size and increase "
+"performance."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:116
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/extensions.php:124
+msgid "View all extensions"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:13
+msgid ""
+"The fastest way to getting started with Meta Box is use our online generator "
+"to generate meta boxes with custom fields. It provides a friendly UI for you "
+"to create meta boxes and custom fields just by drag and drop fields."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:21
+msgid "Understand The Basics"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:22
+msgid ""
+"Meta Box doesn't have any admin page for configuration or settings. Instead "
+"of that, it provides a very powerful API to speed up the process of creating "
+"meta boxes and custom fields. It might take you a little time at first, but "
+"then you'll love the way it work because it helps you do and customize "
+"almost everything."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:25
+#: includes/mb/main/inc/about/sections/tabs.php:12
+#: includes/mb/main/inc/about/sections/welcome.php:22
+msgid "Extensions"
+msgstr "Udvidelser"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:26
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:28
+msgid "Meta Box Group"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:29
+msgid "Meta Box Conditional Logic"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:30
+msgid "MB Settings Page"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:31
+msgid "MB Term Meta"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/newsletter.php:11
+msgid "Meta Box Newsletter"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/newsletter.php:13
+msgid ""
+"Want to learn how to use Meta Box to its full potential? Sign up to get "
+"valuable tips and resources. We will never spam you."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/newsletter.php:15
+msgid "Subscribe"
+msgstr "Tilmeld"
+
+#: includes/mb/main/inc/about/sections/support.php:18
+#, php-format
+msgid ""
+"Still need help with Meta Box? We offer excellent support for you. But don't "
+"forget to check our <a href=\"%s\">documentation</a> first."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr "Gratis support"
+
+#: includes/mb/main/inc/about/sections/support.php:24
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr "Premium-support"
+
+#: includes/mb/main/inc/about/sections/support.php:31
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr "Gå til support forum"
+
+#: includes/mb/main/inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Kom godt i gang"
+
+#: includes/mb/main/inc/about/sections/tabs.php:13
+#: includes/mb/main/inc/about/sections/welcome.php:23
+msgid "Support"
+msgstr "Support"
+
+#: includes/mb/main/inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:13
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/welcome.php:18
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/welcome.php:21
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/mb/main/inc/core.php:38
+msgid "Docs"
+msgstr "Dokumenter"
+
+#: includes/mb/main/inc/core.php:39
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: includes/mb/main/inc/field.php:354
+msgid "+ Add more"
+msgstr "+ Tilføj mere"
+
+#: includes/mb/main/inc/fields/autocomplete.php:23
+#: includes/mb/main/inc/fields/autocomplete.php:85
+#: includes/mb/main/inc/fields/autocomplete.php:97
+msgid "Delete"
+msgstr "Slet"
+
+#: includes/mb/main/inc/fields/background.php:64
+msgid "Background Image"
+msgstr "Baggrundsbillede"
+
+#: includes/mb/main/inc/fields/background.php:78
+msgid "-- Background Repeat --"
+msgstr "-- Baggrund gentag --"
+
+#: includes/mb/main/inc/fields/background.php:80
+msgid "No Repeat"
+msgstr "Gentag Ikke"
+
+#: includes/mb/main/inc/fields/background.php:81
+msgid "Repeat All"
+msgstr "Gentag alle"
+
+#: includes/mb/main/inc/fields/background.php:82
+msgid "Repeat Horizontally"
+msgstr "Gentag vandret"
+
+#: includes/mb/main/inc/fields/background.php:83
+msgid "Repeat Vertically"
+msgstr "Gentag lodret"
+
+#: includes/mb/main/inc/fields/background.php:84
+#: includes/mb/main/inc/fields/background.php:122
+#: includes/mb/main/inc/fields/background.php:136
+msgid "Inherit"
+msgstr "Arv"
+
+#: includes/mb/main/inc/fields/background.php:96
+msgid "-- Background Position --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:98
+msgid "Top Left"
+msgstr "Øverst til venstre"
+
+#: includes/mb/main/inc/fields/background.php:99
+msgid "Top Center"
+msgstr "Øverst centreret"
+
+#: includes/mb/main/inc/fields/background.php:100
+msgid "Top Right"
+msgstr "Top Højre"
+
+#: includes/mb/main/inc/fields/background.php:101
+msgid "Center Left"
+msgstr "Center Venstre"
+
+#: includes/mb/main/inc/fields/background.php:102
+msgid "Center Center"
+msgstr "Midt centreret"
+
+#: includes/mb/main/inc/fields/background.php:103
+msgid "Center Right"
+msgstr "Center Højre"
+
+#: includes/mb/main/inc/fields/background.php:104
+msgid "Bottom Left"
+msgstr "Nederst til venstre"
+
+#: includes/mb/main/inc/fields/background.php:105
+msgid "Bottom Center"
+msgstr "Nederst centreret"
+
+#: includes/mb/main/inc/fields/background.php:106
+msgid "Bottom Right"
+msgstr "Nederst til højre"
+
+#: includes/mb/main/inc/fields/background.php:118
+msgid "-- Background Attachment --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:120
+msgid "Fixed"
+msgstr "Fast"
+
+#: includes/mb/main/inc/fields/background.php:121
+msgid "Scroll"
+msgstr "Scroll"
+
+#: includes/mb/main/inc/fields/background.php:134
+msgid "-- Background Size --"
+msgstr ""
+
+#: includes/mb/main/inc/fields/background.php:137
+msgid "Cover"
+msgstr "Dække over"
+
+#: includes/mb/main/inc/fields/background.php:138
+msgid "Contain"
+msgstr "Indehold"
+
+#: includes/mb/main/inc/fields/button.php:34
+msgid "Click me"
+msgstr "Klik på mig"
+
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property-meta-boxes-config.php:184
+#: includes/mb/property-meta-boxes-config.php:268
+#: includes/mb/property-meta-boxes-config.php:486 includes/settings/gdpr.php:33
+#: includes/settings/gdpr.php:75 includes/settings/map.php:48
+#: includes/shortcodes/vc-map.php:279
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property-meta-boxes-config.php:185
+#: includes/mb/property-meta-boxes-config.php:269
+#: includes/mb/property-meta-boxes-config.php:584 includes/settings/gdpr.php:38
+#: includes/settings/gdpr.php:80 includes/settings/map.php:53
+#: includes/shortcodes/vc-map.php:278
+msgid "No"
+msgstr "Nej"
+
+#: includes/mb/main/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "Vælg fil"
+
+#: includes/mb/main/inc/fields/file-input.php:43
+#: includes/mb/main/inc/fields/select.php:92
+msgid "Select"
+msgstr "Vælg"
+
+#: includes/mb/main/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Du må kun uploade maksimalt %d fil"
+
+#: includes/mb/main/inc/fields/file.php:26
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Du må kun uploade maksimum% d filer"
+
+#: includes/mb/main/inc/fields/file.php:61
+msgid "Error: Invalid file"
+msgstr "Fejl: Ugyldig fil"
+
+#: includes/mb/main/inc/fields/file.php:75
+msgid "Error: Cannot delete file"
+msgstr "Fejl: Kan ikke slette fil"
+
+#: includes/mb/main/inc/fields/file.php:88
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Tilføj ny fil"
+
+#: includes/mb/main/inc/fields/file.php:169
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Slet"
+
+#: includes/mb/main/inc/fields/file.php:170
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Rediger"
+
+#: includes/mb/main/inc/fields/input-list.php:92
+msgid "Toggle All"
+msgstr ""
+
+#: includes/mb/main/inc/fields/key-value.php:135
+msgid "Key"
+msgstr "Nøgle"
+
+#: includes/mb/main/inc/fields/map.php:55
+#: includes/mb/main/inc/fields/osm.php:28
+msgid "No results found"
+msgstr "Ingen resultater fundet"
+
+#: includes/mb/main/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Indsæt medie"
+
+#: includes/mb/main/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr " fil"
+
+#: includes/mb/main/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr " filer"
+
+#: includes/mb/main/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/mb/main/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "Rediger"
+
+#: includes/mb/main/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "Vis"
+
+#: includes/mb/main/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr "Ingen titel"
+
+#: includes/mb/main/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "Vælg filer"
+
+#: includes/mb/main/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr "eller"
+
+#: includes/mb/main/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Slip filer her for at uploade"
+
+#: includes/mb/main/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr "Indsættelse af HTML er ikke tilgængelig."
+
+#: includes/mb/main/inc/fields/post.php:78
+msgid "Select a post"
+msgstr "Vælg et indlæg"
+
+#: includes/mb/main/inc/fields/post.php:84
+#: includes/mb/main/inc/fields/taxonomy.php:96
+#, php-format
+msgid "Select a %s"
+msgstr "Vælg en %s"
+
+#: includes/mb/main/inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr "Vælg et emne"
+
+#: includes/mb/main/inc/fields/select.php:92 includes/shortcodes/vc-map.php:97
+msgid "All"
+msgstr "Alle"
+
+#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/meta-box-helper-functions.php:52
+#: includes/mb/meta-box-helper-functions.php:84
+#: includes/mb/property-meta-boxes-config.php:198
+msgid "None"
+msgstr "Ingen"
+
+#: includes/mb/main/inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr ""
+
+#: includes/mb/main/inc/fields/switch.php:93
+msgid "On"
+msgstr "Til"
+
+#: includes/mb/main/inc/fields/switch.php:94
+msgid "Off"
+msgstr "Fra"
+
+#: includes/mb/main/inc/fields/taxonomy.php:92
+msgid "Select a term"
+msgstr "Vælg en term"
+
+#: includes/mb/main/inc/fields/user.php:82
+msgid "Select an user"
+msgstr "Vælg en bruger"
+
+#: includes/mb/main/inc/update/checker.php:133
+msgid ""
+"UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
+"updates."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:112
+#, php-format
+msgid ""
+"You have not set your Meta Box license key yet, which means you are missing "
+"out on automatic updates and support! Please <a href=\"%1$s\">enter your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:114
+#: includes/mb/main/inc/update/notification.php:116
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
+"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
+"new one</a> to enable automatic updates."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:118
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a> to get automatic updates and "
+"premium support."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:142
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:144
+#: includes/mb/main/inc/update/notification.php:146
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:148
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/notification.php:171
+msgid "Activate License"
+msgstr "Aktiver licens"
+
+#: includes/mb/main/inc/update/notification.php:171
+msgid "Update License"
+msgstr "Opdatér licens"
+
+#: includes/mb/main/inc/update/settings.php:72
+#: includes/mb/main/inc/update/settings.php:90
+msgid "Meta Box License"
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:72
+msgid "License"
+msgstr "Licens"
+
+#: includes/mb/main/inc/update/settings.php:91
+msgid ""
+"Please enter your license key to enable automatic updates for Meta Box "
+"extensions."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:96
+#, php-format
+msgid ""
+"To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website. If you have not purchased any "
+"extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:108
+msgid "License Key"
+msgstr "Licensnøgle"
+
+#: includes/mb/main/inc/update/settings.php:114
+#: includes/mb/main/inc/update/settings.php:116
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please update your license key or <a "
+"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:118
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank"
+"\">renew your license</a>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:119
+msgid "Your license key is <b>active</b>."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:130
+#: includes/settings/captcha.php:58 includes/settings/gdpr.php:89
+#: includes/settings/map.php:97 includes/settings/price.php:89
+#: includes/settings/slug.php:66 includes/settings/social.php:186
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: includes/mb/main/inc/update/settings.php:156
+msgid ""
+"Something wrong with the connection to metabox.io. Please try again later."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:158
+msgid "Your license is activated."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:161
+#, php-format
+msgid ""
+"License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website."
+msgstr ""
+
+#: includes/mb/main/inc/update/settings.php:167
+#, php-format
+msgid ""
+"Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
+"or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr ""
+
+#: includes/mb/main/inc/validation.php:50
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Ret fejlene fremhævet nedenfor, og prøv igen."
+
+#: includes/mb/main/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
+
+#: includes/mb/meta-box-helper-functions.php:116
+msgid ""
+"Images should have minimum size of 1200px by 680px. Bigger size images will "
+"be cropped automatically. Minimum 2 images are required to display gallery."
+msgstr ""
+"Billeder bør have en minimum størrelse på 1200px gange 680px. Større "
+"størrelse billeder beskæres automatisk. Der skal være mindst 2 billeder for, "
+"at de bliver vist i galleriet."
+
+#: includes/mb/meta-box-helper-functions.php:120
+msgid ""
+"Images should have minimum size of 770px by 386px for thumbnails on right "
+"and 830px by 460px for thumbnails on bottom. Bigger size images will be "
+"cropped automatically. Minimum 2 images are required to display gallery."
+msgstr ""
+"Billeder bør være mindst 770px gange 386px for miniaturer og 830px af 460px "
+"for miniaturer i bunden. Større størrelse billeder beskæres automatisk. Der "
+"skal være mindst 2 billeder for, at de bliver vist i galleriet."
+
+#: includes/mb/partner-meta-boxes-config.php:14
+msgid "Partner Information"
+msgstr "Partner information"
+
+#: includes/mb/partner-meta-boxes-config.php:20
+msgid "Website URL"
+msgstr "Hjemmeside URL"
+
+#: includes/mb/partner-meta-boxes-config.php:22
+msgid "Provide Website URL"
+msgstr "Angiv hjemmeside URL"
+
+#: includes/mb/property-meta-boxes-config.php:16
+msgid "Gallery with thumbnails on right"
+msgstr "Galleri med miniaturer i højre side"
+
+#: includes/mb/property-meta-boxes-config.php:17
+msgid "Gallery with thumbnails on bottom"
+msgstr "Galleri med miniaturer i bunden"
+
+#: includes/mb/property-meta-boxes-config.php:20
+msgid "Default Gallery"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:21
+msgid "Gallery with thumbnails"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:32
+msgid "Basic Information"
+msgstr "Lidt om dig"
+
+#: includes/mb/property-meta-boxes-config.php:36
+msgid "Location on Map"
+msgstr "Placering på kort"
+
+#: includes/mb/property-meta-boxes-config.php:40
+msgid "Gallery Images"
+msgstr "Galleribilleder"
+
+#: includes/mb/property-meta-boxes-config.php:44
+msgid "Floor Plans"
+msgstr "Etageplaner"
+
+#: includes/mb/property-meta-boxes-config.php:48
+msgid "Property Video"
+msgstr "Ejendomsvideo"
+
+#: includes/mb/property-meta-boxes-config.php:52
+msgid "Agent Information"
+msgstr "Mægler information"
+
+#: includes/mb/property-meta-boxes-config.php:56
+#: includes/mb/property-meta-boxes-config.php:213
+msgid "Energy Performance"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:60
+msgid "Misc"
+msgstr "Div"
+
+#: includes/mb/property-meta-boxes-config.php:64
+msgid "Homepage Slider"
+msgstr "Forside slider"
+
+#: includes/mb/property-meta-boxes-config.php:68
+msgid "Top Banner"
+msgstr "Top Banner"
+
+#: includes/mb/property-meta-boxes-config.php:78
+msgid "Sale or Rent Price ( Only digits )"
+msgstr "Salgs- eller udlejningspris (kun cifre)"
+
+#: includes/mb/property-meta-boxes-config.php:79
+msgid "Example Value: 435000"
+msgstr "Værdi eksempel: 435000"
+
+#: includes/mb/property-meta-boxes-config.php:87
+#: includes/mb/property-meta-boxes-config.php:317
+msgid "Price Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:88
+msgid "Example Value: Per Month"
+msgstr "Værdi eksempel: Pr. måned"
+
+#: includes/mb/property-meta-boxes-config.php:96
+msgid "Area Size ( Only digits )"
+msgstr "Areal (Kun tal)"
+
+#: includes/mb/property-meta-boxes-config.php:97
+msgid "Example Value: 2500"
+msgstr "Værdi eksempel: 2500"
+
+#: includes/mb/property-meta-boxes-config.php:105
+msgid "Area Size Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:106
+#: includes/mb/property-meta-boxes-config.php:124
+msgid "Example Value: sq ft"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:114
+msgid "Lot Size ( Only digits )"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:115
+msgid "Example Value: 3000"
+msgstr "Værdi eksempel: 3000"
+
+#: includes/mb/property-meta-boxes-config.php:123
+msgid "Lot Size Postfix"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:132
+#: includes/mb/property-meta-boxes-config.php:338
+#: includes/widgets/agent-featured-properties-widget.php:286
+#: includes/widgets/agent-properties-widget.php:289
+#: includes/widgets/featured-properties-widget.php:286
+#: includes/widgets/properties-widget.php:314
+msgid "Bedrooms"
+msgstr "Soveværelser"
+
+#: includes/mb/property-meta-boxes-config.php:133
+msgid "Example Value: 4"
+msgstr "Værdi eksempel: 4"
+
+#: includes/mb/property-meta-boxes-config.php:141
+#: includes/mb/property-meta-boxes-config.php:345
+#: includes/widgets/agent-featured-properties-widget.php:307
+#: includes/widgets/agent-properties-widget.php:300
+#: includes/widgets/featured-properties-widget.php:307
+#: includes/widgets/properties-widget.php:325
+msgid "Bathrooms"
+msgstr "Badeværelser"
+
+#: includes/mb/property-meta-boxes-config.php:142
+msgid "Example Value: 2"
+msgstr "Værdi eksempel: 2"
+
+#: includes/mb/property-meta-boxes-config.php:150
+msgid "Garages"
+msgstr "Garager"
+
+#: includes/mb/property-meta-boxes-config.php:151
+msgid "Example Value: 1"
+msgstr "Værdi eksempel: 1"
+
+#: includes/mb/property-meta-boxes-config.php:160
+msgid "It will help you search a property directly."
+msgstr "Dette vil hjælpe dig med at søge en ejendom direkte."
+
+#: includes/mb/property-meta-boxes-config.php:171
+msgid "Year Built"
+msgstr "Bygget år"
+
+#: includes/mb/property-meta-boxes-config.php:172
+msgid "Example Value: 2017"
+msgstr "Værdi eksempel: 2017"
+
+#: includes/mb/property-meta-boxes-config.php:179
+msgid "Mark this property as featured ?"
+msgstr "Markér denne ejendom som fremhævet?"
+
+#: includes/mb/property-meta-boxes-config.php:193
+msgid "Energy Class"
+msgstr "Energiklasse"
+
+#: includes/mb/property-meta-boxes-config.php:214
+msgid "Example Value: 100 kWh/m²a"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:222
+#, php-format
+msgid "%s Current Rating"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:223
+msgid "Example Value: 83"
+msgstr "Værdi eksempel: 83"
+
+#: includes/mb/property-meta-boxes-config.php:231
+#, php-format
+msgid "%s Potential Rating"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:232
+msgid "Example Value: 94"
+msgstr "Værdi eksempel: 94"
+
+#: includes/mb/property-meta-boxes-config.php:242
+msgid "Property Location on Map"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:243
+msgid ""
+"Drag the map marker to point property location. Address field given above "
+"can be used to search location."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:255
+msgid "Property Address"
+msgstr "Adresse"
+
+#: includes/mb/property-meta-boxes-config.php:256
+msgid "Leaving it empty will hide the map on property detail page."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:263
+msgid "Hide map on property detail page ?"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:277
+msgid "Gallery Type You Want to Use"
+msgstr "Hvilken galleri type vil du bruge?"
+
+#: includes/mb/property-meta-boxes-config.php:286
+msgid "Property Gallery Images"
+msgstr "Ejendomsgalleri billeder"
+
+#: includes/mb/property-meta-boxes-config.php:304
+msgid "Floor Name"
+msgstr "Etage"
+
+#: includes/mb/property-meta-boxes-config.php:306
+msgid "Example: Ground Floor"
+msgstr "Eksempel: Stueetage"
+
+#: includes/mb/property-meta-boxes-config.php:310
+msgid "Floor Price ( Only digits )"
+msgstr "Etagepris (kun cifre)"
+
+#: includes/mb/property-meta-boxes-config.php:312
+msgid "Example: 4000"
+msgstr "Eksempel: 4000"
+
+#: includes/mb/property-meta-boxes-config.php:319
+msgid "Example: Per Month"
+msgstr "Eksempel: Pr. måned"
+
+#: includes/mb/property-meta-boxes-config.php:324
+msgid "Floor Size ( Only digits )"
+msgstr "Grundplan (kun cifre)"
+
+#: includes/mb/property-meta-boxes-config.php:326
+msgid "Example: 2500"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:331
+msgid "Size Postfix"
+msgstr "Størrelsesbetegnelse"
+
+#: includes/mb/property-meta-boxes-config.php:333
+msgid "Example: sq ft"
+msgstr "Eksempel: m²"
+
+#: includes/mb/property-meta-boxes-config.php:340
+msgid "Example: 4"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:347
+msgid "Example: 2"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:352
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: includes/mb/property-meta-boxes-config.php:357
+msgid "Floor Plan Image"
+msgstr "Plantegning"
+
+#: includes/mb/property-meta-boxes-config.php:359
+msgid "The recommended minimum width is 770px and height is flexible."
+msgstr "Den anbefalede minimumsbredde er 770px men højden er valgfri."
+
+#: includes/mb/property-meta-boxes-config.php:370
+msgid "Add Multiple Videos"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:376
+msgid ""
+"Provide an image of minimum width 818px and minimum height 417px. Bigger "
+"size images will be cropped automatically. Property featured image will be "
+"shown if no image is selected."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:381
+msgid "Image"
+msgstr "Billede"
+
+#: includes/mb/property-meta-boxes-config.php:391
+msgid "Title of video"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:396
+msgid "URL"
+msgstr "URL"
+
+#: includes/mb/property-meta-boxes-config.php:398
+msgid ""
+"Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported"
+msgstr ""
+"Angiv URL for virtuel video turL. YouTube, Vimeo, SWF fil og MOV-fil "
+"understøttes"
+
+#: includes/mb/property-meta-boxes-config.php:414
+msgid "360 Virtual Tour"
+msgstr "360° virtuel tur"
+
+#: includes/mb/property-meta-boxes-config.php:417
+msgid ""
+"Provide iframe embed code or <a href=\"https://wordpress.org/plugins/"
+"ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">iPanorama</a> "
+"shortcode for the 360 virtual tour. For more details please consult <a href="
+"\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
+"virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:438
+#, php-format
+msgid "Virtual Tour Video URL %s * %s"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:439
+#, php-format
+msgid ""
+"Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported. %1$s %2$s *This field is deprecated in favour of %4$s Add "
+"Multiple Videos %5$s field above , So stop using it %3$s"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:445
+#, php-format
+msgid "Virtual Tour Video Image %s * %s"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:446
+#, php-format
+msgid ""
+"Provide an image of minimum width 818px and minimum height 417px. Bigger "
+"size images will be cropped automatically. Property featured image will be "
+"shown if no image is selected.\n"
+"\t\t\t\t\t\t\t\t%1$s %2$s *This field is deprecated in favour of %4$s Add "
+"Multiple Videos %5$s field above , So stop using it %3$s"
+msgstr ""
+
+#: includes/mb/property-meta-boxes-config.php:459
+msgid "What to display in agent information box ?"
+msgstr ""
+"Hvad skal vises i mægler oplysnings\n"
+"boks?"
+
+#: includes/mb/property-meta-boxes-config.php:464
+msgid "Author information."
+msgstr "Forfatter information."
+
+#: includes/mb/property-meta-boxes-config.php:465
+msgid "Agent Information. ( Select the agent below )"
+msgstr "Mæglerinformation. (Vælg mægler nedenfor)"
+
+#: includes/mb/property-meta-boxes-config.php:466
+msgid "None. ( Hide information box )"
+msgstr "Ingen. (Skjul oplysningsboks)"
+
+#: includes/mb/property-meta-boxes-config.php:485
+msgid "Make this property sticky for home and listings pages"
+msgstr "Gør denne ejendom Sticky på forsiden og udbudssider"
+
+#: includes/mb/property-meta-boxes-config.php:499
+msgid "Property Label Text"
+msgstr "Ejendoms etiket tekst"
+
+#: includes/mb/property-meta-boxes-config.php:501
+msgid ""
+"You can add a property label to display on property thumbnails. Example "
+"Value: Hot Deal"
+msgstr ""
+"Du kan tilføje en ejendomsetiket til visning på ejendomsminiaturer. Eksempel "
+"værdi: Godt tilbud"
+
+#: includes/mb/property-meta-boxes-config.php:507
+msgid "Label Background Color"
+msgstr "Baggrundsfarve på etiket"
+
+#: includes/mb/property-meta-boxes-config.php:509
+msgid ""
+"Set a label background color. Otherwise label text will be displayed with "
+"transparent background."
+msgstr ""
+"Vælg en etiket baggrundsfarve. Ellers vises etikettekst med transparent "
+"baggrund."
+
+#: includes/mb/property-meta-boxes-config.php:523
+msgid "Attachments"
+msgstr "Vedhæftninger"
+
+#: includes/mb/property-meta-boxes-config.php:524
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+"Du kan vedhæfte PDF filer, kort billeder eller andre dokumenter for at give "
+"yderligere detaljer vedrørende ejendommen."
+
+#: includes/mb/property-meta-boxes-config.php:538
+msgid "Property Owner Name"
+msgstr "Ejendomsejers navn"
+
+#: includes/mb/property-meta-boxes-config.php:545
+msgid "Owner Contact"
+msgstr "Ejerkontakt"
+
+#: includes/mb/property-meta-boxes-config.php:553
+msgid "Owner Address"
+msgstr "Ejeradresse"
+
+#: includes/mb/property-meta-boxes-config.php:560
+msgid "Private Note"
+msgstr "Privat notat"
+
+#: includes/mb/property-meta-boxes-config.php:561
+msgid ""
+"In this textarea, You can write your private note about this property. This "
+"field will not be displayed anywhere else."
+msgstr ""
+"I denne tekstboks kan du skrive dit private notat om denne ejendom. Dette "
+"felt vil ikke blive vist nogen steder."
+
+#: includes/mb/property-meta-boxes-config.php:569
+msgid "Message to Reviewer"
+msgstr "Skriv en besked til redaktionen"
+
+#: includes/mb/property-meta-boxes-config.php:577
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr "Vil du tilføje denne ejendom i slideren på forsiden?"
+
+#: includes/mb/property-meta-boxes-config.php:578
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr "Hvis ja, skal du indsætte et slider billede nedenfor."
+
+#: includes/mb/property-meta-boxes-config.php:583
+msgid "Yes "
+msgstr "Ja "
+
+#: includes/mb/property-meta-boxes-config.php:590
+msgid "Slider Image"
+msgstr "Slider billede"
+
+#: includes/mb/property-meta-boxes-config.php:592
+msgid ""
+"The recommended image size is 2000px by 700px. You can use bigger or smaller "
+"image but try to keep the same height to width ratio and use the exactly "
+"same size images for all properties that will be added in slider."
+msgstr ""
+"Den anbefalede billedstørrelsen er 2000px gange 700px. Du kan bruge et "
+"større eller mindre billede men forsøg at holde det samme højde/bredde "
+"forhold og brug præcis den samme størrelse billeder for alle ejendomme, der "
+"skal tilføjes i slideren."
+
+#: includes/mb/property-meta-boxes-config.php:601
+msgid "Top Banner Image"
+msgstr "Top banner billede"
+
+#: includes/mb/property-meta-boxes-config.php:603
+msgid ""
+"Upload the banner image, If you want to change it for this property. "
+"Otherwise default banner image uploaded from theme options will be "
+"displayed. Image should have minimum width of 2000px and minimum height of "
+"230px."
+msgstr ""
+"Upload bannerbillede, hvis du ønsker at ændre det på denne ejendom. Ellers "
+"vises standard bannerbillede uploadet fra tema indstillinger. Billedet skal "
+"have minimum bredde på 2000px og minimum højde på 230px."
+
+#: includes/mb/property-meta-boxes-config.php:633
+msgid "Custom Property Type Map Icon"
+msgstr "Brugerdefineret ejendomstype kortikon"
+
+#: includes/mb/property-meta-boxes-config.php:637
+#: includes/mb/property-meta-boxes-config.php:676
+msgid "Icon Image"
+msgstr "Ikon Billede"
+
+#: includes/mb/property-meta-boxes-config.php:644
+msgid "Retina Icon Image"
+msgstr "Retina ikonbillede"
+
+#: includes/mb/property-meta-boxes-config.php:677
+msgid "Recommended image size for icon is 64px by 64px."
+msgstr "Den anbefalede billedstørrelse for ikonet er 64px gange 64px."
+
+#: includes/mb/templates-meta-boxes-config.php:29
+msgid "Properties Filter Settings"
+msgstr "Ejendommes filtreringsindstillinger"
+
+#: includes/mb/templates-meta-boxes-config.php:45
+#: includes/mb/templates-meta-boxes-config.php:197
+msgid "Number of Properties Per Page"
+msgstr "Antallet af ejendomme på side"
+
+#: includes/mb/templates-meta-boxes-config.php:54
+msgid "Order Properties By"
+msgstr "Andre ejendomme fra"
+
+#: includes/mb/templates-meta-boxes-config.php:57
+msgid "Date New to Old"
+msgstr "Dato Nyest -> Ældst"
+
+#: includes/mb/templates-meta-boxes-config.php:58
+msgid "Date Old to New"
+msgstr "Dato Ældst -> Nyest"
+
+#: includes/mb/templates-meta-boxes-config.php:59
+msgid "Price Low to High"
+msgstr "Pris Lav -> Høj"
+
+#: includes/mb/templates-meta-boxes-config.php:60
+msgid "Price High to Low"
+msgstr "Pris Høj -> Lav"
+
+#: includes/mb/templates-meta-boxes-config.php:68
+#: includes/mb/templates-meta-boxes-config.php:205
+#: includes/shortcodes/vc-map.php:144
+msgid "Locations"
+msgstr "Lokationer"
+
+#: includes/mb/templates-meta-boxes-config.php:77
+#: includes/mb/templates-meta-boxes-config.php:213
+#: includes/shortcodes/vc-map.php:151
+msgid "Statuses"
+msgstr "Status"
+
+#: includes/mb/templates-meta-boxes-config.php:86
+#: includes/mb/templates-meta-boxes-config.php:221
+#: includes/shortcodes/vc-map.php:158
+msgid "Types"
+msgstr "Typer"
+
+#: includes/mb/templates-meta-boxes-config.php:95
+#: includes/mb/templates-meta-boxes-config.php:229
+#: includes/shortcodes/vc-map.php:285
+msgid "Features"
+msgstr "Funktioner"
+
+#: includes/mb/templates-meta-boxes-config.php:104
+msgid "Minimum Beds"
+msgstr "Minimum antal soveværelser"
+
+#: includes/mb/templates-meta-boxes-config.php:113
+msgid "Minimum Baths"
+msgstr "Minimum antal badeværelser"
+
+#: includes/mb/templates-meta-boxes-config.php:122
+#: includes/shortcodes/vc-map.php:243
+msgid "Minimum Price"
+msgstr "Minimums Pris"
+
+#: includes/mb/templates-meta-boxes-config.php:131
+#: includes/shortcodes/vc-map.php:251
+msgid "Maximum Price"
+msgstr "Maksimums pris"
+
+#: includes/mb/templates-meta-boxes-config.php:139
+msgid "Properties by Agents"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:183
+msgid "Properties Gallery Filter Settings"
+msgstr ""
+
+#: includes/settings/captcha.php:20
+msgid "For spam protection on agent and contact forms!"
+msgstr ""
+
+#: includes/settings/captcha.php:26 includes/settings/captcha.php:30
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: includes/settings/captcha.php:33
+msgid "Enable"
+msgstr "Aktiver"
+
+#: includes/settings/captcha.php:38
+msgid "Disable"
+msgstr "Deaktiver"
+
+#: includes/settings/captcha.php:44
+msgid "Site Key"
+msgstr "Webstedsnøgle (site key)"
+
+#: includes/settings/captcha.php:47
+#, php-format
+msgid ""
+"You can get reCAPTCHA public and private keys for your website by %s signing "
+"up here %s"
+msgstr ""
+
+#: includes/settings/captcha.php:51
+msgid "Secret Key"
+msgstr "Hemmelig nøgle"
+
+#: includes/settings/gdpr.php:27 includes/settings/gdpr.php:30
+msgid "Add GDPR agreement checkbox in forms across website?"
+msgstr ""
+
+#: includes/settings/gdpr.php:44
+msgid "GDPR agreement checkbox label"
+msgstr ""
+
+#: includes/settings/gdpr.php:48
+msgid "GDPR agreement checkbox text"
+msgstr ""
+
+#: includes/settings/gdpr.php:62
+msgid ""
+"You can use <a>,<br>,<em> and <strong> tags in your GDPR agreement text."
+msgstr ""
+
+#: includes/settings/gdpr.php:66
+msgid "GDPR agreement checkbox validation message"
+msgstr ""
+
+#: includes/settings/gdpr.php:69 includes/settings/gdpr.php:72
+msgid "Add GDPR detail in resulting email?"
+msgstr ""
+
+#: includes/settings/map.php:10
+msgid "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
+msgstr ""
+
+#: includes/settings/map.php:11
+msgid "25.7308309,-80.44414899999998"
+msgstr ""
+
+#: includes/settings/map.php:12
+msgid "27.664827,-81.515755"
+msgstr ""
+
+#: includes/settings/map.php:25
+msgid "Open Street Map"
+msgstr ""
+
+#: includes/settings/map.php:27
+msgid ""
+"By default, Open Street Map will be displayed if Google Maps API key is "
+"empty."
+msgstr ""
+
+#: includes/settings/map.php:34
+msgid "Google Maps API Key"
+msgstr "Google Maps API nøgle"
+
+#: includes/settings/map.php:41 includes/settings/map.php:45
+msgid "Localize Google Maps"
+msgstr ""
+
+#: includes/settings/map.php:60
+msgid "Google Maps Styles JSON (optional)"
+msgstr ""
+
+#: includes/settings/map.php:64
+#, php-format
+msgid ""
+"You can create Google Maps styles JSON using %s Google Styling Wizard %s or "
+"%s Snazzy Maps %s."
+msgstr ""
+
+#: includes/settings/map.php:69
+msgid "Default Address for New Property"
+msgstr ""
+
+#: includes/settings/map.php:77
+msgid "Default Map Location for New Property (Latitude,Longitude)"
+msgstr ""
+
+#: includes/settings/map.php:81 includes/settings/map.php:90
+#, php-format
+msgid ""
+"You can use %s OR %s to get Latitude and longitude of your desired location."
+msgstr ""
+
+#: includes/settings/map.php:86
+msgid "Default Properties Map Location (Latitude,Longitude)"
+msgstr ""
+
+#: includes/settings/price.php:29
+msgid "Currency Sign"
+msgstr "Valuta symbol"
+
+#: includes/settings/price.php:32
+msgid "Provide currency sign. For Example: $"
+msgstr "Indsæt valuta symbol. For eksempel: €"
+
+#: includes/settings/price.php:36 includes/settings/price.php:39
+msgid "Position of Currency Sign"
+msgstr "Positionering af valuta symbol"
+
+#: includes/settings/price.php:42
+msgid "Before the numbers"
+msgstr "Før tallene"
+
+#: includes/settings/price.php:47
+msgid "After the numbers"
+msgstr "Efter tallene"
+
+#: includes/settings/price.php:53
+msgid "Number of Decimals Points"
+msgstr "Antal decimaler"
+
+#: includes/settings/price.php:56
+msgid "0"
+msgstr "0"
+
+#: includes/settings/price.php:57
+msgid "1"
+msgstr "1"
+
+#: includes/settings/price.php:58
+msgid "2"
+msgstr "2"
+
+#: includes/settings/price.php:59
+msgid "3"
+msgstr "3"
+
+#: includes/settings/price.php:60
+msgid "4"
+msgstr "4"
+
+#: includes/settings/price.php:61
+msgid "5"
+msgstr "5"
+
+#: includes/settings/price.php:62
+msgid "6"
+msgstr "6"
+
+#: includes/settings/price.php:63
+msgid "7"
+msgstr "7"
+
+#: includes/settings/price.php:64
+msgid "8"
+msgstr "8"
+
+#: includes/settings/price.php:65
+msgid "9"
+msgstr "9"
+
+#: includes/settings/price.php:66
+msgid "10"
+msgstr "10"
+
+#: includes/settings/price.php:71
+msgid "Decimal Point Separator"
+msgstr "Decimal tegn"
+
+#: includes/settings/price.php:75
+msgid "Thousands Separator"
+msgstr "Tusindtals separator"
+
+#: includes/settings/price.php:79
+msgid "Empty Price Text"
+msgstr "Tomt pris felt"
+
+#: includes/settings/price.php:82
+msgid "Text to display when no price is provided."
+msgstr "Tekst hvis tomt prisfelt."
+
+#. Author of the plugin/theme
+#: includes/settings/settings.php:14
+msgid "Inspiry Themes"
+msgstr "Inspiry Themes"
+
+#: includes/settings/settings.php:20
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har ikke tilstrækkelige rettigheder til at tilgå denne side."
+
+#: includes/settings/settings.php:35
+#, php-format
+msgid "Version  %s"
+msgstr ""
+
+#: includes/settings/slug.php:27
+msgid "Important Note for URL Slugs"
+msgstr "Vigtig Note for URL links"
+
+#: includes/settings/slug.php:29
+msgid ""
+"Make sure to re-save permalinks settings after every change in URL slugs to "
+"avoid 404 errors. You can do that from [ Settings > Permalinks ]"
+msgstr ""
+
+#: includes/settings/slug.php:35
+msgid "Property Slug"
+msgstr "Ejendomslinks"
+
+#: includes/settings/slug.php:39
+msgid "Agent Slug"
+msgstr "Mæglerlinks"
+
+#: includes/settings/slug.php:43
+msgid "Agency Slug"
+msgstr ""
+
+#: includes/settings/slug.php:47
+msgid "Property City Slug"
+msgstr "Beliggenhedslinks"
+
+#: includes/settings/slug.php:51
+msgid "Property Status Slug"
+msgstr "Ejendomsstatus link"
+
+#: includes/settings/slug.php:55
+msgid "Property Type Slug"
+msgstr "Ejendomstype links"
+
+#: includes/settings/slug.php:59
+msgid "Property Feature Slug"
+msgstr "Ejendomsfunktions link"
+
+#: includes/settings/social.php:55 includes/settings/social.php:59
+msgid "Show or Hide Social Icons"
+msgstr "Vis eller skjul sociale ikoner"
+
+#: includes/settings/social.php:64
+msgid "Show"
+msgstr "Vis"
+
+#: includes/settings/social.php:70
+msgid "Hide"
+msgstr "Skjul"
+
+#: includes/settings/social.php:91
+msgid "Linkedin URL"
+msgstr "LinkedIn URL"
+
+#: includes/settings/social.php:105
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: includes/settings/social.php:112
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: includes/settings/social.php:119
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: includes/settings/social.php:125
+msgid "Skype Username"
+msgstr "Skype brugernavn"
+
+#: includes/settings/social.php:164
+msgid "Edit"
+msgstr "Rediger"
+
+#: includes/settings/social.php:165
+msgid "Ok"
+msgstr "Ok"
+
+#: includes/settings/social.php:180
+msgid "+ Add New Social Network"
+msgstr ""
+
+#: includes/shortcodes/elements.php:319
+msgid "Result:"
+msgstr "Resultat:"
+
+#: includes/shortcodes/elements.php:319
+msgid "No Properties Found!"
+msgstr "Ingen ejendomme fundet!"
+
+#: includes/shortcodes/vc-map.php:78
+msgid "List of Properties"
+msgstr "Liste over ejendomme"
+
+#: includes/shortcodes/vc-map.php:80
+msgid "Real Homes Theme"
+msgstr ""
+
+#: includes/shortcodes/vc-map.php:84
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/shortcodes/vc-map.php:94
+#: includes/widgets/agent-featured-properties-widget.php:424
+#: includes/widgets/agent-properties-widget.php:419
+#: includes/widgets/featured-properties-widget.php:420
+#: includes/widgets/properties-widget.php:427
+msgid "Number of Properties"
+msgstr "Antal ejendomme"
+
+#: includes/shortcodes/vc-map.php:119
+msgid "Order By"
+msgstr "Sorter efter"
+
+#: includes/shortcodes/vc-map.php:128
+msgid "Order"
+msgstr "Ordre"
+
+#: includes/shortcodes/vc-map.php:131
+msgid "Descending"
+msgstr "Faldende"
+
+#: includes/shortcodes/vc-map.php:132
+msgid "Ascending"
+msgstr "Stigende"
+
+#: includes/shortcodes/vc-map.php:165
+msgid "Minimum Bedrooms"
+msgstr "Mindste antal soveværelser"
+
+#: includes/shortcodes/vc-map.php:183
+msgid "Maximum Bedrooms"
+msgstr "Maksimalt antal soveværelser"
+
+#: includes/shortcodes/vc-map.php:204
+msgid "Minimum Bathrooms"
+msgstr ""
+"Mindste antal \n"
+"badeværelser"
+
+#: includes/shortcodes/vc-map.php:222
+msgid "Maximum Bathrooms"
+msgstr "Maksimalt antal badeværelser"
+
+#: includes/shortcodes/vc-map.php:244 includes/shortcodes/vc-map.php:252
+#: includes/shortcodes/vc-map.php:260 includes/shortcodes/vc-map.php:268
+msgid "Only provide digits"
+msgstr "Angiv kun tal"
+
+#: includes/shortcodes/vc-map.php:259
+msgid "Minimum Area"
+msgstr "Minimum areal"
+
+#: includes/shortcodes/vc-map.php:267
+msgid "Maximum Area"
+msgstr "Maksimalt areal"
+
+#: includes/shortcodes/vc-map.php:275
+msgid "Display Only Featured Properties"
+msgstr "Vis kun fremhævede ejendomme"
+
+#: includes/widgets/advance-search-widget.php:13
+msgid "This widget displays advance search form."
+msgstr "Denne widget viser avanceret søgeformular."
+
+#: includes/widgets/advance-search-widget.php:15
+msgid "RealHomes - Advance Search Widget"
+msgstr "RealHomes - Avanceret søgeformular widget"
+
+#: includes/widgets/advance-search-widget.php:21
+#: includes/widgets/advance-search-widget.php:51
+msgid "Find Your Home"
+msgstr "Find din ejendom"
+
+#: includes/widgets/advance-search-widget.php:41
+msgid ""
+"Advance search page is not configured yet. Please read this theme "
+"documentation for the Advance Search page & form configuration details."
+msgstr ""
+
+#: includes/widgets/advance-search-widget.php:57
+#: includes/widgets/agent-featured-properties-widget.php:413
+#: includes/widgets/agent-properties-widget.php:402
+#: includes/widgets/agents-list-widget.php:125
+#: includes/widgets/featured-properties-widget.php:414
+#: includes/widgets/properties-widget.php:421
+#: includes/widgets/property-types-widget.php:82
+msgid "Widget Title"
+msgstr "Widget titel"
+
+#: includes/widgets/agent-featured-properties-widget.php:19
+msgid "Important: This widget is only for the Agent Sidebar."
+msgstr "Vigtigt: Denne widget er kun til mægler sidebar."
+
+#: includes/widgets/agent-featured-properties-widget.php:22
+msgid "RealHomes - Agent Featured Properties"
+msgstr "RealHomes - Mægler fremhævede ejendomme"
+
+#: includes/widgets/agent-featured-properties-widget.php:129
+#: includes/widgets/agent-featured-properties-widget.php:394
+#: includes/widgets/agent-featured-properties-widget.php:435
+#: includes/widgets/agent-properties-widget.php:139
+#: includes/widgets/agent-properties-widget.php:379
+#: includes/widgets/agent-properties-widget.php:434
+#: includes/widgets/featured-properties-widget.php:130
+#: includes/widgets/featured-properties-widget.php:398
+#: includes/widgets/featured-properties-widget.php:441
+#: includes/widgets/properties-widget.php:165
+#: includes/widgets/properties-widget.php:404
+#: includes/widgets/properties-widget.php:449
+msgid "Read More"
+msgstr "Læs mere"
+
+#: includes/widgets/agent-featured-properties-widget.php:152
+#: includes/widgets/agent-featured-properties-widget.php:378
+msgid "No Featured Property Found For This Agent"
+msgstr "Ingen fremhævede ejendomme fundet for denne mægler"
+
+#: includes/widgets/agent-featured-properties-widget.php:181
+#: includes/widgets/agent-properties-widget.php:191
+#: includes/widgets/featured-properties-widget.php:181
+#: includes/widgets/properties-widget.php:215
+msgid "Featured"
+msgstr "Fremhævet"
+
+#: includes/widgets/agent-featured-properties-widget.php:235
+#: includes/widgets/agent-featured-properties-widget.php:247
+#: includes/widgets/agent-properties-widget.php:244
+#: includes/widgets/agent-properties-widget.php:256
+#: includes/widgets/featured-properties-widget.php:235
+#: includes/widgets/featured-properties-widget.php:247
+#: includes/widgets/properties-widget.php:270
+#: includes/widgets/properties-widget.php:282
+msgid "Added to compare"
+msgstr ""
+
+#: includes/widgets/agent-featured-properties-widget.php:239
+#: includes/widgets/agent-featured-properties-widget.php:251
+#: includes/widgets/agent-properties-widget.php:248
+#: includes/widgets/agent-properties-widget.php:260
+#: includes/widgets/featured-properties-widget.php:239
+#: includes/widgets/featured-properties-widget.php:251
+#: includes/widgets/properties-widget.php:274
+#: includes/widgets/properties-widget.php:286
+msgid "Add to compare"
+msgstr "Tilføj til sammenligning"
+
+#: includes/widgets/agent-featured-properties-widget.php:328
+#: includes/widgets/agent-properties-widget.php:311
+#: includes/widgets/featured-properties-widget.php:328
+#: includes/widgets/properties-widget.php:336
+msgid "Area"
+msgstr "Område"
+
+#: includes/widgets/agent-featured-properties-widget.php:417
+#: includes/widgets/agent-properties-widget.php:412
+#: includes/widgets/featured-properties-widget.php:426
+#: includes/widgets/properties-widget.php:433
+msgid "Sort By:"
+msgstr "Sorter efter:"
+
+#: includes/widgets/agent-featured-properties-widget.php:419
+#: includes/widgets/agent-properties-widget.php:414
+#: includes/widgets/featured-properties-widget.php:429
+#: includes/widgets/properties-widget.php:436
+msgid "Most Recent"
+msgstr "Seneste"
+
+#: includes/widgets/agent-featured-properties-widget.php:420
+#: includes/widgets/agent-properties-widget.php:415
+#: includes/widgets/featured-properties-widget.php:430
+#: includes/widgets/properties-widget.php:437
+msgid "Random"
+msgstr "Tilfældig"
+
+#: includes/widgets/agent-properties-widget.php:23
+msgid "Displays random, recent or featured properties based on selected agent."
+msgstr ""
+"Viser tilfældige, nyligt eller fremhævede ejendomme baseret på den valgte "
+"mægler."
+
+#: includes/widgets/agent-properties-widget.php:26
+msgid "RealHomes - Agent Related Properties"
+msgstr "RealHomes - Mægler relaterede ejendomme"
+
+#: includes/widgets/agent-properties-widget.php:163
+#: includes/widgets/agent-properties-widget.php:358
+msgid "No Property Found Under Selected Agent!"
+msgstr "Ingen ejendomme fundet for den valgte mægler!"
+
+#: includes/widgets/agent-properties-widget.php:406
+msgid "Select an Agent:"
+msgstr "Vælg en mægler:"
+
+#: includes/widgets/agent-properties-widget.php:424
+msgid "Show only Featured Properties."
+msgstr "Vis kun fremhævede ejendomme."
+
+#: includes/widgets/agents-list-widget.php:23
+msgid "This widget displays agents list."
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:26
+msgid "RealHomes - Agents"
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:101
+msgid "No Agent Found!"
+msgstr ""
+
+#: includes/widgets/agents-list-widget.php:131
+msgid "Number of Agents"
+msgstr "Antal mæglere"
+
+#: includes/widgets/featured-properties-widget.php:28
+msgid "Displays Random or Recent Featured Properties."
+msgstr "Viser tilfældige eller seneste fremhævede ejendomme."
+
+#: includes/widgets/featured-properties-widget.php:33
+msgid "RealHomes - Featured Properties"
+msgstr "RealHomes - Fremhævede ejendomme"
+
+#: includes/widgets/featured-properties-widget.php:153
+#: includes/widgets/featured-properties-widget.php:378
+msgid "No Featured Property Found!"
+msgstr "Ingen Fremhævet ejendom fundet!"
+
+#: includes/widgets/properties-widget.php:28
+msgid "Displays Properties based on custom filters."
+msgstr ""
+
+#: includes/widgets/properties-widget.php:33
+msgid "RealHomes - Properties"
+msgstr ""
+
+#: includes/widgets/properties-widget.php:188
+#: includes/widgets/properties-widget.php:383
+msgid "No Property Found!"
+msgstr "Ingen ejendomme fundet!"
+
+#: includes/widgets/properties-widget.php:465
+msgid "Property Location:"
+msgstr ""
+
+#: includes/widgets/properties-widget.php:499
+msgid "Property Status:"
+msgstr "Ejendomsstatus:"
+
+#: includes/widgets/properties-widget.php:532
+msgid "Property Types:"
+msgstr ""
+
+#: includes/widgets/properties-widget.php:564
+msgid "Property Feature:"
+msgstr ""
+
+#: includes/widgets/property-types-widget.php:26
+msgid "This widget displays a list of Property Types."
+msgstr "Denne widget viser en liste over ejendomstyper."
+
+#: includes/widgets/property-types-widget.php:29
+msgid "RealHomes - Property Types"
+msgstr "RealHomes - Ejendomstyper"
+
+#: includes/widgets/rh-contact-information-widget.php:24
+msgid "Displays general contact information."
+msgstr "Viser generel kontaktinformation."
+
+#: includes/widgets/rh-contact-information-widget.php:27
+msgid "RealHomes - Contact Information"
+msgstr "RealHomes - Kontakt information"
+
+#: includes/widgets/rh-contact-information-widget.php:106
+msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:107
+msgid "+123-456-789"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:108
+msgid "robot@inspirythemes.com"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:122
+msgid "Contact Address"
+msgstr "Kontakt adresse"
+
+#: includes/widgets/rh-contact-information-widget.php:126
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: includes/widgets/rh-contact-information-widget.php:131
+msgid "Use WhatsApp icon for the phone number?"
+msgstr ""
+
+#: includes/widgets/rh-contact-information-widget.php:134
+msgid "Email"
+msgstr "E-mail"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides real estate functionality for Real Homes theme."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
+msgstr ""
