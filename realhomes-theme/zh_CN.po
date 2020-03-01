@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
 "POT-Creation-Date: 2020-02-15 15:46+0500\n"
-"PO-Revision-Date: 2020-02-27 17:26+0500\n"
+"PO-Revision-Date: 2020-03-01 23:49+0500\n"
 "Last-Translator: \n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: zh_CN\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
@@ -785,7 +785,7 @@ msgstr "告诉我们所需的物业"
 #: assets/modern/partials/home/slider/cfos.php:160
 #: assets/modern/partials/home/slider/cfos.php:176
 msgid "* Please provide "
-msgstr "请提供自定义字段名称。"
+msgstr "请提供自定义字段名称 "
 
 #: assets/classic/partials/home/slider/search-form-over-image.php:103
 msgid "Advanced Search"
@@ -987,7 +987,7 @@ msgstr "您在收藏夹中没有任何房源！"
 
 #: assets/classic/partials/page/favorites.php:155
 msgid "Login Required!"
-msgstr "要求登录"
+msgstr "要求登录!"
 
 #: assets/classic/partials/page/forms/login-form.php:2
 #: assets/modern/partials/member/login-form.php:7
@@ -1095,7 +1095,7 @@ msgstr "搜索"
 #: assets/classic/partials/page/my-properties.php:181
 #: assets/modern/partials/member/properties.php:261
 msgid "Search results for: "
-msgstr "搜索结果："
+msgstr "搜索结果: "
 
 #: assets/classic/partials/page/my-properties.php:214
 msgid "Posted on:"
@@ -1898,7 +1898,7 @@ msgstr "要求可用性"
 #: assets/modern/partials/property/single-fullwidth/energy-performance.php:25
 #: assets/modern/partials/property/single/energy-performance.php:23
 msgid "Energy Class:"
-msgstr "能源等级"
+msgstr "能源等级:"
 
 #: assets/classic/partials/property/single/energy-performance.php:29
 #: assets/modern/partials/property/single-fullwidth/energy-performance.php:32
@@ -2027,7 +2027,7 @@ msgstr "步行分数"
 #: assets/modern/partials/property/single/yelp-nearby-places.php:11
 #: framework/customizer/sections/property/yelp-nearby-places.php:65
 msgid "What's Nearby?"
-msgstr "附近有什么"
+msgstr "附近有什么?"
 
 #: assets/modern/partials/404-temp.php:52
 msgid "Please try top navigation!"
@@ -2120,7 +2120,7 @@ msgstr "发表于"
 
 #: assets/modern/partials/blog/post/meta.php:25
 msgid "On "
-msgstr "上"
+msgstr "上 "
 
 #: assets/modern/partials/header/modal.php:44
 msgid "Welcome"
@@ -2251,9 +2251,8 @@ msgstr "注意：只有在您想更改密码时才填写"
 
 #: assets/modern/partials/page/favorites.php:204
 #: assets/modern/partials/page/favorites.php:209
-#, fuzzy
 msgid "Please login to view your favorite properties!"
-msgstr "请登录查看您最喜爱的属性！"
+msgstr ""
 
 #: assets/modern/partials/page/favorites.php:206
 #, php-format
@@ -2383,9 +2382,8 @@ msgstr "加入对比"
 #: assets/modern/partials/properties/grid.php:82
 #: assets/modern/partials/properties/list-full-width.php:81
 #: assets/modern/partials/properties/list.php:81
-#, fuzzy
 msgid "No Results Found!!"
-msgstr "未找到结果！！"
+msgstr ""
 
 #: assets/modern/partials/properties/search/widget-form.php:62
 msgid "Advance Search is already enabled in the header."
@@ -2535,9 +2533,8 @@ msgid "Select the number of agents to display on agency detail page."
 msgstr "选择要在 \"代理中介详细信息\" 页上显示的代理数量。"
 
 #: framework/customizer/agencies.php:113
-#, fuzzy
 msgid "Shortcode to Replace Default Agency Form"
-msgstr "替换默认代理窗体的简短代码"
+msgstr ""
 
 #: framework/customizer/agencies.php:114
 msgid ""
@@ -2759,9 +2756,8 @@ msgid ""
 msgstr "您只能比较4个属性，添加的任何新属性都将替换比较中的第一个属性。"
 
 #: framework/customizer/compare-properties.php:112
-#, fuzzy
 msgid "Properties Comparison Limit Notification"
-msgstr "属性比较限制通知"
+msgstr ""
 
 #: framework/customizer/compare-properties.php:127
 msgid "Compare Button Text"
@@ -2814,9 +2810,8 @@ msgid "One Month"
 msgstr "1月"
 
 #: framework/customizer/favorites.php:36
-#, fuzzy
 msgid "Favorites Properties"
-msgstr "收藏夹属性"
+msgstr ""
 
 #: framework/customizer/favorites.php:47
 msgid "Add to Favorites Button on Property Detail Page"
@@ -2971,9 +2966,8 @@ msgid "Flag Only "
 msgstr "仅标志 "
 
 #: framework/customizer/members.php:20
-#, fuzzy
 msgid "Users or Members"
-msgstr "用户或成员"
+msgstr ""
 
 #: framework/customizer/members.php:28
 msgid "Basic"
@@ -3165,9 +3159,8 @@ msgid "Selected page should have My Properties Template assigned to it."
 msgstr "所选页面应该具有分配给它的收藏夹属性模板。"
 
 #: framework/customizer/members.php:434
-#, fuzzy
 msgid "Display My Properties Search Form"
-msgstr "显示\"我的属性\"搜索窗体"
+msgstr ""
 
 #: framework/customizer/members.php:435
 msgid ""
@@ -3276,7 +3269,7 @@ msgstr "启用PayPal Sandbox进行测试"
 
 #: framework/customizer/payments.php:86
 msgid "Payment Amount Per Property"
-msgstr "每次支付金额？"
+msgstr "每次支付金额"
 
 #: framework/customizer/payments.php:87
 msgid ""
@@ -3614,9 +3607,8 @@ msgid "Header Layout"
 msgstr "页眉布局"
 
 #: framework/customizer/sections/header/header-var.php:48
-#, fuzzy
 msgid "Choose your desired layout."
-msgstr "选择所需的布局。"
+msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:12
 msgid "Login & Register Basics"
@@ -3638,9 +3630,8 @@ msgstr ""
 "成功登录后，用户将被重定向到所选页面。默认情况下，用户将被重定向到主页。"
 
 #: framework/customizer/sections/header/login-register.php:51
-#, fuzzy
 msgid "Login and Register Page (optional)"
-msgstr "登录和注册页面（可选）"
+msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:52
 msgid ""
@@ -3652,9 +3643,8 @@ msgstr ""
 "板。"
 
 #: framework/customizer/sections/header/login-register.php:65
-#, fuzzy
 msgid "Login & Register Dialog"
-msgstr "登录和注册对话框"
+msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:76
 msgid "Quote Side (Half of Dialog)"
@@ -3677,9 +3667,8 @@ msgid "Show Date and Day"
 msgstr "显示日期和日期"
 
 #: framework/customizer/sections/header/login-register.php:144
-#, fuzzy
 msgid "Select Site Title/Logo"
-msgstr "选择网站标题/徽标"
+msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:149
 msgid "Site Title"
@@ -3695,9 +3684,8 @@ msgid "Login Tab Text"
 msgstr "登录选项卡"
 
 #: framework/customizer/sections/header/login-register.php:173
-#, fuzzy
 msgid "Register Tab Text"
-msgstr "注册选项卡文本"
+msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:185
 msgid "Forget Password Text"
@@ -3748,9 +3736,8 @@ msgid "Restore Field Placeholder"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:353
-#, fuzzy
 msgid "Reset Password Button Text"
-msgstr "重置密码按钮文本"
+msgstr ""
 
 #: framework/customizer/sections/header/others.php:25
 msgid "Others"
@@ -3822,22 +3809,18 @@ msgid "Header Search Form"
 msgstr "页头搜索表单"
 
 #: framework/customizer/sections/header/search-form.php:42
-#, fuzzy
 msgid ""
 "Enabling the Advance Search Form in header will hide the Advance Search "
 "Widget in the sidebar (except Home template)."
 msgstr ""
-"在标题中启用\"提前搜索窗体\"将隐藏侧边栏中的\"提前搜索\"小部件（主模板除"
-"外）。"
 
 #: framework/customizer/sections/property/agent.php:39
 msgid "Agent Section Position"
 msgstr "特工部门职位"
 
 #: framework/customizer/sections/property/agent.php:43
-#, fuzzy
 msgid "Agent info in Main Content"
-msgstr "主要内容中的代理信息"
+msgstr ""
 
 #: framework/customizer/sections/property/agent.php:44
 msgid "Agent info in Sidebar"
@@ -3852,9 +3835,8 @@ msgid "Agent Title Prefix"
 msgstr "特工标题前缀"
 
 #: framework/customizer/sections/property/agent.php:82
-#, fuzzy
 msgid "Agent Contact Information"
-msgstr "代理联系信息"
+msgstr ""
 
 #: framework/customizer/sections/property/agent.php:97
 msgid "Agent Description"
@@ -3865,9 +3847,8 @@ msgid "Agent Detail Page Link"
 msgstr "代理商详细信息页面链接"
 
 #: framework/customizer/sections/property/agent.php:132
-#, fuzzy
 msgid "Agent Detail Page Link Text"
-msgstr "代理详细信息页面链接文本"
+msgstr ""
 
 #: framework/customizer/sections/property/agent.php:144
 msgid "Agent Contact Form"
@@ -3916,9 +3897,8 @@ msgid "Property Availability Title"
 msgstr "物业可用性标题"
 
 #: framework/customizer/sections/property/basics.php:38
-#, fuzzy
 msgid "Page Template for All Properties"
-msgstr "所有属性的页面模板"
+msgstr ""
 
 #: framework/customizer/sections/property/basics.php:39
 msgid ""
@@ -3935,9 +3915,8 @@ msgid "Full Width Template"
 msgstr "全宽模板"
 
 #: framework/customizer/sections/property/basics.php:58
-#, fuzzy
 msgid "Require Login to Display Property Detail"
-msgstr "需要登录才能显示属性详细信息"
+msgstr ""
 
 #: framework/customizer/sections/property/basics.php:81
 #: framework/customizer/sections/search/properties-search-page.php:87
@@ -4009,18 +3988,16 @@ msgid "Share Label"
 msgstr "分享标签"
 
 #: framework/customizer/sections/property/basics.php:260
-#, fuzzy
 msgid "This will overwrite the share label."
-msgstr "这将覆盖共享标签。"
+msgstr ""
 
 #: framework/customizer/sections/property/basics.php:274
 msgid "Favourite Label"
 msgstr "最喜欢的标签"
 
 #: framework/customizer/sections/property/basics.php:275
-#, fuzzy
 msgid "This will overwrite the Favourite label."
-msgstr "这将覆盖收藏夹标签。"
+msgstr ""
 
 #: framework/customizer/sections/property/basics.php:288
 msgid "Added To Favourite Label"
@@ -4035,9 +4012,8 @@ msgid "Print Label"
 msgstr "打印标签"
 
 #: framework/customizer/sections/property/basics.php:303
-#, fuzzy
 msgid "This will overwrite the Print label."
-msgstr "这将覆盖\"打印\"标签。"
+msgstr ""
 
 #: framework/customizer/sections/property/basics.php:333
 msgid "Description Title"
@@ -4112,9 +4088,8 @@ msgid "This will only display if a property has child properties."
 msgstr "这仅在属性具有子属性时才会显示。"
 
 #: framework/customizer/sections/property/child-properties.php:58
-#, fuzzy
 msgid "Child Properties Layout"
-msgstr "子属性布局"
+msgstr ""
 
 #: framework/customizer/sections/property/child-properties.php:63
 msgid "Table"
@@ -4160,9 +4135,8 @@ msgid "Gallery"
 msgstr "画廊"
 
 #: framework/customizer/sections/property/gallery.php:24
-#, fuzzy
 msgid "Gallery with Thumbnails on Right"
-msgstr "右侧带有缩略图的图库"
+msgstr ""
 
 #: framework/customizer/sections/property/gallery.php:25
 msgid "Gallery with Thumbnails on Bottom"
@@ -4173,9 +4147,8 @@ msgid "Default Gallery"
 msgstr "默认库"
 
 #: framework/customizer/sections/property/gallery.php:30
-#, fuzzy
 msgid "Gallery with Thumbnails"
-msgstr "带缩略图的图库"
+msgstr ""
 
 #: framework/customizer/sections/property/gallery.php:40
 msgid "Gallery Type"
@@ -4268,9 +4241,8 @@ msgid "Sections"
 msgstr "部分"
 
 #: framework/customizer/sections/property/sections-manager.php:83
-#, fuzzy
 msgid "Select custom order for classic design variation."
-msgstr "为经典设计变化选择自定义顺序。"
+msgstr ""
 
 #: framework/customizer/sections/property/sections-manager.php:144
 #: framework/include/meta-boxes/home-page-meta-box.php:135
@@ -4376,13 +4348,10 @@ msgid "API Key"
 msgstr "API密钥"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:50
-#, fuzzy
 msgid ""
 "Click here to get your <a target=\"_blank\" href=\"https://www.yelp.com/"
 "developers/v3/manage_app\">Yelp API Key</a>"
 msgstr ""
-"单击此处获取<a target=\"_blank\" href=\"https://www.yelp.com/developers/v3/"
-"manage_app\">Yelp API 密钥</a>"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:94
 msgid "Distance Unit"
@@ -4555,7 +4524,7 @@ msgstr "搜索结果布局"
 
 #: framework/customizer/sections/search/properties-search-page.php:105
 msgid "Search results page layout."
-msgstr "选择搜索结果页面布局"
+msgstr "选择搜索结果页面布局."
 
 #: framework/customizer/sections/search/properties-search-page.php:109
 msgid "With Map"
@@ -4638,7 +4607,7 @@ msgstr "搜索表单基础"
 
 #: framework/customizer/sections/search/search-form-basics.php:40
 msgid "Search Form Layout "
-msgstr "搜索表单布局"
+msgstr "搜索表单布局 "
 
 #: framework/customizer/sections/search/search-form-basics.php:41
 #: framework/customizer/sections/search/search-form-basics.php:172
@@ -4679,7 +4648,7 @@ msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:150
 msgid "Property Features Search Fields "
-msgstr "物业功能搜索字段"
+msgstr "物业功能搜索字段 "
 
 #: framework/customizer/sections/search/search-form-basics.php:171
 #: framework/customizer/sections/search/search-form-basics.php:190
@@ -4786,9 +4755,8 @@ msgid "Label for Min Beds Field"
 msgstr "最小床位数的标签"
 
 #: framework/customizer/sections/search/search-form-bed.php:47
-#, fuzzy
 msgid "Placeholder for Min Beds Field"
-msgstr "最小床字段的占位符"
+msgstr ""
 
 #: framework/customizer/sections/search/search-form-bed.php:59
 msgid "Minimum Beds Values"
@@ -4904,9 +4872,8 @@ msgid "Example: Country"
 msgstr "示例：国家"
 
 #: framework/customizer/sections/search/search-form-locations.php:83
-#, fuzzy
 msgid "Placeholder for 1st Location Field"
-msgstr "第一个位置字段的占位符"
+msgstr ""
 
 #: framework/customizer/sections/search/search-form-locations.php:95
 msgid "Title for 2nd Location Select Box"
@@ -4941,9 +4908,8 @@ msgid "Example: Area"
 msgstr "示例：面积"
 
 #: framework/customizer/sections/search/search-form-locations.php:157
-#, fuzzy
 msgid "Placeholder for 4th Location Field"
-msgstr "第 4 个位置字段的占位符"
+msgstr ""
 
 #: framework/customizer/sections/search/search-form-locations.php:170
 msgid "Hide Empty Locations ?"
@@ -4966,9 +4932,8 @@ msgid "Label for Min Price Field"
 msgstr "最低价格字段的标签"
 
 #: framework/customizer/sections/search/search-form-prices.php:63
-#, fuzzy
 msgid "Placeholder for Min Price Field"
-msgstr "最小价格字段的占位符"
+msgstr ""
 
 #: framework/customizer/sections/search/search-form-prices.php:75
 msgid "Minimum Prices List"
@@ -5033,9 +4998,8 @@ msgid "Banner Image Overlay Opacity"
 msgstr "图片叠加透明度"
 
 #: framework/customizer/sections/styles/banner.php:89
-#, fuzzy
 msgid "Set opacity in decimal points between 0 and 1 (i.e .5)"
-msgstr "在 0 和 1 之间设置小数点中的不集中性（即 .5）"
+msgstr ""
 
 #: framework/customizer/sections/styles/banner.php:103
 msgid "Banner Height"
@@ -5189,9 +5153,8 @@ msgid "Submit Button Border Color"
 msgstr "提交按钮边框颜色"
 
 #: framework/customizer/sections/styles/buttons.php:210
-#, fuzzy
 msgid "Submit Button Border Hover Color"
-msgstr "提交按钮边框悬停颜色"
+msgstr ""
 
 #: framework/customizer/sections/styles/buttons.php:232
 msgid "Advance Search Button Icon"
@@ -5272,6 +5235,9 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact Form Button %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ec894d "
 msgstr ""
+"更改%1$s的核心颜色•主菜单%1$s•搜索表单按钮%1$s•属性状态标签%1$s•座席了解更多"
+"按钮%1$s•座席联系表单按钮%1$s•发表更多信息按钮%1$s•发表作者链接%1$s•发表标"
+"签%1$s•发表回复按钮%1$s•图库过滤器%1$s•联系人表格按钮%1$s默认颜色为＃ ec894d "
 
 #: framework/customizer/sections/styles/core-styles.php:101 functions.php:178
 #: functions.php:203
@@ -5287,6 +5253,8 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Sidebar Widgets Links Hover %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #dc7d44 "
 msgstr ""
+"更改%1$s的核心颜色•主菜单悬停%1$s•页脚小部件链接悬停%1$s•边栏小部件链接悬"
+"停%1$s默认颜色为＃dc7d44 "
 
 #: framework/customizer/sections/styles/core-styles.php:122
 msgid "Orange Glow"
@@ -5305,6 +5273,9 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Pagination %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #e3712c "
 msgstr ""
+"更改%1$s的核心颜色•搜索表单按钮悬停%1$s•座席了解更多按钮悬停%1$s•代理联系表单"
+"按钮悬停%1$s•发布阅读更多按钮悬停%1$s•发布标签将鼠标悬停%1$s•发布回复按钮将鼠"
+"标悬停%1$s•分页%1$s默认颜色为＃e3712c "
 
 #: framework/customizer/sections/styles/core-styles.php:147
 msgid "Orange Burnt"
@@ -5351,6 +5322,9 @@ msgid ""
 "\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #4dc7ec "
 msgstr ""
+"更改%1$s的核心颜色•标头电话号码背景%1$s•搜索表单下拉项背景%1$s•家用滑块了解更"
+"多%1$s•物业价格和类型颜色/背景%1$s•滚动到顶部按钮%1$s•发布格式图标背景%1$s•发"
+"布滑块导航%1$s•库属性覆盖%1$s默认颜色为＃4dc7ec "
 
 #: framework/customizer/sections/styles/core-styles.php:202 functions.php:188
 msgid "Blue Dark"
@@ -5368,6 +5342,8 @@ msgid ""
 "\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #37b3d9 "
 msgstr ""
+"更改%1$s的核心颜色•标题电话图标%1$s•家用滑块知道更多悬停%1$s•滚动到顶部按钮悬"
+"停%1$s•横幅说明背景%1$s•横幅面包屑背景%1$s默认颜色为＃37b3d9 "
 
 #: framework/customizer/sections/styles/core-styles.php:228
 msgid "Orange"
@@ -5451,6 +5427,9 @@ msgid ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact PAge Form Button Hover %1$s\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1c9d92 "
 msgstr ""
+"更改%1$s的核心颜色•属性提交按钮悬停%1$s•属性搜索按钮悬停%1$s•家庭推荐引"
+"号%1$s•属性侧边栏按钮悬停%1$s•评论提交按钮悬停%1$s•新闻阅读更多内容悬停%1$s•"
+"座席联系表单按钮悬停%1$s•联系人表单按钮悬停%1$s默认颜色为＃1c9d92 "
 
 #: framework/customizer/sections/styles/floating-features.php:39
 msgid "Small Devices Bar Background Color"
@@ -5507,7 +5486,7 @@ msgstr "下拉框文字悬停颜色"
 
 #: framework/customizer/sections/styles/floating-features.php:193
 msgid "Language Switcher "
-msgstr "语言切换"
+msgstr "语言切换 "
 
 #: framework/customizer/sections/styles/floating-features.php:330
 msgid "Compare Properties "
@@ -5732,7 +5711,7 @@ msgstr "顶部电话图标背景颜色"
 
 #: framework/customizer/sections/styles/header-styles.php:499
 msgid "Sticky Header "
-msgstr "粘性标题"
+msgstr "粘性标题 "
 
 #: framework/customizer/sections/styles/header-styles.php:514
 msgid "Site Title Color"
@@ -5776,7 +5755,7 @@ msgstr "头部提交按钮悬停颜色"
 
 #: framework/customizer/sections/styles/header-styles.php:674
 msgid "Responsive Header "
-msgstr "页眉响应式"
+msgstr "页眉响应式 "
 
 #: framework/customizer/sections/styles/header-styles.php:689
 msgid "Responsive Header Background Color"
@@ -5974,7 +5953,7 @@ msgstr "新闻和更新 "
 
 #: framework/customizer/sections/styles/home-page.php:835
 msgid "CTA-Contact "
-msgstr "CTA联系方式"
+msgstr "CTA联系方式 "
 
 #: framework/customizer/sections/styles/home-page.php:851
 msgid "CTA Overlay Color"
@@ -6154,9 +6133,8 @@ msgid "Google Font for Body Text"
 msgstr "Google文字正文字体"
 
 #: framework/customizer/site-logo.php:53
-#, fuzzy
 msgid "Site Retina Logo"
-msgstr "站点视网膜徽标"
+msgstr ""
 
 #: framework/customizer/site-logo.php:54 framework/customizer/site-logo.php:100
 msgid ""
@@ -6168,9 +6146,8 @@ msgstr ""
 "视网膜徽标图片大小应为300px x 100px。"
 
 #: framework/customizer/site-logo.php:83
-#, fuzzy
 msgid "Site Logo For Mobile"
-msgstr "移动网站徽标"
+msgstr ""
 
 #: framework/customizer/site-logo.php:84
 msgid ""
@@ -6187,9 +6164,8 @@ msgid "Styles"
 msgstr "样式"
 
 #: framework/customizer/user-sync.php:22
-#, fuzzy
 msgid "User & Agent/Agency Sync"
-msgstr "用户 + 代理/代理同步"
+msgstr ""
 
 #: framework/customizer/user-sync.php:40
 msgid "Enable User Synchronisation with Agent/Agency"
@@ -6269,7 +6245,7 @@ msgstr "删除成功！"
 #: framework/functions/compare.php:124 framework/functions/favorites.php:115
 #: framework/functions/favorites.php:136
 msgid "Failed to remove!"
-msgstr "移除失败。"
+msgstr "移除失败!"
 
 #: framework/functions/compare.php:135 framework/functions/favorites.php:41
 #: framework/functions/favorites.php:148
@@ -6354,9 +6330,8 @@ msgid "successful. Redirecting..."
 msgstr "登录成功，跳转中..."
 
 #: framework/functions/member.php:144
-#, fuzzy
 msgid "Please select a user role."
-msgstr "请选择用户角色。"
+msgstr ""
 
 #: framework/functions/member.php:163
 msgid "This username already exists."
@@ -6441,7 +6416,7 @@ msgstr "Due Date: %s"
 
 #: framework/functions/my-properties.php:41
 msgid "Failed to Remove!"
-msgstr "移除失败。"
+msgstr "移除失败!"
 
 #: framework/functions/pagination.php:43 framework/functions/pagination.php:171
 #: framework/functions/pagination.php:237
@@ -6479,9 +6454,8 @@ msgid "Invalid image format!"
 msgstr "图片格式无效！"
 
 #: framework/functions/property-submit-handler.php:65
-#, fuzzy
 msgid "Image upload failed!"
-msgstr "图像上传失败！"
+msgstr ""
 
 #: framework/functions/real-estate-search.php:1124
 msgid "Main Location"
@@ -6576,18 +6550,16 @@ msgid "Please enter an item purchase code."
 msgstr "请输入物品编号。"
 
 #: framework/functions/theme-registration.php:40
-#, fuzzy
 msgid "Please provide a valid purchase code!"
-msgstr "请提供有效的购买代码！"
+msgstr ""
 
 #: framework/functions/theme-registration.php:45
 msgid "Problem in connecting..."
 msgstr "连接问题..."
 
 #: framework/functions/user-profile.php:15
-#, fuzzy
 msgid "User Additional Fields"
-msgstr "用户附加字段"
+msgstr ""
 
 #: framework/include/admin/class-rh-admin.php:68
 #: framework/include/admin/class-rh-admin.php:69
@@ -6643,7 +6615,7 @@ msgstr "现在安装"
 
 #: framework/include/admin/class-rh-admin.php:311
 msgid "Installing..."
-msgstr "安装…"
+msgstr "安装中..."
 
 #: framework/include/admin/class-rh-admin.php:312
 msgid "Installed!"
@@ -6659,7 +6631,7 @@ msgstr "启用中..."
 
 #: framework/include/admin/class-rh-admin.php:315
 msgid "Activated!"
-msgstr "未激活。"
+msgstr "未激活!"
 
 #: framework/include/admin/class-rh-admin.php:316
 #: framework/include/admin/class-rh-admin.php:613
@@ -6672,9 +6644,8 @@ msgid "Provided Email address is invalid!"
 msgstr "提供电子邮件地址无效！"
 
 #: framework/include/admin/class-rh-admin.php:354
-#, fuzzy
 msgid "Feedback received by"
-msgstr "收到的反馈"
+msgstr ""
 
 #: framework/include/admin/class-rh-admin.php:354
 msgid " from"
@@ -6682,11 +6653,11 @@ msgstr " 面积从"
 
 #: framework/include/admin/class-rh-admin.php:357
 msgid "You have received a feedback from: "
-msgstr "您收到了以下方面的反馈："
+msgstr "您收到了以下方面的反馈: "
 
 #: framework/include/admin/class-rh-admin.php:359
 msgid "Website : "
-msgstr "网址："
+msgstr "网址: "
 
 #: framework/include/admin/class-rh-admin.php:361
 msgid "Their feedback is as follows."
@@ -6694,7 +6665,7 @@ msgstr "他们的反馈如下。"
 
 #: framework/include/admin/class-rh-admin.php:363
 msgid "You can contact "
-msgstr "你可以联系"
+msgstr "你可以联系 "
 
 #: framework/include/admin/class-rh-admin.php:363
 msgid " via email, "
@@ -6769,9 +6740,9 @@ msgid "Feedback Details"
 msgstr "反馈详细信息"
 
 #: framework/include/admin/tabs/feedback.php:30
-#, fuzzy, php-format
+#, php-format
 msgid "Fields marked with an %s are required."
-msgstr "使用 %s 标记的字段是必需的。"
+msgstr ""
 
 #: framework/include/admin/tabs/feedback.php:35
 msgid "Send Feedback"
@@ -6858,9 +6829,8 @@ msgid "Banner Title Display Status"
 msgstr "标语标题显示状态"
 
 #: framework/include/meta-boxes/banner-meta-box.php:106
-#, fuzzy
 msgid "Hide Search Form In Header?"
-msgstr "在标题中隐藏搜索窗体？"
+msgstr ""
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:33
 msgid "Map Latitude"
@@ -6912,9 +6882,8 @@ msgstr "名称字段标签"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:195
 #: framework/include/meta-boxes/home-page-meta-box.php:297
-#, fuzzy
 msgid "Email Field Label"
-msgstr "电子邮件字段标签"
+msgstr ""
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:203
 msgid "Phone Number Field Label"
@@ -7004,9 +6973,8 @@ msgstr "删除页面的顶部和底部间距"
 
 #: framework/include/meta-boxes/content-area.php:104
 #: framework/include/meta-boxes/content-area.php:125
-#, fuzzy
 msgid "Remove Content Area Padding?"
-msgstr "是否删除内容区域填充？"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:19
 msgid "Show or Hide Slogan + Properties on Homepage?"
@@ -7019,9 +6987,8 @@ msgstr "基于属性自定义帖子类型的滑块"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:24
 #: framework/include/meta-boxes/home-page-meta-box.php:61
-#, fuzzy
 msgid "Search Form Over an Image / Video"
-msgstr "在图像/视频上搜索表单"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:26
 #: framework/include/meta-boxes/home-page-meta-box.php:63
@@ -7030,7 +6997,7 @@ msgstr "基于图像的横幅"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:27
 msgid "Slider Based on Revolution Slider Plugin"
-msgstr "基于滑动滑块的滑块。"
+msgstr "基于滑动滑块的滑块"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:28
 #: framework/include/meta-boxes/home-page-meta-box.php:65
@@ -7039,9 +7006,8 @@ msgstr "基于幻灯片的自定义幻灯片类型"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:29
 #: framework/include/meta-boxes/home-page-meta-box.php:66
-#, fuzzy
 msgid "Contact Form Over Slider"
-msgstr "在滑块上联系窗体"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:48
 msgid "Home Properties"
@@ -7153,9 +7119,8 @@ msgstr "为了帮助您选择物业"
 #: framework/include/meta-boxes/home-page-meta-box.php:279
 #: framework/include/meta-boxes/home-page-meta-box.php:298
 #: framework/include/meta-boxes/home-page-meta-box.php:317
-#, fuzzy
 msgid "Label will be hidden if GDPR or rCaptcha are activated"
-msgstr "如果激活了 GDPR 或 rCaptcha，标签将被隐藏"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:288
 msgid "Name Field Placeholder"
@@ -7174,9 +7139,8 @@ msgid "Number Field Placeholder"
 msgstr "数字字段占位符"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:344
-#, fuzzy
 msgid "Message Field Placeholder"
-msgstr "消息字段占位符"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:392
 msgid "Google Map Type"
@@ -7199,9 +7163,8 @@ msgid "Background Video for Homepage Search Form ( Revolution Slider Alias )"
 msgstr "主页搜索表的背景视频（Revolution Slider Alias）"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:443
-#, fuzzy
 msgid "Video will be placed over the background image of search form"
-msgstr "视频将放置在搜索表单的背景图像上"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:451
 msgid "Background Image Overlay Opacity (between 0 and 1)"
@@ -7285,7 +7248,7 @@ msgstr "Real Homes主题的一些惊人功能。"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:636
 msgid "Select the kind of properties you want to display on Homepage ?"
-msgstr "选择您想要显示的房屋的种类"
+msgstr "选择您想要显示的房屋的种类?"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:641
 msgid "Recent Properties"
@@ -7312,9 +7275,8 @@ msgid "Number of Properties on Each Page"
 msgstr "每页上的房源数量"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:723
-#, fuzzy
 msgid "Show Sticky Properties First"
-msgstr "首先显示粘性属性"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:733
 msgid "AJAX Pagination"
@@ -7396,11 +7358,10 @@ msgid "Content Area on Homepage"
 msgstr "主页上的内容区域"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:998
-#, fuzzy
 msgid ""
 "For the contents that you may have added to the homepage using above content "
 "area underneath homepage title."
-msgstr "对于您可能已使用主页标题下的上述内容区域添加到主页的内容。"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:1011
 msgid "Testimonial on Homepage"
@@ -7450,11 +7411,10 @@ msgid "CTA Description"
 msgstr "CTA说明"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:1085
-#, fuzzy
 msgid ""
 "Looking to Buy a new property or Sell an existing one? Real Homes provides "
 "an easy solution!"
-msgstr "想要购买新房产或出售现有房产？真正的家园提供了一个简单的解决方案！"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:1091
 #: framework/include/meta-boxes/home-page-meta-box.php:1332
