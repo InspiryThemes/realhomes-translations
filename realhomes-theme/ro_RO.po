@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
 "POT-Creation-Date: 2020-02-15 15:46+0500\n"
-"PO-Revision-Date: 2020-02-27 17:53+0500\n"
+"PO-Revision-Date: 2020-03-01 23:34+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: ro_RO\n"
@@ -482,7 +482,6 @@ msgstr "Introdu un nume de utilizator sau o adresă de email"
 
 #: assets/classic/partials/footer/modal-login.php:18
 #: assets/classic/partials/footer/modal-login.php:128
-#| msgid "* Provide username!"
 msgid "* Provide Username!"
 msgstr ""
 
@@ -788,7 +787,6 @@ msgstr "Număr"
 
 #: assets/classic/partials/home/slider/cfos.php:59
 #: assets/modern/partials/home/slider/cfos.php:55
-#| msgid "Your Name"
 msgid "Your Number"
 msgstr "Numărul dvs"
 
@@ -1900,28 +1898,24 @@ msgstr "Preț"
 #: assets/classic/partials/property/single/children.php:34
 #: assets/modern/partials/property/single-fullwidth/children.php:28
 #: assets/modern/partials/property/single/children.php:34
-#| msgid "Min Beds"
 msgid "Beds"
 msgstr "Paturi"
 
 #: assets/classic/partials/property/single/children.php:35
 #: assets/modern/partials/property/single-fullwidth/children.php:29
 #: assets/modern/partials/property/single/children.php:35
-#| msgid "Min Baths"
 msgid "Baths"
 msgstr "Băi"
 
 #: assets/classic/partials/property/single/children.php:38
 #: assets/modern/partials/property/single-fullwidth/children.php:32
 #: assets/modern/partials/property/single/children.php:38
-#| msgid "Availability Calendar"
 msgid "Availability Date"
 msgstr "Dată Disponibilitate"
 
 #: assets/classic/partials/property/single/children.php:68
 #: assets/modern/partials/property/single-fullwidth/children.php:62
 #: assets/modern/partials/property/single/children.php:68
-#| msgid "Property City"
 msgid "Call for availabilty"
 msgstr ""
 
@@ -1993,14 +1987,12 @@ msgstr "Capacitate oaspeți"
 #: framework/customizer/sections/property/property-views.php:58
 #: framework/customizer/sections/property/sections-manager.php:54
 #: framework/customizer/sections/property/sections-manager.php:118
-#| msgid "Property Video"
 msgid "Property Views"
 msgstr ""
 
 #: assets/classic/partials/property/single/rvr/availability-calendar.php:28
 #: assets/modern/partials/property/single/rvr/availability-calendar.php:31
 #: framework/customizer/sections/property/availability-calendar.php:49
-#| msgid "Property City"
 msgid "Property Availability"
 msgstr "Disponibilitate proprietate"
 
@@ -2138,7 +2130,6 @@ msgid "No Properties Found"
 msgstr "Nu s-au găsit proprietăți"
 
 #: assets/modern/partials/author/agent-card.php:143
-#| msgid "WhatsApp"
 msgid "Whatsapp"
 msgstr "Whatsapp"
 
@@ -2472,7 +2463,6 @@ msgstr "Introdu titlul proprietatii"
 
 #: assets/modern/partials/property/single-fullwidth/child.php:67
 #, php-format
-#| msgid "Photo"
 msgid "%s Photo"
 msgid_plural "%s Photos"
 msgstr[0] ""
@@ -2525,7 +2515,6 @@ msgstr "Comentariile sunt închise."
 
 #: common/partials/login-modal.php:168
 #: framework/customizer/sections/header/login-register.php:181
-#| msgid "Forgot Password"
 msgid "Forget Password?"
 msgstr "Ati uitat parola ?"
 
@@ -2925,7 +2914,6 @@ msgstr "Nu"
 
 #: framework/customizer/floating-features.php:12
 #: framework/customizer/sections/styles/floating-features.php:25
-#| msgid "Property Features"
 msgid "Floating Features"
 msgstr "Caracteristici float"
 
@@ -2935,7 +2923,6 @@ msgid "Basics"
 msgstr "Elementele de bază"
 
 #: framework/customizer/floating-features.php:28
-#| msgid "Buttons"
 msgid "Button Show"
 msgstr ""
 
@@ -3022,7 +3009,6 @@ msgid "Flag Only "
 msgstr "Numai cu pavilionul "
 
 #: framework/customizer/members.php:20
-#| msgid "Members"
 msgid "Users or Members"
 msgstr ""
 
@@ -3216,7 +3202,6 @@ msgid "Selected page should have My Properties Template assigned to it."
 msgstr ""
 
 #: framework/customizer/members.php:434
-#| msgid "Properties Search"
 msgid "Display My Properties Search Form"
 msgstr ""
 
@@ -3234,7 +3219,6 @@ msgid "View Property"
 msgstr "Vezi Proprietate"
 
 #: framework/customizer/misc.php:41
-#| msgid "Property Detail Page"
 msgid "Property Detail Page Link Text"
 msgstr ""
 
@@ -3285,7 +3269,6 @@ msgstr ""
 "css mari."
 
 #: framework/customizer/misc.php:105
-#| msgid "Scroll to Top Button Icon Color"
 msgid "Show Scroll To Top Button"
 msgstr ""
 
@@ -3294,7 +3277,6 @@ msgid "Select Drop Down No Result Text"
 msgstr ""
 
 #: framework/customizer/pages.php:11
-#| msgid "General"
 msgid "General Pages"
 msgstr ""
 
@@ -3397,7 +3379,6 @@ msgstr "Tipul Hartii"
 #: framework/customizer/sections/search/properties-search-page.php:127
 #: framework/include/meta-boxes/contact-page-meta-box.php:67
 #: framework/include/meta-boxes/home-page-meta-box.php:393
-#| msgid "Google Map"
 msgid "Choose Google Map Type"
 msgstr ""
 
@@ -3653,7 +3634,6 @@ msgid "Contact Information"
 msgstr "Informații de contact"
 
 #: framework/customizer/sections/header/contact-information.php:37
-#| msgid "Email Address"
 msgid "Email Address Label"
 msgstr ""
 
@@ -3662,12 +3642,10 @@ msgid "Email Address"
 msgstr "Adresa email"
 
 #: framework/customizer/sections/header/contact-information.php:102
-#| msgid "Phone Number : "
 msgid "Phone Number Icon "
 msgstr ""
 
 #: framework/customizer/sections/header/header-var.php:29
-#| msgid "Header Variation"
 msgid "Header Variations"
 msgstr ""
 
@@ -3688,7 +3666,6 @@ msgid "User related stuff in header?"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:38
-#| msgid "Select Login and Register Page (Optional)"
 msgid "After Login, Redirect User to Selected Page (optional)"
 msgstr ""
 
@@ -3699,7 +3676,6 @@ msgid ""
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:51
-#| msgid "Select Login and Register Page (Optional)"
 msgid "Login and Register Page (optional)"
 msgstr ""
 
@@ -3739,7 +3715,6 @@ msgid "Select Site Title/Logo"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:149
-#| msgid "Slide Title"
 msgid "Site Title"
 msgstr "Titlul Site-ului"
 
@@ -3749,7 +3724,6 @@ msgid "Site Logo"
 msgstr "Logo"
 
 #: framework/customizer/sections/header/login-register.php:161
-#| msgid "Login / Register"
 msgid "Login Tab Text"
 msgstr ""
 
@@ -3758,12 +3732,10 @@ msgid "Register Tab Text"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:185
-#| msgid "Forgot Password"
 msgid "Forget Password Text"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:197
-#| msgid "Username"
 msgid "Username Label"
 msgstr ""
 
@@ -3772,7 +3744,6 @@ msgid "Username Placeholder"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:220
-#| msgid "Password"
 msgid "Password Label"
 msgstr ""
 
@@ -3781,7 +3752,6 @@ msgid "Password Placeholder"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:243
-#| msgid "Submit Button Text"
 msgid "Login Button Text"
 msgstr "Text buton autentificare"
 
@@ -3794,17 +3764,14 @@ msgid "Email Placeholder"
 msgstr "Emailului substituientului"
 
 #: framework/customizer/sections/header/login-register.php:292
-#| msgid "User Role"
 msgid "User Role Label"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:304
-#| msgid "User Role"
 msgid "User Role Placeholder"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:316
-#| msgid "Submit Button Text"
 msgid "Register Button Text"
 msgstr ""
 
@@ -3813,7 +3780,6 @@ msgid "Restore Field Placeholder"
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:353
-#| msgid "Reset Password"
 msgid "Reset Password Button Text"
 msgstr ""
 
@@ -3893,7 +3859,6 @@ msgid ""
 msgstr ""
 
 #: framework/customizer/sections/property/agent.php:39
-#| msgid "Section Description"
 msgid "Agent Section Position"
 msgstr ""
 
@@ -3914,7 +3879,6 @@ msgid "Agent Title Prefix"
 msgstr ""
 
 #: framework/customizer/sections/property/agent.php:82
-#| msgid "Contact Information"
 msgid "Agent Contact Information"
 msgstr ""
 
@@ -3923,12 +3887,10 @@ msgid "Agent Description"
 msgstr "Agent de Descriere"
 
 #: framework/customizer/sections/property/agent.php:112
-#| msgid "Property Detail Page"
 msgid "Agent Detail Page Link"
 msgstr ""
 
 #: framework/customizer/sections/property/agent.php:132
-#| msgid "Property Detail Page"
 msgid "Agent Detail Page Link Text"
 msgstr ""
 
@@ -4010,7 +3972,6 @@ msgid "Property Address"
 msgstr "Adresa Locatie"
 
 #: framework/customizer/sections/property/basics.php:135
-#| msgid "Property ID"
 msgid "Property ID Label"
 msgstr ""
 
@@ -4067,7 +4028,6 @@ msgid "This will overwrite the lot-size field label."
 msgstr "Acest lucru va suprascrie eticheta câmpului de dimensiune lot."
 
 #: framework/customizer/sections/property/basics.php:259
-#| msgid "Share"
 msgid "Share Label"
 msgstr ""
 
@@ -4076,7 +4036,6 @@ msgid "This will overwrite the share label."
 msgstr ""
 
 #: framework/customizer/sections/property/basics.php:274
-#| msgid "Favorite"
 msgid "Favourite Label"
 msgstr ""
 
@@ -4179,7 +4138,6 @@ msgid "Child Properties Layout"
 msgstr ""
 
 #: framework/customizer/sections/property/child-properties.php:63
-#| msgid "Enable"
 msgid "Table"
 msgstr "Tabel"
 
@@ -4214,7 +4172,6 @@ msgid "Floor Plan"
 msgstr "Planul etajului"
 
 #: framework/customizer/sections/property/floor-plan.php:28
-#| msgid "Floor Plan Image"
 msgid "Floor Plans Label"
 msgstr ""
 
@@ -4240,7 +4197,6 @@ msgid "Gallery with Thumbnails"
 msgstr ""
 
 #: framework/customizer/sections/property/gallery.php:40
-#| msgid "Gallery"
 msgid "Gallery Type"
 msgstr "Tip Galerie"
 
@@ -4354,7 +4310,6 @@ msgid "Similar Properties Title"
 msgstr "Proprietăți similare"
 
 #: framework/customizer/sections/property/similar-properties.php:82
-#| msgid "Number of Properties"
 msgid "Number of Similar Properties"
 msgstr ""
 
@@ -4459,13 +4414,11 @@ msgid "Search Results Limit"
 msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:124
-#| msgid "Select Images"
 msgid "Select Terms"
 msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:126
 #: framework/functions/basic.php:1558
-#| msgid "Active"
 msgid "Active Life"
 msgstr "Viața activă"
 
@@ -4476,7 +4429,6 @@ msgstr "Artă și divertisment"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:128
 #: framework/functions/basic.php:1566
-#| msgid "Active"
 msgid "Automotive"
 msgstr "Automotive"
 
@@ -4487,7 +4439,6 @@ msgstr "Frumusețe și spa-uri"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:130
 #: framework/functions/basic.php:1574
-#| msgid "Location"
 msgid "Education"
 msgstr "Educaţie"
 
@@ -4513,7 +4464,6 @@ msgstr "Sănătate și servicii medicale"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:135
 #: framework/functions/basic.php:1594
-#| msgid "Home Properties "
 msgid "Home Services "
 msgstr "Servicii Acasa "
 
@@ -4579,7 +4529,6 @@ msgstr "Cumpărături"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:148
 #: framework/functions/basic.php:1646
-#| msgid "Transaction ID"
 msgid "Transportation"
 msgstr "Transport"
 
@@ -4657,7 +4606,6 @@ msgid "Search page variation to display properties."
 msgstr ""
 
 #: framework/customizer/sections/search/properties-search-page.php:280
-#| msgid "No Property Found"
 msgid "No Property Found Text"
 msgstr ""
 
@@ -4743,7 +4691,6 @@ msgid "Advance Search Fields Button"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:150
-#| msgid "Property Feature Slug"
 msgid "Property Features Search Fields "
 msgstr ""
 
@@ -5092,7 +5039,6 @@ msgid "Set opacity in decimal points between 0 and 1 (i.e .5)"
 msgstr ""
 
 #: framework/customizer/sections/styles/banner.php:103
-#| msgid "Banner Title"
 msgid "Banner Height"
 msgstr "Înălțime banner"
 
@@ -5236,12 +5182,10 @@ msgid "Default color is #18998e"
 msgstr ""
 
 #: framework/customizer/sections/styles/buttons.php:188
-#| msgid "Button Background Color"
 msgid "Submit Button Border Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/buttons.php:210
-#| msgid "Scroll to Top Button Background Hover Color"
 msgid "Submit Button Border Hover Color"
 msgstr ""
 
@@ -5490,7 +5434,6 @@ msgid ""
 msgstr ""
 
 #: framework/customizer/sections/styles/floating-features.php:39
-#| msgid "Tagline Background Color"
 msgid "Small Devices Bar Background Color"
 msgstr ""
 
@@ -5535,7 +5478,6 @@ msgstr ""
 
 #: framework/customizer/sections/styles/floating-features.php:162
 #: framework/customizer/sections/styles/floating-features.php:300
-#| msgid "Drop Down Menu Background Color"
 msgid "Dropdown Background Hover Color"
 msgstr ""
 
@@ -5569,12 +5511,10 @@ msgid "Compare View Property Title Hover Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/floating-features.php:467
-#| msgid "Button Background Color"
 msgid "Compare View Button Background Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/floating-features.php:482
-#| msgid "Button Text Color"
 msgid "Compare View Button Text Color"
 msgstr ""
 
@@ -5642,17 +5582,14 @@ msgid "Header Styles"
 msgstr "Stiluri"
 
 #: framework/customizer/sections/styles/header-styles.php:37
-#| msgid "Header Background Color"
 msgid "Menu wrapper Background Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:58
-#| msgid "Header Background Color"
 msgid "Header Meta wrapper Background Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:83
-#| msgid "Header Background Color"
 msgid "Header/Banner Background Color"
 msgstr ""
 
@@ -5738,7 +5675,6 @@ msgid "Drop Down Menu Background Color on Mouse Over"
 msgstr "Drop jos meniu de culoare de fundal peste mouse"
 
 #: framework/customizer/sections/styles/header-styles.php:355
-#| msgid "Drop Down Menu Background Color on Mouse Over"
 msgid "Drop Down Menu Text Color on Mouse Over"
 msgstr ""
 
@@ -5748,7 +5684,6 @@ msgstr "Culoarea fundalului pentru numărul de telefon al antetului"
 
 #: framework/customizer/sections/styles/header-styles.php:393
 #: framework/customizer/sections/styles/header-styles.php:719
-#| msgid "Header Phone Number Text Color"
 msgid "Phone Number Text Color"
 msgstr ""
 
@@ -5757,17 +5692,14 @@ msgid "Default color is #e7eff7"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:413
-#| msgid "Header Phone Number Text Color"
 msgid "Phone/Email Number Text Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:429
-#| msgid "Header Phone Number Text Color"
 msgid "Phone/Email Number Text Hover Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:449
-#| msgid "Social Icons"
 msgid "Social Icon Color"
 msgstr ""
 
@@ -5792,7 +5724,6 @@ msgid "Site Title Hover Color"
 msgstr "Culoare deasupra titlu site"
 
 #: framework/customizer/sections/styles/header-styles.php:546
-#| msgid "Header Background Color"
 msgid "Sticky Header Background"
 msgstr ""
 
@@ -5801,7 +5732,6 @@ msgid "Sticky Header Menu Text Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:578
-#| msgid "Header Background Color"
 msgid "Sticky Header Menu Background Hover Color"
 msgstr ""
 
@@ -5810,7 +5740,6 @@ msgid "Sticky Header Menu Hover Text Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:610
-#| msgid "Sticky Header"
 msgid "Sticky Header Contacts Color"
 msgstr ""
 
@@ -5835,27 +5764,22 @@ msgid "Responsive Header Background Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:734
-#| msgid "Header Phone Number Text Color"
 msgid "Phone Number Text Hover Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:749
-#| msgid "Button Background Color"
 msgid "Submit Button Background Color"
 msgstr "Trimitere culoare fundal buton"
 
 #: framework/customizer/sections/styles/header-styles.php:763
-#| msgid "Scroll to Top Button Background Hover Color"
 msgid "Submit Button Background Hover Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:778
-#| msgid "Submit Button Text"
 msgid "Submit Button Text Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/header-styles.php:792
-#| msgid "Scroll to Top Button Background Hover Color"
 msgid "Submit Button Text Hover Color"
 msgstr ""
 
@@ -6211,7 +6135,6 @@ msgid "Google Font for Body Text"
 msgstr ""
 
 #: framework/customizer/site-logo.php:53
-#| msgid "Site Logo"
 msgid "Site Retina Logo"
 msgstr ""
 
@@ -6223,7 +6146,6 @@ msgid ""
 msgstr ""
 
 #: framework/customizer/site-logo.php:83
-#| msgid "Site Logo"
 msgid "Site Logo For Mobile"
 msgstr ""
 
@@ -6234,7 +6156,6 @@ msgid ""
 msgstr ""
 
 #: framework/customizer/site-logo.php:99
-#| msgid "Site Logo"
 msgid "Site Retina Logo For Mobile"
 msgstr ""
 
@@ -6295,7 +6216,6 @@ msgid "km"
 msgstr "km"
 
 #: framework/functions/basic.php:1524
-#| msgid "reviews"
 msgid "Reviews"
 msgstr "Recenzii"
 
@@ -6369,7 +6289,6 @@ msgid "Cancel Membership"
 msgstr "Anulează calitatea de membru"
 
 #: framework/functions/design-variations-handler.php:1241
-#| msgid "Search"
 msgid "Searching..."
 msgstr "In căutare..."
 
@@ -6599,7 +6518,6 @@ msgid "The recommended minimum width is 770px and height is flexible."
 msgstr "Lățimea minimă recomandată este de 770px iar înălțimea este flexibilă."
 
 #: framework/functions/submit-edit.php:296
-#| msgid "Read More"
 msgid "+ Add More"
 msgstr ""
 
@@ -6642,7 +6560,6 @@ msgid "Problem in connecting..."
 msgstr ""
 
 #: framework/functions/user-profile.php:15
-#| msgid "Additional Details"
 msgid "User Additional Fields"
 msgstr ""
 
@@ -6699,27 +6616,22 @@ msgid "Install Now"
 msgstr "Instalează acum"
 
 #: framework/include/admin/class-rh-admin.php:311
-#| msgid "Install"
 msgid "Installing..."
 msgstr "Instalare..."
 
 #: framework/include/admin/class-rh-admin.php:312
-#| msgid "Install"
 msgid "Installed!"
 msgstr "Instalat!"
 
 #: framework/include/admin/class-rh-admin.php:313
-#| msgid "Activate"
 msgid "Activate Now"
 msgstr "Activeaza acum"
 
 #: framework/include/admin/class-rh-admin.php:314
-#| msgid "Activate"
 msgid "Activating..."
 msgstr "Activare..."
 
 #: framework/include/admin/class-rh-admin.php:315
-#| msgid "Activate"
 msgid "Activated!"
 msgstr ""
 
@@ -6805,7 +6717,6 @@ msgstr ""
 
 #: framework/include/admin/tabs/design.php:45
 #, php-format
-#| msgid "Step 1. Regenerate images on your website using %s plugin."
 msgid "Regenerate images on your website using %s plugin."
 msgstr ""
 
@@ -6814,9 +6725,6 @@ msgid "Regenerate Thumbnails"
 msgstr "Regenerare Miniaturi"
 
 #: framework/include/admin/tabs/design.php:46
-#| msgid ""
-#| "Step 2. Test all pages on your website and rearrange widgets where "
-#| "required."
 msgid "Test all pages on your website and rearrange widgets where required."
 msgstr ""
 
@@ -6828,12 +6736,10 @@ msgstr ""
 "ne anunțați!"
 
 #: framework/include/admin/tabs/feedback.php:19
-#| msgid "Search Form"
 msgid "Feedback Form"
 msgstr ""
 
 #: framework/include/admin/tabs/feedback.php:28
-#| msgid "Contact Details"
 msgid "Feedback Details"
 msgstr ""
 
@@ -6942,7 +6848,6 @@ msgid "Map Longitude"
 msgstr "Harta Longitudine"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:87
-#| msgid "Google Map"
 msgid "Google Maps Marker"
 msgstr ""
 
@@ -6987,7 +6892,6 @@ msgid "Email Field Label"
 msgstr ""
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:203
-#| msgid "Header Phone Number Text Color"
 msgid "Phone Number Field Label"
 msgstr ""
 
@@ -7048,7 +6952,6 @@ msgid "Contact Page Settings"
 msgstr "Setări pagină contact"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:269
-#| msgid "Contact Page"
 msgid "Contact Map"
 msgstr "Hărta contact"
 
@@ -7110,7 +7013,6 @@ msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:29
 #: framework/include/meta-boxes/home-page-meta-box.php:66
-#| msgid "Contact Form Heading"
 msgid "Contact Form Over Slider"
 msgstr ""
 
@@ -7176,7 +7078,6 @@ msgid ""
 msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:203
-#| msgid "Button Text Color"
 msgid "Button Text"
 msgstr "Text Buton"
 
@@ -7249,7 +7150,6 @@ msgid "Message Field Placeholder"
 msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:392
-#| msgid "Google Map"
 msgid "Google Map Type"
 msgstr ""
 
@@ -7716,22 +7616,22 @@ msgstr[2] ""
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
 msgstr[0] "Incepe instalarea plugin"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Incepe instalarea plugin"
+msgstr[2] "Incepe instalarea plugin"
 
 #: framework/include/tgm/class-tgm-plugin-activation.php:383
 msgid "Begin updating plugin"
 msgid_plural "Begin updating plugins"
 msgstr[0] "Incepe updatarea plugin-ului"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Incepe updatarea plugin-ului"
+msgstr[2] "Incepe updatarea plugin-ului"
 
 #: framework/include/tgm/class-tgm-plugin-activation.php:388
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
 msgstr[0] "Incepe activarea plugin-ului"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Incepe activarea plugin-ului"
+msgstr[2] "Incepe activarea plugin-ului"
 
 #: framework/include/tgm/class-tgm-plugin-activation.php:392
 msgid "Return to Required Plugins Installer"
@@ -7754,8 +7654,8 @@ msgstr "Plugin-ul a fost activat cu succes."
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
 msgstr[0] "Următorul plugin a fost activat cu succes:"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Următorul plugins a fost activat cu succes:"
+msgstr[2] "Următorul plugins a fost activat cu succes:"
 
 #. translators: 1: plugin name.
 #: framework/include/tgm/class-tgm-plugin-activation.php:397
@@ -8132,7 +8032,6 @@ msgid "Primary"
 msgstr "Primar"
 
 #: functions.php:183 functions.php:208
-#| msgid "Second Feature "
 msgid "Secondary"
 msgstr "Secundar"
 
@@ -8233,7 +8132,7 @@ msgstr "Bara laterală agent"
 #: functions.php:493
 msgid "Sidebar widget area for agent detail page."
 msgstr ""
-"zona pentru widget in bara laterala pentru pagina de detaliu a agentului."
+"Zona pentru widget in bara laterala pentru pagina de detaliu a agentului."
 
 #: functions.php:502
 msgid "Agency Sidebar"
