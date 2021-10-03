@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
 "POT-Creation-Date: 2020-08-11 22:58+0500\n"
-"PO-Revision-Date: 2020-08-29 23:42+0500\n"
+"PO-Revision-Date: 2021-10-03 22:30+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: mk_MK\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n%10==1 && n%100!=11);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
@@ -400,7 +400,7 @@ msgstr ""
 #: assets/classic/partials/blog/single-contents.php:33
 #: assets/classic/partials/blog/single-fullwidth.php:43
 msgid "in"
-msgstr "во"
+msgstr ""
 
 #: assets/classic/partials/blog/article.php:47
 #: assets/classic/partials/blog/single-contents.php:61
@@ -646,7 +646,7 @@ msgstr "Мени"
 
 #: assets/classic/partials/home/sections/blog-posts.php:83
 msgid "On"
-msgstr "за"
+msgstr "Вклучено"
 
 #: assets/classic/partials/home/sections/blog-posts.php:84
 msgid "by"
@@ -1626,7 +1626,7 @@ msgstr ""
 #: assets/classic/partials/property/form-fields/energy-performance.php:42
 #: assets/modern/partials/property/form-fields/energy-performance.php:42
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #: assets/classic/partials/property/form-fields/energy-performance.php:43
 #: assets/modern/partials/property/form-fields/energy-performance.php:43
@@ -3466,7 +3466,7 @@ msgstr "Hybrid"
 #: framework/include/meta-boxes/contact-page-meta-box.php:74
 #: framework/include/meta-boxes/home-page-meta-box.php:408
 msgid "Terrain"
-msgstr ""
+msgstr "Терен"
 
 #: framework/customizer/properties-templates-and-archive.php:99
 #| msgid "Property Description"
@@ -4627,11 +4627,11 @@ msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:94
 msgid "Distance Unit"
-msgstr ""
+msgstr "Растоjание"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:98
 msgid "Miles"
-msgstr ""
+msgstr "Милји"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:99
 msgid "Kilometers"
@@ -6413,7 +6413,7 @@ msgstr ""
 
 #: framework/customizer/sections/styles/typography.php:26
 msgid "Typography"
-msgstr ""
+msgstr "Типографија"
 
 #: framework/customizer/sections/styles/typography.php:37
 msgid "Google Font for Primary Headings"
@@ -6579,7 +6579,7 @@ msgstr ""
 #: framework/functions/design-variations-handler.php:1069
 msgctxt "Rubik font: on or off"
 msgid "on"
-msgstr "на"
+msgstr ""
 
 #: framework/functions/edit-profile-handler.php:147
 msgid "The Email you entered is not valid. Please try again."
@@ -6864,12 +6864,12 @@ msgstr "با: %s"
 
 #: framework/functions/theme-comment.php:39
 msgid "on"
-msgstr "на"
+msgstr ""
 
 #: framework/functions/theme-comment.php:42
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s и %2$s"
 
 #: framework/functions/theme-comment.php:45
 msgid "said"
@@ -8049,7 +8049,7 @@ msgstr ""
 #: framework/include/tgm/class-tgm-plugin-activation.php:3033
 msgctxt "plugin A *and* plugin B"
 msgid "and"
-msgstr "и"
+msgstr ""
 
 #. translators: %s: version number
 #: framework/include/tgm/class-tgm-plugin-activation.php:2067
