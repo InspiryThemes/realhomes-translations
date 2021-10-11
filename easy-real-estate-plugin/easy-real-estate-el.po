@@ -1,0 +1,4245 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Easy Real Estate\n"
+"POT-Creation-Date: 2021-09-14 18:00+0500\n"
+"PO-Revision-Date: 2021-10-06 11:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ελληνικά\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-real-estate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: el\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1"
+
+#: easy-real-estate.php:254 includes/mb/property/basic-metaboxes.php:210
+#: includes/mb/property/video-metaboxes.php:53 includes/settings/social.php:140
+#: includes/widgets/rh-contact-information-widget.php:128
+msgid "Title"
+msgstr "Τίτλος"
+
+#: easy-real-estate.php:255 includes/settings/social.php:145
+msgid "Profile URL"
+msgstr "URL προφίλ"
+
+#: easy-real-estate.php:256 includes/settings/social.php:149
+msgid "Icon Class"
+msgstr "Κλάση εικονιδίου"
+
+#: easy-real-estate.php:257
+msgid "Example: fas fa-flicker"
+msgstr "Παράδειγμα: fas fa-flicker"
+
+#: easy-real-estate.php:258
+msgid "Get icon!"
+msgstr "Πάρτε το εικονίδιο!"
+
+#: easy-real-estate.php:299
+msgid "Property Views"
+msgstr "Προβολές ακινήτου"
+
+#: easy-real-estate.php:314
+msgid "Price Format"
+msgstr "Μορφή τιμής"
+
+#: easy-real-estate.php:315
+msgid "URL Slugs"
+msgstr "URL Slugs"
+
+#: easy-real-estate.php:316
+msgid "Maps"
+msgstr "Χάρτες"
+
+#: easy-real-estate.php:317
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: easy-real-estate.php:318 includes/mb/agent-agency-meta-boxes-config.php:24
+#: includes/mb/agent-agency-meta-boxes-config.php:188
+msgid "Social"
+msgstr "Κοινωνικά"
+
+#: easy-real-estate.php:319
+msgid "GDPR"
+msgstr "GDPR"
+
+#: easy-real-estate.php:320 includes/custom-post-types/property.php:23
+#: includes/mb/property-meta-boxes-config.php:54
+msgid "Property"
+msgstr "Ακίνητο"
+
+#: easy-real-estate.php:321
+msgid "Property Analytics"
+msgstr "Στατιστικά ακινήτου"
+
+#: easy-real-estate.php:322
+msgid "Webhooks"
+msgstr "Webhooks"
+
+#: easy-real-estate.php:421
+msgid "Settings saved successfully!"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία!"
+
+#: easy-real-estate.php:430
+msgid "Cloning is forbidden!"
+msgstr "Η κλωνοποίηση απαγορεύεται!"
+
+#: easy-real-estate.php:437
+msgid "Unserializing is forbidden!"
+msgstr "Δεν επιτρέπεται η απομορφοποίηση!"
+
+#: easy-real-estate.php:484
+#, php-format
+msgid ""
+"%sEasy Real Estate%s detected the following plugins that may create "
+"conflicts with RealHomes Theme functionality. Please delete these plugins to "
+"run your site smoothly."
+msgstr ""
+"Το %sEasy Real Estate%s εντόπισε τα ακόλουθα πρόσθετα που ενδέχεται να "
+"δημιουργήσουν δυσλειτουργίες του θέματος RealHomes. Παρακαλούμε διαγράψτε "
+"αυτά τα πρόσθετα για την ομαλή λειτουργία του ιστοτόπου σας."
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-menu/class-ere-admin-menu.php:38
+#: includes/admin-menu/class-ere-admin-menu.php:39
+#: includes/settings/settings.php:8 includes/settings/settings.php:11
+msgid "Easy Real Estate"
+msgstr "Easy Real Estate"
+
+#: includes/admin-menu/class-ere-admin-menu.php:51
+#: includes/custom-post-types/property.php:25
+msgid "Add New Property"
+msgstr "Προσθήκη νέου ακινήτου"
+
+#: includes/admin-menu/class-ere-admin-menu.php:52
+#: includes/custom-post-types/property.php:27
+msgid "New Property"
+msgstr "Νέο ακίνητο"
+
+#: includes/admin-menu/class-ere-admin-menu.php:80
+#: includes/admin-menu/class-ere-admin-menu.php:81
+#: includes/custom-post-types/agency.php:15
+msgid "Agencies"
+msgstr "Πρακτορεία"
+
+#: includes/admin-menu/class-ere-admin-menu.php:88
+#: includes/admin-menu/class-ere-admin-menu.php:89
+#: includes/custom-post-types/agent.php:20
+#: includes/mb/property/agent-metaboxes.php:47
+#: includes/widgets/agents-list-widget.php:34
+#: includes/widgets/agents-list-widget.php:114
+msgid "Agents"
+msgstr "Πράκτορες"
+
+#: includes/admin-menu/class-ere-admin-menu.php:96
+#: includes/admin-menu/class-ere-admin-menu.php:97
+#: includes/custom-post-types/partners.php:11
+msgid "Partners"
+msgstr "Συνεργάτες"
+
+#: includes/admin-menu/class-ere-admin-menu.php:104
+#: includes/admin-menu/class-ere-admin-menu.php:105
+#: includes/custom-post-types/slide.php:11
+msgid "Slides"
+msgstr "Διαφάνειες"
+
+#: includes/admin-menu/class-ere-admin-menu.php:112
+#: includes/admin-menu/class-ere-admin-menu.php:113
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/custom-post-types/agency.php:13
+msgctxt "Post Type General Name"
+msgid "Agencies"
+msgstr "Πρακτορεία"
+
+#: includes/custom-post-types/agency.php:14
+msgctxt "Post Type Singular Name"
+msgid "Agency"
+msgstr "Πρακτορείο"
+
+#: includes/custom-post-types/agency.php:16
+#: includes/custom-post-types/agency.php:42
+#: includes/custom-post-types/agency.php:110
+msgid "Agency"
+msgstr "Πρακτορείο"
+
+#: includes/custom-post-types/agency.php:17
+msgid "Agency Archives"
+msgstr "Αρχεία πρακτορείου"
+
+#: includes/custom-post-types/agency.php:18
+msgid "Agency Attributes"
+msgstr "Χαρακτηριστικά πρακτορείου"
+
+#: includes/custom-post-types/agency.php:19
+msgid "Parent Agency:"
+msgstr "Γονικό πρακτορείο:"
+
+#: includes/custom-post-types/agency.php:20
+msgid "All Agencies"
+msgstr "Όλα τα πρακτορεία"
+
+#: includes/custom-post-types/agency.php:21
+msgid "Add New Agency"
+msgstr "Προσθήκη νέου πρακτρορείου"
+
+#: includes/custom-post-types/agency.php:22
+#: includes/custom-post-types/agent.php:22
+#: includes/custom-post-types/partners.php:13
+#: includes/custom-post-types/property.php:24
+#: includes/custom-post-types/slide.php:13
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: includes/custom-post-types/agency.php:23
+msgid "New Agency"
+msgstr "Νέο πρακτορείο"
+
+#: includes/custom-post-types/agency.php:24
+msgid "Edit Agency"
+msgstr "Επεξεργασία πρακτορείου"
+
+#: includes/custom-post-types/agency.php:25
+msgid "Update Agency"
+msgstr "Ενημέρωση πρακτορείου"
+
+#: includes/custom-post-types/agency.php:26
+msgid "View Agency"
+msgstr "Προβολή πρακτορείου"
+
+#: includes/custom-post-types/agency.php:27
+msgid "View Agencies"
+msgstr "Προβολή πρακτορείων"
+
+#: includes/custom-post-types/agency.php:28
+msgid "Search Agency"
+msgstr "Αναζήτηση πρακτορείου"
+
+#: includes/custom-post-types/agency.php:29
+msgid "Not found"
+msgstr "Δεν βρέθηκε"
+
+#: includes/custom-post-types/agency.php:30
+msgid "Not found in Trash"
+msgstr "Δεν βρέθηκε στον κάδο απορριμάτων"
+
+#: includes/custom-post-types/agency.php:31
+msgid "Agency Logo Image"
+msgstr "Εικόνα λογότυπου πρακτορείου"
+
+#: includes/custom-post-types/agency.php:32
+msgid "Set agency logo image"
+msgstr "Ορισμός εικόνας λογότυπου πρακτορείου"
+
+#: includes/custom-post-types/agency.php:33
+msgid "Remove agency logo image"
+msgstr "Αφαίρεση εικόνας λογότυπου πρακτορείου"
+
+#: includes/custom-post-types/agency.php:34
+msgid "Use as agency logo image"
+msgstr "Χρήση ως εικόνα λογότυπου του πρακτορείου"
+
+#: includes/custom-post-types/agency.php:35
+msgid "Insert into agency"
+msgstr "Εισαγωγή στο πρακτορείο"
+
+#: includes/custom-post-types/agency.php:36
+msgid "Uploaded to this agency"
+msgstr "Ανέβηκε σε αυτό το πρακτορείο"
+
+#: includes/custom-post-types/agency.php:37
+msgid "Agencies list"
+msgstr "Λίστα πρακτορείων"
+
+#: includes/custom-post-types/agency.php:38
+msgid "Agencies list navigation"
+msgstr "Πλοήγηση στη λίστα πρακτορείων"
+
+#: includes/custom-post-types/agency.php:39
+msgid "Filter agencies list"
+msgstr "Φίλτράλισμα λίστας πρακτορείων"
+
+#: includes/custom-post-types/agency.php:43
+msgid "An agency is a company of realtors."
+msgstr "Ένα πρακτορείο είναι μια εταιρεία μεσίτων."
+
+#: includes/custom-post-types/agency.php:60 includes/settings/slug.php:9
+msgid "agency"
+msgstr "πρακτορείο"
+
+#: includes/custom-post-types/agency.php:63
+msgid "agencies"
+msgstr "πρακτορεία"
+
+#: includes/custom-post-types/agency.php:111
+#: includes/custom-post-types/agent.php:97
+#: includes/custom-post-types/property.php:386
+#: includes/custom-post-types/slide.php:63
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: includes/custom-post-types/agency.php:112
+#: includes/custom-post-types/agent.php:98
+msgid "Total Properties"
+msgstr "Σύνολο ακινήτων"
+
+#: includes/custom-post-types/agency.php:113
+#: includes/custom-post-types/agent.php:99
+msgid "Published Properties"
+msgstr "Δημοσιευμένα ακίνητα"
+
+#: includes/custom-post-types/agency.php:114
+#: includes/custom-post-types/agent.php:100
+msgid "Other Properties"
+msgstr "Άλλα ακίνητα"
+
+#: includes/custom-post-types/agency.php:115
+#: includes/custom-post-types/agent.php:101
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+#: includes/custom-post-types/agency.php:162
+#: includes/custom-post-types/agent.php:149
+#: includes/custom-post-types/property.php:438
+msgid "No Thumbnail"
+msgstr "Δεν υπάρχει μικρογραφία"
+
+#: includes/custom-post-types/agent.php:21
+#: includes/custom-post-types/agent.php:96 includes/shortcodes/vc-map.php:137
+msgid "Agent"
+msgstr "Πράκτορας"
+
+#: includes/custom-post-types/agent.php:23
+msgid "Add New Agent"
+msgstr "Προσθήκη νέου πράκτορα"
+
+#: includes/custom-post-types/agent.php:24
+msgid "Edit Agent"
+msgstr "Επεξεργασία πράκτορα"
+
+#: includes/custom-post-types/agent.php:25
+msgid "New Agent"
+msgstr "Νέος πράκτορας"
+
+#: includes/custom-post-types/agent.php:26
+msgid "View Agent"
+msgstr "Προβολή πράκτορα"
+
+#: includes/custom-post-types/agent.php:27
+msgid "Search Agent"
+msgstr "Αναζήτηση πράκτορα"
+
+#: includes/custom-post-types/agent.php:28
+msgid "No Agent found"
+msgstr "Δεν βρέθηκαν πράκτορες"
+
+#: includes/custom-post-types/agent.php:29
+msgid "No Agent found in Trash"
+msgstr "Δεν βρέθηκαν πράκτορες στον κάδο απορριμμάτων"
+
+#: includes/custom-post-types/agent.php:48 includes/settings/slug.php:8
+msgid "agent"
+msgstr "πράκτορας"
+
+#: includes/custom-post-types/agent.php:51
+msgid "agents"
+msgstr "πράκτορες"
+
+#: includes/custom-post-types/partners.php:12
+#: includes/custom-post-types/partners.php:65
+msgid "Partner"
+msgstr "Συνεργάτης"
+
+#: includes/custom-post-types/partners.php:14
+msgid "Add New Partner"
+msgstr "Προσθήκη νέου συνεργάτη"
+
+#: includes/custom-post-types/partners.php:15
+msgid "Edit Partner"
+msgstr "Επεξεργασία συνεργάτη"
+
+#: includes/custom-post-types/partners.php:16
+msgid "New Partner"
+msgstr "Νέος συνεργάτης"
+
+#: includes/custom-post-types/partners.php:17
+msgid "View Partner"
+msgstr "Προβολή συνεργάτη"
+
+#: includes/custom-post-types/partners.php:18
+msgid "Search Partner"
+msgstr "Αναζήτηση συνεργάτη"
+
+#: includes/custom-post-types/partners.php:19
+msgid "No Partner found"
+msgstr "Δεν βρέθηκαν συνεργάτες"
+
+#: includes/custom-post-types/partners.php:20
+msgid "No Partner found in Trash"
+msgstr "Δεν βρέθηκαν συνεργάτες στον κάδο απορριμμάτων"
+
+#: includes/custom-post-types/partners.php:38
+#: includes/custom-post-types/partners.php:41
+msgid "partners"
+msgstr "συνεργάτες"
+
+#: includes/custom-post-types/partners.php:66
+msgid "Logo"
+msgstr "Λογότυπο"
+
+#: includes/custom-post-types/partners.php:67
+#: includes/custom-post-types/property.php:392
+msgid "Publish Time"
+msgstr "Χρόνος δημοσίευσης"
+
+#: includes/custom-post-types/partners.php:91
+msgid "No logo provided"
+msgstr "Δε δόθηκε λογότυπο"
+
+#: includes/custom-post-types/property.php:22 includes/shortcodes/vc-map.php:77
+#: includes/widgets/properties-widget.php:252
+msgid "Properties"
+msgstr "Ακίνητα"
+
+#: includes/custom-post-types/property.php:26
+msgid "Edit Property"
+msgstr "Επεξεργασία ακινήτου"
+
+#: includes/custom-post-types/property.php:28
+#: includes/widgets/agent-featured-properties-widget.php:199
+#: includes/widgets/agent-featured-properties-widget.php:256
+#: includes/widgets/agent-properties-widget.php:211
+#: includes/widgets/agent-properties-widget.php:275
+#: includes/widgets/featured-properties-widget.php:209
+#: includes/widgets/featured-properties-widget.php:264
+#: includes/widgets/grid-cards/grid-card-1.php:53
+#: includes/widgets/properties-widget.php:245
+#: includes/widgets/properties-widget.php:297
+msgid "View Property"
+msgstr "Προβολή ακινήτου"
+
+#: includes/custom-post-types/property.php:29
+msgid "Search Property"
+msgstr "Αναζήτηση ακινήτου"
+
+#: includes/custom-post-types/property.php:30
+msgid "No Property found"
+msgstr "Δεν βρέθηκαν ακίνητα"
+
+#: includes/custom-post-types/property.php:31
+msgid "No Property found in Trash"
+msgstr "Δεν βρέθηκαν ακίνητα στα σκουπίδια"
+
+#: includes/custom-post-types/property.php:32
+msgid "Parent Property"
+msgstr "Γονικό ακίνητο"
+
+#: includes/custom-post-types/property.php:58 includes/settings/slug.php:7
+msgid "property"
+msgstr "ακίνητο"
+
+#: includes/custom-post-types/property.php:116
+#: includes/custom-post-types/property.php:130
+msgid "Property Features"
+msgstr "Χαρακτηριστικά ακινήτου"
+
+#: includes/custom-post-types/property.php:117
+msgid "Property Feature"
+msgstr "Χαρακτηριστικό ακινήτου"
+
+#: includes/custom-post-types/property.php:118
+msgid "Search Property Features"
+msgstr "Αναζήτηση χαρακτηριστικών ακινήτων"
+
+#: includes/custom-post-types/property.php:119
+msgid "Popular Property Features"
+msgstr "Δημοφιλή χαρακτηριστικά ακινήτων"
+
+#: includes/custom-post-types/property.php:120
+msgid "All Property Features"
+msgstr "Όλα τα χαρακτηριστικά ακινήτων"
+
+#: includes/custom-post-types/property.php:121
+msgid "Parent Property Feature"
+msgstr "Χαρακτηριστικό γονικού ακινήτου"
+
+#: includes/custom-post-types/property.php:122
+msgid "Parent Property Feature:"
+msgstr "Χαρακτηριστικό γονικού ακινήτου:"
+
+#: includes/custom-post-types/property.php:123
+msgid "Edit Property Feature"
+msgstr "Επεξεργασία χαρακτηριστικού ακινήτου"
+
+#: includes/custom-post-types/property.php:124
+msgid "Update Property Feature"
+msgstr "Ενημέρωση χαρακτηριστικού ακινήτου"
+
+#: includes/custom-post-types/property.php:125
+msgid "Add New Property Feature"
+msgstr "Προσθήκη νέου χαρακτηριστικού ακινήτου"
+
+#: includes/custom-post-types/property.php:126
+msgid "New Property Feature Name"
+msgstr "Όνομα νέου χαρακτηριστικού ακινήτου"
+
+#: includes/custom-post-types/property.php:127
+msgid "Separate Property Features with commas"
+msgstr "Διαχωρίστε χαρακτηριστικά ακινήτου με κόμματα"
+
+#: includes/custom-post-types/property.php:128
+msgid "Add or remove Property Features"
+msgstr "Προσθήκη ή αφαίρεση χαρακτηριστικών ακινήτου"
+
+#: includes/custom-post-types/property.php:129
+msgid "Choose from the most used Property Features"
+msgstr "Επιλέξτε από τα πιο συνηθισμένα χαρακτηριστικά ακινήτου"
+
+#: includes/custom-post-types/property.php:143 includes/settings/slug.php:13
+msgid "property-feature"
+msgstr "property-feature"
+
+#: includes/custom-post-types/property.php:146
+msgid "property-features"
+msgstr "property-features"
+
+#: includes/custom-post-types/property.php:160
+#: includes/custom-post-types/property.php:174
+#: includes/widgets/property-types-widget.php:49
+#: includes/widgets/property-types-widget.php:76
+msgid "Property Types"
+msgstr "Τύποι ακινήτων"
+
+#: includes/custom-post-types/property.php:161
+msgid "Property Type"
+msgstr "Τύπος ακινήτου"
+
+#: includes/custom-post-types/property.php:162
+msgid "Search Property Types"
+msgstr "Αναζήτηση τύπων ακινήτων"
+
+#: includes/custom-post-types/property.php:163
+msgid "Popular Property Types"
+msgstr "Δημοφιλείς τύποι ακινήτων"
+
+#: includes/custom-post-types/property.php:164
+#: includes/custom-post-types/property.php:679
+msgid "All Property Types"
+msgstr "Όλοι οι τύποι ακινήτων"
+
+#: includes/custom-post-types/property.php:165
+msgid "Parent Property Type"
+msgstr "Τύπος γονικού ακινήτου"
+
+#: includes/custom-post-types/property.php:166
+msgid "Parent Property Type:"
+msgstr "Τύπος γονικού ακινήτου:"
+
+#: includes/custom-post-types/property.php:167
+msgid "Edit Property Type"
+msgstr "Επεξεργασία τύπου ακινήτου"
+
+#: includes/custom-post-types/property.php:168
+msgid "Update Property Type"
+msgstr "Ενημέρωση τύπου ακινήτου"
+
+#: includes/custom-post-types/property.php:169
+msgid "Add New Property Type"
+msgstr "Προσθήκη νέου τύπου ακινήτου"
+
+#: includes/custom-post-types/property.php:170
+msgid "New Property Type Name"
+msgstr "Όνομα νέου τύπου ακινήτου"
+
+#: includes/custom-post-types/property.php:171
+msgid "Separate Property Types with commas"
+msgstr "Διαχωρίστε τύπους ακινήτου με κόμματα"
+
+#: includes/custom-post-types/property.php:172
+msgid "Add or remove Property Types"
+msgstr "Προσθήκη ή αφαίρεση τύπων ακινήτου"
+
+#: includes/custom-post-types/property.php:173
+msgid "Choose from the most used Property Types"
+msgstr "Επιλέξτε από τους πιο συνηθισμένους τύπους ακινήτου"
+
+#: includes/custom-post-types/property.php:187 includes/settings/slug.php:12
+msgid "property-type"
+msgstr "property-type"
+
+#: includes/custom-post-types/property.php:190
+msgid "property-types"
+msgstr "property-types"
+
+#: includes/custom-post-types/property.php:204
+#: includes/custom-post-types/property.php:218
+msgid "Property Locations"
+msgstr "Τοποθεσίες ακινήτων"
+
+#: includes/custom-post-types/property.php:205
+msgid "Property Location"
+msgstr "Τοποθεσία ακινήτου"
+
+#: includes/custom-post-types/property.php:206
+msgid "Search Property Locations"
+msgstr "Αναζήτηση τοποθεσιών ακινήτων"
+
+#: includes/custom-post-types/property.php:207
+msgid "Popular Property Locations"
+msgstr "Δημοφιλείς τοποθεσίες ακινήτων"
+
+#: includes/custom-post-types/property.php:208
+#: includes/custom-post-types/property.php:666
+msgid "All Property Locations"
+msgstr "Όλες οι τοποθεσίες ακινήτων"
+
+#: includes/custom-post-types/property.php:209
+msgid "Parent Property Location"
+msgstr "Τοποθεσία γονικού ακινήτου"
+
+#: includes/custom-post-types/property.php:210
+msgid "Parent Property Location:"
+msgstr "Τοποθεσία γονικού ακινήτου:"
+
+#: includes/custom-post-types/property.php:211
+msgid "Edit Property Location"
+msgstr "Επεξεργασία τοποθεσίας ακινήτου"
+
+#: includes/custom-post-types/property.php:212
+msgid "Update Property Location"
+msgstr "Ενημέρωση τοποθεσίας ακινήτου"
+
+#: includes/custom-post-types/property.php:213
+msgid "Add New Property Location"
+msgstr "Προσθήκη νέας τοποθεσίας ακινήτου"
+
+#: includes/custom-post-types/property.php:214
+msgid "New Property Location Name"
+msgstr "Όνομα νέας τοποθεσίας ακινήτου"
+
+#: includes/custom-post-types/property.php:215
+msgid "Separate Property Locations with commas"
+msgstr "Διαχωρίστε τοποθεσίες ακινήτου με κόμματα"
+
+#: includes/custom-post-types/property.php:216
+msgid "Add or remove Property Locations"
+msgstr "Προσθήκη ή αφαίρεση τοποθεσιών ακινήτων"
+
+#: includes/custom-post-types/property.php:217
+msgid "Choose from the most used Property Locations"
+msgstr "Επιλέξτε από τις πιο συνηθισμένες τοποθεσίες ακινήτου"
+
+#: includes/custom-post-types/property.php:231
+msgid "property-city"
+msgstr "property-city"
+
+#: includes/custom-post-types/property.php:234
+msgid "property-cities"
+msgstr "property-cities"
+
+#: includes/custom-post-types/property.php:248
+msgid "Property Statuses"
+msgstr "Καταστάσεις ακινήτων"
+
+#: includes/custom-post-types/property.php:249
+#: includes/custom-post-types/property.php:262
+msgid "Property Status"
+msgstr "Κατάσταση ακινήτου"
+
+#: includes/custom-post-types/property.php:250
+msgid "Search Property Status"
+msgstr "Αναζήτηση κατάστασης ακινήτων"
+
+#: includes/custom-post-types/property.php:251
+msgid "Popular Property Status"
+msgstr "Δημοφιλής κατάσταση ακινήτου"
+
+#: includes/custom-post-types/property.php:252
+msgid "All Property Status"
+msgstr "Όλες οι καταστάσεις ακινήτων"
+
+#: includes/custom-post-types/property.php:253
+msgid "Parent Property Status"
+msgstr "Κατάσταση γονικού ακινήτου"
+
+#: includes/custom-post-types/property.php:254
+msgid "Parent Property Status:"
+msgstr "Κατάσταση γονικού ακινήτου:"
+
+#: includes/custom-post-types/property.php:255
+msgid "Edit Property Status"
+msgstr "Επεξεργασία κατάστασης ακινήτου"
+
+#: includes/custom-post-types/property.php:256
+msgid "Update Property Status"
+msgstr "Ενημέρωση κατάστασης ακινήτου"
+
+#: includes/custom-post-types/property.php:257
+msgid "Add New Property Status"
+msgstr "Προσθήκη νέας κατάστασης ακινήτου"
+
+#: includes/custom-post-types/property.php:258
+msgid "New Property Status Name"
+msgstr "Όνομα νέας κατάστασης ακινήτου"
+
+#: includes/custom-post-types/property.php:259
+msgid "Separate Property Status with commas"
+msgstr "Διαχωρίστε καταστάσεις ακινήτου με κόμματα"
+
+#: includes/custom-post-types/property.php:260
+msgid "Add or remove Property Status"
+msgstr "Προσθήκη ή αφαίρεση καταστάσεων ακινήτου"
+
+#: includes/custom-post-types/property.php:261
+msgid "Choose from the most used Property Status"
+msgstr "Επιλέξτε από τις πιο συνηθισμένες καταστάσεις ακινήτου"
+
+#: includes/custom-post-types/property.php:275 includes/settings/slug.php:11
+msgid "property-status"
+msgstr "property-status"
+
+#: includes/custom-post-types/property.php:278
+msgid "property-statuses"
+msgstr "property-statuses"
+
+#: includes/custom-post-types/property.php:385
+#: includes/functions/form-handlers.php:135
+#: includes/functions/form-handlers.php:513
+msgid "Property Title"
+msgstr "Τίτλος ακινήτου"
+
+#: includes/custom-post-types/property.php:387
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: includes/custom-post-types/property.php:388
+msgid "Type"
+msgstr "Τύπος"
+
+#: includes/custom-post-types/property.php:389
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/custom-post-types/property.php:390
+#: includes/shortcodes/vc-map.php:123
+msgid "Price"
+msgstr "Τιμή"
+
+#: includes/custom-post-types/property.php:391
+#: includes/custom-post-types/property.php:723
+#: includes/mb/property/basic-metaboxes.php:164
+msgid "Property ID"
+msgstr "Αναγνωριστικό ακινήτου"
+
+#: includes/custom-post-types/property.php:445
+#: includes/widgets/agent-featured-properties-widget.php:210
+#: includes/widgets/featured-properties-widget.php:220
+#: includes/widgets/grid-cards/card-parts/tags.php:20
+#: includes/widgets/grid-cards/grid-card-1.php:22
+msgid "Featured"
+msgstr "Προτεινόμενο"
+
+#: includes/custom-post-types/property.php:457
+#: includes/custom-post-types/property.php:469
+#: includes/custom-post-types/property.php:497
+#: includes/custom-post-types/property.php:505
+#: includes/custom-post-types/property.php:513
+#: includes/custom-post-types/slide.php:97
+msgid "NA"
+msgstr "άνευ"
+
+#: includes/custom-post-types/property.php:480
+msgid "No Address Provided!"
+msgstr "Δεν δόθηκε διεύθυνση!"
+
+#: includes/custom-post-types/property.php:531
+msgid "Payment Information"
+msgstr "Πληροφορίες πληρωμής"
+
+#: includes/custom-post-types/property.php:547
+msgid "Not Available"
+msgstr "Μη διαθέσιμο"
+
+#: includes/custom-post-types/property.php:562
+msgid "Transaction ID"
+msgstr "Αναγνωριστικό συναλλαγής"
+
+#: includes/custom-post-types/property.php:567
+msgid "Payment Date"
+msgstr "Ημερομηνία πληρωμής"
+
+#: includes/custom-post-types/property.php:575
+msgid "First Name"
+msgstr "Όνομα"
+
+#: includes/custom-post-types/property.php:580
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+#: includes/custom-post-types/property.php:588
+msgid "Payer Email"
+msgstr "Email πληρωτή"
+
+#: includes/custom-post-types/property.php:593
+msgid "Payment Status"
+msgstr "Κατάσταση πληρωμής"
+
+#: includes/custom-post-types/property.php:598
+msgid "Payment Amount"
+msgstr "Ποσό πληρωμής"
+
+#: includes/custom-post-types/property.php:603
+msgid "Payment Currency"
+msgstr "Νόμισμα πληρωμής"
+
+#: includes/custom-post-types/property.php:692
+msgid "All Property Statuses"
+msgstr "Όλες οι καταστάσεις ακινήτων"
+
+#: includes/custom-post-types/property.php:705
+msgid "All Users"
+msgstr "Όλοι οι χρήστες"
+
+#: includes/custom-post-types/slide.php:12
+msgid "Slide"
+msgstr "Διαφάνεια"
+
+#: includes/custom-post-types/slide.php:14
+msgid "Add New Slide"
+msgstr "Προσθήκη νέας διαφάνειας"
+
+#: includes/custom-post-types/slide.php:15
+msgid "Edit Slide"
+msgstr "Επεξεργασία διαφάνειας"
+
+#: includes/custom-post-types/slide.php:16
+msgid "New Slide"
+msgstr "Νέα διαφάνεια"
+
+#: includes/custom-post-types/slide.php:17
+msgid "View Slide"
+msgstr "Προβολή διαφάνειας"
+
+#: includes/custom-post-types/slide.php:18
+msgid "Search Slide"
+msgstr "Αναζήτηση διαφάνειας"
+
+#: includes/custom-post-types/slide.php:19
+msgid "No Slide found"
+msgstr "Δεν βρέθηκαν διαφάνειες"
+
+#: includes/custom-post-types/slide.php:20
+msgid "No Slide found in Trash"
+msgstr "Δεν βρέθηκαν διαφάνειες στον κάδο απορριμμάτων"
+
+#: includes/custom-post-types/slide.php:62
+msgid "Slide Title"
+msgstr "Τίτλος διαφάνειας"
+
+#: includes/custom-post-types/slide.php:64
+msgid "Slide Sub Text"
+msgstr "Δευτερεύον κείμενο διαφάνειας"
+
+#: includes/custom-post-types/slide.php:65 includes/shortcodes/vc-map.php:122
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: includes/custom-post-types/slide.php:89
+msgid "No Slider Image"
+msgstr "Δεν υπάρχει εικόνα διαφάνειας"
+
+#: includes/custom-post-types/slide.php:112
+msgid "Slide Information"
+msgstr "Πληροφορίες διαφάνειας"
+
+#: includes/custom-post-types/slide.php:131
+msgid "Sub Text"
+msgstr "Δευτερεύον κείμενο"
+
+#: includes/custom-post-types/slide.php:135
+msgid "This text will appear below Title on slide."
+msgstr "Αυτό το κείμενο θα εμφανίζεται κάτω από τον τίτλο, στη διαφάνεια."
+
+#: includes/custom-post-types/slide.php:140
+msgid "Target URL"
+msgstr "URL στόχος"
+
+#: includes/custom-post-types/slide.php:144
+msgid "This URL will be applied on Slide Image."
+msgstr "Αυτή η διεύθυνση URL θα αντιστοιχεί στην εικόνα του Slider"
+
+#: includes/email-template/email-template.php:268
+msgid "Sent from "
+msgstr "Στάλθηκε από"
+
+#: includes/functions/form-handlers.php:75
+#: includes/functions/form-handlers.php:280
+#: includes/functions/form-handlers.php:460
+msgid "Unverified Nonce!"
+msgstr "Ανεπιβεβαίωτο Nonce!"
+
+#: includes/functions/form-handlers.php:99
+#: includes/functions/form-handlers.php:301
+#: includes/functions/form-handlers.php:474
+msgid "Target Email address is not properly configured!"
+msgstr ""
+"Η διεύθυνση παραλήπτη ηλεκτρονικού ταχυδρομείου δεν έχει ρυθμιστεί σωστά!"
+
+#: includes/functions/form-handlers.php:116
+#: includes/functions/form-handlers.php:318
+#: includes/functions/form-handlers.php:492
+msgid "Provided Email address is invalid!"
+msgstr "Η εισαχθείσα διεύθυνση ηλεκτρονικού ταχυδρομείου δεν είναι έγκυρη!"
+
+#: includes/functions/form-handlers.php:124
+#: includes/functions/form-handlers.php:326
+#: includes/functions/form-handlers.php:502
+msgid "New message sent by"
+msgstr "Νέο μήνυμα εστάλη από"
+
+#: includes/functions/form-handlers.php:124
+msgid "using contact form at"
+msgstr "χρησιμοποιώντας τη φόρμα επικοινωνίας στη σελίδα"
+
+#: includes/functions/form-handlers.php:145
+#: includes/functions/form-handlers.php:523
+msgid "Property URL"
+msgstr "URL ακινήτου"
+
+#: includes/functions/form-handlers.php:152
+#: includes/functions/form-handlers.php:334
+#: includes/functions/form-handlers.php:530
+#: includes/widgets/contact-form-widget.php:47
+msgid "Name"
+msgstr "Όνομα"
+
+#: includes/functions/form-handlers.php:158
+#: includes/functions/form-handlers.php:340
+#: includes/widgets/contact-form-widget.php:59
+#: includes/widgets/rh-contact-information-widget.php:136
+msgid "Phone Number"
+msgstr "Αριθμός τηλεφώνου"
+
+#: includes/functions/form-handlers.php:164
+#: includes/functions/form-handlers.php:346
+#: includes/functions/form-handlers.php:535 includes/functions/members.php:154
+#: includes/widgets/contact-form-widget.php:53
+#: includes/widgets/rh-contact-information-widget.php:144
+msgid "Email"
+msgstr "Emai"
+
+#: includes/functions/form-handlers.php:169
+#: includes/functions/form-handlers.php:351
+#: includes/functions/form-handlers.php:547
+#: includes/widgets/contact-form-widget.php:63
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: includes/functions/form-handlers.php:177
+#: includes/functions/form-handlers.php:359
+#: includes/functions/form-handlers.php:555 includes/functions/gdpr.php:39
+#: includes/settings/gdpr.php:8
+msgid "GDPR Agreement"
+msgstr "Συμφωνία GDPR"
+
+#: includes/functions/form-handlers.php:238
+#: includes/functions/form-handlers.php:420
+#: includes/functions/form-handlers.php:597
+msgid "Message Sent Successfully!"
+msgstr "Το μήνυμα στάλθηκε επιτυχώς!"
+
+#: includes/functions/form-handlers.php:243
+#: includes/functions/form-handlers.php:425
+#: includes/functions/form-handlers.php:602
+msgid "Server Error: WordPress mail function failed!"
+msgstr "Σφάλμα διακομιστή: Απέτυχε η λειτουργία mail του WordPress!"
+
+#: includes/functions/form-handlers.php:251
+#: includes/functions/form-handlers.php:433
+#: includes/functions/form-handlers.php:610
+msgid "Invalid Request !"
+msgstr "Μη έγκυρο αίτημα!"
+
+#: includes/functions/form-handlers.php:326
+msgid "using home contact form at"
+msgstr "χρησιμοποιώντας τη φόρμα επικοινωνίας στη σελίδα"
+
+#: includes/functions/form-handlers.php:501
+msgid "using agency contact form at"
+msgstr "χρησιμοποιώντας τη φόρμα επικοινωνίας πρακτορείου στη σελίδα"
+
+#: includes/functions/form-handlers.php:501
+msgid "using agent contact form at"
+msgstr "χρησιμοποιώντας τη φόρμα επικοινωνίας πράκτορα στη σελίδα"
+
+#: includes/functions/form-handlers.php:541
+msgid "Contact Number"
+msgstr "Αριθμός επικοινωνίας"
+
+#: includes/functions/form-handlers.php:674
+msgid "No field provided."
+msgstr "Δεν δόθηκε κανένα πεδίο."
+
+#: includes/functions/form-handlers.php:727
+msgid "Email Template"
+msgstr "Πρότυπο email"
+
+#: includes/functions/form-handlers.php:739
+msgid "Header Content"
+msgstr "Περιεχόμενο κεφαλίδας"
+
+#: includes/functions/form-handlers.php:740
+msgid "Content to include in email template header"
+msgstr "Περιεχόμενο που θα συμπεριλαμβάνεται στην κεφαλίδα του προτύπου email"
+
+#: includes/functions/form-handlers.php:744
+msgid "Logo or Custom Image"
+msgstr "Λογότυπο ή προσαρμοσμένη εικόνα"
+
+#: includes/functions/form-handlers.php:745
+msgid "Title ( by default: Site Title )"
+msgstr "Τίτλος ( από προεπιλογή: Τίτλος Ιστοσελίδας )"
+
+#: includes/functions/form-handlers.php:746
+msgid "Both"
+msgstr "Και τα δύο"
+
+#: includes/functions/form-handlers.php:747
+#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/meta-box-helper-functions.php:52
+#: includes/mb/meta-box-helper-functions.php:84
+#: includes/mb/property-additional-fields.php:196
+#: includes/mb/property-additional-fields.php:371
+#: includes/mb/property-additional-fields.php:414
+#: includes/mb/property-additional-fields.php:460
+#: includes/mb/property-additional-fields.php:499
+#: includes/mb/property-additional-fields.php:540
+#: includes/mb/property-additional-fields.php:579
+#: includes/mb/property/energy-metaboxes.php:37
+#: includes/mb/property/energy-metaboxes.php:49
+msgid "None"
+msgstr "Κανένα"
+
+#: includes/functions/form-handlers.php:758
+msgid "Header Image"
+msgstr "Εικόνα κεφαλίδας"
+
+#: includes/functions/form-handlers.php:769
+msgid "Header Title"
+msgstr "Τίτλος κεφαλίδας"
+
+#: includes/functions/form-handlers.php:782
+msgid "Header Title Color"
+msgstr "Χρώμα τίτλου κεφαλίδας"
+
+#: includes/functions/form-handlers.php:812
+msgid "Background Color"
+msgstr "Χρώμα φόντου"
+
+#: includes/functions/form-handlers.php:824
+msgid "Body Links Color"
+msgstr "Χρώμα συνδέσμων σώματος"
+
+#: includes/functions/form-handlers.php:845
+msgid "Footer Text"
+msgstr "Κείμενο υποσέλιδου"
+
+#: includes/functions/form-handlers.php:858
+msgid "Footer Text Color"
+msgstr "Χρώμα κειμένου υποσέλιδου"
+
+#: includes/functions/form-handlers.php:869
+msgid "Footer Link Color"
+msgstr "Χρώμα συνδέσμου υποσέλιδου"
+
+#: includes/functions/gdpr.php:40 includes/settings/gdpr.php:10
+msgid "* Please accept GDPR agreement"
+msgstr "* Παρακαλούμε αποδεχτείτε τη συμφωνία GDPR"
+
+#: includes/functions/gdpr.php:41 includes/settings/gdpr.php:9
+msgid ""
+"I consent to having this website store my submitted information so they can "
+"respond to my inquiry."
+msgstr ""
+"Συναινώ να αποθηκεύει ο παρών ιστότοπος τις πληροφορίες που υποβάλλω, ώστε "
+"να μπορεί να απαντηθεί το ερώτημά μου. "
+
+#: includes/functions/google-recaptcha.php:152
+msgid "The secret parameter is missing."
+msgstr "Η παράμετρος secret λείπει."
+
+#: includes/functions/google-recaptcha.php:153
+msgid "The secret parameter is invalid or malformed."
+msgstr "Η παράμετρος secret είναι μη έγκυρη ή με λάθος διαμόρφωση."
+
+#: includes/functions/google-recaptcha.php:154
+msgid "The response parameter is missing."
+msgstr "Η παράμετρος response λείπει."
+
+#: includes/functions/google-recaptcha.php:155
+msgid "The response parameter is invalid or malformed."
+msgstr "Η παράμετρος απόκρισης είναι μη έγκυρη ή με λάθος διαμόρφωση."
+
+#: includes/functions/google-recaptcha.php:156
+msgid "The request is invalid or malformed."
+msgstr "Το αίτημα είναι μη έγκυρο ή με λάθος διαμόρφωση."
+
+#: includes/functions/google-recaptcha.php:157
+msgid ""
+"The response is no longer valid: either is too old or has been used "
+"previously."
+msgstr ""
+"Η απάντηση δεν είναι πλέον έγκυρη: είτε είναι πολύ παλιά είτε έχει "
+"χρησιμοποιηθεί στο παρελθόν."
+
+#: includes/functions/google-recaptcha.php:163
+msgid "reCAPTCHA Failed:"
+msgstr "Το reCAPTCHA απέτυχε:"
+
+#: includes/functions/members.php:24
+msgid "Provide a valid username or email address!"
+msgstr ""
+"Εισάγετε ένα έγκυρο όνομα χρήστη ή διεύθυνση ηλεκτρονικού ταχυδρομείου!"
+
+#: includes/functions/members.php:30
+msgid "No user found for given email!"
+msgstr "Δεν βρέθηκε χρήστης με το συγκεκριμένο email!"
+
+#: includes/functions/members.php:36
+msgid "No user found for given username!"
+msgstr "Δεν βρέθηκε χρήστης με το συγκεκριμένο όνομα χρήστη!"
+
+#: includes/functions/members.php:39
+msgid "Invalid username or email!"
+msgstr "Μη έγκυρο όνομα χρήστη ή email!"
+
+#: includes/functions/members.php:67
+#, php-format
+msgid "Your New Password For %s"
+msgstr "Ο νέος σας κωδικός πρόσβασης για %s"
+
+#: includes/functions/members.php:71
+msgid "Your New Password"
+msgstr "Ο νέος σας κωδικός πρόσβασης"
+
+#: includes/functions/members.php:86
+msgid "Check your email for new password"
+msgstr "Ελέγξτε το email σας για νέο κωδικό πρόσβασης"
+
+#: includes/functions/members.php:88
+msgid "Failed to send you new password email!"
+msgstr "Αποτυχία αποστολής email νέου κωδικού πρόσβασης!"
+
+#: includes/functions/members.php:92
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr "Ουπς! Κάτι πήγε στραβά κατά την επαναφορά του κωδικού πρόσβασής σας!"
+
+#: includes/functions/members.php:145
+msgid "A new user is registered on your site with the following infromation."
+msgstr ""
+"Ένας νέος χρήστης έχει εγγραφεί στον ιστότοπό σας, με τις ακόλουθες "
+"πληροφορίες."
+
+#: includes/functions/members.php:149
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: includes/functions/members.php:160
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Εγγραφή νέου χρήστη"
+
+#: includes/functions/members.php:167 includes/functions/members.php:187
+#: includes/mb/main/inc/about/sections/welcome.php:14
+#, php-format
+msgid "Welcome to %s"
+msgstr "Καλώς ήρθατε στο %s"
+
+#: includes/functions/members.php:171
+msgid "Your Username"
+msgstr "Το όνομα χρήστη σας"
+
+#: includes/functions/members.php:176
+msgid "Your Password"
+msgstr "Ο κωδικός πρόσβασής σας"
+
+#: includes/functions/members.php:182
+msgid "It is highly recommended to change your password after login."
+msgstr ""
+"Προτείνεται ανεπιφύλακτα να αλλάξετε τον κωδικό πρόσβασής σας μετά τη "
+"σύνδεση."
+
+#: includes/functions/members.php:182
+msgid "For more details visit:"
+msgstr "Για περισσότερες λεπτομέρειες επισκεφθείτε:"
+
+#: includes/functions/plugin-update.php:80
+msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
+msgstr ""
+"Προέκυψε ένα μη αναμενόμενο σφάλμα HTTP κατά τη διάρκεια του αιτήματος API. "
+"Δοκιμάστε ξανά!"
+
+#: includes/functions/plugin-update.php:85
+msgid "An unknown error occurred"
+msgstr "Προέκυψε ένα άγνωστο σφάλμα"
+
+#: includes/functions/price.php:50
+msgid "$"
+msgstr "$"
+
+#: includes/functions/price.php:61
+msgid "Price On Call"
+msgstr "Τιμή κατόπιν κλήσης"
+
+#: includes/functions/property-submit.php:43
+#, php-format
+msgid "A new property is submitted at %s"
+msgstr "Υποβλήθηκε ένα νέο ακίνητο στο %s"
+
+#: includes/functions/property-submit.php:45
+#, php-format
+msgid "A new property is submitted by %s at %s"
+msgstr "Υποβλήθηκε ένα νέο ακίνητο από την/τον %s στο %s"
+
+#: includes/functions/property-submit.php:54
+msgid "A new property is submitted"
+msgstr "Υποβλήθηκε ένα νέο ακίνητο"
+
+#: includes/functions/property-submit.php:59
+#, php-format
+msgid "A new property is submitted by %s"
+msgstr "Υποβλήθηκε ένα νέο ακίνητο από την/τον %s"
+
+#: includes/functions/property-submit.php:68
+msgid "Property Preview Link"
+msgstr "Σύνδεσμος προεπισκόπησης ακινήτου"
+
+#: includes/functions/property-submit.php:78
+msgid "Message to the Reviewer"
+msgstr "Μήνυμα προς τον αναθεωρητή"
+
+#: includes/functions/property-submit.php:86
+msgid "Submitter Email"
+msgstr "Email του υποβάλλοντος"
+
+#: includes/functions/property-submit.php:148
+#, php-format
+msgid "Property Published: %s"
+msgstr "Δημοσιεύθηκε ένα ακίνητο: %s"
+
+#: includes/functions/property-submit.php:154
+#, php-format
+msgid "Hello %s,"
+msgstr "Γεια σας %s,"
+
+#: includes/functions/property-submit.php:155
+#, php-format
+msgid "We have published your property \"%s\"."
+msgstr "Δημοσιεύσαμε το ακίνητό σας \"%s\"."
+
+#: includes/functions/property-submit.php:159
+msgid "You can view it here."
+msgstr "Μπορείτε να το δείτε εδώ."
+
+#: includes/functions/property-submit.php:165
+msgid "Thanks for Submitting."
+msgstr "Ευχαριστούμε για την υποβολή."
+
+#: includes/functions/purchase-api.php:117
+msgid "Please enter an item purchase code."
+msgstr "Παρακαλούμε εισάγετε έναν κωδικό αγοράς προϊόντος."
+
+#: includes/functions/purchase-api.php:140
+msgid "Please provide a valid purchase code!"
+msgstr "Παρακαλούμε εισάγετε έναν έγκυρο κωδικό αγοράς!"
+
+#: includes/functions/purchase-api.php:145
+msgid "Problem in connecting..."
+msgstr "Πρόβλημα στη σύνδεση..."
+
+#: includes/functions/real-estate.php:79
+msgid "Any"
+msgstr "Οποιοδήποτε"
+
+#: includes/functions/subscription-api.php:65
+msgid "ERE Subscription Interval"
+msgstr "Περίοδος συνδρομής ERE"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:14
+msgid "Agent Details"
+msgstr "Λεπτομέρειες πράκτορα"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:20
+#: includes/mb/agent-agency-meta-boxes-config.php:184
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:31
+#: includes/mb/agent-agency-meta-boxes-config.php:196
+msgid "Mobile Number"
+msgstr "Αριθμός κινητού τηλεφώνου"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:38
+#: includes/mb/agent-agency-meta-boxes-config.php:203
+msgid "Office Number"
+msgstr "Αριθμός γραφείου"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:45
+#: includes/mb/agent-agency-meta-boxes-config.php:210
+msgid "WhatsApp Number"
+msgstr "Αριθμός WhatsApp"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:52
+#: includes/mb/agent-agency-meta-boxes-config.php:217
+msgid "Fax Number"
+msgstr "Αριθμός φαξ"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:59
+#: includes/mb/agent-agency-meta-boxes-config.php:224
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:66
+#: includes/mb/agent-agency-meta-boxes-config.php:231
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:78
+#: includes/mb/agent-agency-meta-boxes-config.php:243
+msgid "Email Address"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:80
+msgid ""
+"Messages from default agent form on property single will be sent to this "
+"address."
+msgstr ""
+"Τα μηνύματα από την προεπιλεγμένη φόρμα πράκτορα στην προβολή ενός ακινήτου "
+"θα αποστέλλονται σε αυτή τη διεύθυνση."
+
+#: includes/mb/agent-agency-meta-boxes-config.php:86
+msgid "Shortcode to Replace Default Agent Form"
+msgstr "Shortcode για την αντικατάσταση της προεπιλεγμένης φόρμας πράκτορα"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:88
+msgid ""
+"Default agent form can be replaced with custom form using contact form 7 or "
+"WPForms plugin shortcode."
+msgstr ""
+"Η προεπιλεγμένη φόρμα πράκτορα μπορεί να αντικατασταθεί χρησιμοποιώντας το "
+"πρόσθετο Contact Form 7 ή το shortcode του πρόσθετου WPForms."
+
+#: includes/mb/agent-agency-meta-boxes-config.php:99
+msgid "Select Agency If Any"
+msgstr "Επιλέξτε πρακτορείο, εάν υπάρχει"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:112
+#: includes/mb/agent-agency-meta-boxes-config.php:265
+#: includes/settings/social.php:86
+msgid "Facebook URL"
+msgstr "Διεύθυνση URL στο Facebook"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:119
+#: includes/mb/agent-agency-meta-boxes-config.php:272
+#: includes/settings/social.php:93
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:126
+#: includes/mb/agent-agency-meta-boxes-config.php:279
+msgid "LinkedIn URL"
+msgstr "URL Linkedin"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:133
+#: includes/mb/agent-agency-meta-boxes-config.php:286
+#: includes/settings/social.php:106
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:140
+#: includes/mb/agent-agency-meta-boxes-config.php:293
+#: includes/settings/social.php:114
+msgid "Pinterest URL"
+msgstr "URL Pinterest"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:147
+#: includes/mb/agent-agency-meta-boxes-config.php:300
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:178
+msgid "Provide Related Information"
+msgstr "Εισάγετε σχετικές πληροφορίες"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:245
+msgid "Messages from default agency form will be sent to this address."
+msgstr ""
+"Τα μηνύματα από την προεπιλεγμένη φόρμα πρακτορείου θα αποστέλλονται σε αυτή "
+"τη διεύθυνση."
+
+#: includes/mb/agent-agency-meta-boxes-config.php:251
+msgid "Shortcode to Replace Default Agency Form"
+msgstr "Shortcode για την αντικατάσταση της προεπιλεγμένης φόρμας πρακτορείου"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:253
+msgid ""
+"Default agency form can be replaced with custom form using contact form 7 or "
+"WPForms plugin shortcode."
+msgstr ""
+"Η προεπιλεγμένη φόρμα πρακτορείου μπορεί να αντικατασταθεί με προσαρμοσμένη "
+"φόρμα χρησιμοποιώντας το πρόσθετο Contact Form 7 ή το shortcode του "
+"πρόσθετου WPForms."
+
+#: includes/mb/class-ere-meta-boxes.php:140
+msgid "Meta Box plugin has been deactivated!"
+msgstr "Το πρόσθετο Meta Box έχει απενεργοποιηθεί!"
+
+#: includes/mb/class-ere-meta-boxes.php:141
+msgid ""
+"As similar functionality is already embedded with in Easy Real Estate plugin."
+msgstr ""
+"Καθώς παρόμοια λειτουργικότητα είναι ήδη ενσωματωμένη στο πρόσθετο Easy Real "
+"Estate."
+
+#: includes/mb/class-ere-meta-boxes.php:143
+msgid "So, You should completely remove it from your plugins."
+msgstr "Συνεπώς, θα πρέπει να το αφαιρέσετε εντελώς από τα πρόσθετά σας."
+
+#: includes/mb/exts/mb-settings-page/src/BackupField.php:20
+msgid ""
+"To export settings, copy the content of this field and save to a file. To "
+"import settings, paste the content of the backup file here."
+msgstr ""
+"Για την εξαγωγή των ρυθμίσεων, αντιγράψτε το περιεχόμενο αυτού του πεδίου "
+"και αποθηκεύστε το σε ένα αρχείο. Για την εισαγωγή των ρυθμίσεων, "
+"επικολλήστε εδώ το περιεχόμενο του αρχείου του αντιγράφου ασφαλείας."
+
+#: includes/mb/exts/mb-settings-page/src/Factory.php:45
+msgid "Save Settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: includes/mb/exts/mb-settings-page/src/Factory.php:46
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: includes/mb/exts/mb-term-meta/src/MetaBox.php:65
+msgid "Term added."
+msgstr "Ο όρος προστέθηκε."
+
+#: includes/mb/exts/meta-box-group/group-field.php:63
+msgid "Are you sure you want to remove this group?"
+msgstr "Θέλετε σίγουρα να καταργήσετε αυτή την ομάδα;"
+
+#: includes/mb/exts/meta-box-group/group-field.php:140
+#: includes/mb/main/inc/fields/file-input.php:45
+#: includes/settings/social.php:155
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: includes/mb/exts/meta-box-group/group-field.php:334
+msgid "Entry {#}"
+msgstr "Καταχώρηση {#}"
+
+#: includes/mb/exts/meta-box-group/group-field.php:334
+msgid "Entry"
+msgstr "Καταχώρηση"
+
+#: includes/mb/main/inc/about/about.php:54
+msgid "About"
+msgstr "Περί"
+
+#: includes/mb/main/inc/about/about.php:56
+msgid "Go Pro"
+msgstr "Γίνετε Pro"
+
+#: includes/mb/main/inc/about/about.php:69
+#: includes/mb/main/inc/about/about.php:70
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: includes/mb/main/inc/about/about.php:85
+msgid "Welcome to Meta Box"
+msgstr "Καλώς ήρθατε στο Meta Box"
+
+#: includes/mb/main/inc/about/about.php:86
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: includes/mb/main/inc/about/about.php:156
+#, php-format
+msgid ""
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">"
+"&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" "
+"target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you "
+"from the Meta Box team!"
+msgstr ""
+"Παρακαλώ βαθμολογήστε το <strong>Meta Box</strong> <a href=\"%1$s\" "
+"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;</a> στο "
+"<a href=\"%1$s\" target=\"_blank\">WordPress.org</a> για να μας βοηθήσετε να "
+"το διαδώσουμε. Η ομάδα του Meta Box σας ευχαριστεί!"
+
+#: includes/mb/main/inc/about/sections/extensions.php:11
+msgid ""
+"Extend custom fields in WordPress well beyond what others would ever "
+"consider ordinary!"
+msgstr ""
+"Επεκτείνετε τα προσαρμοσμένα πεδία στο WordPress πολύ πέρα από αυτό που "
+"άλλοι θα θεωρούσαν ποτέ συνηθισμένο!"
+
+#: includes/mb/main/inc/about/sections/extensions.php:12
+msgid "Save over 80% with our extensions bundles."
+msgstr "Εξοικονομήστε πάνω από 80% με τα πακέτα επεκτάσεων."
+
+#: includes/mb/main/inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr "Προβολή πακέτων"
+
+#: includes/mb/main/inc/about/sections/extensions.php:20
+msgid ""
+"Create and manage custom post types easily in WordPress with an easy-to-use "
+"interface."
+msgstr ""
+"Δημιουργήστε και διαχειριστείτε εύκολα προσαρμοσμένους τύπους άρθρων στο "
+"WordPress, με ένα εύχρηστο περιβάλλον εργασίας."
+
+#: includes/mb/main/inc/about/sections/extensions.php:24
+#: includes/mb/main/inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr "Δωρεάν κατέβασμα"
+
+#: includes/mb/main/inc/about/sections/extensions.php:32
+msgid ""
+"Drag and drop your custom fields into place without a single line of code."
+msgstr ""
+"Σύρετε και αφήστε τα προσαρμοσμένα πεδία σας στη θέση τους, χωρίς ούτε μία "
+"γραμμή κώδικα."
+
+#: includes/mb/main/inc/about/sections/extensions.php:36
+#: includes/mb/main/inc/about/sections/extensions.php:48
+#: includes/mb/main/inc/about/sections/extensions.php:60
+#: includes/mb/main/inc/about/sections/extensions.php:72
+#: includes/mb/main/inc/about/sections/extensions.php:84
+#: includes/mb/main/inc/about/sections/extensions.php:96
+#: includes/mb/main/inc/about/sections/extensions.php:108
+#: includes/mb/main/inc/about/sections/getting-started.php:23
+msgid "Learn More"
+msgstr "Μάθετε περισσότερα"
+
+#: includes/mb/main/inc/about/sections/extensions.php:44
+msgid ""
+"Create repeatable groups of custom fields for better appearance and "
+"structure."
+msgstr ""
+"Δημιουργήστε επαναλαμβανόμενες ομάδες προσαρμοσμένων πεδίων για καλύτερη "
+"εμφάνιση και δομή."
+
+#: includes/mb/main/inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr ""
+"Δημιουργήστε μια ισχυρή σελίδα ρυθμίσεων για το θέμα, το πρόσθετο ή τον "
+"ιστότοπό σας."
+
+#: includes/mb/main/inc/about/sections/extensions.php:68
+msgid ""
+"Control the visibility of meta boxes and fields or even HTML elements with "
+"ease."
+msgstr ""
+"Ρυθμίστε εύκολα την ορατότητα των πλαισίων μετα-πληροφοριών και των πεδίων ή "
+"ακόμα και των στοιχείων HTML."
+
+#: includes/mb/main/inc/about/sections/extensions.php:80
+msgid ""
+"Create register, login and edit user profile forms in the frontend. Embed "
+"everywhere with shortcodes."
+msgstr ""
+"Δημιουργήστε φόρμες εγγραφής, σύνδεσης και επεξεργασίας προφίλ χρήστη για το "
+"εμπρόσθιο τμήμα (frontend). Ενσωματώστε παντού με shortcodes."
+
+#: includes/mb/main/inc/about/sections/extensions.php:92
+msgid ""
+"Create frontend forms for users to submit custom content. Embed everywhere "
+"with shortcode."
+msgstr ""
+"Δημιουργήστε φόρμες για το εμπρόσθιο τμήμα (frontend), για την υποβολή "
+"προσαρμοσμένου περιεχομένου από τους χρήστες. Ενσωματώστε παντού με "
+"shortcode."
+
+#: includes/mb/main/inc/about/sections/extensions.php:104
+msgid ""
+"Save custom fields data to custom table. Reduce database size and increase "
+"performance."
+msgstr ""
+"Αποθήκευση δεδομένων των προσαρμοσμένων πεδίων σε προσαρμοσμένο πίνακα. "
+"Μειώστε το μέγεθος της βάσης δεδομένων και αυξήστε την απόδοση."
+
+#: includes/mb/main/inc/about/sections/extensions.php:116
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr ""
+"Δημιουργήστε σχέσεις πολλά-προς-πολλά μεταξύ αναρτήσεων, όρων και χρηστών."
+
+#: includes/mb/main/inc/about/sections/extensions.php:124
+msgid "View all extensions"
+msgstr "Προβολή όλων των επεκτάσεων"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr "Ξεκινώντας με το Online Generator"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:13
+msgid ""
+"Online Generator is a free tool to help you create and set up custom fields "
+"using a simple, friendly user interface. With it, you can add fields, set "
+"options and generate needed code that's ready to copy and paste."
+msgstr ""
+"Το Online Generator είναι ένα δωρεάν εργαλείο που σας βοηθά να δημιουργήσετε "
+"και να ρυθμίσετε προσαρμοσμένα πεδία χρησιμοποιώντας ένα απλό, φιλικό "
+"περιβάλλον εργασίας χρήστη. Με αυτό, μπορείτε να προσθέσετε πεδία, να "
+"ορίσετε επιλογές και να δημιουργήσετε τον απαραίτητο κώδικα που θα είναι "
+"έτοιμος για αντιγραφή και επικόλληση."
+
+#: includes/mb/main/inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr "online generator"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr "Μεταβείτε στο Online Generator"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:21
+msgid "Understand The Basics"
+msgstr "Εξοικειωθείτε με τα βασικά"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:22
+msgid ""
+"Meta Box doesn't have any admin page for configuration or settings. Instead "
+"of that, it provides a very powerful API to speed up the process of creating "
+"meta boxes and custom fields. It might take you a little time at first, but "
+"then you'll love the way it work because it helps you do and customize "
+"almost everything."
+msgstr ""
+"Το Meta Box δεν έχει καμία σελίδα διαχείρισης για διαμόρφωση ή ρύθμιση. Αντ' "
+"αυτού, παρέχει ένα πολύ ισχυρό API για την επιτάχυνση της διαδικασίας "
+"δημιουργίας πλαισίων μετα-πληροφοριών και προσαρμοσμένων πεδίων. Μπορεί να "
+"σας πάρει λίγο χρόνο στην αρχή, αλλά στη συνέχεια θα αγαπήσετε τον τρόπο "
+"λειτουργίας του, καθώς σας βοηθά να κάνετε και να προσαρμόσετε σχεδόν τα "
+"πάντα."
+
+#: includes/mb/main/inc/about/sections/getting-started.php:25
+#: includes/mb/main/inc/about/sections/tabs.php:12
+#: includes/mb/main/inc/about/sections/welcome.php:21
+msgid "Extensions"
+msgstr "Επεκτάσεις"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:26
+msgid ""
+"Wanna see more features that transform your WordPress website into a "
+"powerful CMS? Check out some extensions below:"
+msgstr ""
+"Θέλετε να δείτε περισσότερα χαρακτηριστικά που μετατρέπουν τον ιστότοπό σας "
+"στο WordPress σε ένα ισχυρό CMS; Δείτε μερικές επεκτάσεις:"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:28
+msgid "Meta Box Builder"
+msgstr "Meta Box Builder"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:28
+msgid "Build meta boxes and fields with UI."
+msgstr "Κατασκευάστε πλαίσια μετα-πληροφοριών και πεδία σε γραφικό περιβάλλον."
+
+#: includes/mb/main/inc/about/sections/getting-started.php:29
+msgid "Meta Box Group"
+msgstr "Meta Box Group"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:29
+msgid "Organize fields into repeatable groups."
+msgstr "Οργανώστε τα πεδία σε επαναλαμβανόμενες ομάδες."
+
+#: includes/mb/main/inc/about/sections/getting-started.php:30
+msgid "Meta Box Conditional Logic"
+msgstr "Υπό συνθήκη λογική Meta Box"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:30
+msgid "Control the visibility of fields."
+msgstr "Ρύθμιση ορατότητας των πεδίων."
+
+#: includes/mb/main/inc/about/sections/getting-started.php:31
+msgid "MB Settings Page"
+msgstr "Σελίδα ρυθμίσεων MB"
+
+#: includes/mb/main/inc/about/sections/getting-started.php:31
+msgid "Create settings pages/Customizer options."
+msgstr "Δημιουργήστε σελίδες ρυθμίσεων/επιλογών παραμετροποίησης."
+
+#: includes/mb/main/inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr "Περισσότερες επεκτάσεις"
+
+#: includes/mb/main/inc/about/sections/products.php:12
+msgid "Our WordPress Products"
+msgstr "Τα προϊόντα μας για WordPress"
+
+#: includes/mb/main/inc/about/sections/products.php:15
+msgid "Like this plugin? Check out our other WordPress products:"
+msgstr ""
+"Σας αρέσει αυτό το πρόσθετο; Ρίξτε μια ματιά στα άλλα προϊόντα μας για το "
+"WordPress:"
+
+#: includes/mb/main/inc/about/sections/products.php:16
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr "Αυτοματοποιημένο & γρήγορο πρόσθετο SEO για το WordPress"
+
+#: includes/mb/main/inc/about/sections/products.php:17
+msgid "A super fast, lightweight and highly customizable WordPress theme"
+msgstr ""
+"Ένα εξαιρετικά γρήγορο, ελαφρύ και εξαιρετικά προσαρμόσιμο θέμα WordPress"
+
+#: includes/mb/main/inc/about/sections/support.php:18
+#, php-format
+msgid ""
+"Still need help with Meta Box? We offer excellent support for you. But don't "
+"forget to check our <a href=\"%s\">documentation</a> first."
+msgstr ""
+"Χρειάζεστε ακόμα βοήθεια με το Meta Box; Σας προσφέρουμε εξαιρετική "
+"υποστήριξη. Αλλά μην ξεχάσετε να ελέγξετε πρώτα την <a href=\"%s\">"
+"τεκμηρίωσή</a> μας."
+
+#: includes/mb/main/inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr "Δωρεάν υποστήριξη"
+
+#: includes/mb/main/inc/about/sections/support.php:24
+msgid ""
+"If you have any question about how to use the plugin, please open a new "
+"topic on WordPress.org support forum or open a new issue on Github "
+"(preferable). We will try to answer as soon as we can."
+msgstr ""
+"Αν έχετε οποιαδήποτε ερώτηση σχετικά με τον τρόπο χρήσης του προσθέτου, "
+"ανοίξτε ένα νέο θέμα στο φόρουμ υποστήριξης του WordPress.org ή ανοίξτε ένα "
+"νέο issue στο Github (κατά προτίμηση). Θα προσπαθήσουμε να σας απαντήσουμε "
+"το συντομότερο δυνατό."
+
+#: includes/mb/main/inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr "Μεταβείτε στο Github"
+
+#: includes/mb/main/inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr "Πηγαίνετε στο WordPress.org"
+
+#: includes/mb/main/inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr "Υποστήριξη Premium"
+
+#: includes/mb/main/inc/about/sections/support.php:31
+msgid ""
+"For users that have bought premium extensions, the support is provided in "
+"the Meta Box Support forum. Any question will be answered with technical "
+"details within 24 hours."
+msgstr ""
+"Για τους χρήστες που έχουν αγοράσει premium επεκτάσεις, η υποστήριξη "
+"παρέχεται στο φόρουμ Meta Box Support. Οποιαδήποτε ερώτηση θα απαντηθεί με "
+"τεχνικές λεπτομέρειες εντός 24 ωρών."
+
+#: includes/mb/main/inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr "Πηγαίνετε στο φόρουμ υποστήριξης"
+
+#: includes/mb/main/inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Ξεκινώντας"
+
+#: includes/mb/main/inc/about/sections/tabs.php:13
+#: includes/mb/main/inc/about/sections/welcome.php:22
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: includes/mb/main/inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr "Αναβάθμιση σε Meta Box PRO"
+
+#: includes/mb/main/inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr ""
+"Παρακαλούμε αναβαθμίστε στο PRO πακέτο για να ξεκλειδώσετε περισσότερα "
+"φοβερά χαρακτηριστικά."
+
+#: includes/mb/main/inc/about/sections/upgrade.php:13
+msgid ""
+"Create custom fields with drag-n-drop interface - no coding knowledge "
+"required!"
+msgstr ""
+"Δημιουργήστε προσαρμοσμένα πεδία σε περιβάλλον drag-n-drop - δεν απαιτούνται "
+"γνώσεις κωδικοποίησης!"
+
+#: includes/mb/main/inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "Προσθέστε προσαρμοσμένα πεδία στις ταξινομίες ή στο προφίλ χρήστη."
+
+#: includes/mb/main/inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr "Δημιουργήστε προσαρμοσμένες σελίδες ρυθμίσεων."
+
+#: includes/mb/main/inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr "Δημιουργήστε φόρμες υποβολής για το εμπρόσθιο τμήμα (frontend)."
+
+#: includes/mb/main/inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr "Αποθήκευση προσαρμοσμένων πεδίων σε προσαρμοσμένους πίνακες."
+
+#: includes/mb/main/inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr "Και πολλά άλλα!"
+
+#: includes/mb/main/inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr "Αποκτήστε το Meta Box PRO τώρα"
+
+#: includes/mb/main/inc/about/sections/welcome.php:17
+msgid ""
+"Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
+"plugin and framework that makes quick work of customizing a website with—you "
+"guessed it—meta boxes and custom fields in WordPress. Follow the instruction "
+"below to get started!"
+msgstr ""
+"Το Meta Box είναι ένα δωρεάν πρόσθετο και πλαίσιο προσαρμοσμένων πεδίων "
+"WordPress συμβατό με το Gutenberg και το GDPR, το οποίο διευκολύνει την "
+"προσαρμογή ενός ιστότοπου με - το μαντέψατε - πλαίσια Meta και προσαρμοσμένα "
+"πεδία στο WordPress. Ακολουθήστε τις παρακάτω οδηγίες για να ξεκινήσετε!"
+
+#: includes/mb/main/inc/about/sections/welcome.php:20
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: includes/mb/main/inc/core.php:38
+msgid "Docs"
+msgstr "Έγγραφα"
+
+#: includes/mb/main/inc/field.php:361
+msgid "+ Add more"
+msgstr "+ Προσθέστε περισσότερα"
+
+#: includes/mb/main/inc/fields/autocomplete.php:23
+#: includes/mb/main/inc/fields/autocomplete.php:85
+#: includes/mb/main/inc/fields/autocomplete.php:97
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: includes/mb/main/inc/fields/background.php:75
+msgid "Background Image"
+msgstr "Εικόνα φόντου"
+
+#: includes/mb/main/inc/fields/background.php:89
+msgid "-- Repeat --"
+msgstr "-- Επανάληψη --"
+
+#: includes/mb/main/inc/fields/background.php:91
+msgid "No Repeat"
+msgstr "Χωρίς επανάληψη"
+
+#: includes/mb/main/inc/fields/background.php:92
+msgid "Repeat All"
+msgstr "Επανάληψη όλων"
+
+#: includes/mb/main/inc/fields/background.php:93
+msgid "Repeat Horizontally"
+msgstr "Επανάληψη οριζόντια"
+
+#: includes/mb/main/inc/fields/background.php:94
+msgid "Repeat Vertically"
+msgstr "Επανάληψη κάθετα"
+
+#: includes/mb/main/inc/fields/background.php:95
+#: includes/mb/main/inc/fields/background.php:133
+#: includes/mb/main/inc/fields/background.php:147
+msgid "Inherit"
+msgstr "Από γονέα (inherit)"
+
+#: includes/mb/main/inc/fields/background.php:107
+msgid "-- Position --"
+msgstr "-- Θέση --"
+
+#: includes/mb/main/inc/fields/background.php:109
+msgid "Top Left"
+msgstr "Επάνω αριστερά"
+
+#: includes/mb/main/inc/fields/background.php:110
+msgid "Top Center"
+msgstr "Επάνω κέντρο"
+
+#: includes/mb/main/inc/fields/background.php:111
+msgid "Top Right"
+msgstr "Επάνω δεξιά"
+
+#: includes/mb/main/inc/fields/background.php:112
+msgid "Center Left"
+msgstr "Κέντρο αριστερά"
+
+#: includes/mb/main/inc/fields/background.php:113
+msgid "Center Center"
+msgstr "Κέντρο κέντρο"
+
+#: includes/mb/main/inc/fields/background.php:114
+msgid "Center Right"
+msgstr "Κέντρο δεξιά"
+
+#: includes/mb/main/inc/fields/background.php:115
+msgid "Bottom Left"
+msgstr "Κάτω αριστερά"
+
+#: includes/mb/main/inc/fields/background.php:116
+msgid "Bottom Center"
+msgstr "Κάτω κέντρο"
+
+#: includes/mb/main/inc/fields/background.php:117
+msgid "Bottom Right"
+msgstr "Κάτω δεξιά"
+
+#: includes/mb/main/inc/fields/background.php:129
+msgid "-- Attachment --"
+msgstr "-- Συνημμένο --"
+
+#: includes/mb/main/inc/fields/background.php:131
+msgid "Fixed"
+msgstr "Σταθερό"
+
+#: includes/mb/main/inc/fields/background.php:132
+msgid "Scroll"
+msgstr "Κύλιση"
+
+#: includes/mb/main/inc/fields/background.php:145
+msgid "-- Size --"
+msgstr "-- Μέγεθος --"
+
+#: includes/mb/main/inc/fields/background.php:148
+msgid "Cover"
+msgstr "Επικάλυψη"
+
+#: includes/mb/main/inc/fields/background.php:149
+msgid "Contain"
+msgstr "Στο περιεχόμενο"
+
+#: includes/mb/main/inc/fields/button.php:34
+msgid "Click me"
+msgstr "Κλίκαρέ με"
+
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property/banner-metaboxes.php:51
+#: includes/mb/property/basic-metaboxes.php:189
+#: includes/mb/property/gallery-metaboxes.php:63
+#: includes/mb/property/location-metaboxes.php:60
+#: includes/mb/property/misc-metaboxes.php:46
+#: includes/mb/property/misc-metaboxes.php:176
+#: includes/mb/templates-meta-boxes-config.php:141
+#: includes/settings/gdpr.php:33 includes/settings/gdpr.php:75
+#: includes/settings/map.php:49 includes/shortcodes/vc-map.php:279
+msgid "Yes"
+msgstr "Ναι"
+
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property/banner-metaboxes.php:52
+#: includes/mb/property/basic-metaboxes.php:190
+#: includes/mb/property/gallery-metaboxes.php:64
+#: includes/mb/property/homeslider-metaboxes.php:41
+#: includes/mb/property/location-metaboxes.php:61
+#: includes/mb/property/misc-metaboxes.php:47
+#: includes/mb/property/misc-metaboxes.php:177
+#: includes/mb/templates-meta-boxes-config.php:142
+#: includes/settings/gdpr.php:38 includes/settings/gdpr.php:80
+#: includes/settings/map.php:54 includes/shortcodes/vc-map.php:278
+msgid "No"
+msgstr "Όχι"
+
+#: includes/mb/main/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "Επιλογή αρχείου"
+
+#: includes/mb/main/inc/fields/file-input.php:43
+#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/property-additional-fields.php:114
+msgid "Select"
+msgstr "Επιλογές"
+
+#: includes/mb/main/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Μπορείτε να ανεβάσετε μόνο %d αρχείο το πολύ"
+
+#: includes/mb/main/inc/fields/file.php:26
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Μπορείτε να ανεβάσετε μόνο %d αρχεία το πολύ"
+
+#: includes/mb/main/inc/fields/file.php:63
+msgid "Error: Invalid file"
+msgstr "Σφάλμα: Αρχείο: Μη έγκυρο αρχείο"
+
+#: includes/mb/main/inc/fields/file.php:77
+msgid "Error: Cannot delete file"
+msgstr "Σφάλμα: Δεν είναι δυνατή η διαγραφή αρχείου"
+
+#: includes/mb/main/inc/fields/file.php:90
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Προσθήκη νέου αρχείου"
+
+#: includes/mb/main/inc/fields/file.php:171
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: includes/mb/main/inc/fields/file.php:172
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: includes/mb/main/inc/fields/input-list.php:92
+msgid "Toggle All"
+msgstr "Εναλλαγή όλων"
+
+#: includes/mb/main/inc/fields/key-value.php:135
+msgid "Key"
+msgstr "Κλειδί"
+
+#: includes/mb/main/inc/fields/key-value.php:136
+#: includes/mb/property/basic-metaboxes.php:211
+msgid "Value"
+msgstr "Τιμή"
+
+#: includes/mb/main/inc/fields/map.php:55
+#: includes/mb/main/inc/fields/osm.php:28
+msgid "No results found"
+msgstr "Δεν βρέθηκαν αποτελέσματα"
+
+#: includes/mb/main/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Προσθήκη πολυμέσων"
+
+#: includes/mb/main/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr " αρχείο"
+
+#: includes/mb/main/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr " αρχεία"
+
+#: includes/mb/main/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: includes/mb/main/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: includes/mb/main/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "Προβολή"
+
+#: includes/mb/main/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr "Δεν υπάρχει τίτλος"
+
+#: includes/mb/main/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "Επιλογή αρχείων"
+
+#: includes/mb/main/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr "ή"
+
+#: includes/mb/main/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Σύρετε εδώ αρχεία για να τα ανεβάσετε"
+
+#: includes/mb/main/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr "Η ενσωμάτωση HTML δεν είναι διαθέσιμη."
+
+#: includes/mb/main/inc/fields/post.php:80
+msgid "Select a post"
+msgstr "Επιλέξτε ένα άρθρο"
+
+#: includes/mb/main/inc/fields/post.php:86
+#: includes/mb/main/inc/fields/taxonomy.php:98
+#, php-format
+msgid "Select a %s"
+msgstr "Επιλέξτε ένα %s"
+
+#: includes/mb/main/inc/fields/post.php:156
+#: includes/mb/main/inc/fields/taxonomy.php:157
+#: includes/mb/main/inc/fields/user.php:144
+msgid "(No title)"
+msgstr "(Χωρίς τίτλο)"
+
+#: includes/mb/main/inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr "Επιλέξτε ένα στοιχείο"
+
+#: includes/mb/main/inc/fields/select.php:92 includes/shortcodes/vc-map.php:97
+msgid "All"
+msgstr "Όλα"
+
+#: includes/mb/main/inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr "Επιλέξτε μια πλευρική μπάρα"
+
+#: includes/mb/main/inc/fields/switch.php:93
+msgid "On"
+msgstr "Ενεργό"
+
+#: includes/mb/main/inc/fields/switch.php:94
+msgid "Off"
+msgstr "Ανενεργό"
+
+#: includes/mb/main/inc/fields/taxonomy.php:94
+msgid "Select a term"
+msgstr "Επιλέξτε έναν όρο"
+
+#: includes/mb/main/inc/fields/user.php:84
+msgid "Select an user"
+msgstr "Επιλέξτε έναν χρήστη"
+
+#: includes/mb/main/inc/loader.php:119
+msgid "Dismiss all Meta Box news"
+msgstr "Απόρριψη όλων των ειδήσεων στο πλαίσιο μετα-πληροφοριών"
+
+#: includes/mb/main/inc/loader.php:120
+msgid "Are you sure to dismiss all Meta Box news?"
+msgstr ""
+"Θέλετε σίγουρα να απορρίψετε όλες τις ειδήσεις του πλαισίου μετα-πληροφοριών;"
+
+#: includes/mb/main/inc/meta-box.php:342
+msgid "Meta Box Title"
+msgstr "Τίτλος πλαισίου μετα-πληροφοριών"
+
+#: includes/mb/main/inc/update/checker.php:139
+msgid ""
+"UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
+"updates."
+msgstr ""
+"ΕΝΗΜΕΡΩΣΗ ΜΗ ΔΙΑΘΕΣΙΜΗ! Παρακαλούμε εισάγετε ένα έγκυρο κλειδί άδειας χρήσης "
+"για να ενεργοποιήσετε τις αυτόματες ενημερώσεις."
+
+#: includes/mb/main/inc/update/notification.php:112
+#, php-format
+msgid ""
+"You have not set your Meta Box license key yet, which means you are missing "
+"out on automatic updates and support! Please <a href=\"%1$s\">enter your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+"Δεν έχετε ορίσει ακόμα το κλειδί άδειας χρήσης του Meta Box, πράγμα που "
+"σημαίνει ότι χάνετε τις αυτόματες ενημερώσεις και την υποστήριξη! "
+"Παρακαλούμε <a href=\"%1$s\">εισάγετε το κλειδί της άδειάς σας</a> ή <a "
+"href=\"%2$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+
+#: includes/mb/main/inc/update/notification.php:114
+#: includes/mb/main/inc/update/notification.php:116
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s\">"
+"update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new "
+"one</a> to enable automatic updates."
+msgstr ""
+"Το κλειδί άδειας χρήσης για το Meta Box είναι <b>άκυρο</b>. Παρακαλούμε <a "
+"href=\"%1$s\">ενημερώστε το κλειδί της άδειάς σας</a> ή <a href=\"%2$s\" "
+"target=\"_blank\">αποκτήστε ένα νέο</a> για να ενεργοποιήσετε τις αυτόματες "
+"ενημερώσεις."
+
+#: includes/mb/main/inc/update/notification.php:118
+#, php-format
+msgid ""
+"Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a> to get automatic updates and "
+"premium support."
+msgstr ""
+"Το κλειδί άδειας χρήσης για το Meta Box έχει λήξει. Παρακαλούμε <a "
+"href=\"%3$s\" target=\"_blank\">ανανεώστε την άδειά σας</a> για να λαμβάνετε "
+"αυτόματες ενημερώσεις και premium υποστήριξη."
+
+#: includes/mb/main/inc/update/notification.php:142
+#, php-format
+msgid ""
+"Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one here</a>."
+msgstr ""
+"Παρακαλούμε <a href=\"%1$s\">εισάγετε το κλειδί της άδειάς σας</a> ή <a "
+"href=\"%2$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+
+#: includes/mb/main/inc/update/notification.php:144
+#: includes/mb/main/inc/update/notification.php:146
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
+"license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+"Το κλειδί άδειας χρήσης είναι <b>άκυρο</b>. Παρακαλούμε <a href=\"%1$s\">"
+"επικαιροποιήστε το κλειδί της άδειάς σας</a> ή <a href=\"%2$s\" "
+"target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+
+#: includes/mb/main/inc/update/notification.php:148
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a>."
+msgstr ""
+"Το κλειδί της άδειας χρήσης σας έχει λήξει. Παρακαλούμε <a href=\"%3$s\" "
+"target=\"_blank\">ανανεώστε την άδειά σας</a>."
+
+#: includes/mb/main/inc/update/notification.php:171
+msgid "Activate License"
+msgstr "Ενεργοποίηση άδειας χρήσης"
+
+#: includes/mb/main/inc/update/notification.php:171
+msgid "Update License"
+msgstr "Ενημέρωση άδειας"
+
+#: includes/mb/main/inc/update/settings.php:72
+#: includes/mb/main/inc/update/settings.php:90
+msgid "Meta Box License"
+msgstr "Άδεια Meta Box"
+
+#: includes/mb/main/inc/update/settings.php:72
+msgid "License"
+msgstr "Άδεια"
+
+#: includes/mb/main/inc/update/settings.php:91
+msgid ""
+"Please enter your license key to enable automatic updates for Meta Box "
+"extensions."
+msgstr ""
+"Εισάγετε το κλειδί άδειας χρήσης για να ενεργοποιήσετε τις αυτόματες "
+"ενημερώσεις για τις επεκτάσεις Meta Box."
+
+#: includes/mb/main/inc/update/settings.php:96
+#, php-format
+msgid ""
+"To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website. If you have not purchased any "
+"extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
+"here</a>."
+msgstr ""
+"Για να αποκτήσετε το κλειδί άδειας χρήσης, επισκεφθείτε τη σελίδα <a "
+"href=\"%1$s\" target=\"_blank\">Ο λογαριασμός μου</a> στον ιστότοπο metabox."
+"io. Εάν δεν έχετε αγοράσει ακόμη κάποια επέκταση, παρακαλούμε <a "
+"href=\"%2$s\" target=\"_blank\">αγοράστε εδώ μια νέα άδεια χρήσης</a>."
+
+#: includes/mb/main/inc/update/settings.php:108
+msgid "License Key"
+msgstr "Κλειδί άδειας χρήσης"
+
+#: includes/mb/main/inc/update/settings.php:113
+#: includes/mb/main/inc/update/settings.php:115
+#, php-format
+msgid ""
+"Your license key is <b>invalid</b>. Please update your license key or <a "
+"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+msgstr ""
+"Το κλειδί άδειας χρήσης είναι <b>άκυρο</b>. Παρακαλούμε ενημερώστε το κλειδί "
+"της άδειάς σας ή <a href=\"%1$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+
+#: includes/mb/main/inc/update/settings.php:117
+#, php-format
+msgid ""
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
+"target=\"_blank\">renew your license</a>."
+msgstr ""
+"Το κλειδί της άδειας χρήσης σας έχει λήξει. Παρακαλούμε <a href=\"%2$s\" "
+"target=\"_blank\">ανανεώστε την άδειά σας</a>."
+
+#: includes/mb/main/inc/update/settings.php:118
+msgid "Your license key is <b>active</b>."
+msgstr "Το κλειδί άδειας είναι <b>ενεργό</b>."
+
+#: includes/mb/main/inc/update/settings.php:131
+#: includes/settings/captcha.php:79 includes/settings/gdpr.php:89
+#: includes/settings/map.php:98 includes/settings/price.php:301
+#: includes/settings/property-analytics.php:83
+#: includes/settings/property.php:115 includes/settings/slug.php:66
+#: includes/settings/social.php:343 includes/settings/webhooks.php:61
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: includes/mb/main/inc/update/settings.php:157
+msgid ""
+"Something wrong with the connection to metabox.io. Please try again later."
+msgstr ""
+"Κάτι δεν πήγε καλά με τη σύνδεση στο metabox.io. Προσπαθήστε ξανά αργότερα."
+
+#: includes/mb/main/inc/update/settings.php:159
+msgid "Your license is activated."
+msgstr "Η άδειά σας ενεργή."
+
+#: includes/mb/main/inc/update/settings.php:162
+#, php-format
+msgid ""
+"License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
+"Account</a> page on metabox.io website."
+msgstr ""
+"Η άδεια έληξε. Παρακαλούμε ανανεώστε τη στη σελίδα <a href=\"%s\" "
+"target=\"_blank\">Ο λογαριασμός μου</a> στον ιστότοπο metabox.io."
+
+#: includes/mb/main/inc/update/settings.php:168
+#, php-format
+msgid ""
+"Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
+"or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr ""
+"Μη έγκυρη άδεια. Παρακαλούμε <a href=\"%1$s\" target=\"_blank\">ελέγξτε "
+"ξανά</a> ή <a href=\"%2$s\" target=\"_blank\">βγάλτε μια νέα άδεια εδώ</a>."
+
+#: includes/mb/main/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+"Παρακαλούμε διορθώστε τα λάθη που επισημαίνονται παρακάτω και προσπαθήστε "
+"ξανά."
+
+#: includes/mb/main/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
+"Το Meta Box απαιτεί PHP έκδοση 5.3+. Παρακαλούμε επικοινωνήστε με την "
+"υπηρεσία φιλοξενίας σας για αναβάθμιση."
+
+#: includes/mb/meta-box-helper-functions.php:116
+msgid ""
+"Images should have minimum size of 1240px by 720px. Bigger size images will "
+"be cropped automatically. Minimum 2 images are required to display gallery."
+msgstr ""
+"Οι εικόνες πρέπει να έχουν ελάχιστο μέγεθος 1240px επί 720px. Οι εικόνες "
+"μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Για να εμφανίζεται η γκαλερί,"
+" απαιτούνται τουλάχιστον 2 εικόνες."
+
+#: includes/mb/meta-box-helper-functions.php:120
+msgid ""
+"Images should have minimum size of 1170px by 648px for thumbnails on right "
+"and 830px by 460px for thumbnails on bottom. Bigger size images will be "
+"cropped automatically. Minimum 2 images are required to display gallery."
+msgstr ""
+"Οι εικόνες πρέπει να έχουν ελάχιστο μέγεθος 1170px x 648px για τις "
+"μικρογραφίες στα δεξιά και 830px x 460px για τις μικρογραφίες στο κάτω μέρος."
+" Οι εικόνες μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Για να "
+"εμφανίζεται η γκαλερί, απαιτούνται τουλάχιστον 2 εικόνες."
+
+#: includes/mb/partner-meta-boxes-config.php:14
+msgid "Partner Information"
+msgstr "Πληροφορίες συνεργάτη"
+
+#: includes/mb/partner-meta-boxes-config.php:20
+msgid "Website URL"
+msgstr "URL ιστοσελίδας"
+
+#: includes/mb/partner-meta-boxes-config.php:22
+msgid "Provide Website URL"
+msgstr "Εισάγετε τη διεύθυνση URL του ιστότοπου"
+
+#: includes/mb/property-additional-fields.php:73
+msgid "New Fields Builder"
+msgstr "Σχεδιαστής νέων πεδίων"
+
+#: includes/mb/property-additional-fields.php:88
+msgid "Add New Property Fields"
+msgstr "Προσθήκη νέων πεδίων ακινήτου"
+
+#: includes/mb/property-additional-fields.php:101
+msgid "Field Name"
+msgstr "Όνομα πεδίου"
+
+#: includes/mb/property-additional-fields.php:102
+msgid ""
+"Keep it short and unique. Do not use any special Characters. Example: First "
+"Additional Field"
+msgstr ""
+"Κρατήστε το σύντομο και μοναδικό. Μην χρησιμοποιείτε ειδικούς χαρακτήρες. "
+"Παράδειγμα: Πρώτο πρόσθετο πεδίο"
+
+#: includes/mb/property-additional-fields.php:107
+msgid "Field Type"
+msgstr "Τύπος πεδίου"
+
+#: includes/mb/property-additional-fields.php:112
+msgid "Text"
+msgstr "Κείμενο"
+
+#: includes/mb/property-additional-fields.php:113
+msgid "Text Multiple Line"
+msgstr "Ελεύθερο κείμενο"
+
+#: includes/mb/property-additional-fields.php:115
+msgid "Checkbox List"
+msgstr "Λίστα κουτιών επιλογής"
+
+#: includes/mb/property-additional-fields.php:116
+msgid "Radio"
+msgstr "Κουκίδες επιλογής"
+
+#: includes/mb/property-additional-fields.php:120
+msgid "Field Options"
+msgstr "Επιλογές πεδίου"
+
+#: includes/mb/property-additional-fields.php:121
+msgid "Please add comma separated options. Example: One, Two, Three"
+msgstr ""
+"Παρακαλούμε προσθέστε επιλογές με διαχωρισμό κόμματος. Παράδειγμα: Ένα, δύο, "
+"τρία"
+
+#: includes/mb/property-additional-fields.php:127
+msgid "Field Icon"
+msgstr "Εικονίδιο πεδίου"
+
+#: includes/mb/property-additional-fields.php:128
+#, php-format
+msgid "You can use the %s. You just need to add the icon class like %s "
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε το %s. Απλά πρέπει να προσθέσετε την κλάση "
+"εικονιδίου όπως %s"
+
+#: includes/mb/property-additional-fields.php:128
+msgid "Font Awesome Icons"
+msgstr "Εικονίδια Font Awesome"
+
+#: includes/mb/property-additional-fields.php:133
+msgid "Where do you want to display this field?"
+msgstr "Πού θέλετε να εμφανίζεται αυτό το πεδίο;"
+
+#: includes/mb/property-additional-fields.php:137
+msgid "Advance Search Form"
+msgstr "Φόρμα σύνθετης αναζήτησης"
+
+#: includes/mb/property-additional-fields.php:138
+msgid "Property Submit Page"
+msgstr "Σελίδα υποβολής ακινήτου"
+
+#: includes/mb/property-additional-fields.php:139
+msgid "Property Single Page"
+msgstr "Σελίδα προβολής ακινήτου"
+
+#: includes/mb/property-additional-fields.php:165
+msgid "Additional Fields"
+msgstr "Πρόσθετα πεδία"
+
+#: includes/mb/property/agent-metaboxes.php:12
+msgid "Agent Information"
+msgstr "Πληροφορίες πράκτορα"
+
+#: includes/mb/property/agent-metaboxes.php:34
+msgid "What to display in agent information box ?"
+msgstr "Τι να εμφανίζεται στο πλαίσιο πληροφοριών του πράκτορα;"
+
+#: includes/mb/property/agent-metaboxes.php:39
+msgid "Author information."
+msgstr "Πληροφορίες για τον συγγραφέα."
+
+#: includes/mb/property/agent-metaboxes.php:40
+msgid "Agent Information. ( Select the agent below )"
+msgstr "Πληροφορίες πράκτορα. ( Επιλέξτε τον παρακάτω πράκτορα )"
+
+#: includes/mb/property/agent-metaboxes.php:41
+msgid "None. ( Hide information box )"
+msgstr "Καμία. ( Απόκρυψη πλαισίου πληροφοριών )"
+
+#: includes/mb/property/banner-metaboxes.php:12
+msgid "Top Banner"
+msgstr "Πανό κορυφής"
+
+#: includes/mb/property/banner-metaboxes.php:34
+msgid "Top Banner Image"
+msgstr "Εικόνα πανό κορυφής"
+
+#: includes/mb/property/banner-metaboxes.php:36
+msgid ""
+"You can upload banner image specific for this property to override default "
+"one. Recommended minimum image size is 2000px by 230px."
+msgstr ""
+"Μπορείτε να ανεβάσετε εικόνα πανό ειδικά για αυτό το ακίνητο, για να "
+"παρακάμψετε την προεπιλεγμένη. Το συνιστώμενο ελάχιστο μέγεθος εικόνας είναι "
+"2000px επί 230px."
+
+#: includes/mb/property/banner-metaboxes.php:47
+msgid "Hide Search Form in Header ?"
+msgstr "Απόκρυψη φόρμας αναζήτησης στην κεφαλίδα;"
+
+#: includes/mb/property/basic-metaboxes.php:12
+msgid "Basic Information"
+msgstr "Βασικές πληροφορίες"
+
+#: includes/mb/property/basic-metaboxes.php:53
+msgid "Sale or Rent Price ( Only digits )"
+msgstr "Τιμή πώλησης ή ενοικίασης ( Μόνο ψηφία )"
+
+#: includes/mb/property/basic-metaboxes.php:54
+msgid "Example: 12500"
+msgstr "Παράδειγμα: 12500"
+
+#: includes/mb/property/basic-metaboxes.php:62
+msgid "Old Price If Any ( Only digits )"
+msgstr "Παλαιά τιμή, εάν υπάρχει ( μόνο ψηφία )"
+
+#: includes/mb/property/basic-metaboxes.php:63
+msgid "Example: 14500"
+msgstr "Παράδειγμα: 14500"
+
+#: includes/mb/property/basic-metaboxes.php:71
+msgid "Price Prefix"
+msgstr "Πρόθεμα τιμής"
+
+#: includes/mb/property/basic-metaboxes.php:72
+msgid "Example: From"
+msgstr "Παράδειγμα: Από"
+
+#: includes/mb/property/basic-metaboxes.php:80
+#: includes/mb/property/floorplans-metaboxes.php:61
+msgid "Price Postfix"
+msgstr "Κατάληξη τιμής"
+
+#: includes/mb/property/basic-metaboxes.php:81
+msgid "Example: Monthly or Per Night"
+msgstr "Παράδειγμα: Μηνιαία ή ανά διανυκτέρευση"
+
+#: includes/mb/property/basic-metaboxes.php:101
+msgid "Area Size ( Only digits )"
+msgstr "Μέγεθος επιφάνειας ( Μόνο ψηφία )"
+
+#: includes/mb/property/basic-metaboxes.php:102
+#: includes/mb/property/floorplans-metaboxes.php:70
+msgid "Example: 2500"
+msgstr "Παράδειγμα: 2500"
+
+#: includes/mb/property/basic-metaboxes.php:110
+msgid "Area Size Postfix"
+msgstr "Κατάληξη μεγέθους επιφάνειας"
+
+#: includes/mb/property/basic-metaboxes.php:111
+#: includes/mb/property/basic-metaboxes.php:129
+#: includes/mb/property/floorplans-metaboxes.php:77
+msgid "Example: sq ft"
+msgstr "Παράδειγμα: τμ"
+
+#: includes/mb/property/basic-metaboxes.php:119
+msgid "Lot Size ( Only digits )"
+msgstr "Επιφάνεια οικοπέδου ( μόνο ψηφία )"
+
+#: includes/mb/property/basic-metaboxes.php:120
+msgid "Example: 3000"
+msgstr "Παράδειγμα: 3000"
+
+#: includes/mb/property/basic-metaboxes.php:128
+msgid "Lot Size Postfix"
+msgstr "Κατάληξη επιφάνειας οικοπέδου"
+
+#: includes/mb/property/basic-metaboxes.php:137
+#: includes/mb/property/floorplans-metaboxes.php:82
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:13
+#: includes/widgets/grid-cards/grid-card-1.php:97
+msgid "Bedrooms"
+msgstr "Υπνοδωμάτια"
+
+#: includes/mb/property/basic-metaboxes.php:138
+#: includes/mb/property/floorplans-metaboxes.php:84
+msgid "Example: 4"
+msgstr "Παράδειγμα: 4"
+
+#: includes/mb/property/basic-metaboxes.php:146
+#: includes/mb/property/floorplans-metaboxes.php:89
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:19
+#: includes/widgets/grid-cards/grid-card-1.php:118
+msgid "Bathrooms"
+msgstr "Μπάνια"
+
+#: includes/mb/property/basic-metaboxes.php:147
+#: includes/mb/property/floorplans-metaboxes.php:91
+msgid "Example: 2"
+msgstr "Παράδειγμα: 2"
+
+#: includes/mb/property/basic-metaboxes.php:155
+msgid "Garages or Parking Spaces"
+msgstr "Γκαράζ ή χώροι στάθμευσης"
+
+#: includes/mb/property/basic-metaboxes.php:156
+msgid "Example: 1"
+msgstr "Παράδειγμα: 1"
+
+#: includes/mb/property/basic-metaboxes.php:165
+msgid "It will help you search a property directly."
+msgstr "Θα σας βοηθήσει να αναζητήσετε άμεσα ένα ακίνητο."
+
+#: includes/mb/property/basic-metaboxes.php:176
+msgid "Year Built"
+msgstr "Έτος κατασκευής"
+
+#: includes/mb/property/basic-metaboxes.php:177
+msgid "Example: 2017"
+msgstr "Παράδειγμα: 2017"
+
+#: includes/mb/property/basic-metaboxes.php:184
+msgid "Mark this property as featured ?"
+msgstr "Χαρακτηρισμός αυτού του ακίνητου ως προτεινόμενο;"
+
+#: includes/mb/property/basic-metaboxes.php:203
+msgid "Additional Details"
+msgstr "Πρόσθετες λεπτομέρειες"
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:13
+msgid "Custom Property Type Map Icon"
+msgstr "Εικονίδιο χάρτη προσαρμοσμένου τύπου ακινήτου"
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:17
+#: includes/mb/property/custom-taxonomy-metaboxes.php:56
+msgid "Icon Image"
+msgstr "Εικόνα εικονιδίου"
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:24
+msgid "Retina Icon Image"
+msgstr "Εικόνα εικονιδίου Retina"
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:57
+msgid "Recommended image size for icon is 64px by 64px."
+msgstr "Το συνιστώμενο μέγεθος εικόνας για το εικονίδιο είναι 64px επί 64px."
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:85
+msgid "Property Status Tag Colors"
+msgstr "Χρώματα ετικέτας κατάστασης ακινήτου"
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:89
+msgid "Status Tag Background Color"
+msgstr "Χρώμα φόντου ετικέτας κατάστασης"
+
+#: includes/mb/property/custom-taxonomy-metaboxes.php:95
+msgid "Status Tag Text Color"
+msgstr "Χρώμα κειμένου ετικέτας κατάστασης"
+
+#: includes/mb/property/energy-metaboxes.php:12
+#: includes/mb/property/energy-metaboxes.php:68
+msgid "Energy Performance"
+msgstr "Ενεργειακή απόδοση"
+
+#: includes/mb/property/energy-metaboxes.php:58
+msgid "Energy Class"
+msgstr "Ενεργειακή κλάση"
+
+#: includes/mb/property/energy-metaboxes.php:69
+msgid "Example: 100 kWh/m²a"
+msgstr "Παράδειγμα: 100 kWh/m²a"
+
+#: includes/mb/property/energy-metaboxes.php:77
+#, php-format
+msgid "%s Current Rating"
+msgstr "%s Τρέχουσα βαθμολογία"
+
+#: includes/mb/property/energy-metaboxes.php:78
+msgid "Example: 83"
+msgstr "Παράδειγμα: 83"
+
+#: includes/mb/property/energy-metaboxes.php:86
+#, php-format
+msgid "%s Potential Rating"
+msgstr "%s Πιθανή βαθμολογία"
+
+#: includes/mb/property/energy-metaboxes.php:87
+msgid "Example: 94"
+msgstr "Παράδειγμα: 94"
+
+#: includes/mb/property/floorplans-metaboxes.php:12
+msgid "Floor Plans"
+msgstr "Κατόψεις ορόφων"
+
+#: includes/mb/property/floorplans-metaboxes.php:41
+msgid "Floor Name"
+msgstr "Όνομα ορόφου"
+
+#: includes/mb/property/floorplans-metaboxes.php:43
+msgid "Example: Ground Floor"
+msgstr "Παράδειγμα: Ισόγειο"
+
+#: includes/mb/property/floorplans-metaboxes.php:48
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: includes/mb/property/floorplans-metaboxes.php:54
+msgid "Floor Price ( Only digits )"
+msgstr "Τιμή ορόφου ( μόνο ψηφία )"
+
+#: includes/mb/property/floorplans-metaboxes.php:56
+msgid "Example: 4000"
+msgstr "Παράδειγμα: 4000"
+
+#: includes/mb/property/floorplans-metaboxes.php:63
+msgid "Example: Per Month or Per Night"
+msgstr "Παράδειγμα: Ανά μήνα ή ανά διανυκτέρευση"
+
+#: includes/mb/property/floorplans-metaboxes.php:68
+msgid "Floor Size ( Only digits )"
+msgstr "Επιφάνεια ορόφου ( μόνο ψηφία )"
+
+#: includes/mb/property/floorplans-metaboxes.php:75
+msgid "Size Postfix"
+msgstr "Κατάληξη μεγέθους"
+
+#: includes/mb/property/floorplans-metaboxes.php:97
+msgid "Floor Plan Image"
+msgstr "Εικόνα κάτοψης ορόφου"
+
+#: includes/mb/property/floorplans-metaboxes.php:99
+msgid "The recommended minimum width is 770px and height is flexible."
+msgstr "Το συνιστώμενο ελάχιστο πλάτος είναι 770px και το ύψος είναι ευέλικτο."
+
+#: includes/mb/property/gallery-metaboxes.php:12
+msgid "Gallery Images"
+msgstr "Εικόνες γκαλερί"
+
+#: includes/mb/property/gallery-metaboxes.php:34
+msgid "Gallery with Thumbnails on Right"
+msgstr "Γκαλερί με μικρογραφίες στα δεξιά"
+
+#: includes/mb/property/gallery-metaboxes.php:35
+msgid "Gallery with Thumbnails on Bottom"
+msgstr "Γκαλερί με μικρογραφίες στο κάτω μέρος"
+
+#: includes/mb/property/gallery-metaboxes.php:39
+msgid "Default Gallery"
+msgstr "Προεπιλεγμένη γκαλερί"
+
+#: includes/mb/property/gallery-metaboxes.php:40
+msgid "Gallery with Thumbnails"
+msgstr "Γκαλερί με μικρογραφίες"
+
+#: includes/mb/property/gallery-metaboxes.php:41
+msgid "Gallery with Thumbnails Two"
+msgstr "Γκαλερί με μικρογραφίες Δύο"
+
+#: includes/mb/property/gallery-metaboxes.php:42
+msgid "Masonry"
+msgstr "Τοιχοποιία"
+
+#: includes/mb/property/gallery-metaboxes.php:43
+msgid "Carousel"
+msgstr "Καρουζέλ"
+
+#: includes/mb/property/gallery-metaboxes.php:44
+msgid "Full Width Carousel"
+msgstr "Καρουζέλ πλήρους πλάτους"
+
+#: includes/mb/property/gallery-metaboxes.php:49
+msgid "Property Gallery Images"
+msgstr "Εικόνες γκαλερί ακινήτου"
+
+#: includes/mb/property/gallery-metaboxes.php:58
+msgid "Change Gallery Type"
+msgstr "Αλλαγή τύπου γκαλερί"
+
+#: includes/mb/property/gallery-metaboxes.php:59
+msgid ""
+"It allow you to specify gallery type only for current property by overriding "
+"default gallery type settings provided in Appearance > Customize > Property "
+"Detail Page > Gallery > Gallery Type."
+msgstr ""
+"Σας επιτρέπει να καθορίσετε τον τύπο γκαλερί μόνο για το τρέχον ακίνητο, "
+"παρακάμπτοντας τις προεπιλεγμένες ρυθμίσεις τύπου γκαλερί που έχουν "
+"ρυθμιστεί στην Εμφάνιση > Προσαρμογή > Σελίδα λεπτομερειών ακινήτου > "
+"Γκαλερί > Τύπος γκαλερί."
+
+#: includes/mb/property/gallery-metaboxes.php:70
+msgid "Gallery Type You Want to Use"
+msgstr "Τύπος γκαλερί που θέλετε να χρησιμοποιήσετε"
+
+#: includes/mb/property/homeslider-metaboxes.php:12
+msgid "Homepage Slider"
+msgstr "Slider Αρχικής Σελίδας"
+
+#: includes/mb/property/homeslider-metaboxes.php:34
+msgid "Do you want to add this property in Homepage Slider ?"
+msgstr "Θέλετε να προσθέσετε αυτό το ακίνητο στο Slider Αρχικής Σελίδας;"
+
+#: includes/mb/property/homeslider-metaboxes.php:35
+msgid "If Yes, Then you need to provide a slider image below."
+msgstr "Αν ναι, τότε πρέπει να δώσετε μια εικόνα slider παρακάτω."
+
+#: includes/mb/property/homeslider-metaboxes.php:40
+msgid "Yes "
+msgstr "Ναι"
+
+#: includes/mb/property/homeslider-metaboxes.php:47
+msgid "Slider Image"
+msgstr "Εικόνα Slider"
+
+#: includes/mb/property/homeslider-metaboxes.php:49
+msgid ""
+"The recommended image size is 1970px by 850px. You can use bigger or smaller "
+"image but try to keep the same height to width ratio and use the exactly "
+"same size images for all properties that will be added in slider."
+msgstr ""
+"Το συνιστώμενο μέγεθος εικόνας είναι 1970px επί 850px. Μπορείτε να "
+"χρησιμοποιήσετε μεγαλύτερη ή μικρότερη εικόνα, αλλά προσπαθήστε να "
+"διατηρήσετε την ίδια αναλογία ύψους προς πλάτος και να χρησιμοποιήσετε "
+"εικόνες ακριβώς ίδιου μεγέθους για όλα τα ακίνητα που θα προστεθούν στο "
+"slider."
+
+#: includes/mb/property/location-metaboxes.php:12
+msgid "Location on Map"
+msgstr "Τοποθεσία στο χάρτη"
+
+#: includes/mb/property/location-metaboxes.php:34
+msgid "Property Location on Map"
+msgstr "Τοποθεσία ακινήτου στο χάρτη"
+
+#: includes/mb/property/location-metaboxes.php:35
+msgid ""
+"Drag the map marker to point property location. Address field given above "
+"can be used to search location."
+msgstr ""
+"Σύρετε το δείκτη του χάρτη για να επισημάνετε τη θέση του ακινήτου. Το πεδίο "
+"διεύθυνσης που δίνεται παραπάνω μπορεί να χρησιμοποιηθεί για την αναζήτηση "
+"τοποθεσίας."
+
+#: includes/mb/property/location-metaboxes.php:47
+msgid "Property Address"
+msgstr "Διεύθυνση ακινήτου"
+
+#: includes/mb/property/location-metaboxes.php:48
+msgid "Leaving it empty will hide the map on property detail page."
+msgstr ""
+"Αν το αφήσετε κενό, ο χάρτης θα αποκρύπτεται στη σελίδα λεπτομερειών "
+"ακινήτου."
+
+#: includes/mb/property/location-metaboxes.php:55
+msgid "Hide map on property detail page and listings lightbox?"
+msgstr ""
+"Απόκρυψη του χάρτη στη σελίδα λεπτομερειών ακινήτου και στο αναδυόμενο "
+"παράθυρο στην προβολή λίστας;"
+
+#: includes/mb/property/misc-metaboxes.php:12
+msgid "Misc"
+msgstr "Διάφορα"
+
+#: includes/mb/property/misc-metaboxes.php:32
+#: includes/widgets/mortgage-calculator-widget.php:113
+msgid "Property Taxes"
+msgstr "Φόροι ακίνητου"
+
+#: includes/mb/property/misc-metaboxes.php:33
+msgid ""
+"Provide monthly property tax amount. It will be displayed in the mortgage "
+"calculator only."
+msgstr ""
+"Εισάγετε το μηνιαίο ποσό του φόρου ακινήτου. Θα εμφανίζεται μόνο στον "
+"υπολογιστή στεγαστικού δανείου."
+
+#: includes/mb/property/misc-metaboxes.php:35
+#: includes/widgets/mortgage-calculator-widget.php:120
+msgid "Additional Fee"
+msgstr "Πρόσθετη αμοιβή"
+
+#: includes/mb/property/misc-metaboxes.php:36
+msgid ""
+"Provide monthly any additional fee. It will be displayed in the mortgage "
+"calculator only."
+msgstr ""
+"Εισάγετε οποιαδήποτε πρόσθετη μηνιαία αμοιβή. Θα εμφανίζεται μόνο στον "
+"υπολογιστή στεγαστικού δανείου."
+
+#: includes/mb/property/misc-metaboxes.php:43
+msgid "Make this property sticky for home and listings pages"
+msgstr "Καρφιτσώστε αυτό το ακίνητο στις σελίδες κατοικιών και καταχωρήσεων"
+
+#: includes/mb/property/misc-metaboxes.php:61
+msgid "Property Label Text"
+msgstr "Κείμενο ετικέτας ακινήτου"
+
+#: includes/mb/property/misc-metaboxes.php:63
+msgid ""
+"You can add a property label to display on property thumbnails. Example: Hot "
+"Deal"
+msgstr ""
+"Μπορείτε να προσθέσετε μια ετικέτα ακινήτου που θα εμφανίζεται στις "
+"μικρογραφίες ακινήτου. Παράδειγμα: Προσφορά"
+
+#: includes/mb/property/misc-metaboxes.php:69
+msgid "Label Background Color"
+msgstr "Χρώμα φόντου ετικέτας"
+
+#: includes/mb/property/misc-metaboxes.php:71
+msgid ""
+"Set a label background color. Otherwise label text will be displayed with "
+"transparent background."
+msgstr ""
+"Ορισμός χρώματος φόντου ετικέτας. Διαφορετικά, το κείμενο της ετικέτας θα "
+"εμφανίζεται με διαφανές φόντο."
+
+#: includes/mb/property/misc-metaboxes.php:110
+msgid "Attachments"
+msgstr "Συνημμένα"
+
+#: includes/mb/property/misc-metaboxes.php:111
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+"Μπορείτε να επισυνάψετε αρχεία PDF, εικόνες χάρτη Ή άλλα έγγραφα για να "
+"παρέχετε περισσότερες λεπτομέρειες σχετικά με το ακίνητο."
+
+#: includes/mb/property/misc-metaboxes.php:125
+msgid "Property Owner Name"
+msgstr "Όνομα ιδιοκτήτη ακινήτου"
+
+#: includes/mb/property/misc-metaboxes.php:132
+msgid "Owner Contact"
+msgstr "Επικοινωνία ιδιοκτήτη"
+
+#: includes/mb/property/misc-metaboxes.php:140
+msgid "Owner Address"
+msgstr "Διεύθυνση ιδιοκτήτη"
+
+#: includes/mb/property/misc-metaboxes.php:147
+msgid "Private Note"
+msgstr "Ιδιωτικό σημείωμα"
+
+#: includes/mb/property/misc-metaboxes.php:148
+msgid ""
+"In this textarea, You can write your private note about this property. This "
+"field will not be displayed anywhere else."
+msgstr ""
+"Σε αυτή τη πεδίο κειμένου, μπορείτε να γράψετε το προσωπικό σας σημείωμα για "
+"αυτό το ακίνητο. Αυτό το πεδίο δεν θα εμφανιστεί πουθενά αλλού."
+
+#: includes/mb/property/misc-metaboxes.php:156
+msgid "Message to Reviewer"
+msgstr "Μήνυμα προς τον αναθεωρητή"
+
+#: includes/mb/property/misc-metaboxes.php:173
+msgid "Override website level template settings for this property"
+msgstr ""
+"Παράκαμψη των ρυθμίσεων σε επίπεδο προτύπου ιστοτόπου για αυτό το ακίνητο"
+
+#: includes/mb/property/video-metaboxes.php:12
+msgid "Property Video"
+msgstr "Βίντεο ακινήτου"
+
+#: includes/mb/property/video-metaboxes.php:34
+msgid "Add Multiple Videos"
+msgstr "Προσθήκη πολλαπλών βίντεο"
+
+#: includes/mb/property/video-metaboxes.php:40
+msgid ""
+"Provide an image of minimum width 818px and minimum height 417px. Bigger "
+"size images will be cropped automatically. Property featured image will be "
+"shown if no image is selected."
+msgstr ""
+"Εισάγετε μια εικόνα ελάχιστου πλάτους 818px και ελάχιστου ύψους 417px. Οι "
+"εικόνες μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Αν δεν έχει επιλεγεί "
+"καμία εικόνα, θα εμφανίζεται η χαρακτηριστική εικόνα του ακινήτου."
+
+#: includes/mb/property/video-metaboxes.php:45
+msgid "Image"
+msgstr "Εικόνα"
+
+#: includes/mb/property/video-metaboxes.php:55
+msgid "Title of video"
+msgstr "Τίτλος του βίντεο"
+
+#: includes/mb/property/video-metaboxes.php:60
+msgid "URL"
+msgstr "URL"
+
+#: includes/mb/property/video-metaboxes.php:62
+msgid ""
+"Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported"
+msgstr ""
+"Εισάγετε URL του βίντεο εικονικής περιήγησης. Υποστηρίζονται τα αρχεία "
+"YouTube, Vimeo, αρχείο SWF και αρχείο MOV"
+
+#: includes/mb/property/video-metaboxes.php:77
+msgid "360 Virtual Tour"
+msgstr "Εικονική περιήγηση 360"
+
+#: includes/mb/property/video-metaboxes.php:79
+msgid ""
+"Provide iframe embed code or <a href=\"https://wordpress."
+"org/plugins/ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">"
+"iPanorama</a> shortcode for the 360 virtual tour. For more details please "
+"consult <a href=\"https://realhomes.io/documentation/add-property/#add-video-"
+"tour-and-virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
+msgstr ""
+"Εισάγετε τον κώδικα ενσωμάτωσης iframe ή το shortcode <a href=\"https:"
+"//wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/\" "
+"target=\"_blank\">iPanorama</a> για την εικονική περιήγηση 360. Για "
+"περισσότερες λεπτομέρειες, συμβουλευτείτε το <a href=\"https://realhomes."
+"io/documentation/add-property/#add-video-tour-and-virtual-tour\" "
+"target=\"_blank\">Προσθήκη ακινήτου</a> στην τεκμηρίωση."
+
+#: includes/mb/property/video-metaboxes.php:97
+#, php-format
+msgid "Virtual Tour Video URL %s * %s"
+msgstr "Βίντεο URL εικονική περιήγηση %s * %s"
+
+#: includes/mb/property/video-metaboxes.php:98
+#, php-format
+msgid ""
+"Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
+"supported. %1$s %2$s *This field is deprecated in favour of %4$s Add "
+"Multiple Videos %5$s field above , So stop using it %3$s"
+msgstr ""
+"Εισάγετε URL του βίντεο εικονικής περιήγησης. Υποστηρίζονται τα αρχεία "
+"YouTube, Vimeo, SWF και MOV. %1$s %2$s *Αυτό το πεδίο έχει καταργηθεί υπέρ "
+"του πεδίου %4$s Προσθήκη πολλαπλών βίντεο %5$s παραπάνω , οπότε σταματήστε "
+"να το χρησιμοποιείτε %3$s"
+
+#: includes/mb/property/video-metaboxes.php:104
+#, php-format
+msgid "Virtual Tour Video Image %s * %s"
+msgstr "Εικόνα βίντεο εικονικής περιήγησης  %s * %s"
+
+#: includes/mb/property/video-metaboxes.php:105
+#, php-format
+msgid ""
+"Provide an image of minimum width 818px and minimum height 417px. Bigger "
+"size images will be cropped automatically. Property featured image will be "
+"shown if no image is selected.\n"
+"\t\t\t\t\t\t\t\t%1$s %2$s *This field is deprecated in favour of %4$s Add "
+"Multiple Videos %5$s field above , So stop using it %3$s"
+msgstr ""
+"Εισάγετε μια εικόνα ελάχιστου πλάτους 818px και ελάχιστου ύψους 417px. Οι "
+"εικόνες μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Αν δεν έχει επιλεγεί "
+"καμία εικόνα, θα εμφανίζεται η χαρακτηριστική εικόνα του ακινήτου.\n"
+"\t\t\t\t\t\t\t\t%1$s %2$s *Αυτό το πεδίο έχει καταργηθεί υπέρ του πεδίου "
+"%4$s Προσθήκη πολλαπλών βίντεο %5$s παραπάνω , οπότε σταματήστε να το "
+"χρησιμοποιείτε %3$s"
+
+#: includes/mb/templates-meta-boxes-config.php:17
+msgid "Properties Filter Settings"
+msgstr "Ρύθμιση φίλτρου ακινήτων"
+
+#: includes/mb/templates-meta-boxes-config.php:33
+#: includes/mb/templates-meta-boxes-config.php:184
+msgid "Number of Properties Per Page"
+msgstr "Αριθμός ακινήτων ανά σελίδα"
+
+#: includes/mb/templates-meta-boxes-config.php:42
+msgid "Order Properties By"
+msgstr "Ταξινόμηση ακινήτων κατά"
+
+#: includes/mb/templates-meta-boxes-config.php:45
+msgid "Global Default"
+msgstr "Προεπιλογή για παντού"
+
+#: includes/mb/templates-meta-boxes-config.php:46
+msgid "Date New to Old"
+msgstr "Ημερομηνία - νέο σε παλιό"
+
+#: includes/mb/templates-meta-boxes-config.php:47
+msgid "Date Old to New"
+msgstr "Ημερομηνία - παλιό σε νέο"
+
+#: includes/mb/templates-meta-boxes-config.php:48
+msgid "Price Low to High"
+msgstr "Τιμή, χαμηλή προς υψηλή"
+
+#: includes/mb/templates-meta-boxes-config.php:49
+msgid "Price High to Low"
+msgstr "Τιμή, υψηλή προς Χαμηλή"
+
+#: includes/mb/templates-meta-boxes-config.php:57
+#: includes/mb/templates-meta-boxes-config.php:193
+#: includes/shortcodes/vc-map.php:144
+msgid "Locations"
+msgstr "Τοποθεσίες"
+
+#: includes/mb/templates-meta-boxes-config.php:66
+#: includes/mb/templates-meta-boxes-config.php:202
+#: includes/shortcodes/vc-map.php:151
+msgid "Statuses"
+msgstr "Καταστάσεις"
+
+#: includes/mb/templates-meta-boxes-config.php:75
+#: includes/mb/templates-meta-boxes-config.php:211
+#: includes/shortcodes/vc-map.php:158
+msgid "Types"
+msgstr "Τύποι"
+
+#: includes/mb/templates-meta-boxes-config.php:84
+#: includes/mb/templates-meta-boxes-config.php:220
+#: includes/shortcodes/vc-map.php:285
+msgid "Features"
+msgstr "Χαρακτηριστικά"
+
+#: includes/mb/templates-meta-boxes-config.php:93
+msgid "Minimum Beds"
+msgstr "Ελάχιστα κρεβάτια"
+
+#: includes/mb/templates-meta-boxes-config.php:102
+msgid "Minimum Baths"
+msgstr "Ελάχιστα λουτρά"
+
+#: includes/mb/templates-meta-boxes-config.php:111
+#: includes/shortcodes/vc-map.php:243
+msgid "Minimum Price"
+msgstr "Ελάχιστη τιμή"
+
+#: includes/mb/templates-meta-boxes-config.php:120
+#: includes/shortcodes/vc-map.php:251
+msgid "Maximum Price"
+msgstr "Μέγιστη τιμή"
+
+#: includes/mb/templates-meta-boxes-config.php:128
+msgid "Properties by Agents"
+msgstr "Ακίνητα από πράκτορες"
+
+#: includes/mb/templates-meta-boxes-config.php:138
+#: includes/shortcodes/vc-map.php:275
+msgid "Display Only Featured Properties"
+msgstr "Εμφάνιση μόνο προτεινόμενων ακινήτων"
+
+#: includes/mb/templates-meta-boxes-config.php:170
+msgid "Properties Gallery Filter Settings"
+msgstr "Ρύθμιση φίλτρου γκαλερί ακινήτων"
+
+#: includes/settings/captcha.php:22
+msgid "For spam protection on agent and contact forms!"
+msgstr "Για προστασία από spam στις φόρμες πρακτόρων και επικοινωνίας!"
+
+#: includes/settings/captcha.php:28 includes/settings/captcha.php:32
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: includes/settings/captcha.php:35 includes/settings/property-analytics.php:38
+#: includes/settings/property.php:46
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: includes/settings/captcha.php:40 includes/settings/property-analytics.php:43
+#: includes/settings/property.php:51
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: includes/settings/captcha.php:46 includes/settings/captcha.php:50
+msgid "Google reCAPTCHA Type"
+msgstr "Τύπος Google reCAPTCHA"
+
+#: includes/settings/captcha.php:53
+msgid "V2"
+msgstr "V2"
+
+#: includes/settings/captcha.php:58
+msgid "V3"
+msgstr "V3"
+
+#: includes/settings/captcha.php:61
+msgid "Get new keys for V3 as V2 keys will not work!"
+msgstr ""
+"Αποκτήστε νέα κλειδιά για τη V3, καθώς τα κλειδιά για τη V2 δεν θα "
+"λειτουργούν!"
+
+#: includes/settings/captcha.php:65
+msgid "Site Key"
+msgstr "Κλειδί ιστοσελίδας"
+
+#: includes/settings/captcha.php:68
+#, php-format
+msgid "You can get new keys for your website by %s signing in here %s"
+msgstr ""
+"Μπορείτε να λάβετε νέα κλειδιά για τον ιστότοπό σας με %s σύνδεση εδώ %s"
+
+#: includes/settings/captcha.php:72
+msgid "Secret Key"
+msgstr "Μυστικό κλειδί"
+
+#: includes/settings/gdpr.php:27 includes/settings/gdpr.php:30
+msgid "Add GDPR agreement checkbox in forms across website?"
+msgstr ""
+"Προσθήκη κουτιού επιλογής συμφωνίας GDPR στις φόρμες σε ολόκληρο τον "
+"ιστότοπο;"
+
+#: includes/settings/gdpr.php:44
+msgid "GDPR agreement checkbox label"
+msgstr "Ετικέτα κουτιού επιλογής συμφωνίας GDPR"
+
+#: includes/settings/gdpr.php:48
+msgid "GDPR agreement checkbox text"
+msgstr "Κείμενο κουτιού επιλογής συμφωνίας GDPR"
+
+#: includes/settings/gdpr.php:62
+msgid ""
+"You can use <a>,<br>,<em> and <strong> tags in your GDPR agreement text."
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε τα HTML Tags <a>,<br>,<em> και <strong> στο "
+"κείμενο της συμφωνίας GDPR."
+
+#: includes/settings/gdpr.php:66
+msgid "GDPR agreement checkbox validation message"
+msgstr "Μήνυμα επικύρωσης κουτιού επιλογής συμφωνίας GDPR"
+
+#: includes/settings/gdpr.php:69 includes/settings/gdpr.php:72
+msgid "Add GDPR detail in resulting email?"
+msgstr "Προσθήκη λεπτομερειών GDPR στο email που παράγεται;"
+
+#: includes/settings/map.php:10
+msgid "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
+msgstr "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
+
+#: includes/settings/map.php:11
+msgid "25.7308309,-80.44414899999998"
+msgstr "25.7308309,-80.44414899999998"
+
+#: includes/settings/map.php:12
+msgid "27.664827,-81.515755"
+msgstr "27.664827,-81.515755"
+
+#: includes/settings/map.php:25
+msgid "Default Map"
+msgstr "Προεπιλεγμένος χάρτης"
+
+#: includes/settings/map.php:27
+#, php-format
+msgid ""
+"By default, %sOpen Street Map%s will be displayed if Google Maps API key is "
+"empty."
+msgstr ""
+"Από προεπιλογή, το %sOpen Street Map%s θα εμφανίζεται, εάν δεν έχει εισαχθεί "
+"το κλειδί API των Χαρτών Google."
+
+#: includes/settings/map.php:34
+msgid "Google Maps API Key"
+msgstr "Κλειδί API Google Maps"
+
+#: includes/settings/map.php:38
+msgid "How to get Google Maps API Key?"
+msgstr "Πώς να αποκτήσετε το κλειδί API των Χαρτών Google;"
+
+#: includes/settings/map.php:42 includes/settings/map.php:46
+msgid "Localize Google Maps"
+msgstr "Τοπική προσαρμογή χαρτών Google"
+
+#: includes/settings/map.php:61
+msgid "Google Maps Styles JSON (optional)"
+msgstr "Google Maps Styles JSON (προαιρετικό)"
+
+#: includes/settings/map.php:65
+#, php-format
+msgid ""
+"You can create Google Maps styles JSON using %s Google Styling Wizard %s or "
+"%s Snazzy Maps %s."
+msgstr ""
+"Μπορείτε να δημιουργήσετε JSON με στυλ του Google Maps χρησιμοποιώντας το %s "
+"Google Styling Wizard %s ή το %s Snazzy Maps %s."
+
+#: includes/settings/map.php:70
+msgid "Default Address for New Property"
+msgstr "Προεπιλεγμένη διεύθυνση για νέο ακίνητο"
+
+#: includes/settings/map.php:78
+msgid "Default Map Location for New Property (Latitude,Longitude)"
+msgstr ""
+"Προεπιλεγμένη θέση χάρτη για νέο ακίνητο (γεωγραφικό πλάτος, γεωγραφικό "
+"μήκος)"
+
+#: includes/settings/map.php:82 includes/settings/map.php:91
+#, php-format
+msgid ""
+"You can use %s OR %s to get Latitude and longitude of your desired location."
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε %s Ή %s για να λάβετε το γεωγραφικό πλάτος και "
+"μήκος της επιθυμητής θέσης."
+
+#: includes/settings/map.php:87
+msgid "Default Properties Map Location (Latitude,Longitude)"
+msgstr ""
+"Προεπιλεγμένη τοποθεσία χάρτη για ακίνητα (γεωγραφικό πλάτος, γεωγραφικό "
+"μήκος)"
+
+#: includes/settings/price.php:33
+msgid "Currency Sign"
+msgstr "Σύμβολο νομίσματος"
+
+#: includes/settings/price.php:38
+msgid "Provide currency sign. For Example: $"
+msgstr "Εισαγωγή σήματος νομίσματος. Για παράδειγμα: €"
+
+#: includes/settings/price.php:42 includes/settings/price.php:46
+msgid "Position of Currency Sign"
+msgstr "Θέση του συμβόλου νομίσματος"
+
+#: includes/settings/price.php:51
+msgid "Before the numbers"
+msgstr "Πριν από τους αριθμούς"
+
+#: includes/settings/price.php:57
+msgid "After the numbers"
+msgstr "Μετά τους αριθμούς"
+
+#: includes/settings/price.php:64
+msgid "Number of Decimals Points"
+msgstr "Αριθμός δεκαδικών ψηφίων"
+
+#: includes/settings/price.php:68
+msgid "0"
+msgstr "0"
+
+#: includes/settings/price.php:69
+msgid "1"
+msgstr "1"
+
+#: includes/settings/price.php:70
+msgid "2"
+msgstr "2"
+
+#: includes/settings/price.php:71
+msgid "3"
+msgstr "3"
+
+#: includes/settings/price.php:72
+msgid "4"
+msgstr "4"
+
+#: includes/settings/price.php:73
+msgid "5"
+msgstr "5"
+
+#: includes/settings/price.php:74
+msgid "6"
+msgstr "6"
+
+#: includes/settings/price.php:75
+msgid "7"
+msgstr "7"
+
+#: includes/settings/price.php:76
+msgid "8"
+msgstr "8"
+
+#: includes/settings/price.php:77
+msgid "9"
+msgstr "9"
+
+#: includes/settings/price.php:78
+msgid "10"
+msgstr "10"
+
+#: includes/settings/price.php:84
+msgid "Decimal Point Separator"
+msgstr "Διαχωριστικό δεκαδικών ψηφίων"
+
+#: includes/settings/price.php:91
+msgid "Thousands Separator"
+msgstr "Διαχωριστής χιλιάδων"
+
+#: includes/settings/price.php:98
+msgid "Empty Price Text"
+msgstr "Κείμενο για κενή τιμή"
+
+#: includes/settings/price.php:103
+msgid "Text to display when no price is provided."
+msgstr "Κείμενο που θα εμφανίζεται όταν δεν παρέχεται τιμή."
+
+#: includes/settings/price.php:288
+msgid "Price Preview Number Format Language"
+msgstr "Γλώσσα μορφής αριθμού προεπισκόπησης τιμής"
+
+#: includes/settings/price.php:292
+msgid ""
+"Change the property metabox price fields number format preview as per "
+"selected language."
+msgstr ""
+"Αλλαγή, στην προεπισκόπηση, της μορφής των πεδίων τιμής του πλαισίου μετα-"
+"πληροφοριών του ακινήτου, σύμφωνα με την επιλεγμένη γλώσσα."
+
+#: includes/settings/price.php:302
+msgid ""
+"Note: If you have enabled RealHomes Currency Switcher then default format of "
+"selected base currency will override above settings."
+msgstr ""
+"Σημείωση: Εάν έχετε ενεργοποιήσει το RealHomes Currency Switcher (εναλλαγή "
+"νομίσματος), τότε η προεπιλεγμένη μορφή του επιλεγμένου κύριου νομίσματος θα "
+"υπερισχύσει των παραπάνω ρυθμίσεων."
+
+#: includes/settings/property-analytics.php:30
+msgid "Collect Property Analytics Data"
+msgstr "Συλλογή αναλυτικών δεδομένων ακινήτου"
+
+#: includes/settings/property-analytics.php:34
+msgid ""
+"Enabling this option will allow the system to collect each property view "
+"from its datail page."
+msgstr ""
+"Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει στο σύστημα να καταγράφει "
+"κάθε προβολή ακινήτου από τη σελίδα πληροφοριών του."
+
+#: includes/settings/property-analytics.php:49
+msgid "Chart Type"
+msgstr "Τύπος γραφήματος"
+
+#: includes/settings/property-analytics.php:54
+msgid "Line"
+msgstr "Γραμμή"
+
+#: includes/settings/property-analytics.php:59
+msgid "Bar"
+msgstr "Μπάρα"
+
+#: includes/settings/property-analytics.php:65
+msgid "Display Property Views Of Last"
+msgstr "Εμφάνιση προβολών ακινήτου των τελευταίων"
+
+#: includes/settings/property.php:41
+msgid "Enable Auto-Generated Property ID"
+msgstr "Ενεργοποίηση του αυτόματα παραγόμενου ID ακινήτου"
+
+#: includes/settings/property.php:58
+msgid "Auto-Generated Property ID Pattern"
+msgstr "Μοτίβο αυτόματα παραγόμενου ID ακινήτου"
+
+#: includes/settings/property.php:63
+msgid "Important: "
+msgstr "Σημαντικό:"
+
+#: includes/settings/property.php:63
+msgid ""
+"Please use {ID} in your pattern as it will be replaced by the Property ID."
+msgstr ""
+"Χρησιμοποιήστε το {ID} στο μοτίβο σας, καθώς θα αντικατασταθεί από το "
+"αναγνωριστικό του ακινήτου."
+
+#: includes/settings/property.php:73
+msgid "Energy Perofrmance Certificate Classes"
+msgstr "Τάξεις Πιστοποιητικού Ενεργειακής Απόδοσης"
+
+#: includes/settings/property.php:77
+msgid "Class Name"
+msgstr "Όνομα κλάσης"
+
+#: includes/settings/property.php:78
+msgid "Class Color"
+msgstr "Χρώμα κλάσης"
+
+#. Author of the plugin/theme
+#: includes/settings/settings.php:14
+msgid "Inspiry Themes"
+msgstr "Inspiry Themes"
+
+#: includes/settings/settings.php:20
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Δεν έχετε επαρκή δικαιώματα πρόσβασης σε αυτή τη σελίδα."
+
+#: includes/settings/settings.php:38
+#, php-format
+msgid "Version  %s"
+msgstr "Έκδοση %s"
+
+#: includes/settings/slug.php:10
+msgid "property-location"
+msgstr "property-location"
+
+#: includes/settings/slug.php:27
+msgid "Important Note for URL Slugs"
+msgstr "Σημαντική σημείωση για τα URL Slugs"
+
+#: includes/settings/slug.php:29
+msgid ""
+"Make sure to re-save permalinks settings after every change in URL slugs to "
+"avoid 404 errors. You can do that from [ Settings > Permalinks ]"
+msgstr ""
+"Φροντίστε να αποθηκεύετε ξανά τις ρυθμίσεις μονίμων συνδέσμων μετά από κάθε "
+"αλλαγή στα URL slugs, ώστε να αποφύγετε σφάλματα 404. Μπορείτε να το κάνετε "
+"αυτό στο [ Ρυθμίσεις > Μόνιμοι σύνδεσμοι ]"
+
+#: includes/settings/slug.php:35
+msgid "Property Slug"
+msgstr "Slug ακινήτου"
+
+#: includes/settings/slug.php:39
+msgid "Agent Slug"
+msgstr "URL Slug πράκτορα"
+
+#: includes/settings/slug.php:43
+msgid "Agency Slug"
+msgstr "URL Slug πρακτορείου"
+
+#: includes/settings/slug.php:47
+msgid "Property Location Slug"
+msgstr "Slug τοποθεσίας ακινήτου"
+
+#: includes/settings/slug.php:51
+msgid "Property Status Slug"
+msgstr "Slug κατάστασης ακινήτου"
+
+#: includes/settings/slug.php:55
+msgid "Property Type Slug"
+msgstr "Slug τύπου ακινήτου"
+
+#: includes/settings/slug.php:59
+msgid "Property Feature Slug"
+msgstr "Slug χαρακτηριστικού ακινήτου"
+
+#: includes/settings/social.php:64 includes/settings/social.php:68
+msgid "Show or Hide Social Icons"
+msgstr "Εμφάνιση ή απόκρυψη εικονιδίων κοινωνικής δικτύωσης"
+
+#: includes/settings/social.php:73
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: includes/settings/social.php:79
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: includes/settings/social.php:100
+msgid "Linkedin URL"
+msgstr "URL Linkedin"
+
+#: includes/settings/social.php:110
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: includes/settings/social.php:118
+msgid "RSS URL"
+msgstr "URL RSS"
+
+#: includes/settings/social.php:122
+msgid "Skype Username"
+msgstr "Όνομα χρήστη Skype"
+
+#: includes/settings/social.php:126
+msgid "LINE ID"
+msgstr "Αναγνωριστικό LINE"
+
+#: includes/settings/social.php:149
+msgid "Example: fa-flicker"
+msgstr "Παράδειγμα: fa-flicker"
+
+#: includes/settings/social.php:152
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: includes/settings/social.php:153
+msgid "Ok"
+msgstr "OK"
+
+#: includes/settings/social.php:168
+msgid "+ Add New Social Network"
+msgstr "+ Προσθήκη νέου κοινωνικού δικτύου"
+
+#: includes/settings/social.php:181
+msgid "Social Login Settings"
+msgstr "Ρυθμίσεις σύνδεσης μέσω κοινωνικών δικτύων"
+
+#: includes/settings/social.php:186
+msgid "Facebook Login"
+msgstr "Σύνδεση με Facebook"
+
+#: includes/settings/social.php:193
+msgid "Enable Facebook"
+msgstr "Ενεργοποίηση Facebook"
+
+#: includes/settings/social.php:200
+msgid "Enable login/register with facebook on login forms."
+msgstr "Ενεργοποίηση σύνδεσης/εγγραφής με το facebook στις φόρμες σύνδεσης."
+
+#: includes/settings/social.php:207
+msgid "App ID*"
+msgstr "ID εφαρμογής*"
+
+#: includes/settings/social.php:214
+#, php-format
+msgid "Learn how to get Facebook APP ID and Secret by %s."
+msgstr ""
+"Μάθετε πώς να λάβετε το αναγνωριστικό ID και το μυστικό κλειδί της εφαρμογής "
+"Facebook (APP) από το %s."
+
+#: includes/settings/social.php:221
+msgid "App Secret*"
+msgstr "Μυστικό κλειδί εφαρμογής*"
+
+#: includes/settings/social.php:233
+msgid "Google Login"
+msgstr "Σύνδεση με Google"
+
+#: includes/settings/social.php:240
+msgid "Enable Google"
+msgstr "Ενεργοποίηση Google"
+
+#: includes/settings/social.php:247
+msgid "Enable login/register with google on login forms."
+msgstr "Ενεργοποίηση σύνδεσης/εγγραφής με το google στις φόρμες σύνδεσης."
+
+#: includes/settings/social.php:254
+msgid "API Key*"
+msgstr "Κλειδί API*"
+
+#: includes/settings/social.php:261
+#, php-format
+msgid "Learn how to get Google API Key, Client ID and Client Secret by %s."
+msgstr ""
+"Μάθετε πώς να λαμβάνετε το κλειδί API της Google, το αναγνωριστικό πελάτη "
+"και το μυστικό κλειδί πελάτη με %s."
+
+#: includes/settings/social.php:268
+msgid "Client ID*"
+msgstr "ID πελάτη*"
+
+#: includes/settings/social.php:281
+msgid "Client Secret*"
+msgstr "Μυστικό κλειδί πελάτη*"
+
+#: includes/settings/social.php:293
+msgid "Twitter Login"
+msgstr "Σύνδεση με Twitter"
+
+#: includes/settings/social.php:300
+msgid "Enable Twitter"
+msgstr "Ενεργοποίηση Twitter"
+
+#: includes/settings/social.php:307
+msgid "Enable login/register with twitter on login forms."
+msgstr "Ενεργοποίηση σύνδεσης/εγγραφής με twitter στις φόρμες σύνδεσης."
+
+#: includes/settings/social.php:314
+msgid "Consumer Key*"
+msgstr "Κλειδί API καταναλωτή*"
+
+#: includes/settings/social.php:321
+#, php-format
+msgid "Learn how to get Twitter Consumer Key and Consumer Secret by %s."
+msgstr ""
+"Μάθετε πώς να λαμβάνετε το κλειδί Καταναλωτή και το μυστικό κλειδί "
+"Καταναλωτή του Twitter από το %s."
+
+#: includes/settings/social.php:328
+msgid "Consumer Secret*"
+msgstr "Mυστικό κλειδί API καταναλωτή*"
+
+#: includes/settings/webhooks.php:21
+msgid ""
+"You can use the Webhooks settings below to feed forms data to services like "
+"Zapier. For example you can use Zapier Webhooks to create leads in Zoho CRM."
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε τις παρακάτω ρυθμίσεις Webhooks για να "
+"τροφοδοτήσετε δεδομένα φορμών σε υπηρεσίες όπως το Zapier. Για παράδειγμα, "
+"μπορείτε να χρησιμοποιήσετε τα Zapier Webhooks για να δημιουργήσετε leads "
+"στο Zoho CRM."
+
+#: includes/settings/webhooks.php:27
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: includes/settings/webhooks.php:35
+msgid "Integrate Contact Form"
+msgstr "Ενσωμάτωση φόρμας επικοινωνίας"
+
+#: includes/settings/webhooks.php:44
+msgid "Integrate Agent Form"
+msgstr "Ενσωμάτωση φόρμας πράκτορα"
+
+#: includes/settings/webhooks.php:53
+msgid "Integrate Agency Form"
+msgstr "Ενσωμάτωση φόρμας πρακτορείου"
+
+#: includes/shortcodes/elements.php:329
+msgid "Result:"
+msgstr "Αποτέλεσμα:"
+
+#: includes/shortcodes/elements.php:329
+msgid "No Properties Found!"
+msgstr "Δεν βρέθηκαν ακίνητα!"
+
+#: includes/shortcodes/elements.php:815
+msgid "First"
+msgstr "Πρώτη"
+
+#: includes/shortcodes/elements.php:819
+msgid "Prev"
+msgstr "Προηγούμενο"
+
+#: includes/shortcodes/elements.php:834
+msgid "Next"
+msgstr "Επόμενη"
+
+#: includes/shortcodes/elements.php:838
+msgid "Last"
+msgstr "Τελευταία"
+
+#: includes/shortcodes/vc-map.php:78
+msgid "List of Properties"
+msgstr "Κατάλογος ακινήτων"
+
+#: includes/shortcodes/vc-map.php:80
+msgid "RealHomes Theme"
+msgstr "Θέμα RealHomes"
+
+#: includes/shortcodes/vc-map.php:84
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: includes/shortcodes/vc-map.php:94
+#: includes/widgets/agent-featured-properties-widget.php:247
+#: includes/widgets/agent-properties-widget.php:264
+#: includes/widgets/featured-properties-widget.php:247
+#: includes/widgets/properties-widget.php:281
+msgid "Number of Properties"
+msgstr "Αριθμός ακινήτων"
+
+#: includes/shortcodes/vc-map.php:119
+msgid "Order By"
+msgstr "Ταξινόμηση κατά"
+
+#: includes/shortcodes/vc-map.php:128
+msgid "Order"
+msgstr "Ταξινόμηση"
+
+#: includes/shortcodes/vc-map.php:131
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+#: includes/shortcodes/vc-map.php:132
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: includes/shortcodes/vc-map.php:165
+msgid "Minimum Bedrooms"
+msgstr "Ελάχιστα υπνοδωμάτια"
+
+#: includes/shortcodes/vc-map.php:183
+msgid "Maximum Bedrooms"
+msgstr "Μέγιστος αριθμός υπνοδωματίων"
+
+#: includes/shortcodes/vc-map.php:204
+msgid "Minimum Bathrooms"
+msgstr "Ελάχιστα μπάνια"
+
+#: includes/shortcodes/vc-map.php:222
+msgid "Maximum Bathrooms"
+msgstr "Μέγιστος αριθμός μπάνιων"
+
+#: includes/shortcodes/vc-map.php:244 includes/shortcodes/vc-map.php:252
+#: includes/shortcodes/vc-map.php:260 includes/shortcodes/vc-map.php:268
+msgid "Only provide digits"
+msgstr "Εισάγετε μόνο ψηφία"
+
+#: includes/shortcodes/vc-map.php:259
+msgid "Minimum Area"
+msgstr "Ελάχιστη επιφάνεια"
+
+#: includes/shortcodes/vc-map.php:267
+msgid "Maximum Area"
+msgstr "Μέγιστη επιφάνεια"
+
+#: includes/social-login/ajax-handler.php:25
+msgid "Facebook App keys are not set yet."
+msgstr "Τα κλειδιά της εφαρμογής Facebook δεν έχουν οριστεί ακόμα."
+
+#: includes/social-login/ajax-handler.php:51
+msgid "Redirecting you to the Facebook for the authentication..."
+msgstr "Ανακατευθύνεστε στο Facebook για τον έλεγχο ταυτότητας..."
+
+#: includes/social-login/ajax-handler.php:58
+msgid "Facebook library is not loaded."
+msgstr "Η βιβλιοθήκη του Facebook δεν έχει φορτωθεί."
+
+#: includes/social-login/ajax-handler.php:85
+msgid "Google related keys are not set yet."
+msgstr "Τα κλειδιά που σχετίζονται με το Google δεν έχουν οριστεί ακόμα."
+
+#: includes/social-login/ajax-handler.php:100
+#: includes/social-login/callbacks.php:128
+msgid "Login to"
+msgstr "Σύνδεση για να"
+
+#: includes/social-login/ajax-handler.php:113
+msgid "Redirecting you to the Google for the authentication..."
+msgstr "Ανακατευθύνεστε στο Google για τον έλεγχο ταυτότητας..."
+
+#: includes/social-login/ajax-handler.php:121
+msgid "Google library is not loaded."
+msgstr "Η βιβλιοθήκη της Google δεν έχει φορτωθεί."
+
+#: includes/social-login/ajax-handler.php:148
+msgid "Twitter App keys are not set yet."
+msgstr "Τα κλειδιά της εφαρμογής Twitter δεν έχουν οριστεί ακόμα."
+
+#: includes/social-login/ajax-handler.php:170
+msgid "Redirecting you to the Twitter for the authentication..."
+msgstr "Ανακατευθύνεστε στο Twitter για τον έλεγχο ταυτότητας..."
+
+#: includes/social-login/ajax-handler.php:188
+msgid "Twitter library is not loaded."
+msgstr "Η βιβλιοθήκη Twitter δεν έχει φορτωθεί."
+
+#: includes/social-login/callbacks.php:49
+#: includes/social-login/callbacks.php:86
+msgid "Graph returned an error: "
+msgstr "Το γράφημα επέστρεψε σφάλμα"
+
+#: includes/social-login/callbacks.php:53
+#: includes/social-login/callbacks.php:89
+msgid "Facebook SDK returned an error: "
+msgstr "Το Facebook SDK επέστρεψε ένα σφάλμα"
+
+#: includes/social-login/callbacks.php:60
+msgid "Error: "
+msgstr "Σφάλμα:"
+
+#: includes/social-login/callbacks.php:61
+msgid "Error Code: "
+msgstr "Κωδικός σφάλματος:"
+
+#: includes/social-login/callbacks.php:62
+msgid "Error Reason: "
+msgstr "Αιτία σφάλματος:"
+
+#: includes/social-login/callbacks.php:63
+msgid "Error Description: "
+msgstr "Περιγραφή σφάλματος:"
+
+#: includes/social-login/callbacks.php:66
+msgid "Bad request"
+msgstr "Κακό αίτημα"
+
+#: includes/social-login/helper-functions.php:20
+msgid "Connect with:"
+msgstr "Συνδεθείτε με:"
+
+#: includes/social-login/helper-functions.php:27
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/social-login/helper-functions.php:36
+msgid "Google"
+msgstr "Google"
+
+#: includes/social-login/helper-functions.php:45
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/widgets/advance-search-widget.php:13
+msgid "This widget displays advance search form."
+msgstr "Αυτό το widget εμφανίζει τυ σύνθετη φόρμα αναζήτησης."
+
+#: includes/widgets/advance-search-widget.php:15
+msgid "RealHomes - Advance Search Widget"
+msgstr "RealHomes - Widget σύνθετης αναζήτησης"
+
+#: includes/widgets/advance-search-widget.php:21
+#: includes/widgets/advance-search-widget.php:51
+msgid "Find Your Home"
+msgstr "Βρείτε το σπίτι σας"
+
+#: includes/widgets/advance-search-widget.php:41
+msgid ""
+"Advance search page is not configured yet. Please read this theme "
+"documentation for the Advance Search page & form configuration details."
+msgstr ""
+"Η σελίδα σύνθετης αναζήτησης δεν έχει ρυθμιστεί ακόμα. Παρακαλούμε διαβάστε "
+"την τεκμηρίωση του θέματος για τις λεπτομέρειες διαμόρφωσης της σελίδας και "
+"της φόρμας σύνθετης αναζήτησης."
+
+#: includes/widgets/advance-search-widget.php:57
+#: includes/widgets/agent-featured-properties-widget.php:221
+#: includes/widgets/agent-properties-widget.php:237
+#: includes/widgets/agents-list-widget.php:123
+#: includes/widgets/featured-properties-widget.php:231
+#: includes/widgets/properties-widget.php:265
+#: includes/widgets/property-types-widget.php:82
+msgid "Widget Title"
+msgstr "Τίτλος Widget"
+
+#: includes/widgets/agent-featured-properties-widget.php:19
+msgid "Important: This widget is only for the Agent Sidebar."
+msgstr ""
+"Σημαντικό: Αυτό το widget προορίζεται μόνο για την πλευρική μπάρα του "
+"πράκτορα."
+
+#: includes/widgets/agent-featured-properties-widget.php:22
+msgid "RealHomes - Agent Featured Properties"
+msgstr "RealHomes - Προτεινόμενα ακίνητα πράκτορα"
+
+#: includes/widgets/agent-featured-properties-widget.php:137
+#: includes/widgets/agent-featured-properties-widget.php:201
+#: includes/widgets/agent-featured-properties-widget.php:260
+#: includes/widgets/agent-properties-widget.php:141
+#: includes/widgets/agent-properties-widget.php:213
+#: includes/widgets/agent-properties-widget.php:279
+#: includes/widgets/featured-properties-widget.php:143
+#: includes/widgets/featured-properties-widget.php:211
+#: includes/widgets/featured-properties-widget.php:268
+#: includes/widgets/properties-widget.php:175
+#: includes/widgets/properties-widget.php:247
+#: includes/widgets/properties-widget.php:299
+msgid "Read More"
+msgstr "Διαβάστε περισσότερα"
+
+#: includes/widgets/agent-featured-properties-widget.php:157
+msgid "No featured property found for this agent."
+msgstr "Δεν βρέθηκαν προτεινόμενα ακίνητα για αυτόν τον πράκτορα."
+
+#: includes/widgets/agent-featured-properties-widget.php:186
+msgid "No Featured Property Found For This Agent"
+msgstr "Δεν βρέθηκαν προτεινόμενα ακίνητα για αυτόν τον πράκτορα"
+
+#: includes/widgets/agent-featured-properties-widget.php:206
+#: includes/widgets/featured-properties-widget.php:216
+msgid "Featured Properties"
+msgstr "Προτεινόμενα ακίνητα"
+
+#: includes/widgets/agent-featured-properties-widget.php:228
+#: includes/widgets/agent-properties-widget.php:241
+#: includes/widgets/featured-properties-widget.php:237
+#: includes/widgets/properties-widget.php:271
+msgid "Property Card Design"
+msgstr "Σχεδιασμός κάρτας ακινήτου"
+
+#: includes/widgets/agent-featured-properties-widget.php:231
+#: includes/widgets/agent-properties-widget.php:244
+#: includes/widgets/featured-properties-widget.php:240
+#: includes/widgets/properties-widget.php:274
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: includes/widgets/agent-featured-properties-widget.php:232
+#: includes/widgets/agent-properties-widget.php:245
+#: includes/widgets/featured-properties-widget.php:241
+#: includes/widgets/properties-widget.php:275
+msgid "One"
+msgstr "Ένα"
+
+#: includes/widgets/agent-featured-properties-widget.php:233
+#: includes/widgets/agent-properties-widget.php:246
+#: includes/widgets/featured-properties-widget.php:242
+#: includes/widgets/properties-widget.php:276
+msgid "Two"
+msgstr "Δύο"
+
+#: includes/widgets/agent-featured-properties-widget.php:234
+#: includes/widgets/agent-properties-widget.php:247
+#: includes/widgets/featured-properties-widget.php:243
+#: includes/widgets/properties-widget.php:277
+msgid "Three"
+msgstr "Τρεις"
+
+#: includes/widgets/agent-featured-properties-widget.php:239
+#: includes/widgets/agent-properties-widget.php:257
+#: includes/widgets/featured-properties-widget.php:253
+#: includes/widgets/properties-widget.php:287
+msgid "Sort By:"
+msgstr "Ταξινόμηση κατά:"
+
+#: includes/widgets/agent-featured-properties-widget.php:242
+#: includes/widgets/agent-properties-widget.php:259
+#: includes/widgets/featured-properties-widget.php:256
+#: includes/widgets/properties-widget.php:290
+msgid "Most Recent"
+msgstr "Πιο πρόσφατα"
+
+#: includes/widgets/agent-featured-properties-widget.php:243
+#: includes/widgets/agent-properties-widget.php:260
+#: includes/widgets/featured-properties-widget.php:257
+#: includes/widgets/properties-widget.php:291
+msgid "Random"
+msgstr "Τυχαία"
+
+#: includes/widgets/agent-featured-properties-widget.php:272
+#: includes/widgets/featured-properties-widget.php:280
+msgid "Featured Tag Text"
+msgstr "Κείμενο ετικέτας Προτινόμενο"
+
+#: includes/widgets/agent-properties-widget.php:23
+msgid "Displays random, recent or featured properties based on selected agent."
+msgstr ""
+"Εμφανίζει τυχαία, πρόσφατα ή προτεινόμενα ακίνητα με βάση τον επιλεγμένο "
+"πράκτορα."
+
+#: includes/widgets/agent-properties-widget.php:26
+msgid "RealHomes - Agent Related Properties"
+msgstr "RealHomes - Ακίνητα που σχετίζονται με τον πράκτορα"
+
+#: includes/widgets/agent-properties-widget.php:165
+#: includes/widgets/agent-properties-widget.php:192
+msgid "No Property Found Under Selected Agent!"
+msgstr "Δεν βρέθηκαν ακίνητα από τον επιλεγμένο πράκτορα!"
+
+#: includes/widgets/agent-properties-widget.php:251
+msgid "Select an Agent:"
+msgstr "Επιλέξτε πράκτορα:"
+
+#: includes/widgets/agent-properties-widget.php:269
+msgid "Show only Featured Properties."
+msgstr "Εμφάνιση μόνο προτεινόμενων ακινήτων."
+
+#: includes/widgets/agents-list-widget.php:23
+msgid "This widget displays agents list."
+msgstr "Αυτό το widget εμφανίζει λίστα πρακτόρων."
+
+#: includes/widgets/agents-list-widget.php:26
+msgid "RealHomes - Agents"
+msgstr "RealHomes - Πράκτορες"
+
+#: includes/widgets/agents-list-widget.php:99
+msgid "No Agent Found!"
+msgstr "Δεν βρέθηκαν πράκτορες!"
+
+#: includes/widgets/agents-list-widget.php:129
+msgid "Number of Agents"
+msgstr "Αριθμός πρακτόρων"
+
+#: includes/widgets/contact-form-widget.php:17
+msgid "This widget displays contact form."
+msgstr "Αυτό το widget εμφανίζει τη φόρμα επικοινωνίας."
+
+#: includes/widgets/contact-form-widget.php:20
+msgid "RealHomes - Contact Form"
+msgstr "RealHomes - Φόρμα επικοινωνίας"
+
+#: includes/widgets/contact-form-widget.php:49
+msgid "* Please provide your name"
+msgstr "* Παρακαλούμε εισάγετε το όνομά σας"
+
+#: includes/widgets/contact-form-widget.php:55
+msgid "* Please provide a valid email address"
+msgstr "* Παρακαλούμε εισάγετε μια έγκυρη διεύθυνση email"
+
+#: includes/widgets/contact-form-widget.php:65
+msgid "* Please provide your message"
+msgstr "* Παρακαλούμε εισάγετε το μήνυμά σας"
+
+#: includes/widgets/contact-form-widget.php:134
+msgid "Send Message"
+msgstr "Αποστολή μηνύματος"
+
+#: includes/widgets/contact-form-widget.php:153
+msgid ""
+"Please provide the 'Target Email' address in the widget settings to show the "
+"contact form."
+msgstr ""
+"Παρακαλούμε εισάγετε τη διεύθυνση 'Target Email' στις ρυθμίσεις του widget "
+"για να εμφανιστεί η φόρμα επικοινωνίας."
+
+#: includes/widgets/contact-form-widget.php:165
+msgid "Contact Us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: includes/widgets/contact-form-widget.php:182
+msgid "Widget Title:"
+msgstr "Τίτλος Widget:"
+
+#: includes/widgets/contact-form-widget.php:187
+msgid "Target Email:"
+msgstr "Email παραλήπτη:"
+
+#: includes/widgets/contact-form-widget.php:191
+msgid "Customize Contact Form Labels"
+msgstr "Προσαρμογή ετικετών φόρμας επικοινωνίας"
+
+#: includes/widgets/contact-form-widget.php:193
+msgid "Name Field Label:"
+msgstr "Ετικέτα πεδίου ονόματος:"
+
+#: includes/widgets/contact-form-widget.php:198
+msgid "Email Field Label:"
+msgstr "Ετικέτα πεδίου Email:"
+
+#: includes/widgets/contact-form-widget.php:203
+msgid "Phone Number Field Label:"
+msgstr "Ετικέτα πεδίου αριθμού τηλεφώνου:"
+
+#: includes/widgets/contact-form-widget.php:208
+msgid "Message Field Label:"
+msgstr "Ετικέτα πεδίου μηνύματος:"
+
+#: includes/widgets/contact-form-widget.php:213
+msgid "Submit Button Label:"
+msgstr "Ετικέτα κουμπιού υποβολής:"
+
+#: includes/widgets/featured-properties-widget.php:28
+msgid "Displays Random or Recent Featured Properties."
+msgstr "Εμφανίζει τυχαία ή πρόσφατα χαρακτηρισμένα ως προτεινόμενα ακίνητα."
+
+#: includes/widgets/featured-properties-widget.php:33
+msgid "RealHomes - Featured Properties"
+msgstr "RealHomes - Προτεινόμενα ακίνητα"
+
+#: includes/widgets/featured-properties-widget.php:161
+#: includes/widgets/featured-properties-widget.php:191
+msgid "No Featured Property Found!"
+msgstr "Δεν βρέθηκαν προτεινόμενα ακίνητα!"
+
+#: includes/widgets/grid-cards/card-parts/added.php:4
+msgid "Added: "
+msgstr "Προστέθηκε:"
+
+#: includes/widgets/grid-cards/card-parts/added.php:11
+msgid "Ago "
+msgstr "Πριν"
+
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:25
+#: includes/widgets/grid-cards/grid-card-1.php:164
+msgid "Area"
+msgstr "Επιφάνεια"
+
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:31
+msgid "Garage"
+msgstr "Γκαράζ"
+
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:37
+msgid "Year"
+msgstr "Έτος"
+
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:43
+msgid "Lot Size"
+msgstr "Επιφάνεια οικοπέδου"
+
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:55
+#: includes/widgets/grid-cards/grid-card-1.php:142
+msgid "Guests"
+msgstr "Φιλοξενούμενοι"
+
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:61
+msgid "Min Stay"
+msgstr "Ελάχιστη διαμονή"
+
+#: includes/widgets/grid-cards/card-parts/rvr-owner.php:20
+msgid "Owner"
+msgstr "Ιδιοκτήτης"
+
+#: includes/widgets/mortgage-calculator-widget.php:24
+msgid "Realhomes - Mortgage Calculator"
+msgstr "Realhomes - Υπολογιστής στεγαστικού δανείου"
+
+#: includes/widgets/mortgage-calculator-widget.php:25
+msgid "This widget display Mortgage Calculator."
+msgstr "Αυτό το widget εμφανίζει τον πολογιστή στεγαστικού δανείου."
+
+#: includes/widgets/mortgage-calculator-widget.php:95
+msgid "Term"
+msgstr "Όρος"
+
+#: includes/widgets/mortgage-calculator-widget.php:96
+msgid "Interest"
+msgstr "Τόκος"
+
+#: includes/widgets/mortgage-calculator-widget.php:97
+msgid "Home Price"
+msgstr "Τιμή σπιτιού"
+
+#: includes/widgets/mortgage-calculator-widget.php:98
+msgid "Down Payment"
+msgstr "Προκαταβολή"
+
+#: includes/widgets/mortgage-calculator-widget.php:99
+msgid "Principle and Interest"
+msgstr "Κεφάλαιο και τόκοι"
+
+#: includes/widgets/mortgage-calculator-widget.php:100
+msgid "per month"
+msgstr "το μήνα"
+
+#: includes/widgets/mortgage-calculator-widget.php:150
+#: includes/widgets/mortgage-calculator-widget.php:155
+#: includes/widgets/mortgage-calculator-widget.php:200
+msgid "Years Fixed"
+msgstr "Έτη σταθερό"
+
+#: includes/widgets/mortgage-calculator-widget.php:262
+msgid "Mortgage Calculator"
+msgstr "Υπολογιστής στεγαστικού δανείου"
+
+#: includes/widgets/mortgage-calculator-widget.php:267
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: includes/widgets/properties-widget.php:28
+msgid "Displays Properties based on custom filters."
+msgstr "Εμφανίζει ακίνητα με βάση προσαρμοσμένα φίλτρα."
+
+#: includes/widgets/properties-widget.php:33
+msgid "RealHomes - Properties"
+msgstr "RealHomes - Ακίνητα"
+
+#: includes/widgets/properties-widget.php:198
+#: includes/widgets/properties-widget.php:226
+msgid "No Property Found!"
+msgstr "Δεν βρέθηκαν ακίνητα!"
+
+#: includes/widgets/properties-widget.php:312
+msgid "Property Location:"
+msgstr "Τοποθεσία ακινήτου:"
+
+#: includes/widgets/properties-widget.php:346
+msgid "Property Status:"
+msgstr "Κατάσταση ακινήτου:"
+
+#: includes/widgets/properties-widget.php:378
+msgid "Property Types:"
+msgstr "Τύποι ακινήτων:"
+
+#: includes/widgets/properties-widget.php:410
+msgid "Property Feature:"
+msgstr "Χαρακτηριστικό ακινήτου:"
+
+#: includes/widgets/property-types-widget.php:26
+msgid "This widget displays a list of Property Types."
+msgstr "Αυτό το widget εμφανίζει μια λίστα με τους τύπους ακινήτων."
+
+#: includes/widgets/property-types-widget.php:29
+msgid "RealHomes - Property Types"
+msgstr "RealHomes - Τύποι ακινήτων"
+
+#: includes/widgets/rh-contact-information-widget.php:24
+msgid "Displays general contact information."
+msgstr "Εμφανίζει γενικές πληροφορίες επικοινωνίας."
+
+#: includes/widgets/rh-contact-information-widget.php:27
+msgid "RealHomes - Contact Information"
+msgstr "RealHomes - Πληροφορίες επικοινωνίας"
+
+#: includes/widgets/rh-contact-information-widget.php:116
+msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
+msgstr "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
+
+#: includes/widgets/rh-contact-information-widget.php:117
+msgid "+123-456-789"
+msgstr "+123-456-789"
+
+#: includes/widgets/rh-contact-information-widget.php:118
+msgid "robot@inspirythemes.com"
+msgstr "robot@inspirythemes.com"
+
+#: includes/widgets/rh-contact-information-widget.php:132
+msgid "Contact Address"
+msgstr "Διεύθυνση επικοινωνίας"
+
+#: includes/widgets/rh-contact-information-widget.php:141
+msgid "Use WhatsApp icon for the phone number?"
+msgstr "Χρησιμοποιήστε το εικονίδιο WhatsApp για τον αριθμό τηλεφώνου"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
+msgstr ""
+"http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
+
+#. Description of the plugin/theme
+msgid "Provides real estate functionality for RealHomes theme."
+msgstr "Παρέχει λειτουργικότητα μεσιτικού γραφείου για το θέμα RealHomes."
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
+msgstr "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
