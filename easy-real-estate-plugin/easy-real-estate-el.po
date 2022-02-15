@@ -1,15 +1,17 @@
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2021-09-14 18:00+0500\n"
-"PO-Revision-Date: 2021-10-06 11:20+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-02 21:10+0500\n"
+"PO-Revision-Date: 2022-02-16 00:50+0500\n"
 "Last-Translator: \n"
 "Language-Team: Ελληνικά\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -17,12 +19,10 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: node_modules\n"
-"Report-Msgid-Bugs-To: \n"
-"Language: el\n"
-"X-Loco-Version: 2.5.4; wp-5.8.1"
 
 #: easy-real-estate.php:254 includes/mb/property/basic-metaboxes.php:210
 #: includes/mb/property/video-metaboxes.php:53 includes/settings/social.php:140
@@ -88,19 +88,19 @@ msgstr "Στατιστικά ακινήτου"
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: easy-real-estate.php:421
+#: easy-real-estate.php:422
 msgid "Settings saved successfully!"
 msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία!"
 
-#: easy-real-estate.php:430
+#: easy-real-estate.php:431
 msgid "Cloning is forbidden!"
 msgstr "Η κλωνοποίηση απαγορεύεται!"
 
-#: easy-real-estate.php:437
+#: easy-real-estate.php:438
 msgid "Unserializing is forbidden!"
 msgstr "Δεν επιτρέπεται η απομορφοποίηση!"
 
-#: easy-real-estate.php:484
+#: easy-real-estate.php:485
 #, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
@@ -139,7 +139,7 @@ msgstr "Πρακτορεία"
 #: includes/custom-post-types/agent.php:20
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
-#: includes/widgets/agents-list-widget.php:114
+#: includes/widgets/agents-list-widget.php:142
 msgid "Agents"
 msgstr "Πράκτορες"
 
@@ -286,7 +286,7 @@ msgstr "πρακτορεία"
 
 #: includes/custom-post-types/agency.php:111
 #: includes/custom-post-types/agent.php:97
-#: includes/custom-post-types/property.php:386
+#: includes/custom-post-types/property.php:388
 #: includes/custom-post-types/slide.php:63
 msgid "Thumbnail"
 msgstr "Μικρογραφία"
@@ -313,7 +313,7 @@ msgstr "Δημιουργήθηκε"
 
 #: includes/custom-post-types/agency.php:162
 #: includes/custom-post-types/agent.php:149
-#: includes/custom-post-types/property.php:438
+#: includes/custom-post-types/property.php:458
 msgid "No Thumbnail"
 msgstr "Δεν υπάρχει μικρογραφία"
 
@@ -401,7 +401,7 @@ msgid "Logo"
 msgstr "Λογότυπο"
 
 #: includes/custom-post-types/partners.php:67
-#: includes/custom-post-types/property.php:392
+#: includes/custom-post-types/property.php:413
 msgid "Publish Time"
 msgstr "Χρόνος δημοσίευσης"
 
@@ -451,300 +451,314 @@ msgstr "Γονικό ακίνητο"
 msgid "property"
 msgstr "ακίνητο"
 
-#: includes/custom-post-types/property.php:116
-#: includes/custom-post-types/property.php:130
+#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:131
 msgid "Property Features"
 msgstr "Χαρακτηριστικά ακινήτου"
 
-#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:118
 msgid "Property Feature"
 msgstr "Χαρακτηριστικό ακινήτου"
 
-#: includes/custom-post-types/property.php:118
+#: includes/custom-post-types/property.php:119
 msgid "Search Property Features"
 msgstr "Αναζήτηση χαρακτηριστικών ακινήτων"
 
-#: includes/custom-post-types/property.php:119
+#: includes/custom-post-types/property.php:120
 msgid "Popular Property Features"
 msgstr "Δημοφιλή χαρακτηριστικά ακινήτων"
 
-#: includes/custom-post-types/property.php:120
+#: includes/custom-post-types/property.php:121
 msgid "All Property Features"
 msgstr "Όλα τα χαρακτηριστικά ακινήτων"
 
-#: includes/custom-post-types/property.php:121
+#: includes/custom-post-types/property.php:122
 msgid "Parent Property Feature"
 msgstr "Χαρακτηριστικό γονικού ακινήτου"
 
-#: includes/custom-post-types/property.php:122
+#: includes/custom-post-types/property.php:123
 msgid "Parent Property Feature:"
 msgstr "Χαρακτηριστικό γονικού ακινήτου:"
 
-#: includes/custom-post-types/property.php:123
+#: includes/custom-post-types/property.php:124
 msgid "Edit Property Feature"
 msgstr "Επεξεργασία χαρακτηριστικού ακινήτου"
 
-#: includes/custom-post-types/property.php:124
+#: includes/custom-post-types/property.php:125
 msgid "Update Property Feature"
 msgstr "Ενημέρωση χαρακτηριστικού ακινήτου"
 
-#: includes/custom-post-types/property.php:125
+#: includes/custom-post-types/property.php:126
 msgid "Add New Property Feature"
 msgstr "Προσθήκη νέου χαρακτηριστικού ακινήτου"
 
-#: includes/custom-post-types/property.php:126
+#: includes/custom-post-types/property.php:127
 msgid "New Property Feature Name"
 msgstr "Όνομα νέου χαρακτηριστικού ακινήτου"
 
-#: includes/custom-post-types/property.php:127
+#: includes/custom-post-types/property.php:128
 msgid "Separate Property Features with commas"
 msgstr "Διαχωρίστε χαρακτηριστικά ακινήτου με κόμματα"
 
-#: includes/custom-post-types/property.php:128
+#: includes/custom-post-types/property.php:129
 msgid "Add or remove Property Features"
 msgstr "Προσθήκη ή αφαίρεση χαρακτηριστικών ακινήτου"
 
-#: includes/custom-post-types/property.php:129
+#: includes/custom-post-types/property.php:130
 msgid "Choose from the most used Property Features"
 msgstr "Επιλέξτε από τα πιο συνηθισμένα χαρακτηριστικά ακινήτου"
 
-#: includes/custom-post-types/property.php:143 includes/settings/slug.php:13
+#: includes/custom-post-types/property.php:144 includes/settings/slug.php:13
 msgid "property-feature"
 msgstr "property-feature"
 
-#: includes/custom-post-types/property.php:146
+#: includes/custom-post-types/property.php:147
 msgid "property-features"
 msgstr "property-features"
 
-#: includes/custom-post-types/property.php:160
-#: includes/custom-post-types/property.php:174
+#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:175
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr "Τύποι ακινήτων"
 
-#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:162
 msgid "Property Type"
 msgstr "Τύπος ακινήτου"
 
-#: includes/custom-post-types/property.php:162
+#: includes/custom-post-types/property.php:163
 msgid "Search Property Types"
 msgstr "Αναζήτηση τύπων ακινήτων"
 
-#: includes/custom-post-types/property.php:163
+#: includes/custom-post-types/property.php:164
 msgid "Popular Property Types"
 msgstr "Δημοφιλείς τύποι ακινήτων"
 
-#: includes/custom-post-types/property.php:164
-#: includes/custom-post-types/property.php:679
+#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:711
 msgid "All Property Types"
 msgstr "Όλοι οι τύποι ακινήτων"
 
-#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:166
 msgid "Parent Property Type"
 msgstr "Τύπος γονικού ακινήτου"
 
-#: includes/custom-post-types/property.php:166
+#: includes/custom-post-types/property.php:167
 msgid "Parent Property Type:"
 msgstr "Τύπος γονικού ακινήτου:"
 
-#: includes/custom-post-types/property.php:167
+#: includes/custom-post-types/property.php:168
 msgid "Edit Property Type"
 msgstr "Επεξεργασία τύπου ακινήτου"
 
-#: includes/custom-post-types/property.php:168
+#: includes/custom-post-types/property.php:169
 msgid "Update Property Type"
 msgstr "Ενημέρωση τύπου ακινήτου"
 
-#: includes/custom-post-types/property.php:169
+#: includes/custom-post-types/property.php:170
 msgid "Add New Property Type"
 msgstr "Προσθήκη νέου τύπου ακινήτου"
 
-#: includes/custom-post-types/property.php:170
+#: includes/custom-post-types/property.php:171
 msgid "New Property Type Name"
 msgstr "Όνομα νέου τύπου ακινήτου"
 
-#: includes/custom-post-types/property.php:171
+#: includes/custom-post-types/property.php:172
 msgid "Separate Property Types with commas"
 msgstr "Διαχωρίστε τύπους ακινήτου με κόμματα"
 
-#: includes/custom-post-types/property.php:172
+#: includes/custom-post-types/property.php:173
 msgid "Add or remove Property Types"
 msgstr "Προσθήκη ή αφαίρεση τύπων ακινήτου"
 
-#: includes/custom-post-types/property.php:173
+#: includes/custom-post-types/property.php:174
 msgid "Choose from the most used Property Types"
 msgstr "Επιλέξτε από τους πιο συνηθισμένους τύπους ακινήτου"
 
-#: includes/custom-post-types/property.php:187 includes/settings/slug.php:12
+#: includes/custom-post-types/property.php:188 includes/settings/slug.php:12
 msgid "property-type"
 msgstr "property-type"
 
-#: includes/custom-post-types/property.php:190
+#: includes/custom-post-types/property.php:191
 msgid "property-types"
 msgstr "property-types"
 
-#: includes/custom-post-types/property.php:204
-#: includes/custom-post-types/property.php:218
+#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:219
 msgid "Property Locations"
 msgstr "Τοποθεσίες ακινήτων"
 
-#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:206
 msgid "Property Location"
 msgstr "Τοποθεσία ακινήτου"
 
-#: includes/custom-post-types/property.php:206
+#: includes/custom-post-types/property.php:207
 msgid "Search Property Locations"
 msgstr "Αναζήτηση τοποθεσιών ακινήτων"
 
-#: includes/custom-post-types/property.php:207
+#: includes/custom-post-types/property.php:208
 msgid "Popular Property Locations"
 msgstr "Δημοφιλείς τοποθεσίες ακινήτων"
 
-#: includes/custom-post-types/property.php:208
-#: includes/custom-post-types/property.php:666
+#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:698
 msgid "All Property Locations"
 msgstr "Όλες οι τοποθεσίες ακινήτων"
 
-#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:210
 msgid "Parent Property Location"
 msgstr "Τοποθεσία γονικού ακινήτου"
 
-#: includes/custom-post-types/property.php:210
+#: includes/custom-post-types/property.php:211
 msgid "Parent Property Location:"
 msgstr "Τοποθεσία γονικού ακινήτου:"
 
-#: includes/custom-post-types/property.php:211
+#: includes/custom-post-types/property.php:212
 msgid "Edit Property Location"
 msgstr "Επεξεργασία τοποθεσίας ακινήτου"
 
-#: includes/custom-post-types/property.php:212
+#: includes/custom-post-types/property.php:213
 msgid "Update Property Location"
 msgstr "Ενημέρωση τοποθεσίας ακινήτου"
 
-#: includes/custom-post-types/property.php:213
+#: includes/custom-post-types/property.php:214
 msgid "Add New Property Location"
 msgstr "Προσθήκη νέας τοποθεσίας ακινήτου"
 
-#: includes/custom-post-types/property.php:214
+#: includes/custom-post-types/property.php:215
 msgid "New Property Location Name"
 msgstr "Όνομα νέας τοποθεσίας ακινήτου"
 
-#: includes/custom-post-types/property.php:215
+#: includes/custom-post-types/property.php:216
 msgid "Separate Property Locations with commas"
 msgstr "Διαχωρίστε τοποθεσίες ακινήτου με κόμματα"
 
-#: includes/custom-post-types/property.php:216
+#: includes/custom-post-types/property.php:217
 msgid "Add or remove Property Locations"
 msgstr "Προσθήκη ή αφαίρεση τοποθεσιών ακινήτων"
 
-#: includes/custom-post-types/property.php:217
+#: includes/custom-post-types/property.php:218
 msgid "Choose from the most used Property Locations"
 msgstr "Επιλέξτε από τις πιο συνηθισμένες τοποθεσίες ακινήτου"
 
-#: includes/custom-post-types/property.php:231
+#: includes/custom-post-types/property.php:232
 msgid "property-city"
 msgstr "property-city"
 
-#: includes/custom-post-types/property.php:234
+#: includes/custom-post-types/property.php:235
 msgid "property-cities"
 msgstr "property-cities"
 
-#: includes/custom-post-types/property.php:248
+#: includes/custom-post-types/property.php:249
 msgid "Property Statuses"
 msgstr "Καταστάσεις ακινήτων"
 
-#: includes/custom-post-types/property.php:249
-#: includes/custom-post-types/property.php:262
+#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:263
 msgid "Property Status"
 msgstr "Κατάσταση ακινήτου"
 
-#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:251
 msgid "Search Property Status"
 msgstr "Αναζήτηση κατάστασης ακινήτων"
 
-#: includes/custom-post-types/property.php:251
+#: includes/custom-post-types/property.php:252
 msgid "Popular Property Status"
 msgstr "Δημοφιλής κατάσταση ακινήτου"
 
-#: includes/custom-post-types/property.php:252
+#: includes/custom-post-types/property.php:253
 msgid "All Property Status"
 msgstr "Όλες οι καταστάσεις ακινήτων"
 
-#: includes/custom-post-types/property.php:253
+#: includes/custom-post-types/property.php:254
 msgid "Parent Property Status"
 msgstr "Κατάσταση γονικού ακινήτου"
 
-#: includes/custom-post-types/property.php:254
+#: includes/custom-post-types/property.php:255
 msgid "Parent Property Status:"
 msgstr "Κατάσταση γονικού ακινήτου:"
 
-#: includes/custom-post-types/property.php:255
+#: includes/custom-post-types/property.php:256
 msgid "Edit Property Status"
 msgstr "Επεξεργασία κατάστασης ακινήτου"
 
-#: includes/custom-post-types/property.php:256
+#: includes/custom-post-types/property.php:257
 msgid "Update Property Status"
 msgstr "Ενημέρωση κατάστασης ακινήτου"
 
-#: includes/custom-post-types/property.php:257
+#: includes/custom-post-types/property.php:258
 msgid "Add New Property Status"
 msgstr "Προσθήκη νέας κατάστασης ακινήτου"
 
-#: includes/custom-post-types/property.php:258
+#: includes/custom-post-types/property.php:259
 msgid "New Property Status Name"
 msgstr "Όνομα νέας κατάστασης ακινήτου"
 
-#: includes/custom-post-types/property.php:259
+#: includes/custom-post-types/property.php:260
 msgid "Separate Property Status with commas"
 msgstr "Διαχωρίστε καταστάσεις ακινήτου με κόμματα"
 
-#: includes/custom-post-types/property.php:260
+#: includes/custom-post-types/property.php:261
 msgid "Add or remove Property Status"
 msgstr "Προσθήκη ή αφαίρεση καταστάσεων ακινήτου"
 
-#: includes/custom-post-types/property.php:261
+#: includes/custom-post-types/property.php:262
 msgid "Choose from the most used Property Status"
 msgstr "Επιλέξτε από τις πιο συνηθισμένες καταστάσεις ακινήτου"
 
-#: includes/custom-post-types/property.php:275 includes/settings/slug.php:11
+#: includes/custom-post-types/property.php:276 includes/settings/slug.php:11
 msgid "property-status"
 msgstr "property-status"
 
-#: includes/custom-post-types/property.php:278
+#: includes/custom-post-types/property.php:279
 msgid "property-statuses"
 msgstr "property-statuses"
 
-#: includes/custom-post-types/property.php:385
+#: includes/custom-post-types/property.php:387
 #: includes/functions/form-handlers.php:135
 #: includes/functions/form-handlers.php:513
 msgid "Property Title"
 msgstr "Τίτλος ακινήτου"
 
-#: includes/custom-post-types/property.php:387
+#: includes/custom-post-types/property.php:389
 msgid "Location"
 msgstr "Τοποθεσία"
 
-#: includes/custom-post-types/property.php:388
+#: includes/custom-post-types/property.php:390
 msgid "Type"
 msgstr "Τύπος"
 
-#: includes/custom-post-types/property.php:389
+#: includes/custom-post-types/property.php:391
 msgid "Status"
 msgstr "Κατάσταση"
 
-#: includes/custom-post-types/property.php:390
+#: includes/custom-post-types/property.php:392
 #: includes/shortcodes/vc-map.php:123
 msgid "Price"
 msgstr "Τιμή"
 
-#: includes/custom-post-types/property.php:391
-#: includes/custom-post-types/property.php:723
+#: includes/custom-post-types/property.php:393
+#: includes/custom-post-types/property.php:755
 #: includes/mb/property/basic-metaboxes.php:164
 msgid "Property ID"
 msgstr "Αναγνωριστικό ακινήτου"
 
-#: includes/custom-post-types/property.php:445
+#: includes/custom-post-types/property.php:399
+#, fuzzy
+#| msgid "Last Name"
+msgid "Last 1 Week"
+msgstr "Επώνυμο"
+
+#: includes/custom-post-types/property.php:402
+msgid "Last 2 Weeks"
+msgstr ""
+
+#: includes/custom-post-types/property.php:405
+msgid "Last 30 Days"
+msgstr "30 ημερών"
+
+#: includes/custom-post-types/property.php:465
 #: includes/widgets/agent-featured-properties-widget.php:210
 #: includes/widgets/featured-properties-widget.php:220
 #: includes/widgets/grid-cards/card-parts/tags.php:20
@@ -752,64 +766,73 @@ msgstr "Αναγνωριστικό ακινήτου"
 msgid "Featured"
 msgstr "Προτεινόμενο"
 
-#: includes/custom-post-types/property.php:457
-#: includes/custom-post-types/property.php:469
-#: includes/custom-post-types/property.php:497
-#: includes/custom-post-types/property.php:505
-#: includes/custom-post-types/property.php:513
+#: includes/custom-post-types/property.php:477
+#: includes/custom-post-types/property.php:489
+#: includes/custom-post-types/property.php:517
+#: includes/custom-post-types/property.php:525
+#: includes/custom-post-types/property.php:533
+#: includes/custom-post-types/property.php:541
 #: includes/custom-post-types/slide.php:97
 msgid "NA"
-msgstr "άνευ"
+msgstr ""
 
-#: includes/custom-post-types/property.php:480
+#: includes/custom-post-types/property.php:500
 msgid "No Address Provided!"
 msgstr "Δεν δόθηκε διεύθυνση!"
 
-#: includes/custom-post-types/property.php:531
+#: includes/custom-post-types/property.php:544
+msgid " View"
+msgstr " Προβολή"
+
+#: includes/custom-post-types/property.php:547
+msgid " Views"
+msgstr " Προβολές"
+
+#: includes/custom-post-types/property.php:563
 msgid "Payment Information"
 msgstr "Πληροφορίες πληρωμής"
 
-#: includes/custom-post-types/property.php:547
+#: includes/custom-post-types/property.php:579
 msgid "Not Available"
 msgstr "Μη διαθέσιμο"
 
-#: includes/custom-post-types/property.php:562
+#: includes/custom-post-types/property.php:594
 msgid "Transaction ID"
 msgstr "Αναγνωριστικό συναλλαγής"
 
-#: includes/custom-post-types/property.php:567
+#: includes/custom-post-types/property.php:599
 msgid "Payment Date"
 msgstr "Ημερομηνία πληρωμής"
 
-#: includes/custom-post-types/property.php:575
+#: includes/custom-post-types/property.php:607
 msgid "First Name"
 msgstr "Όνομα"
 
-#: includes/custom-post-types/property.php:580
+#: includes/custom-post-types/property.php:612
 msgid "Last Name"
 msgstr "Επώνυμο"
 
-#: includes/custom-post-types/property.php:588
+#: includes/custom-post-types/property.php:620
 msgid "Payer Email"
 msgstr "Email πληρωτή"
 
-#: includes/custom-post-types/property.php:593
+#: includes/custom-post-types/property.php:625
 msgid "Payment Status"
 msgstr "Κατάσταση πληρωμής"
 
-#: includes/custom-post-types/property.php:598
+#: includes/custom-post-types/property.php:630
 msgid "Payment Amount"
 msgstr "Ποσό πληρωμής"
 
-#: includes/custom-post-types/property.php:603
+#: includes/custom-post-types/property.php:635
 msgid "Payment Currency"
 msgstr "Νόμισμα πληρωμής"
 
-#: includes/custom-post-types/property.php:692
+#: includes/custom-post-types/property.php:724
 msgid "All Property Statuses"
 msgstr "Όλες οι καταστάσεις ακινήτων"
 
-#: includes/custom-post-types/property.php:705
+#: includes/custom-post-types/property.php:737
 msgid "All Users"
 msgstr "Όλοι οι χρήστες"
 
@@ -879,11 +902,11 @@ msgstr "URL στόχος"
 
 #: includes/custom-post-types/slide.php:144
 msgid "This URL will be applied on Slide Image."
-msgstr "Αυτή η διεύθυνση URL θα αντιστοιχεί στην εικόνα του Slider"
+msgstr "Αυτή η διεύθυνση URL θα αντιστοιχεί στην εικόνα του Slider."
 
 #: includes/email-template/email-template.php:268
 msgid "Sent from "
-msgstr "Στάλθηκε από"
+msgstr "Στάλθηκε από "
 
 #: includes/functions/form-handlers.php:75
 #: includes/functions/form-handlers.php:280
@@ -1075,7 +1098,7 @@ msgid ""
 "respond to my inquiry."
 msgstr ""
 "Συναινώ να αποθηκεύει ο παρών ιστότοπος τις πληροφορίες που υποβάλλω, ώστε "
-"να μπορεί να απαντηθεί το ερώτημά μου. "
+"να μπορεί να απαντηθεί το ερώτημά μου."
 
 #: includes/functions/google-recaptcha.php:152
 msgid "The secret parameter is missing."
@@ -1481,15 +1504,15 @@ msgstr "Πίνακας ελέγχου"
 #: includes/mb/main/inc/about/about.php:156
 #, php-format
 msgid ""
-"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">"
-"&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" "
-"target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you "
-"from the Meta Box team!"
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
+"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
+"Meta Box team!"
 msgstr ""
-"Παρακαλώ βαθμολογήστε το <strong>Meta Box</strong> <a href=\"%1$s\" "
-"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;</a> στο "
-"<a href=\"%1$s\" target=\"_blank\">WordPress.org</a> για να μας βοηθήσετε να "
-"το διαδώσουμε. Η ομάδα του Meta Box σας ευχαριστεί!"
+"Παρακαλώ βαθμολογήστε το <strong>Meta Box</strong> <a href=\"%1$s\" target="
+"\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;</a> στο <a href="
+"\"%1$s\" target=\"_blank\">WordPress.org</a> για να μας βοηθήσετε να το "
+"διαδώσουμε. Η ομάδα του Meta Box σας ευχαριστεί!"
 
 #: includes/mb/main/inc/about/sections/extensions.php:11
 msgid ""
@@ -1713,8 +1736,8 @@ msgid ""
 "forget to check our <a href=\"%s\">documentation</a> first."
 msgstr ""
 "Χρειάζεστε ακόμα βοήθεια με το Meta Box; Σας προσφέρουμε εξαιρετική "
-"υποστήριξη. Αλλά μην ξεχάσετε να ελέγξετε πρώτα την <a href=\"%s\">"
-"τεκμηρίωσή</a> μας."
+"υποστήριξη. Αλλά μην ξεχάσετε να ελέγξετε πρώτα την <a href=\"%s"
+"\">τεκμηρίωσή</a> μας."
 
 #: includes/mb/main/inc/about/sections/support.php:23
 msgid "Free Support"
@@ -2152,16 +2175,16 @@ msgid ""
 msgstr ""
 "Δεν έχετε ορίσει ακόμα το κλειδί άδειας χρήσης του Meta Box, πράγμα που "
 "σημαίνει ότι χάνετε τις αυτόματες ενημερώσεις και την υποστήριξη! "
-"Παρακαλούμε <a href=\"%1$s\">εισάγετε το κλειδί της άδειάς σας</a> ή <a "
-"href=\"%2$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+"Παρακαλούμε <a href=\"%1$s\">εισάγετε το κλειδί της άδειάς σας</a> ή <a href="
+"\"%2$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
 
 #: includes/mb/main/inc/update/notification.php:114
 #: includes/mb/main/inc/update/notification.php:116
 #, php-format
 msgid ""
-"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s\">"
-"update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new "
-"one</a> to enable automatic updates."
+"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
+"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
+"new one</a> to enable automatic updates."
 msgstr ""
 "Το κλειδί άδειας χρήσης για το Meta Box είναι <b>άκυρο</b>. Παρακαλούμε <a "
 "href=\"%1$s\">ενημερώστε το κλειδί της άδειάς σας</a> ή <a href=\"%2$s\" "
@@ -2175,8 +2198,8 @@ msgid ""
 "target=\"_blank\">renew your license</a> to get automatic updates and "
 "premium support."
 msgstr ""
-"Το κλειδί άδειας χρήσης για το Meta Box έχει λήξει. Παρακαλούμε <a "
-"href=\"%3$s\" target=\"_blank\">ανανεώστε την άδειά σας</a> για να λαμβάνετε "
+"Το κλειδί άδειας χρήσης για το Meta Box έχει λήξει. Παρακαλούμε <a href="
+"\"%3$s\" target=\"_blank\">ανανεώστε την άδειά σας</a> για να λαμβάνετε "
 "αυτόματες ενημερώσεις και premium υποστήριξη."
 
 #: includes/mb/main/inc/update/notification.php:142
@@ -2185,8 +2208,8 @@ msgid ""
 "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
 "target=\"_blank\">get a new one here</a>."
 msgstr ""
-"Παρακαλούμε <a href=\"%1$s\">εισάγετε το κλειδί της άδειάς σας</a> ή <a "
-"href=\"%2$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+"Παρακαλούμε <a href=\"%1$s\">εισάγετε το κλειδί της άδειάς σας</a> ή <a href="
+"\"%2$s\" target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
 
 #: includes/mb/main/inc/update/notification.php:144
 #: includes/mb/main/inc/update/notification.php:146
@@ -2195,15 +2218,15 @@ msgid ""
 "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
 "license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
-"Το κλειδί άδειας χρήσης είναι <b>άκυρο</b>. Παρακαλούμε <a href=\"%1$s\">"
-"επικαιροποιήστε το κλειδί της άδειάς σας</a> ή <a href=\"%2$s\" "
-"target=\"_blank\">βγάλτε ένα νέο εδώ</a>."
+"Το κλειδί άδειας χρήσης είναι <b>άκυρο</b>. Παρακαλούμε <a href=\"%1$s"
+"\">επικαιροποιήστε το κλειδί της άδειάς σας</a> ή <a href=\"%2$s\" target="
+"\"_blank\">βγάλτε ένα νέο εδώ</a>."
 
 #: includes/mb/main/inc/update/notification.php:148
 #, php-format
 msgid ""
-"Your license key is <b>expired</b>. Please <a href=\"%3$s\" "
-"target=\"_blank\">renew your license</a>."
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
+"\">renew your license</a>."
 msgstr ""
 "Το κλειδί της άδειας χρήσης σας έχει λήξει. Παρακαλούμε <a href=\"%3$s\" "
 "target=\"_blank\">ανανεώστε την άδειά σας</a>."
@@ -2241,10 +2264,10 @@ msgid ""
 "extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
 "here</a>."
 msgstr ""
-"Για να αποκτήσετε το κλειδί άδειας χρήσης, επισκεφθείτε τη σελίδα <a "
-"href=\"%1$s\" target=\"_blank\">Ο λογαριασμός μου</a> στον ιστότοπο metabox."
-"io. Εάν δεν έχετε αγοράσει ακόμη κάποια επέκταση, παρακαλούμε <a "
-"href=\"%2$s\" target=\"_blank\">αγοράστε εδώ μια νέα άδεια χρήσης</a>."
+"Για να αποκτήσετε το κλειδί άδειας χρήσης, επισκεφθείτε τη σελίδα <a href="
+"\"%1$s\" target=\"_blank\">Ο λογαριασμός μου</a> στον ιστότοπο metabox.io. "
+"Εάν δεν έχετε αγοράσει ακόμη κάποια επέκταση, παρακαλούμε <a href=\"%2$s\" "
+"target=\"_blank\">αγοράστε εδώ μια νέα άδεια χρήσης</a>."
 
 #: includes/mb/main/inc/update/settings.php:108
 msgid "License Key"
@@ -2263,8 +2286,8 @@ msgstr ""
 #: includes/mb/main/inc/update/settings.php:117
 #, php-format
 msgid ""
-"Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
-"target=\"_blank\">renew your license</a>."
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank"
+"\">renew your license</a>."
 msgstr ""
 "Το κλειδί της άδειας χρήσης σας έχει λήξει. Παρακαλούμε <a href=\"%2$s\" "
 "target=\"_blank\">ανανεώστε την άδειά σας</a>."
@@ -2298,8 +2321,8 @@ msgid ""
 "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
 "Account</a> page on metabox.io website."
 msgstr ""
-"Η άδεια έληξε. Παρακαλούμε ανανεώστε τη στη σελίδα <a href=\"%s\" "
-"target=\"_blank\">Ο λογαριασμός μου</a> στον ιστότοπο metabox.io."
+"Η άδεια έληξε. Παρακαλούμε ανανεώστε τη στη σελίδα <a href=\"%s\" target="
+"\"_blank\">Ο λογαριασμός μου</a> στον ιστότοπο metabox.io."
 
 #: includes/mb/main/inc/update/settings.php:168
 #, php-format
@@ -2329,8 +2352,8 @@ msgid ""
 "be cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
 "Οι εικόνες πρέπει να έχουν ελάχιστο μέγεθος 1240px επί 720px. Οι εικόνες "
-"μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Για να εμφανίζεται η γκαλερί,"
-" απαιτούνται τουλάχιστον 2 εικόνες."
+"μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Για να εμφανίζεται η "
+"γκαλερί, απαιτούνται τουλάχιστον 2 εικόνες."
 
 #: includes/mb/meta-box-helper-functions.php:120
 msgid ""
@@ -2339,8 +2362,8 @@ msgid ""
 "cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
 "Οι εικόνες πρέπει να έχουν ελάχιστο μέγεθος 1170px x 648px για τις "
-"μικρογραφίες στα δεξιά και 830px x 460px για τις μικρογραφίες στο κάτω μέρος."
-" Οι εικόνες μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Για να "
+"μικρογραφίες στα δεξιά και 830px x 460px για τις μικρογραφίες στο κάτω "
+"μέρος. Οι εικόνες μεγαλύτερου μεγέθους θα περικόπτονται αυτόματα. Για να "
 "εμφανίζεται η γκαλερί, απαιτούνται τουλάχιστον 2 εικόνες."
 
 #: includes/mb/partner-meta-boxes-config.php:14
@@ -2414,7 +2437,7 @@ msgstr "Εικονίδιο πεδίου"
 msgid "You can use the %s. You just need to add the icon class like %s "
 msgstr ""
 "Μπορείτε να χρησιμοποιήσετε το %s. Απλά πρέπει να προσθέσετε την κλάση "
-"εικονιδίου όπως %s"
+"εικονιδίου όπως %s "
 
 #: includes/mb/property-additional-fields.php:128
 msgid "Font Awesome Icons"
@@ -2778,7 +2801,7 @@ msgstr "Αν ναι, τότε πρέπει να δώσετε μια εικόνα
 
 #: includes/mb/property/homeslider-metaboxes.php:40
 msgid "Yes "
-msgstr "Ναι"
+msgstr "Ναι "
 
 #: includes/mb/property/homeslider-metaboxes.php:47
 msgid "Slider Image"
@@ -2976,18 +2999,18 @@ msgstr "Εικονική περιήγηση 360"
 
 #: includes/mb/property/video-metaboxes.php:79
 msgid ""
-"Provide iframe embed code or <a href=\"https://wordpress."
-"org/plugins/ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">"
-"iPanorama</a> shortcode for the 360 virtual tour. For more details please "
-"consult <a href=\"https://realhomes.io/documentation/add-property/#add-video-"
-"tour-and-virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
+"Provide iframe embed code or <a href=\"https://wordpress.org/plugins/"
+"ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">iPanorama</a> "
+"shortcode for the 360 virtual tour. For more details please consult <a href="
+"\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
+"virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
 msgstr ""
-"Εισάγετε τον κώδικα ενσωμάτωσης iframe ή το shortcode <a href=\"https:"
-"//wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/\" "
-"target=\"_blank\">iPanorama</a> για την εικονική περιήγηση 360. Για "
-"περισσότερες λεπτομέρειες, συμβουλευτείτε το <a href=\"https://realhomes."
-"io/documentation/add-property/#add-video-tour-and-virtual-tour\" "
-"target=\"_blank\">Προσθήκη ακινήτου</a> στην τεκμηρίωση."
+"Εισάγετε τον κώδικα ενσωμάτωσης iframe ή το shortcode <a href=\"https://"
+"wordpress.org/plugins/ipanorama-360-virtual-tour-builder-lite/\" target="
+"\"_blank\">iPanorama</a> για την εικονική περιήγηση 360. Για περισσότερες "
+"λεπτομέρειες, συμβουλευτείτε το <a href=\"https://realhomes.io/documentation/"
+"add-property/#add-video-tour-and-virtual-tour\" target=\"_blank\">Προσθήκη "
+"ακινήτου</a> στην τεκμηρίωση."
 
 #: includes/mb/property/video-metaboxes.php:97
 #, php-format
@@ -3411,7 +3434,7 @@ msgstr "Μοτίβο αυτόματα παραγόμενου ID ακινήτου
 
 #: includes/settings/property.php:63
 msgid "Important: "
-msgstr "Σημαντικό:"
+msgstr "Σημαντικό: "
 
 #: includes/settings/property.php:63
 msgid ""
@@ -3787,28 +3810,28 @@ msgstr "Η βιβλιοθήκη Twitter δεν έχει φορτωθεί."
 #: includes/social-login/callbacks.php:49
 #: includes/social-login/callbacks.php:86
 msgid "Graph returned an error: "
-msgstr "Το γράφημα επέστρεψε σφάλμα"
+msgstr "Το γράφημα επέστρεψε σφάλμα "
 
 #: includes/social-login/callbacks.php:53
 #: includes/social-login/callbacks.php:89
 msgid "Facebook SDK returned an error: "
-msgstr "Το Facebook SDK επέστρεψε ένα σφάλμα"
+msgstr "Το Facebook SDK επέστρεψε ένα σφάλμα "
 
 #: includes/social-login/callbacks.php:60
 msgid "Error: "
-msgstr "Σφάλμα:"
+msgstr "Σφάλμα: "
 
 #: includes/social-login/callbacks.php:61
 msgid "Error Code: "
-msgstr "Κωδικός σφάλματος:"
+msgstr "Κωδικός σφάλματος: "
 
 #: includes/social-login/callbacks.php:62
 msgid "Error Reason: "
-msgstr "Αιτία σφάλματος:"
+msgstr "Αιτία σφάλματος: "
 
 #: includes/social-login/callbacks.php:63
 msgid "Error Description: "
-msgstr "Περιγραφή σφάλματος:"
+msgstr "Περιγραφή σφάλματος: "
 
 #: includes/social-login/callbacks.php:66
 msgid "Bad request"
@@ -3855,7 +3878,7 @@ msgstr ""
 #: includes/widgets/advance-search-widget.php:57
 #: includes/widgets/agent-featured-properties-widget.php:221
 #: includes/widgets/agent-properties-widget.php:237
-#: includes/widgets/agents-list-widget.php:123
+#: includes/widgets/agents-list-widget.php:151
 #: includes/widgets/featured-properties-widget.php:231
 #: includes/widgets/properties-widget.php:265
 #: includes/widgets/property-types-widget.php:82
@@ -3992,11 +4015,11 @@ msgstr "Αυτό το widget εμφανίζει λίστα πρακτόρων."
 msgid "RealHomes - Agents"
 msgstr "RealHomes - Πράκτορες"
 
-#: includes/widgets/agents-list-widget.php:99
+#: includes/widgets/agents-list-widget.php:127
 msgid "No Agent Found!"
 msgstr "Δεν βρέθηκαν πράκτορες!"
 
-#: includes/widgets/agents-list-widget.php:129
+#: includes/widgets/agents-list-widget.php:157
 msgid "Number of Agents"
 msgstr "Αριθμός πρακτόρων"
 
@@ -4083,11 +4106,11 @@ msgstr "Δεν βρέθηκαν προτεινόμενα ακίνητα!"
 
 #: includes/widgets/grid-cards/card-parts/added.php:4
 msgid "Added: "
-msgstr "Προστέθηκε:"
+msgstr "Προστέθηκε: "
 
 #: includes/widgets/grid-cards/card-parts/added.php:11
 msgid "Ago "
-msgstr "Πριν"
+msgstr "Πριν "
 
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:25
 #: includes/widgets/grid-cards/grid-card-1.php:164
@@ -4228,7 +4251,7 @@ msgstr "Διεύθυνση επικοινωνίας"
 
 #: includes/widgets/rh-contact-information-widget.php:141
 msgid "Use WhatsApp icon for the phone number?"
-msgstr "Χρησιμοποιήστε το εικονίδιο WhatsApp για τον αριθμό τηλεφώνου"
+msgstr "Χρησιμοποιήστε το εικονίδιο WhatsApp για τον αριθμό τηλεφώνου?"
 
 #. Plugin URI of the plugin/theme
 msgid ""

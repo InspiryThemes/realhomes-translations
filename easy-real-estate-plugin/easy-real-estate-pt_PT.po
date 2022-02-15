@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Easy Real Estate\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-14 18:00+0500\n"
-"PO-Revision-Date: 2021-10-04 17:20+0500\n"
+"POT-Creation-Date: 2022-02-02 21:10+0500\n"
+"PO-Revision-Date: 2022-02-16 00:51+0500\n"
 "Last-Translator: admin <postmaster@portocasasreurb.pt>\n"
 "Language-Team: Portuguese (Portugal)\n"
 "Language: pt_PT\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -87,19 +87,19 @@ msgstr ""
 msgid "Webhooks"
 msgstr "Web instalada"
 
-#: easy-real-estate.php:421
+#: easy-real-estate.php:422
 msgid "Settings saved successfully!"
 msgstr ""
 
-#: easy-real-estate.php:430
+#: easy-real-estate.php:431
 msgid "Cloning is forbidden!"
 msgstr ""
 
-#: easy-real-estate.php:437
+#: easy-real-estate.php:438
 msgid "Unserializing is forbidden!"
 msgstr "A não serialização é proibida!"
 
-#: easy-real-estate.php:484
+#: easy-real-estate.php:485
 #, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
@@ -135,7 +135,7 @@ msgstr ""
 #: includes/custom-post-types/agent.php:20
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
-#: includes/widgets/agents-list-widget.php:114
+#: includes/widgets/agents-list-widget.php:142
 msgid "Agents"
 msgstr "Comerciais"
 
@@ -282,7 +282,7 @@ msgstr "imobiliárias"
 
 #: includes/custom-post-types/agency.php:111
 #: includes/custom-post-types/agent.php:97
-#: includes/custom-post-types/property.php:386
+#: includes/custom-post-types/property.php:388
 #: includes/custom-post-types/slide.php:63
 msgid "Thumbnail"
 msgstr "Miniatura"
@@ -309,7 +309,7 @@ msgstr "Criado"
 
 #: includes/custom-post-types/agency.php:162
 #: includes/custom-post-types/agent.php:149
-#: includes/custom-post-types/property.php:438
+#: includes/custom-post-types/property.php:458
 msgid "No Thumbnail"
 msgstr "Sem Miniatura"
 
@@ -397,7 +397,7 @@ msgid "Logo"
 msgstr "Logotipo"
 
 #: includes/custom-post-types/partners.php:67
-#: includes/custom-post-types/property.php:392
+#: includes/custom-post-types/property.php:413
 msgid "Publish Time"
 msgstr "Hora de publicação"
 
@@ -447,300 +447,314 @@ msgstr "Imóvel Superior"
 msgid "property"
 msgstr "imóvel"
 
-#: includes/custom-post-types/property.php:116
-#: includes/custom-post-types/property.php:130
+#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:131
 msgid "Property Features"
 msgstr "Características do Imóvel"
 
-#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:118
 msgid "Property Feature"
 msgstr ""
 
-#: includes/custom-post-types/property.php:118
+#: includes/custom-post-types/property.php:119
 msgid "Search Property Features"
 msgstr "Pesquisar Características do Imóvel"
 
-#: includes/custom-post-types/property.php:119
+#: includes/custom-post-types/property.php:120
 msgid "Popular Property Features"
 msgstr "Características Populares de Imóveis"
 
-#: includes/custom-post-types/property.php:120
+#: includes/custom-post-types/property.php:121
 msgid "All Property Features"
 msgstr "Todas as Características do Imóvel"
 
-#: includes/custom-post-types/property.php:121
+#: includes/custom-post-types/property.php:122
 msgid "Parent Property Feature"
 msgstr "Características do imóvel pai"
 
-#: includes/custom-post-types/property.php:122
+#: includes/custom-post-types/property.php:123
 msgid "Parent Property Feature:"
 msgstr "Marca não em destaque:"
 
-#: includes/custom-post-types/property.php:123
+#: includes/custom-post-types/property.php:124
 msgid "Edit Property Feature"
 msgstr ""
 
-#: includes/custom-post-types/property.php:124
+#: includes/custom-post-types/property.php:125
 msgid "Update Property Feature"
 msgstr "Atualizar Característica do Imóvel"
 
-#: includes/custom-post-types/property.php:125
+#: includes/custom-post-types/property.php:126
 msgid "Add New Property Feature"
 msgstr "Adicionar Nova Característica do Imóvel"
 
-#: includes/custom-post-types/property.php:126
+#: includes/custom-post-types/property.php:127
 msgid "New Property Feature Name"
 msgstr "Nome Nova Característica do Imóvel"
 
-#: includes/custom-post-types/property.php:127
+#: includes/custom-post-types/property.php:128
 msgid "Separate Property Features with commas"
 msgstr ""
 
-#: includes/custom-post-types/property.php:128
+#: includes/custom-post-types/property.php:129
 msgid "Add or remove Property Features"
 msgstr "Add ou Remover Características do Imóvel"
 
-#: includes/custom-post-types/property.php:129
+#: includes/custom-post-types/property.php:130
 msgid "Choose from the most used Property Features"
 msgstr "Escolha entre as características mais usadas dos Imóveis"
 
-#: includes/custom-post-types/property.php:143 includes/settings/slug.php:13
+#: includes/custom-post-types/property.php:144 includes/settings/slug.php:13
 msgid "property-feature"
 msgstr "caracteristica-imovel"
 
-#: includes/custom-post-types/property.php:146
+#: includes/custom-post-types/property.php:147
 msgid "property-features"
 msgstr ""
 
-#: includes/custom-post-types/property.php:160
-#: includes/custom-post-types/property.php:174
+#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:175
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr "Tipos de Imóvel"
 
-#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:162
 msgid "Property Type"
 msgstr "Tipo de Imóvel"
 
-#: includes/custom-post-types/property.php:162
+#: includes/custom-post-types/property.php:163
 msgid "Search Property Types"
 msgstr "Pesquisar Tipos de imóvel"
 
-#: includes/custom-post-types/property.php:163
+#: includes/custom-post-types/property.php:164
 msgid "Popular Property Types"
 msgstr "Tipos de Propriedade Populares"
 
-#: includes/custom-post-types/property.php:164
-#: includes/custom-post-types/property.php:679
+#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:711
 msgid "All Property Types"
 msgstr "Todos os Tipos de Imóvel"
 
-#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:166
 msgid "Parent Property Type"
 msgstr "Tipo de Imóvel Principal"
 
-#: includes/custom-post-types/property.php:166
+#: includes/custom-post-types/property.php:167
 msgid "Parent Property Type:"
 msgstr "Página das propriedades:"
 
-#: includes/custom-post-types/property.php:167
+#: includes/custom-post-types/property.php:168
 msgid "Edit Property Type"
 msgstr "Editar Tipo de Imóvel"
 
-#: includes/custom-post-types/property.php:168
+#: includes/custom-post-types/property.php:169
 msgid "Update Property Type"
 msgstr "Atualizar Tipo de Imóvel"
 
-#: includes/custom-post-types/property.php:169
+#: includes/custom-post-types/property.php:170
 msgid "Add New Property Type"
 msgstr "Adicionar Novo Tipo de Imóvel"
 
-#: includes/custom-post-types/property.php:170
+#: includes/custom-post-types/property.php:171
 msgid "New Property Type Name"
 msgstr "Novo nome para tipo de Imóvel"
 
-#: includes/custom-post-types/property.php:171
+#: includes/custom-post-types/property.php:172
 msgid "Separate Property Types with commas"
 msgstr "Separe tipos de imóveis com virgulas"
 
-#: includes/custom-post-types/property.php:172
+#: includes/custom-post-types/property.php:173
 msgid "Add or remove Property Types"
 msgstr "Adicionar ou remover tipos de imóveis"
 
-#: includes/custom-post-types/property.php:173
+#: includes/custom-post-types/property.php:174
 msgid "Choose from the most used Property Types"
 msgstr ""
 
-#: includes/custom-post-types/property.php:187 includes/settings/slug.php:12
+#: includes/custom-post-types/property.php:188 includes/settings/slug.php:12
 msgid "property-type"
 msgstr "tipo de propriedade"
 
-#: includes/custom-post-types/property.php:190
+#: includes/custom-post-types/property.php:191
 msgid "property-types"
 msgstr ""
 
-#: includes/custom-post-types/property.php:204
-#: includes/custom-post-types/property.php:218
+#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:219
 msgid "Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:206
 msgid "Property Location"
 msgstr "Localização do Imóvel"
 
-#: includes/custom-post-types/property.php:206
+#: includes/custom-post-types/property.php:207
 msgid "Search Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:207
+#: includes/custom-post-types/property.php:208
 msgid "Popular Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:208
-#: includes/custom-post-types/property.php:666
+#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:698
 msgid "All Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:210
 msgid "Parent Property Location"
 msgstr "Localização Superior"
 
-#: includes/custom-post-types/property.php:210
+#: includes/custom-post-types/property.php:211
 msgid "Parent Property Location:"
 msgstr ""
 
-#: includes/custom-post-types/property.php:211
+#: includes/custom-post-types/property.php:212
 msgid "Edit Property Location"
 msgstr "Editar Localização do Imóvel"
 
-#: includes/custom-post-types/property.php:212
+#: includes/custom-post-types/property.php:213
 msgid "Update Property Location"
 msgstr "Atualizar Localização do Imóvel"
 
-#: includes/custom-post-types/property.php:213
+#: includes/custom-post-types/property.php:214
 msgid "Add New Property Location"
 msgstr "Adicionar Nova Localização do Imóvel"
 
-#: includes/custom-post-types/property.php:214
+#: includes/custom-post-types/property.php:215
 msgid "New Property Location Name"
 msgstr "Novo Nome da Localização do Imóvel"
 
-#: includes/custom-post-types/property.php:215
+#: includes/custom-post-types/property.php:216
 msgid "Separate Property Locations with commas"
 msgstr ""
 
-#: includes/custom-post-types/property.php:216
+#: includes/custom-post-types/property.php:217
 msgid "Add or remove Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:217
+#: includes/custom-post-types/property.php:218
 msgid "Choose from the most used Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:231
+#: includes/custom-post-types/property.php:232
 msgid "property-city"
 msgstr "localidade-imóvel"
 
-#: includes/custom-post-types/property.php:234
+#: includes/custom-post-types/property.php:235
 msgid "property-cities"
 msgstr ""
 
-#: includes/custom-post-types/property.php:248
+#: includes/custom-post-types/property.php:249
 msgid "Property Statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:249
-#: includes/custom-post-types/property.php:262
+#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:263
 msgid "Property Status"
 msgstr "Estado do Imóvel"
 
-#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:251
 msgid "Search Property Status"
 msgstr "Pesquisar Negócio do Imóvel"
 
-#: includes/custom-post-types/property.php:251
+#: includes/custom-post-types/property.php:252
 msgid "Popular Property Status"
 msgstr "Negócios Mais Populares"
 
-#: includes/custom-post-types/property.php:252
+#: includes/custom-post-types/property.php:253
 msgid "All Property Status"
 msgstr "Todos os Negócios dos Imóveis"
 
-#: includes/custom-post-types/property.php:253
+#: includes/custom-post-types/property.php:254
 msgid "Parent Property Status"
 msgstr "Negócio Superior"
 
-#: includes/custom-post-types/property.php:254
+#: includes/custom-post-types/property.php:255
 msgid "Parent Property Status:"
 msgstr "Status do Imóvel pai:"
 
-#: includes/custom-post-types/property.php:255
+#: includes/custom-post-types/property.php:256
 msgid "Edit Property Status"
 msgstr "Editar Negócio do Imóvel"
 
-#: includes/custom-post-types/property.php:256
+#: includes/custom-post-types/property.php:257
 msgid "Update Property Status"
 msgstr "Atualizar Negócio do Imóvel"
 
-#: includes/custom-post-types/property.php:257
+#: includes/custom-post-types/property.php:258
 msgid "Add New Property Status"
 msgstr "Adicionar Novo Negócio de Imóvel"
 
-#: includes/custom-post-types/property.php:258
+#: includes/custom-post-types/property.php:259
 msgid "New Property Status Name"
 msgstr "Novo Nome de Negócio do Imóvel"
 
-#: includes/custom-post-types/property.php:259
+#: includes/custom-post-types/property.php:260
 msgid "Separate Property Status with commas"
 msgstr "Separar os Status de Imóveis com vírgula"
 
-#: includes/custom-post-types/property.php:260
+#: includes/custom-post-types/property.php:261
 msgid "Add or remove Property Status"
 msgstr "Add ou remover Status do Imóvel"
 
-#: includes/custom-post-types/property.php:261
+#: includes/custom-post-types/property.php:262
 msgid "Choose from the most used Property Status"
 msgstr "Escolha entre os status de imóveis mais usados"
 
-#: includes/custom-post-types/property.php:275 includes/settings/slug.php:11
+#: includes/custom-post-types/property.php:276 includes/settings/slug.php:11
 msgid "property-status"
 msgstr "estado-imovel"
 
-#: includes/custom-post-types/property.php:278
+#: includes/custom-post-types/property.php:279
 msgid "property-statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:385
+#: includes/custom-post-types/property.php:387
 #: includes/functions/form-handlers.php:135
 #: includes/functions/form-handlers.php:513
 msgid "Property Title"
 msgstr "Título do Imóvel"
 
-#: includes/custom-post-types/property.php:387
+#: includes/custom-post-types/property.php:389
 msgid "Location"
 msgstr "Localização"
 
-#: includes/custom-post-types/property.php:388
+#: includes/custom-post-types/property.php:390
 msgid "Type"
 msgstr "Tipo"
 
-#: includes/custom-post-types/property.php:389
+#: includes/custom-post-types/property.php:391
 msgid "Status"
 msgstr "Estado"
 
-#: includes/custom-post-types/property.php:390
+#: includes/custom-post-types/property.php:392
 #: includes/shortcodes/vc-map.php:123
 msgid "Price"
 msgstr "Preço"
 
-#: includes/custom-post-types/property.php:391
-#: includes/custom-post-types/property.php:723
+#: includes/custom-post-types/property.php:393
+#: includes/custom-post-types/property.php:755
 #: includes/mb/property/basic-metaboxes.php:164
 msgid "Property ID"
 msgstr "ID do Imóvel"
 
-#: includes/custom-post-types/property.php:445
+#: includes/custom-post-types/property.php:399
+#, fuzzy
+#| msgid "Last Name"
+msgid "Last 1 Week"
+msgstr "Último Nome"
+
+#: includes/custom-post-types/property.php:402
+msgid "Last 2 Weeks"
+msgstr ""
+
+#: includes/custom-post-types/property.php:405
+msgid "Last 30 Days"
+msgstr "Ultimos 30 dias"
+
+#: includes/custom-post-types/property.php:465
 #: includes/widgets/agent-featured-properties-widget.php:210
 #: includes/widgets/featured-properties-widget.php:220
 #: includes/widgets/grid-cards/card-parts/tags.php:20
@@ -748,64 +762,73 @@ msgstr "ID do Imóvel"
 msgid "Featured"
 msgstr "Destaque"
 
-#: includes/custom-post-types/property.php:457
-#: includes/custom-post-types/property.php:469
-#: includes/custom-post-types/property.php:497
-#: includes/custom-post-types/property.php:505
-#: includes/custom-post-types/property.php:513
+#: includes/custom-post-types/property.php:477
+#: includes/custom-post-types/property.php:489
+#: includes/custom-post-types/property.php:517
+#: includes/custom-post-types/property.php:525
+#: includes/custom-post-types/property.php:533
+#: includes/custom-post-types/property.php:541
 #: includes/custom-post-types/slide.php:97
 msgid "NA"
 msgstr "N/D"
 
-#: includes/custom-post-types/property.php:480
+#: includes/custom-post-types/property.php:500
 msgid "No Address Provided!"
 msgstr "Endereço não Informado!"
 
-#: includes/custom-post-types/property.php:531
+#: includes/custom-post-types/property.php:544
+msgid " View"
+msgstr " Visualização"
+
+#: includes/custom-post-types/property.php:547
+msgid " Views"
+msgstr " Visualizações"
+
+#: includes/custom-post-types/property.php:563
 msgid "Payment Information"
 msgstr "Informação de pagamento"
 
-#: includes/custom-post-types/property.php:547
+#: includes/custom-post-types/property.php:579
 msgid "Not Available"
 msgstr "Não disponivel"
 
-#: includes/custom-post-types/property.php:562
+#: includes/custom-post-types/property.php:594
 msgid "Transaction ID"
 msgstr "ID da transacção"
 
-#: includes/custom-post-types/property.php:567
+#: includes/custom-post-types/property.php:599
 msgid "Payment Date"
 msgstr "Data de Pagamento"
 
-#: includes/custom-post-types/property.php:575
+#: includes/custom-post-types/property.php:607
 msgid "First Name"
 msgstr "Primeiro Nome"
 
-#: includes/custom-post-types/property.php:580
+#: includes/custom-post-types/property.php:612
 msgid "Last Name"
 msgstr "Último Nome"
 
-#: includes/custom-post-types/property.php:588
+#: includes/custom-post-types/property.php:620
 msgid "Payer Email"
 msgstr "Email do Pagador"
 
-#: includes/custom-post-types/property.php:593
+#: includes/custom-post-types/property.php:625
 msgid "Payment Status"
 msgstr "Status do pagamento"
 
-#: includes/custom-post-types/property.php:598
+#: includes/custom-post-types/property.php:630
 msgid "Payment Amount"
 msgstr "Valor do pagamento"
 
-#: includes/custom-post-types/property.php:603
+#: includes/custom-post-types/property.php:635
 msgid "Payment Currency"
 msgstr "Payment Currency"
 
-#: includes/custom-post-types/property.php:692
+#: includes/custom-post-types/property.php:724
 msgid "All Property Statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:705
+#: includes/custom-post-types/property.php:737
 msgid "All Users"
 msgstr "Todos os Utilizadores"
 
@@ -1089,7 +1112,6 @@ msgid "The response parameter is invalid or malformed."
 msgstr ""
 
 #: includes/functions/google-recaptcha.php:156
-#| msgid "The secret parameter is invalid or malformed."
 msgid "The request is invalid or malformed."
 msgstr ""
 
@@ -1225,7 +1247,6 @@ msgstr ""
 
 #: includes/functions/property-submit.php:148
 #, php-format
-#| msgid "Property Views"
 msgid "Property Published: %s"
 msgstr ""
 
@@ -1240,7 +1261,6 @@ msgid "We have published your property \"%s\"."
 msgstr ""
 
 #: includes/functions/property-submit.php:159
-#| msgid "You can preview it here : "
 msgid "You can view it here."
 msgstr ""
 
@@ -1250,10 +1270,9 @@ msgstr ""
 
 #: includes/functions/purchase-api.php:117
 msgid "Please enter an item purchase code."
-msgstr "Por favor, digite apenas dígitos"
+msgstr "Por favor, digite apenas dígitos."
 
 #: includes/functions/purchase-api.php:140
-#| msgid "* Please provide a valid email address"
 msgid "Please provide a valid purchase code!"
 msgstr ""
 
@@ -1403,6 +1422,9 @@ msgid ""
 "To export settings, copy the content of this field and save to a file. To "
 "import settings, paste the content of the backup file here."
 msgstr ""
+"Para exportar as opções, copie o conteúdo deste campo e guarde-o num "
+"ficheiro. Para importar as opções, cole aqui o conteúdo do ficheiro de cópia "
+"de segurança."
 
 #: includes/mb/exts/mb-settings-page/src/Factory.php:45
 msgid "Save Settings"
@@ -1639,7 +1661,7 @@ msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:31
 msgid "MB Settings Page"
-msgstr ""
+msgstr "Página de opções MB"
 
 #: includes/mb/main/inc/about/sections/getting-started.php:31
 msgid "Create settings pages/Customizer options."
@@ -2046,8 +2068,6 @@ msgstr "Selecione um %s"
 #: includes/mb/main/inc/fields/post.php:156
 #: includes/mb/main/inc/fields/taxonomy.php:157
 #: includes/mb/main/inc/fields/user.php:144
-#| msgctxt "media"
-#| msgid "No Title"
 msgid "(No title)"
 msgstr ""
 
@@ -2088,7 +2108,6 @@ msgid "Are you sure to dismiss all Meta Box news?"
 msgstr ""
 
 #: includes/mb/main/inc/meta-box.php:342
-#| msgid "Meta Box"
 msgid "Meta Box Title"
 msgstr ""
 
@@ -2365,7 +2384,7 @@ msgstr ""
 
 #: includes/mb/property-additional-fields.php:165
 msgid "Additional Fields"
-msgstr ""
+msgstr "Campos Adicionais"
 
 #: includes/mb/property/agent-metaboxes.php:12
 msgid "Agent Information"
@@ -2543,17 +2562,14 @@ msgid "Recommended image size for icon is 64px by 64px."
 msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:85
-#| msgid "Property Status Slug"
 msgid "Property Status Tag Colors"
 msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:89
-#| msgid "Background Color"
 msgid "Status Tag Background Color"
 msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:95
-#| msgid "Footer Text Color"
 msgid "Status Tag Text Color"
 msgstr ""
 
@@ -3105,7 +3121,6 @@ msgid "Google Maps API Key"
 msgstr "Google Maps API Key"
 
 #: includes/settings/map.php:38
-#| msgid "Google Maps API Key"
 msgid "How to get Google Maps API Key?"
 msgstr ""
 
@@ -3288,14 +3303,12 @@ msgstr ""
 "imovel."
 
 #: includes/settings/property.php:73
-#| msgid "Energy Performance"
 msgid "Energy Perofrmance Certificate Classes"
 msgstr ""
 
 #: includes/settings/property.php:77
-#| msgid "Last Name"
 msgid "Class Name"
-msgstr ""
+msgstr "Nome Da Turma"
 
 #: includes/settings/property.php:78
 msgid "Class Color"
@@ -3708,7 +3721,7 @@ msgstr ""
 #: includes/widgets/advance-search-widget.php:57
 #: includes/widgets/agent-featured-properties-widget.php:221
 #: includes/widgets/agent-properties-widget.php:237
-#: includes/widgets/agents-list-widget.php:123
+#: includes/widgets/agents-list-widget.php:151
 #: includes/widgets/featured-properties-widget.php:231
 #: includes/widgets/properties-widget.php:265
 #: includes/widgets/property-types-widget.php:82
@@ -3755,7 +3768,6 @@ msgstr "Imóveis em Destaque"
 #: includes/widgets/agent-properties-widget.php:241
 #: includes/widgets/featured-properties-widget.php:237
 #: includes/widgets/properties-widget.php:271
-#| msgid "Property Features"
 msgid "Property Card Design"
 msgstr ""
 
@@ -3810,7 +3822,6 @@ msgstr "Aleatório"
 
 #: includes/widgets/agent-featured-properties-widget.php:272
 #: includes/widgets/featured-properties-widget.php:280
-#| msgid "Featured"
 msgid "Featured Tag Text"
 msgstr ""
 
@@ -3845,11 +3856,11 @@ msgstr ""
 msgid "RealHomes - Agents"
 msgstr ""
 
-#: includes/widgets/agents-list-widget.php:99
+#: includes/widgets/agents-list-widget.php:127
 msgid "No Agent Found!"
 msgstr ""
 
-#: includes/widgets/agents-list-widget.php:129
+#: includes/widgets/agents-list-widget.php:157
 msgid "Number of Agents"
 msgstr "Número de Comerciais"
 

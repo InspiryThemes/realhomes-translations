@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2021-09-14 18:00+0500\n"
-"PO-Revision-Date: 2021-10-04 17:17+0500\n"
+"POT-Creation-Date: 2022-02-02 21:10+0500\n"
+"PO-Revision-Date: 2022-02-16 00:47+0500\n"
 "Last-Translator: \n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: da_DK\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -86,19 +86,19 @@ msgstr ""
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: easy-real-estate.php:421
+#: easy-real-estate.php:422
 msgid "Settings saved successfully!"
 msgstr ""
 
-#: easy-real-estate.php:430
+#: easy-real-estate.php:431
 msgid "Cloning is forbidden!"
 msgstr ""
 
-#: easy-real-estate.php:437
+#: easy-real-estate.php:438
 msgid "Unserializing is forbidden!"
 msgstr "Unserialisering er forbudt!"
 
-#: easy-real-estate.php:484
+#: easy-real-estate.php:485
 #, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
@@ -134,7 +134,7 @@ msgstr "Bureauer"
 #: includes/custom-post-types/agent.php:20
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
-#: includes/widgets/agents-list-widget.php:114
+#: includes/widgets/agents-list-widget.php:142
 msgid "Agents"
 msgstr "Mæglere"
 
@@ -281,7 +281,7 @@ msgstr "bureauer"
 
 #: includes/custom-post-types/agency.php:111
 #: includes/custom-post-types/agent.php:97
-#: includes/custom-post-types/property.php:386
+#: includes/custom-post-types/property.php:388
 #: includes/custom-post-types/slide.php:63
 msgid "Thumbnail"
 msgstr "Thumbnail"
@@ -308,7 +308,7 @@ msgstr "Oprettet"
 
 #: includes/custom-post-types/agency.php:162
 #: includes/custom-post-types/agent.php:149
-#: includes/custom-post-types/property.php:438
+#: includes/custom-post-types/property.php:458
 msgid "No Thumbnail"
 msgstr "Ingen miniaturebillede"
 
@@ -396,7 +396,7 @@ msgid "Logo"
 msgstr "Logo"
 
 #: includes/custom-post-types/partners.php:67
-#: includes/custom-post-types/property.php:392
+#: includes/custom-post-types/property.php:413
 msgid "Publish Time"
 msgstr "Tid for udgivelse"
 
@@ -446,300 +446,313 @@ msgstr "Overordnet ejendom"
 msgid "property"
 msgstr "ejendom"
 
-#: includes/custom-post-types/property.php:116
-#: includes/custom-post-types/property.php:130
+#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:131
 msgid "Property Features"
 msgstr "Ejendomsegenskaber"
 
-#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:118
 msgid "Property Feature"
 msgstr ""
 
-#: includes/custom-post-types/property.php:118
+#: includes/custom-post-types/property.php:119
 msgid "Search Property Features"
 msgstr "Søg i ejendommes funktioner"
 
-#: includes/custom-post-types/property.php:119
+#: includes/custom-post-types/property.php:120
 msgid "Popular Property Features"
 msgstr "Populære ejendomsfunktioner"
 
-#: includes/custom-post-types/property.php:120
+#: includes/custom-post-types/property.php:121
 msgid "All Property Features"
 msgstr "Alle ejendomsfunktioner"
 
-#: includes/custom-post-types/property.php:121
+#: includes/custom-post-types/property.php:122
 msgid "Parent Property Feature"
 msgstr "Overordnede ejendomsfunktioner"
 
-#: includes/custom-post-types/property.php:122
+#: includes/custom-post-types/property.php:123
 msgid "Parent Property Feature:"
 msgstr "Overordnet ejendoms funktioner:"
 
-#: includes/custom-post-types/property.php:123
+#: includes/custom-post-types/property.php:124
 msgid "Edit Property Feature"
 msgstr "Rediger ejendoms funktioner"
 
-#: includes/custom-post-types/property.php:124
+#: includes/custom-post-types/property.php:125
 msgid "Update Property Feature"
 msgstr "Opdater ejendoms funktioner"
 
-#: includes/custom-post-types/property.php:125
+#: includes/custom-post-types/property.php:126
 msgid "Add New Property Feature"
 msgstr "Tilføj ny ejendoms funktion"
 
-#: includes/custom-post-types/property.php:126
+#: includes/custom-post-types/property.php:127
 msgid "New Property Feature Name"
 msgstr "Nyt ejendomsfunktionsnavn"
 
-#: includes/custom-post-types/property.php:127
+#: includes/custom-post-types/property.php:128
 msgid "Separate Property Features with commas"
 msgstr "Adskil ejendomsfunktioner med kommaer"
 
-#: includes/custom-post-types/property.php:128
+#: includes/custom-post-types/property.php:129
 msgid "Add or remove Property Features"
 msgstr "Tilføj eller fjern ejendomsfunktioner"
 
-#: includes/custom-post-types/property.php:129
+#: includes/custom-post-types/property.php:130
 msgid "Choose from the most used Property Features"
 msgstr "Vælg fra de mest anvendte ejendomsfunktioner"
 
-#: includes/custom-post-types/property.php:143 includes/settings/slug.php:13
+#: includes/custom-post-types/property.php:144 includes/settings/slug.php:13
 msgid "property-feature"
 msgstr "ejendomsfunktion"
 
-#: includes/custom-post-types/property.php:146
+#: includes/custom-post-types/property.php:147
 msgid "property-features"
 msgstr ""
 
-#: includes/custom-post-types/property.php:160
-#: includes/custom-post-types/property.php:174
+#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:175
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr "Ejendomstyper"
 
-#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:162
 msgid "Property Type"
 msgstr "Ejendomstype"
 
-#: includes/custom-post-types/property.php:162
+#: includes/custom-post-types/property.php:163
 msgid "Search Property Types"
 msgstr "Søg i ejendomstyper"
 
-#: includes/custom-post-types/property.php:163
+#: includes/custom-post-types/property.php:164
 msgid "Popular Property Types"
 msgstr "Populære ejendomstyper"
 
-#: includes/custom-post-types/property.php:164
-#: includes/custom-post-types/property.php:679
+#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:711
 msgid "All Property Types"
 msgstr "Alle ydelsestyper"
 
-#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:166
 msgid "Parent Property Type"
 msgstr "Overordnet ydelsestype"
 
-#: includes/custom-post-types/property.php:166
+#: includes/custom-post-types/property.php:167
 msgid "Parent Property Type:"
 msgstr "Overordnet ydelsestype:"
 
-#: includes/custom-post-types/property.php:167
+#: includes/custom-post-types/property.php:168
 msgid "Edit Property Type"
 msgstr "Rediger ydelsestype"
 
-#: includes/custom-post-types/property.php:168
+#: includes/custom-post-types/property.php:169
 msgid "Update Property Type"
 msgstr "Opdatér ydelsestype"
 
-#: includes/custom-post-types/property.php:169
+#: includes/custom-post-types/property.php:170
 msgid "Add New Property Type"
 msgstr "Tilføj ny ydelsestype"
 
-#: includes/custom-post-types/property.php:170
+#: includes/custom-post-types/property.php:171
 msgid "New Property Type Name"
 msgstr "Ny ejendomstypenavn"
 
-#: includes/custom-post-types/property.php:171
+#: includes/custom-post-types/property.php:172
 msgid "Separate Property Types with commas"
 msgstr "Adskil ejendomstyper med kommaer"
 
-#: includes/custom-post-types/property.php:172
+#: includes/custom-post-types/property.php:173
 msgid "Add or remove Property Types"
 msgstr "Tilføj eller fjern ejendomstyper"
 
-#: includes/custom-post-types/property.php:173
+#: includes/custom-post-types/property.php:174
 msgid "Choose from the most used Property Types"
 msgstr "Vælg mellem de mest brugte ejendomstyper"
 
-#: includes/custom-post-types/property.php:187 includes/settings/slug.php:12
+#: includes/custom-post-types/property.php:188 includes/settings/slug.php:12
 msgid "property-type"
 msgstr "ydelsestype"
 
-#: includes/custom-post-types/property.php:190
+#: includes/custom-post-types/property.php:191
 msgid "property-types"
 msgstr ""
 
-#: includes/custom-post-types/property.php:204
-#: includes/custom-post-types/property.php:218
+#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:219
 msgid "Property Locations"
 msgstr "Bolig Adresser"
 
-#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:206
 msgid "Property Location"
 msgstr "Ejendomsadresse"
 
-#: includes/custom-post-types/property.php:206
+#: includes/custom-post-types/property.php:207
 msgid "Search Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:207
+#: includes/custom-post-types/property.php:208
 msgid "Popular Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:208
-#: includes/custom-post-types/property.php:666
+#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:698
 msgid "All Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:210
 msgid "Parent Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:210
+#: includes/custom-post-types/property.php:211
 msgid "Parent Property Location:"
 msgstr ""
 
-#: includes/custom-post-types/property.php:211
+#: includes/custom-post-types/property.php:212
 msgid "Edit Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:212
+#: includes/custom-post-types/property.php:213
 msgid "Update Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:213
+#: includes/custom-post-types/property.php:214
 msgid "Add New Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:214
+#: includes/custom-post-types/property.php:215
 msgid "New Property Location Name"
 msgstr ""
 
-#: includes/custom-post-types/property.php:215
+#: includes/custom-post-types/property.php:216
 msgid "Separate Property Locations with commas"
 msgstr ""
 
-#: includes/custom-post-types/property.php:216
+#: includes/custom-post-types/property.php:217
 msgid "Add or remove Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:217
+#: includes/custom-post-types/property.php:218
 msgid "Choose from the most used Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:231
+#: includes/custom-post-types/property.php:232
 msgid "property-city"
 msgstr "ejendoms beliggenhed"
 
-#: includes/custom-post-types/property.php:234
+#: includes/custom-post-types/property.php:235
 msgid "property-cities"
 msgstr ""
 
-#: includes/custom-post-types/property.php:248
+#: includes/custom-post-types/property.php:249
 msgid "Property Statuses"
 msgstr "Bolig statusser"
 
-#: includes/custom-post-types/property.php:249
-#: includes/custom-post-types/property.php:262
+#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:263
 msgid "Property Status"
 msgstr "Ejendomsstatus"
 
-#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:251
 msgid "Search Property Status"
 msgstr "Søg ejendomsstatus"
 
-#: includes/custom-post-types/property.php:251
+#: includes/custom-post-types/property.php:252
 msgid "Popular Property Status"
 msgstr "Populære ejendomsstatus"
 
-#: includes/custom-post-types/property.php:252
+#: includes/custom-post-types/property.php:253
 msgid "All Property Status"
 msgstr "Alle ejendomsstatus"
 
-#: includes/custom-post-types/property.php:253
+#: includes/custom-post-types/property.php:254
 msgid "Parent Property Status"
 msgstr "Overordnet ejendomsstatus"
 
-#: includes/custom-post-types/property.php:254
+#: includes/custom-post-types/property.php:255
 msgid "Parent Property Status:"
 msgstr "Overordnet ejendomsstatus:"
 
-#: includes/custom-post-types/property.php:255
+#: includes/custom-post-types/property.php:256
 msgid "Edit Property Status"
 msgstr "Redigér ejendomsstatus"
 
-#: includes/custom-post-types/property.php:256
+#: includes/custom-post-types/property.php:257
 msgid "Update Property Status"
 msgstr "Opdatér ejendomsstatus"
 
-#: includes/custom-post-types/property.php:257
+#: includes/custom-post-types/property.php:258
 msgid "Add New Property Status"
 msgstr "Tilføj nye ejendomsstatus"
 
-#: includes/custom-post-types/property.php:258
+#: includes/custom-post-types/property.php:259
 msgid "New Property Status Name"
 msgstr "Nyt ejendomsstatusnavn"
 
-#: includes/custom-post-types/property.php:259
+#: includes/custom-post-types/property.php:260
 msgid "Separate Property Status with commas"
 msgstr "Adskil ejendomsstatus med kommaer"
 
-#: includes/custom-post-types/property.php:260
+#: includes/custom-post-types/property.php:261
 msgid "Add or remove Property Status"
 msgstr "Tilføj eller fjern ejendomsstatus"
 
-#: includes/custom-post-types/property.php:261
+#: includes/custom-post-types/property.php:262
 msgid "Choose from the most used Property Status"
 msgstr "Vælg fra de mest anvendte ejendomsstatus"
 
-#: includes/custom-post-types/property.php:275 includes/settings/slug.php:11
+#: includes/custom-post-types/property.php:276 includes/settings/slug.php:11
 msgid "property-status"
 msgstr "ejendoms status"
 
-#: includes/custom-post-types/property.php:278
+#: includes/custom-post-types/property.php:279
 msgid "property-statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:385
+#: includes/custom-post-types/property.php:387
 #: includes/functions/form-handlers.php:135
 #: includes/functions/form-handlers.php:513
 msgid "Property Title"
 msgstr "Ejendomsoverskrift"
 
-#: includes/custom-post-types/property.php:387
+#: includes/custom-post-types/property.php:389
 msgid "Location"
 msgstr "Lokation"
 
-#: includes/custom-post-types/property.php:388
+#: includes/custom-post-types/property.php:390
 msgid "Type"
 msgstr "Type"
 
-#: includes/custom-post-types/property.php:389
+#: includes/custom-post-types/property.php:391
 msgid "Status"
 msgstr "Status"
 
-#: includes/custom-post-types/property.php:390
+#: includes/custom-post-types/property.php:392
 #: includes/shortcodes/vc-map.php:123
 msgid "Price"
 msgstr "Pris"
 
-#: includes/custom-post-types/property.php:391
-#: includes/custom-post-types/property.php:723
+#: includes/custom-post-types/property.php:393
+#: includes/custom-post-types/property.php:755
 #: includes/mb/property/basic-metaboxes.php:164
 msgid "Property ID"
 msgstr "Konto ID"
 
-#: includes/custom-post-types/property.php:445
+#: includes/custom-post-types/property.php:399
+#| msgid "Last Name"
+msgid "Last 1 Week"
+msgstr ""
+
+#: includes/custom-post-types/property.php:402
+msgid "Last 2 Weeks"
+msgstr ""
+
+#: includes/custom-post-types/property.php:405
+msgid "Last 30 Days"
+msgstr "Sidste 30 dage"
+
+#: includes/custom-post-types/property.php:465
 #: includes/widgets/agent-featured-properties-widget.php:210
 #: includes/widgets/featured-properties-widget.php:220
 #: includes/widgets/grid-cards/card-parts/tags.php:20
@@ -747,64 +760,73 @@ msgstr "Konto ID"
 msgid "Featured"
 msgstr "Fremhævet"
 
-#: includes/custom-post-types/property.php:457
-#: includes/custom-post-types/property.php:469
-#: includes/custom-post-types/property.php:497
-#: includes/custom-post-types/property.php:505
-#: includes/custom-post-types/property.php:513
+#: includes/custom-post-types/property.php:477
+#: includes/custom-post-types/property.php:489
+#: includes/custom-post-types/property.php:517
+#: includes/custom-post-types/property.php:525
+#: includes/custom-post-types/property.php:533
+#: includes/custom-post-types/property.php:541
 #: includes/custom-post-types/slide.php:97
 msgid "NA"
 msgstr "Ikke tilgængelig"
 
-#: includes/custom-post-types/property.php:480
+#: includes/custom-post-types/property.php:500
 msgid "No Address Provided!"
 msgstr "Ingen adresse angivet!"
 
-#: includes/custom-post-types/property.php:531
+#: includes/custom-post-types/property.php:544
+msgid " View"
+msgstr " Visning"
+
+#: includes/custom-post-types/property.php:547
+msgid " Views"
+msgstr " Visninger"
+
+#: includes/custom-post-types/property.php:563
 msgid "Payment Information"
 msgstr "Betalingsinformation"
 
-#: includes/custom-post-types/property.php:547
+#: includes/custom-post-types/property.php:579
 msgid "Not Available"
 msgstr "Ikke tilgængelig"
 
-#: includes/custom-post-types/property.php:562
+#: includes/custom-post-types/property.php:594
 msgid "Transaction ID"
 msgstr "Transaktions-ID"
 
-#: includes/custom-post-types/property.php:567
+#: includes/custom-post-types/property.php:599
 msgid "Payment Date"
 msgstr "Betalings Dato"
 
-#: includes/custom-post-types/property.php:575
+#: includes/custom-post-types/property.php:607
 msgid "First Name"
 msgstr "Fornavn"
 
-#: includes/custom-post-types/property.php:580
+#: includes/custom-post-types/property.php:612
 msgid "Last Name"
 msgstr "Efternavn"
 
-#: includes/custom-post-types/property.php:588
+#: includes/custom-post-types/property.php:620
 msgid "Payer Email"
 msgstr "Betaler email"
 
-#: includes/custom-post-types/property.php:593
+#: includes/custom-post-types/property.php:625
 msgid "Payment Status"
 msgstr "Betalings status"
 
-#: includes/custom-post-types/property.php:598
+#: includes/custom-post-types/property.php:630
 msgid "Payment Amount"
 msgstr "Betalings Beløb"
 
-#: includes/custom-post-types/property.php:603
+#: includes/custom-post-types/property.php:635
 msgid "Payment Currency"
 msgstr "Betalings valuta"
 
-#: includes/custom-post-types/property.php:692
+#: includes/custom-post-types/property.php:724
 msgid "All Property Statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:705
+#: includes/custom-post-types/property.php:737
 msgid "All Users"
 msgstr "Alle Brugere"
 
@@ -1183,7 +1205,7 @@ msgstr "Der opstod en ukendt fejl"
 
 #: includes/functions/price.php:50
 msgid "$"
-msgstr "Kr."
+msgstr "Kr"
 
 #: includes/functions/price.php:61
 msgid "Price On Call"
@@ -1222,7 +1244,6 @@ msgstr ""
 
 #: includes/functions/property-submit.php:148
 #, php-format
-#| msgid "Property Views"
 msgid "Property Published: %s"
 msgstr ""
 
@@ -1237,7 +1258,6 @@ msgid "We have published your property \"%s\"."
 msgstr ""
 
 #: includes/functions/property-submit.php:159
-#| msgid "You can preview it here : "
 msgid "You can view it here."
 msgstr ""
 
@@ -1250,7 +1270,6 @@ msgid "Please enter an item purchase code."
 msgstr ""
 
 #: includes/functions/purchase-api.php:140
-#| msgid "* Please provide a valid email address"
 msgid "Please provide a valid purchase code!"
 msgstr ""
 
@@ -2217,20 +2236,12 @@ msgid ""
 msgstr ""
 
 #: includes/mb/meta-box-helper-functions.php:116
-#| msgid ""
-#| "Images should have minimum size of 1200px by 680px. Bigger size images "
-#| "will be cropped automatically. Minimum 2 images are required to display "
-#| "gallery."
 msgid ""
 "Images should have minimum size of 1240px by 720px. Bigger size images will "
 "be cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
 
 #: includes/mb/meta-box-helper-functions.php:120
-#| msgid ""
-#| "Images should have minimum size of 770px by 386px for thumbnails on right "
-#| "and 830px by 460px for thumbnails on bottom. Bigger size images will be "
-#| "cropped automatically. Minimum 2 images are required to display gallery."
 msgid ""
 "Images should have minimum size of 1170px by 648px for thumbnails on right "
 "and 830px by 460px for thumbnails on bottom. Bigger size images will be "
@@ -2506,17 +2517,14 @@ msgid "Recommended image size for icon is 64px by 64px."
 msgstr "Den anbefalede billedstørrelse for ikonet er 64px gange 64px."
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:85
-#| msgid "Property Statuses"
 msgid "Property Status Tag Colors"
 msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:89
-#| msgid "Background Color"
 msgid "Status Tag Background Color"
 msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:95
-#| msgid "Footer Text Color"
 msgid "Status Tag Text Color"
 msgstr ""
 
@@ -3067,7 +3075,6 @@ msgid "Google Maps API Key"
 msgstr "Google Maps API nøgle"
 
 #: includes/settings/map.php:38
-#| msgid "Google Maps API Key"
 msgid "How to get Google Maps API Key?"
 msgstr ""
 
@@ -3253,7 +3260,6 @@ msgid "Energy Perofrmance Certificate Classes"
 msgstr ""
 
 #: includes/settings/property.php:77
-#| msgid "Last Name"
 msgid "Class Name"
 msgstr ""
 
@@ -3670,7 +3676,7 @@ msgstr ""
 #: includes/widgets/advance-search-widget.php:57
 #: includes/widgets/agent-featured-properties-widget.php:221
 #: includes/widgets/agent-properties-widget.php:237
-#: includes/widgets/agents-list-widget.php:123
+#: includes/widgets/agents-list-widget.php:151
 #: includes/widgets/featured-properties-widget.php:231
 #: includes/widgets/properties-widget.php:265
 #: includes/widgets/property-types-widget.php:82
@@ -3717,7 +3723,6 @@ msgstr "Fremhævede ejendomme"
 #: includes/widgets/agent-properties-widget.php:241
 #: includes/widgets/featured-properties-widget.php:237
 #: includes/widgets/properties-widget.php:271
-#| msgid "Property Features"
 msgid "Property Card Design"
 msgstr ""
 
@@ -3772,7 +3777,6 @@ msgstr "Tilfældig"
 
 #: includes/widgets/agent-featured-properties-widget.php:272
 #: includes/widgets/featured-properties-widget.php:280
-#| msgid "Featured"
 msgid "Featured Tag Text"
 msgstr ""
 
@@ -3807,11 +3811,11 @@ msgstr ""
 msgid "RealHomes - Agents"
 msgstr ""
 
-#: includes/widgets/agents-list-widget.php:99
+#: includes/widgets/agents-list-widget.php:127
 msgid "No Agent Found!"
 msgstr ""
 
-#: includes/widgets/agents-list-widget.php:129
+#: includes/widgets/agents-list-widget.php:157
 msgid "Number of Agents"
 msgstr "Antal mæglere"
 
@@ -3896,7 +3900,7 @@ msgstr "Ingen Fremhævet ejendom fundet!"
 
 #: includes/widgets/grid-cards/card-parts/added.php:4
 msgid "Added: "
-msgstr "Tilføjet:"
+msgstr "Tilføjet: "
 
 #: includes/widgets/grid-cards/card-parts/added.php:11
 msgid "Ago "

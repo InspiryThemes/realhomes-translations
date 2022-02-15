@@ -1,14 +1,16 @@
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2021-09-14 18:00+0500\n"
-"PO-Revision-Date: 2021-10-04 17:21+0500\n"
+"POT-Creation-Date: 2022-02-02 21:10+0500\n"
+"PO-Revision-Date: 2022-02-16 00:54+0500\n"
+"Last-Translator: \n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -16,8 +18,6 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
-"Last-Translator: \n"
-"Language: zh_CN\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: node_modules\n"
@@ -86,19 +86,19 @@ msgstr ""
 msgid "Webhooks"
 msgstr "Web挂钩"
 
-#: easy-real-estate.php:421
+#: easy-real-estate.php:422
 msgid "Settings saved successfully!"
 msgstr "设置已保存成功！"
 
-#: easy-real-estate.php:430
+#: easy-real-estate.php:431
 msgid "Cloning is forbidden!"
 msgstr ""
 
-#: easy-real-estate.php:437
+#: easy-real-estate.php:438
 msgid "Unserializing is forbidden!"
 msgstr "禁止非序列化！"
 
-#: easy-real-estate.php:484
+#: easy-real-estate.php:485
 #, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
@@ -134,7 +134,7 @@ msgstr "房屋机构页面"
 #: includes/custom-post-types/agent.php:20
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
-#: includes/widgets/agents-list-widget.php:114
+#: includes/widgets/agents-list-widget.php:142
 msgid "Agents"
 msgstr "代理"
 
@@ -281,7 +281,7 @@ msgstr ""
 
 #: includes/custom-post-types/agency.php:111
 #: includes/custom-post-types/agent.php:97
-#: includes/custom-post-types/property.php:386
+#: includes/custom-post-types/property.php:388
 #: includes/custom-post-types/slide.php:63
 msgid "Thumbnail"
 msgstr "缩略图"
@@ -308,7 +308,7 @@ msgstr "创建"
 
 #: includes/custom-post-types/agency.php:162
 #: includes/custom-post-types/agent.php:149
-#: includes/custom-post-types/property.php:438
+#: includes/custom-post-types/property.php:458
 msgid "No Thumbnail"
 msgstr "没有缩略图"
 
@@ -396,7 +396,7 @@ msgid "Logo"
 msgstr "Logo"
 
 #: includes/custom-post-types/partners.php:67
-#: includes/custom-post-types/property.php:392
+#: includes/custom-post-types/property.php:413
 msgid "Publish Time"
 msgstr "发布时间"
 
@@ -446,300 +446,312 @@ msgstr "父级房源"
 msgid "property"
 msgstr "房源"
 
-#: includes/custom-post-types/property.php:116
-#: includes/custom-post-types/property.php:130
+#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:131
 msgid "Property Features"
 msgstr "房源特点"
 
-#: includes/custom-post-types/property.php:117
+#: includes/custom-post-types/property.php:118
 msgid "Property Feature"
 msgstr "属性特色"
 
-#: includes/custom-post-types/property.php:118
+#: includes/custom-post-types/property.php:119
 msgid "Search Property Features"
 msgstr "房源特色检索"
 
-#: includes/custom-post-types/property.php:119
+#: includes/custom-post-types/property.php:120
 msgid "Popular Property Features"
 msgstr "流行特色"
 
-#: includes/custom-post-types/property.php:120
+#: includes/custom-post-types/property.php:121
 msgid "All Property Features"
 msgstr "所有特色"
 
-#: includes/custom-post-types/property.php:121
+#: includes/custom-post-types/property.php:122
 msgid "Parent Property Feature"
 msgstr "父级房源特色"
 
-#: includes/custom-post-types/property.php:122
+#: includes/custom-post-types/property.php:123
 msgid "Parent Property Feature:"
 msgstr "父级房源特色："
 
-#: includes/custom-post-types/property.php:123
+#: includes/custom-post-types/property.php:124
 msgid "Edit Property Feature"
 msgstr "编辑房源功能"
 
-#: includes/custom-post-types/property.php:124
+#: includes/custom-post-types/property.php:125
 msgid "Update Property Feature"
 msgstr "更新房源特色"
 
-#: includes/custom-post-types/property.php:125
+#: includes/custom-post-types/property.php:126
 msgid "Add New Property Feature"
 msgstr "添加新的房源特色"
 
-#: includes/custom-post-types/property.php:126
+#: includes/custom-post-types/property.php:127
 msgid "New Property Feature Name"
 msgstr "新房源精选名称"
 
-#: includes/custom-post-types/property.php:127
+#: includes/custom-post-types/property.php:128
 msgid "Separate Property Features with commas"
 msgstr "以“,”分隔房源特色"
 
-#: includes/custom-post-types/property.php:128
+#: includes/custom-post-types/property.php:129
 msgid "Add or remove Property Features"
 msgstr "添加或移除房源特色"
 
-#: includes/custom-post-types/property.php:129
+#: includes/custom-post-types/property.php:130
 msgid "Choose from the most used Property Features"
 msgstr "从最常用的特色中选择"
 
-#: includes/custom-post-types/property.php:143 includes/settings/slug.php:13
+#: includes/custom-post-types/property.php:144 includes/settings/slug.php:13
 msgid "property-feature"
 msgstr "房源特色"
 
-#: includes/custom-post-types/property.php:146
+#: includes/custom-post-types/property.php:147
 msgid "property-features"
 msgstr ""
 
-#: includes/custom-post-types/property.php:160
-#: includes/custom-post-types/property.php:174
+#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:175
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr "房源类型"
 
-#: includes/custom-post-types/property.php:161
+#: includes/custom-post-types/property.php:162
 msgid "Property Type"
 msgstr "房源类型"
 
-#: includes/custom-post-types/property.php:162
+#: includes/custom-post-types/property.php:163
 msgid "Search Property Types"
 msgstr "房源类型检索"
 
-#: includes/custom-post-types/property.php:163
+#: includes/custom-post-types/property.php:164
 msgid "Popular Property Types"
 msgstr "流行类型"
 
-#: includes/custom-post-types/property.php:164
-#: includes/custom-post-types/property.php:679
+#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:711
 msgid "All Property Types"
 msgstr "所有类型"
 
-#: includes/custom-post-types/property.php:165
+#: includes/custom-post-types/property.php:166
 msgid "Parent Property Type"
 msgstr "父级房源类型"
 
-#: includes/custom-post-types/property.php:166
+#: includes/custom-post-types/property.php:167
 msgid "Parent Property Type:"
 msgstr "父级房源类型："
 
-#: includes/custom-post-types/property.php:167
+#: includes/custom-post-types/property.php:168
 msgid "Edit Property Type"
 msgstr "编辑房源类型"
 
-#: includes/custom-post-types/property.php:168
+#: includes/custom-post-types/property.php:169
 msgid "Update Property Type"
 msgstr "更新房源类型"
 
-#: includes/custom-post-types/property.php:169
+#: includes/custom-post-types/property.php:170
 msgid "Add New Property Type"
 msgstr "添加新的房源类型"
 
-#: includes/custom-post-types/property.php:170
+#: includes/custom-post-types/property.php:171
 msgid "New Property Type Name"
 msgstr "类型名称"
 
-#: includes/custom-post-types/property.php:171
+#: includes/custom-post-types/property.php:172
 msgid "Separate Property Types with commas"
 msgstr "以“,”分隔房源类型"
 
-#: includes/custom-post-types/property.php:172
+#: includes/custom-post-types/property.php:173
 msgid "Add or remove Property Types"
 msgstr "添加或移除房源类型"
 
-#: includes/custom-post-types/property.php:173
+#: includes/custom-post-types/property.php:174
 msgid "Choose from the most used Property Types"
 msgstr "从最常用的类型中选择"
 
-#: includes/custom-post-types/property.php:187 includes/settings/slug.php:12
+#: includes/custom-post-types/property.php:188 includes/settings/slug.php:12
 msgid "property-type"
 msgstr "房源类型"
 
-#: includes/custom-post-types/property.php:190
+#: includes/custom-post-types/property.php:191
 msgid "property-types"
 msgstr ""
 
-#: includes/custom-post-types/property.php:204
-#: includes/custom-post-types/property.php:218
+#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:219
 msgid "Property Locations"
 msgstr "房源位置"
 
-#: includes/custom-post-types/property.php:205
+#: includes/custom-post-types/property.php:206
 msgid "Property Location"
 msgstr "俱乐部位置"
 
-#: includes/custom-post-types/property.php:206
+#: includes/custom-post-types/property.php:207
 msgid "Search Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:207
+#: includes/custom-post-types/property.php:208
 msgid "Popular Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:208
-#: includes/custom-post-types/property.php:666
+#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:698
 msgid "All Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:209
+#: includes/custom-post-types/property.php:210
 msgid "Parent Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:210
+#: includes/custom-post-types/property.php:211
 msgid "Parent Property Location:"
 msgstr ""
 
-#: includes/custom-post-types/property.php:211
+#: includes/custom-post-types/property.php:212
 msgid "Edit Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:212
+#: includes/custom-post-types/property.php:213
 msgid "Update Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:213
+#: includes/custom-post-types/property.php:214
 msgid "Add New Property Location"
 msgstr ""
 
-#: includes/custom-post-types/property.php:214
+#: includes/custom-post-types/property.php:215
 msgid "New Property Location Name"
 msgstr ""
 
-#: includes/custom-post-types/property.php:215
+#: includes/custom-post-types/property.php:216
 msgid "Separate Property Locations with commas"
 msgstr ""
 
-#: includes/custom-post-types/property.php:216
+#: includes/custom-post-types/property.php:217
 msgid "Add or remove Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:217
+#: includes/custom-post-types/property.php:218
 msgid "Choose from the most used Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:231
+#: includes/custom-post-types/property.php:232
 msgid "property-city"
 msgstr "房源所属城市"
 
-#: includes/custom-post-types/property.php:234
+#: includes/custom-post-types/property.php:235
 msgid "property-cities"
 msgstr ""
 
-#: includes/custom-post-types/property.php:248
+#: includes/custom-post-types/property.php:249
 msgid "Property Statuses"
 msgstr "房源状态"
 
-#: includes/custom-post-types/property.php:249
-#: includes/custom-post-types/property.php:262
+#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:263
 msgid "Property Status"
 msgstr "房产状态"
 
-#: includes/custom-post-types/property.php:250
+#: includes/custom-post-types/property.php:251
 msgid "Search Property Status"
 msgstr "房源状态检索"
 
-#: includes/custom-post-types/property.php:251
+#: includes/custom-post-types/property.php:252
 msgid "Popular Property Status"
 msgstr "流行的状态"
 
-#: includes/custom-post-types/property.php:252
+#: includes/custom-post-types/property.php:253
 msgid "All Property Status"
 msgstr "所有房源状态"
 
-#: includes/custom-post-types/property.php:253
+#: includes/custom-post-types/property.php:254
 msgid "Parent Property Status"
 msgstr "父级房源状态"
 
-#: includes/custom-post-types/property.php:254
+#: includes/custom-post-types/property.php:255
 msgid "Parent Property Status:"
 msgstr "父级房源状态："
 
-#: includes/custom-post-types/property.php:255
+#: includes/custom-post-types/property.php:256
 msgid "Edit Property Status"
 msgstr "编辑房源状态"
 
-#: includes/custom-post-types/property.php:256
+#: includes/custom-post-types/property.php:257
 msgid "Update Property Status"
 msgstr "更新房源状态"
 
-#: includes/custom-post-types/property.php:257
+#: includes/custom-post-types/property.php:258
 msgid "Add New Property Status"
 msgstr "新建"
 
-#: includes/custom-post-types/property.php:258
+#: includes/custom-post-types/property.php:259
 msgid "New Property Status Name"
 msgstr "状态名称"
 
-#: includes/custom-post-types/property.php:259
+#: includes/custom-post-types/property.php:260
 msgid "Separate Property Status with commas"
 msgstr "以“,”分隔的房源状态"
 
-#: includes/custom-post-types/property.php:260
+#: includes/custom-post-types/property.php:261
 msgid "Add or remove Property Status"
 msgstr "添加或移除房源状态"
 
-#: includes/custom-post-types/property.php:261
+#: includes/custom-post-types/property.php:262
 msgid "Choose from the most used Property Status"
 msgstr "从最常用的状态中选择"
 
-#: includes/custom-post-types/property.php:275 includes/settings/slug.php:11
+#: includes/custom-post-types/property.php:276 includes/settings/slug.php:11
 msgid "property-status"
 msgstr "房源状态"
 
-#: includes/custom-post-types/property.php:278
+#: includes/custom-post-types/property.php:279
 msgid "property-statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:385
+#: includes/custom-post-types/property.php:387
 #: includes/functions/form-handlers.php:135
 #: includes/functions/form-handlers.php:513
 msgid "Property Title"
 msgstr "俱乐部名称"
 
-#: includes/custom-post-types/property.php:387
+#: includes/custom-post-types/property.php:389
 msgid "Location"
 msgstr "位置"
 
-#: includes/custom-post-types/property.php:388
+#: includes/custom-post-types/property.php:390
 msgid "Type"
 msgstr "类型"
 
-#: includes/custom-post-types/property.php:389
+#: includes/custom-post-types/property.php:391
 msgid "Status"
 msgstr "状态"
 
-#: includes/custom-post-types/property.php:390
+#: includes/custom-post-types/property.php:392
 #: includes/shortcodes/vc-map.php:123
 msgid "Price"
 msgstr "价格"
 
-#: includes/custom-post-types/property.php:391
-#: includes/custom-post-types/property.php:723
+#: includes/custom-post-types/property.php:393
+#: includes/custom-post-types/property.php:755
 #: includes/mb/property/basic-metaboxes.php:164
 msgid "Property ID"
 msgstr "房产ID"
 
-#: includes/custom-post-types/property.php:445
+#: includes/custom-post-types/property.php:399
+msgid "Last 1 Week"
+msgstr "最后 1 周"
+
+#: includes/custom-post-types/property.php:402
+msgid "Last 2 Weeks"
+msgstr "过去 2 周"
+
+#: includes/custom-post-types/property.php:405
+msgid "Last 30 Days"
+msgstr "最近30天"
+
+#: includes/custom-post-types/property.php:465
 #: includes/widgets/agent-featured-properties-widget.php:210
 #: includes/widgets/featured-properties-widget.php:220
 #: includes/widgets/grid-cards/card-parts/tags.php:20
@@ -747,64 +759,73 @@ msgstr "房产ID"
 msgid "Featured"
 msgstr "精选"
 
-#: includes/custom-post-types/property.php:457
-#: includes/custom-post-types/property.php:469
-#: includes/custom-post-types/property.php:497
-#: includes/custom-post-types/property.php:505
-#: includes/custom-post-types/property.php:513
+#: includes/custom-post-types/property.php:477
+#: includes/custom-post-types/property.php:489
+#: includes/custom-post-types/property.php:517
+#: includes/custom-post-types/property.php:525
+#: includes/custom-post-types/property.php:533
+#: includes/custom-post-types/property.php:541
 #: includes/custom-post-types/slide.php:97
 msgid "NA"
 msgstr "未提供"
 
-#: includes/custom-post-types/property.php:480
+#: includes/custom-post-types/property.php:500
 msgid "No Address Provided!"
 msgstr "没有提供地址！"
 
-#: includes/custom-post-types/property.php:531
+#: includes/custom-post-types/property.php:544
+msgid " View"
+msgstr " 浏览"
+
+#: includes/custom-post-types/property.php:547
+msgid " Views"
+msgstr " 查看"
+
+#: includes/custom-post-types/property.php:563
 msgid "Payment Information"
 msgstr "支付信息"
 
-#: includes/custom-post-types/property.php:547
+#: includes/custom-post-types/property.php:579
 msgid "Not Available"
 msgstr "不可用"
 
-#: includes/custom-post-types/property.php:562
+#: includes/custom-post-types/property.php:594
 msgid "Transaction ID"
 msgstr "交易ID"
 
-#: includes/custom-post-types/property.php:567
+#: includes/custom-post-types/property.php:599
 msgid "Payment Date"
 msgstr "支付日期"
 
-#: includes/custom-post-types/property.php:575
+#: includes/custom-post-types/property.php:607
 msgid "First Name"
 msgstr "名字"
 
-#: includes/custom-post-types/property.php:580
+#: includes/custom-post-types/property.php:612
 msgid "Last Name"
 msgstr "姓"
 
-#: includes/custom-post-types/property.php:588
+#: includes/custom-post-types/property.php:620
 msgid "Payer Email"
 msgstr "支付者邮箱"
 
-#: includes/custom-post-types/property.php:593
+#: includes/custom-post-types/property.php:625
 msgid "Payment Status"
 msgstr "付款状态"
 
-#: includes/custom-post-types/property.php:598
+#: includes/custom-post-types/property.php:630
 msgid "Payment Amount"
 msgstr "支付金额"
 
-#: includes/custom-post-types/property.php:603
+#: includes/custom-post-types/property.php:635
 msgid "Payment Currency"
 msgstr "支付货币"
 
-#: includes/custom-post-types/property.php:692
+#: includes/custom-post-types/property.php:724
 msgid "All Property Statuses"
 msgstr ""
 
-#: includes/custom-post-types/property.php:705
+#: includes/custom-post-types/property.php:737
 msgid "All Users"
 msgstr "所有用户"
 
@@ -959,13 +980,13 @@ msgstr "消息发送成功！"
 #: includes/functions/form-handlers.php:425
 #: includes/functions/form-handlers.php:602
 msgid "Server Error: WordPress mail function failed!"
-msgstr "服务器错误：WordPress邮件功能失败！ "
+msgstr "服务器错误：WordPress邮件功能失败!"
 
 #: includes/functions/form-handlers.php:251
 #: includes/functions/form-handlers.php:433
 #: includes/functions/form-handlers.php:610
 msgid "Invalid Request !"
-msgstr "无效请求！ "
+msgstr "无效请求！"
 
 #: includes/functions/form-handlers.php:326
 msgid "using home contact form at"
@@ -1071,11 +1092,11 @@ msgstr "我同意让本站保存我提交的信息，以便对我的查询作出
 
 #: includes/functions/google-recaptcha.php:152
 msgid "The secret parameter is missing."
-msgstr "secret参数丢失。"
+msgstr ""
 
 #: includes/functions/google-recaptcha.php:153
 msgid "The secret parameter is invalid or malformed."
-msgstr "secret参数无效或格式错误。"
+msgstr ""
 
 #: includes/functions/google-recaptcha.php:154
 msgid "The response parameter is missing."
@@ -1467,7 +1488,7 @@ msgid ""
 "consider ordinary!"
 msgstr ""
 "扩展 WordPress 中的自定义字段, 远远超出了其他人认为的普通字段!使用我们的扩展"
-"包节省70% 以上。"
+"包节省70% 以上。!"
 
 #: includes/mb/main/inc/about/sections/extensions.php:12
 msgid "Save over 80% with our extensions bundles."
@@ -1808,7 +1829,7 @@ msgstr "-- 位置 --"
 
 #: includes/mb/main/inc/fields/background.php:109
 msgid "Top Left"
-msgstr ""
+msgstr "左上"
 
 #: includes/mb/main/inc/fields/background.php:110
 msgid "Top Center"
@@ -1966,7 +1987,7 @@ msgstr "+ 添加媒体"
 #: includes/mb/main/inc/fields/media.php:28
 msgctxt "media"
 msgid " file"
-msgstr "文件"
+msgstr ""
 
 #: includes/mb/main/inc/fields/media.php:29
 msgctxt "media"
@@ -2214,7 +2235,7 @@ msgstr "与metabox.io的连接出错。请稍后再试。"
 
 #: includes/mb/main/inc/update/settings.php:159
 msgid "Your license is activated."
-msgstr "您的许可证已激活！"
+msgstr "您的许可证已激活."
 
 #: includes/mb/main/inc/update/settings.php:162
 #, php-format
@@ -2533,7 +2554,7 @@ msgstr "状态标签背景颜色"
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:95
 msgid "Status Tag Text Color"
-msgstr ""
+msgstr "状态标签文本颜色"
 
 #: includes/mb/property/energy-metaboxes.php:12
 #: includes/mb/property/energy-metaboxes.php:68
@@ -2628,11 +2649,11 @@ msgstr "默认库"
 
 #: includes/mb/property/gallery-metaboxes.php:40
 msgid "Gallery with Thumbnails"
-msgstr "在移动设备上启用或禁用图库幻灯片缩略图。"
+msgstr "在移动设备上启用或禁用图库幻灯片缩略图"
 
 #: includes/mb/property/gallery-metaboxes.php:41
 msgid "Gallery with Thumbnails Two"
-msgstr "在移动设备上启用或禁用图库幻灯片缩略图。"
+msgstr "在移动设备上启用或禁用图库幻灯片缩略图"
 
 #: includes/mb/property/gallery-metaboxes.php:42
 msgid "Masonry"
@@ -3614,7 +3635,7 @@ msgstr "Facebook SDK返回了一个错误: "
 
 #: includes/social-login/callbacks.php:60
 msgid "Error: "
-msgstr "错误："
+msgstr "错误： "
 
 #: includes/social-login/callbacks.php:61
 msgid "Error Code: "
@@ -3634,7 +3655,7 @@ msgstr "错误的请求"
 
 #: includes/social-login/helper-functions.php:20
 msgid "Connect with:"
-msgstr "连接: "
+msgstr "连接:"
 
 #: includes/social-login/helper-functions.php:27
 msgid "Facebook"
@@ -3670,7 +3691,7 @@ msgstr "高级搜索页尚未配置。 请阅读高级搜索页面和表单配�
 #: includes/widgets/advance-search-widget.php:57
 #: includes/widgets/agent-featured-properties-widget.php:221
 #: includes/widgets/agent-properties-widget.php:237
-#: includes/widgets/agents-list-widget.php:123
+#: includes/widgets/agents-list-widget.php:151
 #: includes/widgets/featured-properties-widget.php:231
 #: includes/widgets/properties-widget.php:265
 #: includes/widgets/property-types-widget.php:82
@@ -3803,11 +3824,11 @@ msgstr ""
 msgid "RealHomes - Agents"
 msgstr ""
 
-#: includes/widgets/agents-list-widget.php:99
+#: includes/widgets/agents-list-widget.php:127
 msgid "No Agent Found!"
 msgstr ""
 
-#: includes/widgets/agents-list-widget.php:129
+#: includes/widgets/agents-list-widget.php:157
 msgid "Number of Agents"
 msgstr "经纪人数量"
 
@@ -3892,11 +3913,11 @@ msgstr "没有发现房产！"
 
 #: includes/widgets/grid-cards/card-parts/added.php:4
 msgid "Added: "
-msgstr "已添加："
+msgstr "已添加： "
 
 #: includes/widgets/grid-cards/card-parts/added.php:11
 msgid "Ago "
-msgstr "前"
+msgstr "前 "
 
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:25
 #: includes/widgets/grid-cards/grid-card-1.php:164
