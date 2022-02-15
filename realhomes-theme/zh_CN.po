@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2021-09-14 17:59+0500\n"
-"PO-Revision-Date: 2021-10-04 17:13+0500\n"
+"POT-Creation-Date: 2022-02-03 13:58+0500\n"
+"PO-Revision-Date: 2022-02-16 00:44+0500\n"
 "Last-Translator: \n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: zh_CN\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
@@ -128,7 +128,8 @@ msgstr "传真"
 #: assets/modern/partials/property/single-fullwidth/agent.php:143
 #: assets/modern/partials/property/single/agent-for-sidebar.php:98
 #: assets/modern/partials/property/single/agent.php:122
-#: framework/functions/basic.php:2341
+#: framework/customizer/sections/property/agent.php:159
+#: framework/functions/basic.php:2510
 msgid "WhatsApp"
 msgstr "WhatsApp"
 
@@ -467,7 +468,7 @@ msgstr "上一篇文章"
 msgid "Next Post"
 msgstr "下一篇文章"
 
-#: assets/classic/partials/footer.php:93 assets/modern/partials/footer.php:105
+#: assets/classic/partials/footer.php:93 assets/modern/partials/footer.php:133
 msgid "All rights reserved."
 msgstr "版权所有。"
 
@@ -496,7 +497,7 @@ msgstr "• 提供用户名！"
 #: assets/classic/partials/page/forms/login-form.php:9
 #: assets/modern/partials/member/login-form.php:24
 #: assets/modern/partials/page/edit-profile.php:182
-#: common/dashboard/profile.php:238 common/partials/login-modal.php:140
+#: common/dashboard/profile.php:247 common/partials/login-modal.php:140
 #: common/partials/login-modal.php:146
 #: framework/customizer/sections/header/login-register.php:217
 #: framework/customizer/sections/header/login-register.php:228
@@ -597,14 +598,13 @@ msgid "Email us at"
 msgstr "给我们Email"
 
 #: assets/classic/partials/header/phone-number.php:26
-#: assets/classic/partials/header/sticky-header.php:52
 msgid "Make a Call"
 msgstr "拨打电话"
 
 #: assets/classic/partials/header/user-nav.php:21
 #: assets/classic/partials/header/user-nav.php:26
-#: assets/modern/partials/header/modal.php:58
-#: assets/modern/partials/header/modal.php:97
+#: assets/modern/partials/header/modal.php:59
+#: assets/modern/partials/header/modal.php:98
 #: assets/modern/partials/member/properties.php:105
 #: assets/modern/partials/page/edit-profile.php:73
 #: assets/modern/partials/page/favorites.php:108
@@ -614,14 +614,14 @@ msgstr "收藏夹"
 
 #: assets/classic/partials/header/user-nav.php:45
 #: assets/classic/partials/home/slider/cfos.php:204
-#: assets/modern/partials/header/submit-property.php:21
+#: assets/modern/partials/header/submit-property.php:20
 #: assets/modern/partials/home/slider/cfos.php:199
-#: common/dashboard/header.php:131 framework/customizer/dashboard.php:182
+#: common/dashboard/header.php:132 framework/customizer/dashboard.php:182
 msgid "Submit"
 msgstr "提交"
 
 #: assets/classic/partials/header/user-nav.php:70
-#: assets/modern/partials/header/modal.php:108
+#: assets/modern/partials/header/modal.php:109
 #: framework/customizer/dashboard.php:545
 #: framework/customizer/dashboard.php:671 framework/functions/dashboard.php:266
 #: framework/functions/dashboard.php:525
@@ -629,7 +629,7 @@ msgid "Saved Searches"
 msgstr "已保存的搜索"
 
 #: assets/classic/partials/header/user-nav.php:88
-#: assets/modern/partials/header/modal.php:87
+#: assets/modern/partials/header/modal.php:88
 #: assets/modern/partials/member/properties.php:95
 #: assets/modern/partials/page/edit-profile.php:63
 #: assets/modern/partials/page/favorites.php:98
@@ -643,7 +643,7 @@ msgstr "我的房源"
 #: assets/classic/partials/header/user-nav.php:102
 #: assets/modern/partials/agency/single/agency.php:36
 #: assets/modern/partials/agent/single/agent.php:38
-#: assets/modern/partials/header/modal.php:73
+#: assets/modern/partials/header/modal.php:74
 #: assets/modern/partials/member/properties.php:85
 #: assets/modern/partials/page/edit-profile.php:53
 #: assets/modern/partials/page/favorites.php:88
@@ -652,7 +652,7 @@ msgid "Profile"
 msgstr "个人资料"
 
 #: assets/classic/partials/header/user-nav.php:107
-#: assets/modern/partials/header/modal.php:140
+#: assets/modern/partials/header/modal.php:141
 #: framework/functions/dashboard.php:328 framework/functions/dashboard.php:329
 #: framework/functions/dashboard.php:557
 msgid "Logout"
@@ -713,9 +713,9 @@ msgstr "照片"
 #: common/dashboard/property-card.php:42
 #: common/dashboard/saved-search-item.php:74
 #: framework/customizer/dashboard.php:224
-#: framework/customizer/properties-templates-and-archive.php:232
-#: framework/customizer/properties-templates-and-archive.php:244
-#: framework/functions/dashboard.php:1395
+#: framework/customizer/properties-templates-and-archive.php:306
+#: framework/customizer/properties-templates-and-archive.php:318
+#: framework/functions/dashboard.php:1409
 #: framework/functions/submit-edit.php:283
 msgid "Bedrooms"
 msgstr "卧室"
@@ -751,9 +751,9 @@ msgstr "卧室"
 #: common/dashboard/property-card.php:60
 #: common/dashboard/saved-search-item.php:70
 #: framework/customizer/dashboard.php:225
-#: framework/customizer/properties-templates-and-archive.php:233
-#: framework/customizer/properties-templates-and-archive.php:245
-#: framework/functions/dashboard.php:1402
+#: framework/customizer/properties-templates-and-archive.php:307
+#: framework/customizer/properties-templates-and-archive.php:319
+#: framework/functions/dashboard.php:1416
 #: framework/functions/submit-edit.php:289
 msgid "Bathrooms"
 msgstr "浴室"
@@ -865,10 +865,10 @@ msgstr "排序方式"
 #: assets/modern/partials/properties/search.php:138
 #: assets/modern/partials/taxonomy/grid-layout.php:58
 #: assets/modern/partials/taxonomy/list-layout.php:56
-#: framework/customizer/misc.php:126 framework/functions/dashboard.php:1661
-#: framework/functions/design-variations-handler.php:410
-#: framework/functions/design-variations-handler.php:806
-#: framework/functions/design-variations-handler.php:995
+#: framework/customizer/misc.php:108 framework/functions/dashboard.php:1675
+#: framework/functions/design-variations-handler.php:354
+#: framework/functions/design-variations-handler.php:725
+#: framework/functions/design-variations-handler.php:914
 msgid "No Results Found!"
 msgstr "未找到结果！"
 
@@ -889,7 +889,7 @@ msgid "Change"
 msgstr "更改"
 
 #: assets/classic/partials/page/edit-profile.php:117
-#: framework/functions/dashboard.php:1345
+#: framework/functions/dashboard.php:1359
 #: framework/functions/submit-edit.php:241
 msgid "Remove"
 msgstr "移除"
@@ -990,13 +990,13 @@ msgstr "如果你想改变你的密码请填写"
 
 #: assets/classic/partials/page/edit-profile.php:292
 #: assets/modern/partials/page/edit-profile.php:188
-#: common/dashboard/profile.php:245
+#: common/dashboard/profile.php:254
 msgid "Confirm Password"
 msgstr "确认密码"
 
 #: assets/classic/partials/page/edit-profile.php:425
 #: assets/modern/partials/page/edit-profile.php:389
-#: common/dashboard/profile.php:365 framework/include/admin/tabs/design.php:51
+#: common/dashboard/profile.php:375 framework/include/admin/tabs/design.php:52
 msgid "Save Changes"
 msgstr "保存更改"
 
@@ -1208,7 +1208,7 @@ msgstr "没有房源!"
 #: assets/modern/partials/page/submit-property.php:508
 #: common/dashboard/submit-property.php:34
 #: framework/functions/dashboard.php:735
-#: framework/functions/edit-profile-handler.php:313
+#: framework/functions/edit-profile-handler.php:321
 #: framework/functions/property-submit-handler.php:16
 #: framework/functions/property-submit-handler.php:77
 #: framework/functions/property-submit-handler.php:175
@@ -1250,8 +1250,8 @@ msgstr "城市"
 #: assets/modern/partials/property/single/meta.php:185
 #: common/dashboard/form-fields/lot-size.php:11
 #: framework/customizer/dashboard.php:229
-#: framework/customizer/properties-templates-and-archive.php:237
-#: framework/customizer/properties-templates-and-archive.php:249
+#: framework/customizer/properties-templates-and-archive.php:311
+#: framework/customizer/properties-templates-and-archive.php:323
 msgid "Lot Size"
 msgstr "土地面积"
 
@@ -1274,8 +1274,8 @@ msgstr "房源面积"
 #: common/dashboard/form-fields/year-built.php:16
 #: common/dashboard/form-fields/year-built.php:18
 #: framework/customizer/dashboard.php:231
-#: framework/customizer/properties-templates-and-archive.php:236
-#: framework/customizer/properties-templates-and-archive.php:248
+#: framework/customizer/properties-templates-and-archive.php:310
+#: framework/customizer/properties-templates-and-archive.php:322
 msgid "Year Built"
 msgstr "建造年份"
 
@@ -1551,7 +1551,7 @@ msgstr "客人"
 #: framework/customizer/sections/property/similar-properties.php:109
 #: framework/customizer/sections/search/search-form-basics.php:99
 #: framework/customizer/sections/search/search-form-property-status.php:31
-#: framework/functions/basic.php:1876 framework/functions/basic.php:1919
+#: framework/functions/basic.php:1879 framework/functions/basic.php:1922
 msgid "Property Status"
 msgstr "房产状态"
 
@@ -1564,7 +1564,7 @@ msgstr "房产状态"
 #: framework/customizer/sections/property/similar-properties.php:107
 #: framework/customizer/sections/search/search-form-basics.php:100
 #: framework/customizer/sections/search/search-form-property-types.php:48
-#: framework/functions/basic.php:1874 framework/functions/basic.php:1917
+#: framework/functions/basic.php:1877 framework/functions/basic.php:1920
 msgid "Property Type"
 msgstr "房源类型"
 
@@ -1584,7 +1584,7 @@ msgid " Types Selected "
 msgstr "所选类型"
 
 #: assets/classic/partials/properties/search/form.php:46
-#: framework/functions/design-variations-handler.php:397
+#: framework/functions/design-variations-handler.php:341
 msgid "More fields"
 msgstr "更多字段"
 
@@ -1645,7 +1645,7 @@ msgstr "额外细节"
 #: assets/modern/partials/property/single-fullwidth/children.php:27
 #: assets/modern/partials/property/single/children.php:32
 #: common/dashboard/form-fields/video.php:4
-#: framework/functions/dashboard.php:1418
+#: framework/functions/dashboard.php:1432
 #: framework/functions/submit-edit.php:461
 #: framework/functions/submit-edit.php:482
 #: framework/include/meta-boxes/home-page-meta-box.php:983
@@ -1655,7 +1655,7 @@ msgstr "标题"
 #: assets/classic/partials/property/form-fields/additional-details.php:17
 #: assets/modern/partials/property/form-fields/additional-details.php:63
 #: assets/modern/partials/property/form-fields/additional-details.php:106
-#: framework/functions/dashboard.php:1422
+#: framework/functions/dashboard.php:1436
 #: framework/functions/submit-edit.php:464
 #: framework/functions/submit-edit.php:483
 msgid "Value"
@@ -1708,7 +1708,7 @@ msgstr "在经纪人信息框中显示什么？"
 #: framework/customizer/sections/header/login-register.php:149
 #: framework/customizer/sections/property/basics.php:87
 #: framework/customizer/sections/search/properties-search-page.php:194
-#: framework/customizer/site-logo.php:153 framework/functions/basic.php:1843
+#: framework/customizer/site-logo.php:153 framework/functions/basic.php:1846
 #: framework/functions/data.php:21
 #: framework/functions/property-submit-handler.php:276
 #: framework/functions/property-submit-handler.php:278
@@ -1771,8 +1771,8 @@ msgstr "面积后缀"
 #: assets/modern/partials/property/single/similar-property-card.php:141
 #: common/dashboard/form-fields/area.php:12
 #: common/dashboard/property-card.php:79 framework/customizer/dashboard.php:227
-#: framework/customizer/properties-templates-and-archive.php:234
-#: framework/customizer/properties-templates-and-archive.php:246
+#: framework/customizer/properties-templates-and-archive.php:308
+#: framework/customizer/properties-templates-and-archive.php:320
 msgid "Area"
 msgstr "区域"
 
@@ -2140,7 +2140,7 @@ msgstr "最低住宿天数"
 #: assets/classic/partials/property/single/metas.php:117
 #: assets/classic/partials/property/single/metas.php:120
 #: common/dashboard/form-fields/vacation-rentals.php:5
-#: framework/customizer/properties-templates-and-archive.php:238
+#: framework/customizer/properties-templates-and-archive.php:312
 #: framework/customizer/sections/property/basics.php:222
 msgid "Guests Capacity"
 msgstr "来宾人数"
@@ -2442,25 +2442,25 @@ msgstr "找不到房源"
 msgid "Whatsapp"
 msgstr "WhatsApp"
 
-#: assets/modern/partials/blog/post/meta.php:14
+#: assets/modern/partials/blog/post/meta.php:12
 #, php-format
 msgctxt "author byline"
 msgid "By %s"
 msgstr "由 %s"
 
-#: assets/modern/partials/blog/post/meta.php:21
+#: assets/modern/partials/blog/post/meta.php:19
 msgid "Posted in"
 msgstr "发表于"
 
-#: assets/modern/partials/blog/post/meta.php:25
+#: assets/modern/partials/blog/post/meta.php:23
 msgid "On "
 msgstr "上 "
 
-#: assets/modern/partials/header/modal.php:48
+#: assets/modern/partials/header/modal.php:49
 msgid "Welcome"
 msgstr "欢迎"
 
-#: assets/modern/partials/header/modal.php:132
+#: assets/modern/partials/header/modal.php:133
 #: assets/modern/partials/member/properties.php:118
 #: assets/modern/partials/page/edit-profile.php:86
 #: assets/modern/partials/page/favorites.php:121
@@ -2503,7 +2503,7 @@ msgstr "容量"
 #: assets/modern/partials/home/slider/property.php:113
 #: assets/modern/partials/properties/card-parts/grid-card-meta.php:61
 #: assets/modern/partials/property/single/meta.php:119
-#: framework/customizer/properties-templates-and-archive.php:239
+#: framework/customizer/properties-templates-and-archive.php:313
 msgid "Min Stay"
 msgstr "最小住宿"
 
@@ -2604,7 +2604,7 @@ msgid "Enter your email address"
 msgstr "输入你的电子邮箱地址"
 
 #: assets/modern/partials/page/edit-profile.php:184
-#: common/dashboard/profile.php:240
+#: common/dashboard/profile.php:249
 msgid "Note: Fill it only if you want to change your password"
 msgstr "注意：只有在您想更改密码时才填写"
 
@@ -2714,7 +2714,7 @@ msgstr "出售或出租价格"
 msgid "Enter property title"
 msgstr "输入房源标题"
 
-#: assets/modern/partials/property/gallery/default.php:28
+#: assets/modern/partials/property/gallery/default.php:29
 msgid "of"
 msgstr "的"
 
@@ -2741,7 +2741,7 @@ msgstr "打印"
 
 #: assets/modern/partials/property/single-fullwidth/content.php:45
 #: assets/modern/partials/property/single/content.php:6
-#: framework/functions/dashboard.php:1354
+#: framework/functions/dashboard.php:1368
 #: framework/functions/submit-edit.php:250
 msgid "Description"
 msgstr "描述"
@@ -3199,8 +3199,8 @@ msgstr "精选属性仍然存在"
 msgid "Expiry Date"
 msgstr "到期日"
 
-#: common/dashboard/membership.php:96 framework/functions/dashboard.php:1658
-#: framework/functions/design-variations-handler.php:639
+#: common/dashboard/membership.php:96 framework/functions/dashboard.php:1672
+#: framework/functions/design-variations-handler.php:558
 msgid "Cancel Membership"
 msgstr "取消会员资格"
 
@@ -3344,6 +3344,10 @@ msgstr "Pinterest网址"
 msgid "YouTube URL"
 msgstr "YouTube URL"
 
+#: common/dashboard/profile.php:234 framework/functions/basic.php:358
+msgid "WhatsApp Number"
+msgstr "WhatsApp号码"
+
 #: common/dashboard/properties.php:8
 msgid "Property removed successfully!"
 msgstr "成功删除属性！"
@@ -3464,14 +3468,12 @@ msgstr "您已达到当前会员套餐的最大允许属性数。"
 #: framework/customizer/floating-features.php:64
 #: framework/customizer/gallery.php:76
 #: framework/customizer/language-switcher.php:27
-#: framework/customizer/properties-templates-and-archive.php:103
-#: framework/customizer/sections/footer/logo.php:48
-#: framework/customizer/sections/footer/logo.php:106
+#: framework/customizer/properties-templates-and-archive.php:195
 #: framework/customizer/sections/footer/partners.php:38
 #: framework/customizer/sections/footer/text.php:39
 #: framework/customizer/sections/header/login-register.php:25
 #: framework/customizer/sections/header/login-register.php:80
-#: framework/customizer/sections/header/search-form.php:45
+#: framework/customizer/sections/header/search-form.php:37
 #: framework/customizer/sections/property/agent.php:64
 #: framework/customizer/sections/property/agent.php:90
 #: framework/customizer/sections/property/agent.php:105
@@ -3585,14 +3587,12 @@ msgstr "机构排序控制"
 #: framework/customizer/floating-features.php:65
 #: framework/customizer/gallery.php:77
 #: framework/customizer/language-switcher.php:28
-#: framework/customizer/properties-templates-and-archive.php:104
-#: framework/customizer/sections/footer/logo.php:49
-#: framework/customizer/sections/footer/logo.php:107
+#: framework/customizer/properties-templates-and-archive.php:196
 #: framework/customizer/sections/footer/partners.php:39
 #: framework/customizer/sections/footer/text.php:40
 #: framework/customizer/sections/header/login-register.php:26
 #: framework/customizer/sections/header/login-register.php:81
-#: framework/customizer/sections/header/search-form.php:44
+#: framework/customizer/sections/header/search-form.php:38
 #: framework/customizer/sections/property/agent.php:65
 #: framework/customizer/sections/property/agent.php:91
 #: framework/customizer/sections/property/agent.php:106
@@ -3732,7 +3732,7 @@ msgstr "链接到上一篇和下一篇文章"
 #: framework/customizer/dashboard.php:457
 #: framework/customizer/dashboard.php:480
 #: framework/customizer/dashboard.php:503
-#: framework/customizer/properties-templates-and-archive.php:197
+#: framework/customizer/properties-templates-and-archive.php:296
 #: framework/customizer/sections/property/basics.php:107
 #: framework/customizer/sections/property/basics.php:491
 #: framework/customizer/sections/property/basics.php:511
@@ -3753,7 +3753,7 @@ msgstr "启用"
 #: framework/customizer/dashboard.php:458
 #: framework/customizer/dashboard.php:481
 #: framework/customizer/dashboard.php:504
-#: framework/customizer/properties-templates-and-archive.php:198
+#: framework/customizer/properties-templates-and-archive.php:297
 #: framework/customizer/sections/property/basics.php:108
 #: framework/customizer/sections/property/basics.php:492
 #: framework/customizer/sections/property/basics.php:512
@@ -3902,7 +3902,7 @@ msgid "Property Address and Map"
 msgstr "属性地址和映射"
 
 #: framework/customizer/dashboard.php:218
-#: framework/functions/dashboard.php:1371
+#: framework/functions/dashboard.php:1385
 #: framework/functions/submit-edit.php:264
 msgid "Price Postfix"
 msgstr "价格后缀"
@@ -4072,12 +4072,13 @@ msgstr "需要登录才能添加到收藏夹。"
 #: framework/customizer/dashboard.php:567
 #: framework/customizer/dashboard.php:793
 #: framework/customizer/dashboard.php:816
-#: framework/customizer/dashboard.php:846 framework/customizer/misc.php:74
-#: framework/customizer/misc.php:90 framework/customizer/misc.php:147
-#: framework/customizer/pages.php:44
+#: framework/customizer/dashboard.php:846 framework/customizer/misc.php:72
+#: framework/customizer/misc.php:129 framework/customizer/pages.php:44
+#: framework/customizer/sections/footer/logo.php:48
+#: framework/customizer/sections/footer/logo.php:106
 #: framework/customizer/sections/header/banner.php:66
 #: framework/customizer/sections/header/login-register.php:133
-#: framework/customizer/sections/property/agent.php:181
+#: framework/customizer/sections/property/agent.php:203
 #: framework/customizer/sections/property/basics.php:63
 #: framework/customizer/sections/search/properties-search-page.php:277
 #: framework/customizer/sections/search/search-form-locations.php:171
@@ -4098,12 +4099,13 @@ msgstr "是"
 #: framework/customizer/dashboard.php:568
 #: framework/customizer/dashboard.php:794
 #: framework/customizer/dashboard.php:817
-#: framework/customizer/dashboard.php:847 framework/customizer/misc.php:75
-#: framework/customizer/misc.php:91 framework/customizer/misc.php:148
-#: framework/customizer/pages.php:45
+#: framework/customizer/dashboard.php:847 framework/customizer/misc.php:73
+#: framework/customizer/misc.php:130 framework/customizer/pages.php:45
+#: framework/customizer/sections/footer/logo.php:49
+#: framework/customizer/sections/footer/logo.php:107
 #: framework/customizer/sections/header/banner.php:67
 #: framework/customizer/sections/header/login-register.php:134
-#: framework/customizer/sections/property/agent.php:182
+#: framework/customizer/sections/property/agent.php:204
 #: framework/customizer/sections/property/basics.php:64
 #: framework/customizer/sections/search/properties-search-page.php:278
 #: framework/customizer/sections/search/search-form-locations.php:172
@@ -4235,7 +4237,7 @@ msgstr "结账页面付款方法徽章"
 msgid "Order Page Dialog Box Heading"
 msgstr "订单页对话框标题"
 
-#: framework/customizer/dashboard.php:921 framework/customizer/styles.php:24
+#: framework/customizer/dashboard.php:921 framework/customizer/styles.php:23
 msgid "Styles"
 msgstr "样式"
 
@@ -4309,6 +4311,8 @@ msgid "Floating Features"
 msgstr "浮动功能"
 
 #: framework/customizer/floating-features.php:17
+#: framework/customizer/footer.php:23
+#: framework/customizer/sections/header/basics.php:21
 #: framework/customizer/sections/property/basics.php:26
 msgid "Basics"
 msgstr "基本"
@@ -4351,6 +4355,34 @@ msgstr "此栏仅在小型设备上显示"
 msgid "Footer"
 msgstr "页脚"
 
+#: framework/customizer/footer.php:34
+msgid "Footer Layout"
+msgstr "页脚布局"
+
+#: framework/customizer/footer.php:38
+#: framework/customizer/google-fonts/google-fonts.php:119
+#: framework/customizer/google-fonts/google-fonts.php:135
+#: framework/customizer/sections/header/basics.php:94
+#: framework/customizer/sections/property/child-properties.php:64
+#: framework/customizer/sections/property/sections-manager.php:27
+#: framework/customizer/sections/search/search-form-basics.php:45
+#: framework/customizer/sections/styles/buttons.php:40
+#: framework/customizer/sections/styles/core-colors.php:42
+#: framework/functions/colorschemes.php:5
+#: framework/include/meta-boxes/home-page-meta-box.php:112
+#: framework/include/meta-boxes/property-card-meta-box.php:29
+msgid "Default"
+msgstr "默认"
+
+#: framework/customizer/footer.php:39
+msgid "Centered"
+msgstr "居中"
+
+#: framework/customizer/footer.php:40
+#: framework/customizer/sections/header/basics.php:59
+msgid "Full Width"
+msgstr "全宽"
+
 #: framework/customizer/gallery.php:15
 msgid "Gallery Pages"
 msgstr "画廊页面"
@@ -4371,19 +4403,8 @@ msgstr "通过可用属性浏览"
 msgid "Properties Sort Control"
 msgstr "属性排序控件"
 
-#: framework/customizer/google-fonts/google-fonts.php:114
-#: framework/customizer/google-fonts/google-fonts.php:130
-#: framework/customizer/sections/header/others.php:80
-#: framework/customizer/sections/property/child-properties.php:64
-#: framework/customizer/sections/property/sections-manager.php:27
-#: framework/customizer/sections/search/search-form-basics.php:45
-#: framework/include/meta-boxes/home-page-meta-box.php:112
-#: framework/include/meta-boxes/property-card-meta-box.php:29
-msgid "Default"
-msgstr "默认"
-
-#: framework/customizer/header.php:15
-#: framework/customizer/sections/styles/header-styles.php:23
+#: framework/customizer/header.php:13
+#: framework/customizer/sections/styles/header-styles.php:24
 msgid "Header"
 msgstr "页眉"
 
@@ -4415,7 +4436,7 @@ msgstr "仅标志 "
 msgid "Misc"
 msgstr "杂项"
 
-#: framework/customizer/misc.php:25 framework/functions/basic.php:1117
+#: framework/customizer/misc.php:25 framework/functions/basic.php:1120
 msgid "View Property"
 msgstr "查看房源"
 
@@ -4449,43 +4470,35 @@ msgstr "上传自定义占位符图像"
 msgid "Upload an image bigger than 1200px width and 680px height."
 msgstr "上传大于 1200px 宽度和 680px 高度的图像。"
 
-#: framework/customizer/misc.php:69
-msgid "Optimise Styles to Improve Performance"
-msgstr "优化样式以提高性能"
-
-#: framework/customizer/misc.php:70
-msgid "Enabling this will include compressed version of few big css files."
-msgstr "启用它将包括一些大的css文件的压缩版本。"
-
-#: framework/customizer/misc.php:86
+#: framework/customizer/misc.php:68
 msgid "Show Scroll To Top Button"
 msgstr "显示回到顶部按钮"
 
-#: framework/customizer/misc.php:101
+#: framework/customizer/misc.php:83
 msgid "Scroll To Top Button Position"
 msgstr "滚动到顶部按钮位置"
 
-#: framework/customizer/misc.php:105
+#: framework/customizer/misc.php:87
 msgid "Right"
-msgstr ""
+msgstr "右侧"
 
-#: framework/customizer/misc.php:106
+#: framework/customizer/misc.php:88
 msgid "Left"
 msgstr ""
 
-#: framework/customizer/misc.php:117
+#: framework/customizer/misc.php:99
 msgid "Scroll To Top Button Position From Bottom (i.e 15px or 10%)"
-msgstr ""
+msgstr "从底部滚动到顶部按钮位置（即15px或10%）"
 
-#: framework/customizer/misc.php:130
+#: framework/customizer/misc.php:112
 msgid "Select Drop Down No Result Text"
 msgstr "选择下拉无结果文本"
 
-#: framework/customizer/misc.php:142
+#: framework/customizer/misc.php:124
 msgid "Disable Default Image Sizes ?"
 msgstr "禁用默认图像大小？"
 
-#: framework/customizer/misc.php:143
+#: framework/customizer/misc.php:125
 msgid ""
 "Choosing \"Yes\" will disable WordPress default cropped image sizes (small, "
 "medium, medium_large, large) whenever an image is being uploaded"
@@ -4524,13 +4537,10 @@ msgstr "模块在标题下方"
 
 #: framework/customizer/properties-templates-and-archive.php:48
 #: framework/customizer/properties-templates-and-archive.php:59
-#| msgid ""
-#| "What to display in area below header on Properties List Templates and "
-#| "Taxonomy Archive pages ?"
 msgid ""
 "What to display in area below header on properties templates and taxonomy "
 "archive pages?"
-msgstr ""
+msgstr "在属性模板和分类存档页面上标题下方的区域中显示什么？"
 
 #: framework/customizer/properties-templates-and-archive.php:52
 msgid "Map With Properties Markers"
@@ -4586,136 +4596,143 @@ msgid "Terrain"
 msgstr "地形"
 
 #: framework/customizer/properties-templates-and-archive.php:99
-msgid "Taxonomy Term Description"
-msgstr "分类术语描述"
+msgid ""
+"Check to Skip Sticky Properties on Properties Templates. (Not Recommended)"
+msgstr "请检查属性模板上的跳过粘性属性。（不推荐）"
 
-#: framework/customizer/properties-templates-and-archive.php:115
+#: framework/customizer/properties-templates-and-archive.php:109
+msgid "Archive Pages"
+msgstr "归档页面"
+
+#: framework/customizer/properties-templates-and-archive.php:121
 msgid "Default Layout for Archive Pages"
 msgstr "存档页面的默认布局"
 
-#: framework/customizer/properties-templates-and-archive.php:119
+#: framework/customizer/properties-templates-and-archive.php:125
 #: framework/customizer/sections/search/properties-search-page.php:84
 msgid "List"
 msgstr "列表"
 
-#: framework/customizer/properties-templates-and-archive.php:120
+#: framework/customizer/properties-templates-and-archive.php:126
 #: framework/customizer/sections/search/properties-search-page.php:85
 msgid "Grid"
 msgstr "网格"
 
-#: framework/customizer/properties-templates-and-archive.php:136
+#: framework/customizer/properties-templates-and-archive.php:137
+msgid "Max Number of Properties on a Page"
+msgstr "页面上的最大属性数"
+
+#: framework/customizer/properties-templates-and-archive.php:138
+msgid "Can be overridden for templates through page metabox."
+msgstr "可以通过页面元框覆盖模板。"
+
+#: framework/customizer/properties-templates-and-archive.php:172
+msgid "Default Sort Order"
+msgstr "默认的排序顺序"
+
+#: framework/customizer/properties-templates-and-archive.php:173
+msgid "For Search Results, Properties Templates and Taxonomy Archive pages."
+msgstr "对于搜索结果、属性模板和分类存档页。"
+
+#: framework/customizer/properties-templates-and-archive.php:177
+#: framework/customizer/sections/property/similar-properties.php:177
+#: framework/include/meta-boxes/home-page-meta-box.php:683
+msgid "Price - Low to High"
+msgstr "价格从低到高"
+
+#: framework/customizer/properties-templates-and-archive.php:178
+#: framework/customizer/sections/property/similar-properties.php:178
+#: framework/include/meta-boxes/home-page-meta-box.php:684
+msgid "Price - High to Low"
+msgstr "价格从高到低"
+
+#: framework/customizer/properties-templates-and-archive.php:179
+msgid "Date - Old to New"
+msgstr "日期从旧到新"
+
+#: framework/customizer/properties-templates-and-archive.php:180
+msgid "Date - New to Old"
+msgstr "日期-从新到旧"
+
+#: framework/customizer/properties-templates-and-archive.php:191
+msgid "Taxonomy Term Description"
+msgstr "分类术语描述"
+
+#: framework/customizer/properties-templates-and-archive.php:211
+msgid "Number of Properties to Mark on Map?"
+msgstr "要在地图上标记的属性数？"
+
+#: framework/customizer/properties-templates-and-archive.php:215
+msgid "All Found"
+msgstr ""
+"如果没有API，则必须手动描述所有找到的cookie，它们的用途，功能，服务和服务类"
+"型。"
+
+#: framework/customizer/properties-templates-and-archive.php:216
+msgid "As on One Page"
+msgstr "一页传统"
+
+#: framework/customizer/properties-templates-and-archive.php:228
+msgid "Property Card"
+msgstr "房源卡"
+
+#: framework/customizer/properties-templates-and-archive.php:244
 msgid "Grid Layout Property Card Design"
 msgstr "网格布局物业卡设计"
 
-#: framework/customizer/properties-templates-and-archive.php:138
+#: framework/customizer/properties-templates-and-archive.php:246
 #: framework/customizer/sections/search/search-form-basics.php:188
 #: framework/customizer/sections/search/search-form-basics.php:207
 #: framework/include/meta-boxes/property-card-meta-box.php:30
 msgid "One"
 msgstr "一"
 
-#: framework/customizer/properties-templates-and-archive.php:139
+#: framework/customizer/properties-templates-and-archive.php:247
 #: framework/customizer/sections/search/search-form-basics.php:189
 #: framework/customizer/sections/search/search-form-basics.php:208
 #: framework/include/meta-boxes/property-card-meta-box.php:31
 msgid "Two"
 msgstr "二"
 
-#: framework/customizer/properties-templates-and-archive.php:140
+#: framework/customizer/properties-templates-and-archive.php:248
 #: framework/customizer/sections/search/search-form-basics.php:190
 #: framework/customizer/sections/search/search-form-basics.php:209
 #: framework/include/meta-boxes/property-card-meta-box.php:32
 msgid "Three"
 msgstr "三"
 
-#: framework/customizer/properties-templates-and-archive.php:153
-msgid "Max Number of Properties on a Page"
-msgstr "页面上的最大属性数"
-
-#: framework/customizer/properties-templates-and-archive.php:154
-msgid "Can be overridden for templates through page metabox."
-msgstr "可以通过页面元框覆盖模板。"
-
-#: framework/customizer/properties-templates-and-archive.php:193
-msgid "Enable Map Lightbox On Address Click"
-msgstr "启用地图灯箱地址单击"
-
-#: framework/customizer/properties-templates-and-archive.php:217
-msgid "Select Date Format"
-msgstr "选择日期格式"
-
-#: framework/customizer/properties-templates-and-archive.php:219
-msgid "Default ( Dashboard > Settings > General )"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:220
-msgid "Human Readable"
-msgstr "人类可读"
-
-#: framework/customizer/properties-templates-and-archive.php:235
-#: framework/customizer/properties-templates-and-archive.php:247
-msgid "Garages/Parking"
-msgstr "车库/停车场"
-
-#: framework/customizer/properties-templates-and-archive.php:282
-#| msgid "Select Submit Property Page"
-msgid "Select & Sort Property Card Meta"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:299
-msgid "Number of Properties to Mark on Map?"
-msgstr "要在地图上标记的属性数？"
-
-#: framework/customizer/properties-templates-and-archive.php:303
-msgid "All Found"
-msgstr ""
-"如果没有API，则必须手动描述所有找到的cookie，它们的用途，功能，服务和服务类"
-"型。"
-
-#: framework/customizer/properties-templates-and-archive.php:304
-msgid "As on One Page"
-msgstr "一页传统"
-
-#: framework/customizer/properties-templates-and-archive.php:316
-msgid ""
-"Check to Skip Sticky Properties on Properties Templates. (Not Recommended)"
-msgstr "请检查属性模板上的跳过粘性属性。（不推荐）"
-
-#: framework/customizer/properties-templates-and-archive.php:328
-msgid "Default Sort Order"
-msgstr "默认的排序顺序"
-
-#: framework/customizer/properties-templates-and-archive.php:329
-msgid "For Search Results, Properties Templates and Taxonomy Archive pages."
-msgstr "对于搜索结果、属性模板和分类存档页。"
-
-#: framework/customizer/properties-templates-and-archive.php:333
-#: framework/customizer/sections/property/similar-properties.php:177
-#: framework/include/meta-boxes/home-page-meta-box.php:683
-msgid "Price - Low to High"
-msgstr "价格从低到高"
-
-#: framework/customizer/properties-templates-and-archive.php:334
-#: framework/customizer/sections/property/similar-properties.php:178
-#: framework/include/meta-boxes/home-page-meta-box.php:684
-msgid "Price - High to Low"
-msgstr "价格从高到低"
-
-#: framework/customizer/properties-templates-and-archive.php:335
-msgid "Date - Old to New"
-msgstr "日期从旧到新"
-
-#: framework/customizer/properties-templates-and-archive.php:336
-msgid "Date - New to Old"
-msgstr "日期-从新到旧"
-
-#: framework/customizer/properties-templates-and-archive.php:347
+#: framework/customizer/properties-templates-and-archive.php:259
 msgid "Excerpt Length for Property Card"
 msgstr "属性卡的摘录长度"
 
-#: framework/customizer/properties-templates-and-archive.php:348
+#: framework/customizer/properties-templates-and-archive.php:260
 msgid "Leave empty for default behaviour."
 msgstr "默认为空。"
+
+#: framework/customizer/properties-templates-and-archive.php:275
+msgid "Select Date Format"
+msgstr "选择日期格式"
+
+#: framework/customizer/properties-templates-and-archive.php:277
+msgid "Default ( Dashboard > Settings > General )"
+msgstr "默认 （ 仪表板>设置 > 常规 ）"
+
+#: framework/customizer/properties-templates-and-archive.php:278
+msgid "Human Readable"
+msgstr "人类可读"
+
+#: framework/customizer/properties-templates-and-archive.php:292
+msgid "Enable Map Lightbox On Address Click"
+msgstr "启用地图灯箱地址单击"
+
+#: framework/customizer/properties-templates-and-archive.php:309
+#: framework/customizer/properties-templates-and-archive.php:321
+msgid "Garages/Parking"
+msgstr "车库/停车场"
+
+#: framework/customizer/properties-templates-and-archive.php:354
+msgid "Select & Sort Property Card Meta"
+msgstr "选择和排序属性卡元"
 
 #: framework/customizer/property.php:14
 msgid "Property Detail Page"
@@ -4726,8 +4743,8 @@ msgid "Properties Search"
 msgstr "房源搜索"
 
 #: framework/customizer/sections/footer/layout.php:24
-msgid "Layout"
-msgstr "布局"
+msgid "Widgets"
+msgstr "小工具"
 
 #: framework/customizer/sections/footer/layout.php:43
 #: framework/customizer/sections/search/properties-search-page.php:105
@@ -4749,37 +4766,41 @@ msgid "Four Columns"
 msgstr "四列"
 
 #: framework/customizer/sections/footer/layout.php:52
-msgid "Footer Columns"
-msgstr "页脚列"
+msgid "Layout"
+msgstr "布局"
 
 #: framework/customizer/sections/footer/layout.php:53
 msgid "Select the number of footer widgets columns you want to use."
 msgstr "选择要使用的页脚窗口小部件列数。"
 
 #: framework/customizer/sections/footer/logo.php:30
-#: framework/customizer/sections/footer/logo.php:76
-msgid "Footer Logo"
-msgstr "页脚Logo"
+msgid "Logo and Tagline"
+msgstr "徽标和标语"
 
 #: framework/customizer/sections/footer/logo.php:44
-msgid "Enable Footer Logo"
-msgstr "启用页脚徽标"
+msgid "Enable Logo"
+msgstr "启用Logo"
+
+#: framework/customizer/sections/footer/logo.php:76
+#: framework/customizer/sections/styles/header-styles.php:1012
+msgid "Logo"
+msgstr "Logo"
 
 #: framework/customizer/sections/footer/logo.php:77
 msgid "Select a logo for your footer."
 msgstr "为您的页脚选择一个徽标。"
 
 #: framework/customizer/sections/footer/logo.php:102
-msgid "Enable Footer Tagline"
-msgstr "启用页脚标语"
+msgid "Enable Tagline"
+msgstr "启用标语"
 
 #: framework/customizer/sections/footer/logo.php:126
 msgid "Simply #1 Real Estate Theme"
 msgstr "简单地＃1房地产主题"
 
 #: framework/customizer/sections/footer/logo.php:130
-msgid "Footer Tagline"
-msgstr "页脚标语"
+msgid "Tagline"
+msgstr "标语"
 
 #: framework/customizer/sections/footer/partners.php:23
 #: framework/include/meta-boxes/home-page-meta-box.php:96
@@ -4818,8 +4839,8 @@ msgid "Number of Partners"
 msgstr "合作伙伴的数量"
 
 #: framework/customizer/sections/footer/text.php:24
-msgid "Text"
-msgstr "文本"
+msgid "Copyright & Designed by Texts"
+msgstr "版权和由文本设计"
 
 #: framework/customizer/sections/footer/text.php:35
 msgid "Copyright Text Display"
@@ -4853,6 +4874,47 @@ msgstr "从图像横幅中隐藏标题和副标题"
 msgid "Hide Title From Image Banner"
 msgstr "从图像横幅中隐藏标题"
 
+#: framework/customizer/sections/header/basics.php:36
+msgid "Header Variations"
+msgstr "页眉变化"
+
+#: framework/customizer/sections/header/basics.php:37
+msgid "Choose your desired header style."
+msgstr "选择所需的标题样式。"
+
+#: framework/customizer/sections/header/basics.php:54
+msgid "Header Layout"
+msgstr "页眉布局"
+
+#: framework/customizer/sections/header/basics.php:58
+msgid "Default (Boxed)"
+msgstr "默认值（盒装）"
+
+#: framework/customizer/sections/header/basics.php:72
+msgid "Header Display on Mobile Devices"
+msgstr "移动设备上的标题显示"
+
+#: framework/customizer/sections/header/basics.php:76
+msgid "Transparent"
+msgstr "透明"
+
+#: framework/customizer/sections/header/basics.php:77
+msgid "Solid"
+msgstr "实线"
+
+#: framework/customizer/sections/header/basics.php:90
+msgid "Choose Header Variation"
+msgstr "选择标题变化"
+
+#: framework/customizer/sections/header/basics.php:95
+msgid "Center"
+msgstr "居中"
+
+#: framework/customizer/sections/header/basics.php:107
+#: framework/customizer/sections/styles/header-styles.php:1002
+msgid "Sticky Header"
+msgstr "粘性标题"
+
 #: framework/customizer/sections/header/contact-information.php:25
 msgid "Contact Information"
 msgstr "联系信息"
@@ -4868,18 +4930,6 @@ msgstr "电子邮件地址"
 #: framework/customizer/sections/header/contact-information.php:102
 msgid "Phone Number Icon "
 msgstr "电话号码图标 "
-
-#: framework/customizer/sections/header/header-var.php:29
-msgid "Header Variations"
-msgstr "页眉变化"
-
-#: framework/customizer/sections/header/header-var.php:47
-msgid "Header Layout"
-msgstr "页眉布局"
-
-#: framework/customizer/sections/header/header-var.php:48
-msgid "Choose your desired layout."
-msgstr "选择所需的布局。"
 
 #: framework/customizer/sections/header/login-register.php:10
 msgid "Login & Register Basics"
@@ -4939,7 +4989,7 @@ msgstr "显示日期和日期"
 
 #: framework/customizer/sections/header/login-register.php:145
 msgid "Select Site Title/Logo"
-msgstr ""
+msgstr "选择网站标题/徽标"
 
 #: framework/customizer/sections/header/login-register.php:150
 msgid "Site Title"
@@ -5010,54 +5060,23 @@ msgstr "还原字段占位符"
 msgid "Reset Password Button Text"
 msgstr "重置密码按钮文本"
 
-#: framework/customizer/sections/header/others.php:25
-msgid "Others"
-msgstr "其他"
-
-#: framework/customizer/sections/header/others.php:36
-msgid "Sticky Header"
-msgstr "粘性标题"
-
-#: framework/customizer/sections/header/others.php:57
-msgid "Select Responsive Header"
-msgstr "选择响应标题"
-
-#: framework/customizer/sections/header/others.php:60
-msgid "Enabling responsive header on mobile devices."
-msgstr "在移动设备上启用响应式标头。"
-
-#: framework/customizer/sections/header/others.php:62
-msgid "Transparent"
-msgstr "透明"
-
-#: framework/customizer/sections/header/others.php:63
-msgid "Solid"
-msgstr "实线"
-
-#: framework/customizer/sections/header/others.php:76
-msgid "Choose Header Variation"
-msgstr "选择标题变化"
-
-#: framework/customizer/sections/header/others.php:81
-msgid "Center"
-msgstr "居中"
-
-#: framework/customizer/sections/header/search-form.php:24
+#: framework/customizer/sections/header/search-form.php:19
 #: framework/customizer/sections/styles/search-form.php:17
 #: framework/include/meta-boxes/home-page-meta-box.php:1403
 msgid "Search Form"
 msgstr "搜索表单"
 
-#: framework/customizer/sections/header/search-form.php:39
-msgid "Header Search Form"
-msgstr "页头搜索表单"
+#: framework/customizer/sections/header/search-form.php:32
+msgid "Search Form on Header"
+msgstr "在页眉上搜索表单"
 
-#: framework/customizer/sections/header/search-form.php:42
+#: framework/customizer/sections/header/search-form.php:33
 msgid ""
-"Enabling the Advance Search Form in header will hide the Advance Search "
-"Widget in the sidebar (except Home template)."
+"Enabling advance search form in header will hide advance search form widget "
+"in the sidebar but this setting has no effect on homepage."
 msgstr ""
-"在标题中启用预检索表单将将高级搜索小部件隐藏在侧边栏中（主页模板除外）。"
+"在标题中启用高级搜索表单将在侧边栏中隐藏高级搜索表单小部件，但此设置对主页没"
+"有影响。"
 
 #: framework/customizer/sections/property/agent.php:38
 msgid "Agent Section Position"
@@ -5099,40 +5118,53 @@ msgstr "代理商详细信息页面链接"
 msgid "Agent Contact Form"
 msgstr "中介联系表"
 
-#: framework/customizer/sections/property/agent.php:159
-#: framework/functions/basic.php:2498
+#: framework/customizer/sections/property/agent.php:163
+msgid "WhatsApp Button Label"
+msgstr "WhatsApp 按钮标签"
+
+#: framework/customizer/sections/property/agent.php:170
+#: framework/functions/basic.php:2519
+msgid "Call Now"
+msgstr "电话联系"
+
+#: framework/customizer/sections/property/agent.php:174
+msgid "Call Now Button Label"
+msgstr "\"立即呼叫\"按钮标签"
+
+#: framework/customizer/sections/property/agent.php:181
+#: framework/functions/basic.php:2501
 #, php-format
 msgid "Hello, I am interested in [%s]"
-msgstr ""
+msgstr "您好，我对 [%s] 感兴趣"
 
-#: framework/customizer/sections/property/agent.php:163
+#: framework/customizer/sections/property/agent.php:185
 msgid "Agent Form Default Message Text"
 msgstr "代理表单默认消息文本"
 
-#: framework/customizer/sections/property/agent.php:164
+#: framework/customizer/sections/property/agent.php:186
 #, php-format
 msgid "%s will be replaced with the Property Title"
 msgstr "%s将被属性标题替换"
 
-#: framework/customizer/sections/property/agent.php:177
+#: framework/customizer/sections/property/agent.php:199
 msgid "Get Copy of Message Sent to Agent"
 msgstr "获取发送给代理的消息副本"
 
-#: framework/customizer/sections/property/agent.php:193
+#: framework/customizer/sections/property/agent.php:215
 msgid "Email Address to Get Copy of Message"
 msgstr "获取邮件副本的电子邮件地址"
 
-#: framework/customizer/sections/property/agent.php:194
+#: framework/customizer/sections/property/agent.php:216
 msgid "Given email address will get a copy of message sent to agent."
 msgstr "给定的电子邮件地址将获得发送给座席的消息副本。"
 
-#: framework/customizer/sections/property/agent.php:205
+#: framework/customizer/sections/property/agent.php:227
 #: framework/include/meta-boxes/contact-page-meta-box.php:255
 #: framework/include/meta-boxes/home-page-meta-box.php:376
 msgid "Select Page For Redirection"
 msgstr "选择用于重定向的页面"
 
-#: framework/customizer/sections/property/agent.php:206
+#: framework/customizer/sections/property/agent.php:228
 msgid ""
 "User will be redirected to the selected page after successful submission of "
 "the agent contact form."
@@ -5211,9 +5243,8 @@ msgid "This will overwrite the bathrooms field label."
 msgstr "这将覆盖浴室字段标签。"
 
 #: framework/customizer/sections/property/basics.php:208
-#| msgid "This will overwrite the area field label."
 msgid "This will overwrite the minimum stay field label."
-msgstr ""
+msgstr "这将覆盖最短停留时间字段标签。"
 
 #: framework/customizer/sections/property/basics.php:223
 msgid "This will overwrite the guests capacity field label."
@@ -5339,7 +5370,7 @@ msgstr "面包屑将基于"
 #: framework/customizer/sections/property/similar-properties.php:108
 #: framework/customizer/sections/search/search-form-basics.php:89
 #: framework/customizer/sections/search/search-form-basics.php:98
-#: framework/functions/basic.php:1875 framework/functions/basic.php:1918
+#: framework/functions/basic.php:1878 framework/functions/basic.php:1921
 msgid "Property Location"
 msgstr "俱乐部位置"
 
@@ -5377,7 +5408,7 @@ msgid "Common Note"
 msgstr "通用注释"
 
 #: framework/customizer/sections/property/common-note.php:49
-#: framework/include/admin/tabs/design.php:43
+#: framework/include/admin/tabs/design.php:44
 msgid "Note"
 msgstr "注意"
 
@@ -5424,8 +5455,8 @@ msgid "Image title in gallery lightbox."
 msgstr "画廊lightbox中的图像标题。"
 
 #: framework/customizer/sections/property/gallery.php:94
-msgid "Image size In Property Full Width template."
-msgstr ""
+msgid "Full Width Property Template Slider Image Size"
+msgstr "全宽属性模板滑块图像大小"
 
 #: framework/customizer/sections/property/gallery.php:98
 msgid "Cover"
@@ -5569,9 +5600,8 @@ msgid "Term Field Label"
 msgstr "术语字段标签"
 
 #: framework/customizer/sections/property/mortgage-calculator.php:258
-#| msgid "Number Field Label"
 msgid "Interest Field Label"
-msgstr ""
+msgstr "兴趣字段标签"
 
 #: framework/customizer/sections/property/mortgage-calculator.php:276
 msgid "Price Field Label"
@@ -5590,9 +5620,8 @@ msgid "Cost Per Month Prefix"
 msgstr "每月成本前缀"
 
 #: framework/customizer/sections/property/mortgage-calculator.php:365
-#| msgid "Property Detail Page"
 msgid "Property metabox first field"
-msgstr ""
+msgstr "属性元框第一个字段"
 
 #: framework/customizer/sections/property/mortgage-calculator.php:387
 msgid "First field title"
@@ -5649,6 +5678,9 @@ msgid "Order Settings"
 msgstr "顺序设置"
 
 #: framework/customizer/sections/property/sections-manager.php:28
+#: framework/customizer/sections/styles/core-colors.php:43
+#: framework/customizer/sections/styles/header-styles.php:1032
+#: framework/functions/colorschemes.php:223
 #: framework/include/meta-boxes/home-page-meta-box.php:113
 msgid "Custom"
 msgstr "自定义"
@@ -5717,7 +5749,7 @@ msgid "Number of Similar Properties"
 msgstr "类似属性的数量"
 
 #: framework/customizer/sections/property/similar-properties.php:106
-#: framework/functions/basic.php:1873 framework/functions/basic.php:1916
+#: framework/functions/basic.php:1876 framework/functions/basic.php:1919
 msgid "Property Features"
 msgstr "房源特点"
 
@@ -5822,6 +5854,8 @@ msgid ""
 "Click here to get your <a target=\"_blank\" href=\"https://www.yelp.com/"
 "developers/v3/manage_app\">Yelp API Key</a>"
 msgstr ""
+"点击这里获取您的 <a target=\"_blank\" href=\"https://www.yelp.com/developers/"
+"v3/manage_app\">Yelp API密钥</a>"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:96
 msgid "Distance Unit"
@@ -5844,117 +5878,117 @@ msgid "Select Terms"
 msgstr "选择条件"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:128
-#: framework/functions/basic.php:1538
+#: framework/functions/basic.php:1541
 msgid "Active Life"
 msgstr "活动生活"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:129
-#: framework/functions/basic.php:1542
+#: framework/functions/basic.php:1545
 msgid "Arts & Entertainment"
 msgstr "艺术与娱乐"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:130
-#: framework/functions/basic.php:1546
+#: framework/functions/basic.php:1549
 msgid "Automotive"
 msgstr "汽车"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:131
-#: framework/functions/basic.php:1550
+#: framework/functions/basic.php:1553
 msgid "Beauty & Spas"
 msgstr "美容及水疗中心"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:132
-#: framework/functions/basic.php:1554
+#: framework/functions/basic.php:1557
 msgid "Education"
 msgstr "教育"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:133
-#: framework/functions/basic.php:1558
+#: framework/functions/basic.php:1561
 msgid "Event Planning & Services"
 msgstr "活动策划与服务"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:134
-#: framework/functions/basic.php:1562
+#: framework/functions/basic.php:1565
 msgid "Financial Services"
 msgstr "金融服务"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:135
-#: framework/functions/basic.php:1566
+#: framework/functions/basic.php:1569
 msgid "Food"
 msgstr "食物"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:136
-#: framework/functions/basic.php:1570
+#: framework/functions/basic.php:1573
 msgid "Health & Medical"
 msgstr "健康与医疗"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:137
-#: framework/functions/basic.php:1574
+#: framework/functions/basic.php:1577
 msgid "Home Services "
 msgstr "居家服务 "
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:138
-#: framework/functions/basic.php:1578
+#: framework/functions/basic.php:1581
 msgid "Hotels & Travel"
 msgstr "酒店与旅游"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:139
-#: framework/functions/basic.php:1582
+#: framework/functions/basic.php:1585
 msgid "Local Flavor"
 msgstr "地方风味"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:140
-#: framework/functions/basic.php:1586
+#: framework/functions/basic.php:1589
 msgid "Local Services"
 msgstr "本地服务"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:141
-#: framework/functions/basic.php:1590
+#: framework/functions/basic.php:1593
 msgid "Mass Media"
 msgstr "大众媒体"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:142
-#: framework/functions/basic.php:1594
+#: framework/functions/basic.php:1597
 msgid "Nightlife"
 msgstr "夜生活"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:143
-#: framework/functions/basic.php:1598
+#: framework/functions/basic.php:1601
 msgid "Pets"
 msgstr "宠物"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:144
-#: framework/functions/basic.php:1602
+#: framework/functions/basic.php:1605
 msgid "Professional Services"
 msgstr "专业服务"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:145
-#: framework/functions/basic.php:1606
+#: framework/functions/basic.php:1609
 msgid "Public Services & Government"
 msgstr "公共服务及政府"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:146
-#: framework/functions/basic.php:1610
+#: framework/functions/basic.php:1613
 msgid "Real Estate"
 msgstr "房地产"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:147
-#: framework/functions/basic.php:1614
+#: framework/functions/basic.php:1617
 msgid "Religious Organizations"
 msgstr "宗教组织"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:148
-#: framework/functions/basic.php:1618
+#: framework/functions/basic.php:1621
 msgid "Restaurants"
 msgstr "餐厅"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:149
-#: framework/functions/basic.php:1622
+#: framework/functions/basic.php:1625
 msgid "Shopping"
 msgstr "购物"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:150
-#: framework/functions/basic.php:1626
+#: framework/functions/basic.php:1629
 msgid "Transportation"
 msgstr "交通"
 
@@ -6173,9 +6207,8 @@ msgid "Placeholder Text for Check In"
 msgstr "用于签入的占位符文本"
 
 #: framework/customizer/sections/search/search-form-basics.php:385
-#| msgid "Label for Agent"
 msgid "Label for Check Out"
-msgstr ""
+msgstr "签出标签"
 
 #: framework/customizer/sections/search/search-form-basics.php:403
 msgid "Placeholder Text for Check Out"
@@ -6392,7 +6425,7 @@ msgstr ""
 
 #: framework/customizer/sections/search/search-form-locations.php:201
 msgid "Enable Multi Select For Locations Field? "
-msgstr ""
+msgstr "是否启用多选位置字段？"
 
 #: framework/customizer/sections/search/search-form-locations.php:202
 msgid ""
@@ -6480,7 +6513,7 @@ msgstr "已选择代理"
 
 #: framework/customizer/sections/search/search-form-property-agents.php:75
 msgid "When selected agents are greater than 2  "
-msgstr ""
+msgstr "当选定的代理大于 2 时"
 
 #: framework/customizer/sections/search/search-form-property-features.php:22
 msgid "Search Form Property Features"
@@ -6582,24 +6615,52 @@ msgstr "Banner 副标题背景颜色"
 msgid "Default color is #37B3D9"
 msgstr "默认颜色为＃37B3D9"
 
-#: framework/customizer/sections/styles/buttons.php:24
+#: framework/customizer/sections/styles/buttons.php:23
 msgid "Buttons"
 msgstr "按钮"
 
-#: framework/customizer/sections/styles/buttons.php:37
-msgid "Button Text Color"
-msgstr "按钮文本颜色"
+#: framework/customizer/sections/styles/buttons.php:36
+msgid "Transition Style"
+msgstr "转换的风格"
 
-#: framework/customizer/sections/styles/buttons.php:57
+#: framework/customizer/sections/styles/buttons.php:41
+msgid "Style 1"
+msgstr "样式1"
+
+#: framework/customizer/sections/styles/buttons.php:42
+msgid "Style 2"
+msgstr "样式2"
+
+#: framework/customizer/sections/styles/buttons.php:43
+msgid "Style 3"
+msgstr "样式3"
+
+#: framework/customizer/sections/styles/buttons.php:44
+msgid "Style 4"
+msgstr "样式 4"
+
+#: framework/customizer/sections/styles/buttons.php:45
+msgid "Style 5"
+msgstr "样式 5"
+
+#: framework/customizer/sections/styles/buttons.php:59
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: framework/customizer/sections/styles/buttons.php:74
+msgid "Button Hover Color"
+msgstr "按钮悬停颜色"
+
+#: framework/customizer/sections/styles/buttons.php:94
 msgid "Button Background Color"
 msgstr "按钮背景颜色"
 
-#: framework/customizer/sections/styles/buttons.php:59
-#: framework/customizer/sections/styles/buttons.php:95
+#: framework/customizer/sections/styles/buttons.php:96
+#: framework/customizer/sections/styles/buttons.php:117
 #: framework/customizer/sections/styles/gallery.php:46
-#: framework/customizer/sections/styles/header-styles.php:345
-#: framework/customizer/sections/styles/header-styles.php:369
-#: framework/customizer/sections/styles/header-styles.php:391
+#: framework/customizer/sections/styles/header-styles.php:338
+#: framework/customizer/sections/styles/header-styles.php:362
+#: framework/customizer/sections/styles/header-styles.php:384
 #: framework/customizer/sections/styles/property-item.php:133
 #: framework/customizer/sections/styles/property-item.php:154
 #: framework/customizer/sections/styles/slider.php:83
@@ -6608,118 +6669,108 @@ msgstr "按钮背景颜色"
 msgid "Default color is %s"
 msgstr "默认颜色：%s"
 
-#: framework/customizer/sections/styles/buttons.php:73
-msgid "Button Hover Text Color"
-msgstr "按钮悬停文本颜色"
-
-#: framework/customizer/sections/styles/buttons.php:93
+#: framework/customizer/sections/styles/buttons.php:115
 msgid "Button Hover Background Color"
 msgstr "按钮悬停背景颜色"
 
-#: framework/customizer/sections/styles/buttons.php:122
+#: framework/customizer/sections/styles/buttons.php:144
 msgid "Scroll to Top Button Background Color"
 msgstr "滚动到顶部按钮背景颜色"
 
-#: framework/customizer/sections/styles/buttons.php:124
-#: framework/customizer/sections/styles/header-styles.php:411
-#: framework/customizer/sections/styles/news.php:65
+#: framework/customizer/sections/styles/buttons.php:146
+#: framework/customizer/sections/styles/header-styles.php:404
+#: framework/customizer/sections/styles/news.php:61
 #: framework/customizer/sections/styles/property-item.php:171
 msgid "Default color is #4dc7ec"
 msgstr "默认颜色为＃4dc7ec"
 
-#: framework/customizer/sections/styles/buttons.php:138
+#: framework/customizer/sections/styles/buttons.php:160
 msgid "Scroll to Top Button Background Hover Color"
 msgstr "滚动到顶部按钮背景悬停颜色"
 
-#: framework/customizer/sections/styles/buttons.php:140
-#: framework/customizer/sections/styles/header-styles.php:519
+#: framework/customizer/sections/styles/buttons.php:162
+#: framework/customizer/sections/styles/header-styles.php:512
 #: framework/customizer/sections/styles/slider.php:158
 msgid "Default color is #37b3d9"
 msgstr "默认颜色为＃37b3d9"
 
-#: framework/customizer/sections/styles/buttons.php:155
+#: framework/customizer/sections/styles/buttons.php:177
 msgid "Scroll to Top Button Icon Color"
 msgstr "滚动到顶部按钮图标颜色"
 
-#: framework/customizer/sections/styles/buttons.php:172
+#: framework/customizer/sections/styles/buttons.php:196
+msgid "Header Submit Button Border Color"
+msgstr "页眉提交按钮边框颜色"
+
+#: framework/customizer/sections/styles/buttons.php:220
+msgid "Header Submit Button Border Hover Color"
+msgstr "页眉提交按钮边框悬停颜色"
+
+#: framework/customizer/sections/styles/buttons.php:244
 msgid "Advance Search Button Background"
 msgstr "高级搜索按钮背景"
 
-#: framework/customizer/sections/styles/buttons.php:174
+#: framework/customizer/sections/styles/buttons.php:246
 msgid "Default color is #18998e"
 msgstr "默认颜色为＃18998e"
 
-#: framework/customizer/sections/styles/buttons.php:188
-msgid "Submit Button Border Color"
-msgstr "提交按钮边框颜色"
-
-#: framework/customizer/sections/styles/buttons.php:210
-msgid "Submit Button Border Hover Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/buttons.php:232
-msgid "Advance Search Button Icon"
-msgstr "高级搜索按钮图标"
-
-#: framework/customizer/sections/styles/buttons.php:234
-#: framework/customizer/sections/styles/buttons.php:266
-#: framework/customizer/sections/styles/header-styles.php:449
-#: framework/customizer/sections/styles/header-styles.php:465
-msgid "Default color is #ffffff"
-msgstr "默认颜色使用：#ffffff。"
-
-#: framework/customizer/sections/styles/buttons.php:248
+#: framework/customizer/sections/styles/buttons.php:260
 msgid "Advance Search Button Hover Background"
 msgstr "前进搜索按钮悬停背景"
 
-#: framework/customizer/sections/styles/buttons.php:250
+#: framework/customizer/sections/styles/buttons.php:262
 msgid "Default color is #179086"
 msgstr "默认颜色为＃179086"
 
-#: framework/customizer/sections/styles/buttons.php:264
+#: framework/customizer/sections/styles/buttons.php:276
+msgid "Advance Search Button Icon"
+msgstr "高级搜索按钮图标"
+
+#: framework/customizer/sections/styles/buttons.php:278
+#: framework/customizer/sections/styles/buttons.php:294
+#: framework/customizer/sections/styles/header-styles.php:442
+#: framework/customizer/sections/styles/header-styles.php:458
+msgid "Default color is #ffffff"
+msgstr "默认颜色使用：#ffffff。"
+
+#: framework/customizer/sections/styles/buttons.php:292
 msgid "Advance Search Button Icon Hover"
 msgstr "提前搜索按钮图标悬停"
 
-#: framework/customizer/sections/styles/buttons.php:280
+#: framework/customizer/sections/styles/buttons.php:307
 msgid "Advance Search Arrow & Text"
 msgstr "高级搜索箭头和文字"
 
-#: framework/customizer/sections/styles/buttons.php:282
+#: framework/customizer/sections/styles/buttons.php:309
 msgid "Default color is #333333"
 msgstr "默认颜色是＃333333"
 
-#: framework/customizer/sections/styles/core-colors.php:14
+#: framework/customizer/sections/styles/core-colors.php:13
 msgid "Core Colors"
 msgstr "核心色彩"
 
-#: framework/customizer/sections/styles/core-colors.php:26
-msgid "Important Notes:"
-msgstr "重要笔记："
+#: framework/customizer/sections/styles/core-colors.php:24
+msgid "Important Note:"
+msgstr "重要的提示："
 
-#: framework/customizer/sections/styles/core-colors.php:27
-#, php-format
+#: framework/customizer/sections/styles/core-colors.php:25
 msgid ""
-"• These color options replace the core colors %1$s mostly %2$s all over the "
-"theme. You can also override these colors for almost each section in %1$s "
-"Customizer > Styles %2$s ."
+"The setting will be restored to the Default option automatically whenever "
+"the design variation is changed. So that you can view freshly changed design "
+"variations in original colors."
 msgstr ""
-"•这些颜色选项替换了整个主题中%1$s的核心颜色，主要是%2$s。您还可以在%1$s定制程"
-"序>样式%2$s中为几乎每个部分覆盖这些颜色。"
+"每当设计变更发生更改时，该设置将自动恢复为\"默认\"选项。以便您可以查看原始颜"
+"色中新更改的设计变体。"
 
-#: framework/customizer/sections/styles/core-colors.php:40
-#, php-format
-msgid ""
-"• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
-"option is selected in %1$s Customizer > Styles > Default or Custom %2$s. "
-msgstr ""
-"•要应用这些核心颜色，请确保在%1$s定制程序>样式>默认或自定义%2$s中选择了%1$s我"
-"自己的自定义颜色%2$s选项。 "
+#: framework/customizer/sections/styles/core-colors.php:38
+msgid "Theme colors"
+msgstr "主题颜色"
 
-#: framework/customizer/sections/styles/core-colors.php:73
+#: framework/customizer/sections/styles/core-colors.php:69
 msgid "Orange Light"
 msgstr "橙色光"
 
-#: framework/customizer/sections/styles/core-colors.php:74
+#: framework/customizer/sections/styles/core-colors.php:70
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6740,12 +6791,12 @@ msgstr ""
 "按钮%1$s•座席联系表单按钮%1$s•发表更多信息按钮%1$s•发表作者链接%1$s•发表标"
 "签%1$s•发表回复按钮%1$s•图库过滤器%1$s•联系人表格按钮%1$s默认颜色为＃ ec894d "
 
-#: framework/customizer/sections/styles/core-colors.php:103 functions.php:193
+#: framework/customizer/sections/styles/core-colors.php:99 functions.php:193
 #: functions.php:218
 msgid "Orange Dark"
 msgstr "橙色"
 
-#: framework/customizer/sections/styles/core-colors.php:104
+#: framework/customizer/sections/styles/core-colors.php:100
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6757,11 +6808,11 @@ msgstr ""
 "更改%1$s的核心颜色•主菜单悬停%1$s•页脚小部件链接悬停%1$s•边栏小部件链接悬"
 "停%1$s默认颜色为＃dc7d44 "
 
-#: framework/customizer/sections/styles/core-colors.php:125
+#: framework/customizer/sections/styles/core-colors.php:121
 msgid "Orange Glow"
 msgstr "橙色"
 
-#: framework/customizer/sections/styles/core-colors.php:126
+#: framework/customizer/sections/styles/core-colors.php:122
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6778,11 +6829,11 @@ msgstr ""
 "按钮悬停%1$s•发布阅读更多按钮悬停%1$s•发布标签将鼠标悬停%1$s•发布回复按钮将鼠"
 "标悬停%1$s•分页%1$s默认颜色为＃e3712c "
 
-#: framework/customizer/sections/styles/core-colors.php:151
+#: framework/customizer/sections/styles/core-colors.php:147
 msgid "Orange Burnt"
 msgstr "橙烧"
 
-#: framework/customizer/sections/styles/core-colors.php:152
+#: framework/customizer/sections/styles/core-colors.php:148
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6804,11 +6855,11 @@ msgstr ""
 "停的特色属性小组件%1$s•联系页面电子邮件悬停%1$s•功能搜索悬停在搜索表单小组件"
 "中%1$s默认颜色为＃df5400 "
 
-#: framework/customizer/sections/styles/core-colors.php:179
+#: framework/customizer/sections/styles/core-colors.php:175
 msgid "Blue light"
 msgstr "浅蓝色"
 
-#: framework/customizer/sections/styles/core-colors.php:180
+#: framework/customizer/sections/styles/core-colors.php:176
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6827,11 +6878,11 @@ msgstr ""
 "多%1$s•物业价格和类型颜色/背景%1$s•滚动到顶部按钮%1$s•发布格式图标背景%1$s•发"
 "布滑块导航%1$s•库属性覆盖%1$s默认颜色为＃4dc7ec "
 
-#: framework/customizer/sections/styles/core-colors.php:208 functions.php:203
+#: framework/customizer/sections/styles/core-colors.php:203 functions.php:203
 msgid "Blue Dark"
 msgstr "蓝黑色"
 
-#: framework/customizer/sections/styles/core-colors.php:209
+#: framework/customizer/sections/styles/core-colors.php:204
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6846,120 +6897,58 @@ msgstr ""
 "更改%1$s的核心颜色•标题电话图标%1$s•家用滑块知道更多悬停%1$s•滚动到顶部按钮悬"
 "停%1$s•横幅说明背景%1$s•横幅面包屑背景%1$s默认颜色为＃37b3d9 "
 
-#: framework/customizer/sections/styles/core-colors.php:235
-msgid "Orange"
-msgstr "橙色"
+#: framework/customizer/sections/styles/core-colors.php:229
+#: framework/customizer/sections/styles/header-styles.php:1025
+msgid "Color Scheme"
+msgstr "配色方案"
 
-#: framework/customizer/sections/styles/core-colors.php:236
-#, php-format
-msgid ""
-"Change core colors of %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Slider Direction Nav %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Featured Tag %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Add To Favourite Tag %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Featured Properties Slider Direction Nav %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Port Gallery Format Slider Direction Nav %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• CTA Button One Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Agents Arrow %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Sidebar widget links %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agent View My Listings Link %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ea723d "
-msgstr ""
-"更改%1$s的核心颜色•主菜单背景%1$s•主页滑块方向导航%1$s•属性特色标记%1$s•添加"
-"到收藏夹标签%1$s•特色属性滑块方向导航%1$s•端口库格式滑块方向导航%1$s•CTA按钮"
-"一个背景%1$s•家庭代理箭头%1$s•补充工具栏小部件链接%1$s•代理商查看我的列表链"
-"接%1$s默认颜色是＃ea723d "
+#: framework/customizer/sections/styles/core-colors.php:258 functions.php:188
+#: functions.php:213
+msgid "Primary"
+msgstr "主要"
 
-#: framework/customizer/sections/styles/core-colors.php:264
-msgid "Green"
-msgstr "绿色"
+#: framework/customizer/sections/styles/core-colors.php:274
+msgid "Primary Dark"
+msgstr "主黑暗"
 
-#: framework/customizer/sections/styles/core-colors.php:265
-#, php-format
-msgid ""
-"Change core colors of %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Meta Icons Home Slider %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Price %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Title Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Image Overlay %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Search Form %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Detail Headings %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Sidebar Buttons %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Testimonial Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Section Subtitle %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home CTA-Contact Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Title and Email Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Number and Property count %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Contact Form Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Title and Meta Background Bar %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Comment Submit Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Read More %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Gallery Item Overlay %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Gallery Filter Underline %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact Page Form Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Pagination %1$s\n"
-"\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1ea69a "
-msgstr ""
-"更改%1$s的核心颜色•物业提交按钮%1$s•物业元图标主页滑块%1$s•物业价格%1$s•物业"
-"名称悬停%1$s•物业图像叠加%1$s•物业搜索表格%1$s•物业详情标题%1$s•物业边栏按"
-"钮%1$s•首页见证背景%1$s•首页部分字幕%1$s•首页CTA-联络背景%1$s•代理商名称和电"
-"子邮件悬停%1$s•代理人数量和财产数量%1$s•代理商联系表格按钮%1$s•新闻标题和元背"
-"景栏%1$s•评论提交按钮%1$s•新闻阅读更多%1$s•图库项目叠加%1$s•图库过滤下划"
-"线%1$s•联系页面表格按钮%1$s•分页%1$s默认颜色为＃1ea69a "
+#: framework/customizer/sections/styles/core-colors.php:291 functions.php:198
+#: functions.php:223
+msgid "Secondary"
+msgstr "次要"
 
-#: framework/customizer/sections/styles/core-colors.php:305 functions.php:228
-msgid "Green Dark"
-msgstr "绿黑色"
+#: framework/customizer/sections/styles/core-colors.php:308
+msgid "Secondary Dark"
+msgstr "次颜色（深色）"
 
-#: framework/customizer/sections/styles/core-colors.php:306
-#, php-format
-msgid ""
-"Change core colors of %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Search Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Testimonial Quote Marks %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Sidebar Buttons Hovers %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Comment Submit Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Read More Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Contact Form Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact PAge Form Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1c9d92 "
-msgstr ""
-"更改%1$s的核心颜色•属性提交按钮悬停%1$s•属性搜索按钮悬停%1$s•家庭推荐引"
-"号%1$s•属性侧边栏按钮悬停%1$s•评论提交按钮悬停%1$s•新闻阅读更多内容悬停%1$s•"
-"座席联系表单按钮悬停%1$s•联系人表单按钮悬停%1$s默认颜色为＃1c9d92 "
+#: framework/customizer/sections/styles/core-colors.php:334
+#: framework/customizer/sections/styles/floating-features.php:86
+#: framework/customizer/sections/styles/floating-features.php:224
+#: framework/customizer/sections/styles/floating-features.php:361
+#: framework/customizer/sections/styles/news.php:42
+msgid "Text Color"
+msgstr "文本颜色"
 
-#: framework/customizer/sections/styles/default-or-custom.php:15
-msgid "Default or Custom"
-msgstr "默认或自定义"
+#: framework/customizer/sections/styles/core-colors.php:350
+msgid "Headings Color"
+msgstr "标题颜色"
 
-#: framework/customizer/sections/styles/default-or-custom.php:30
-msgid "You are going to use default theme colors or your own custom colors?"
-msgstr "您将使用默认主题颜色还是您自己的自定义颜色？"
+#: framework/customizer/sections/styles/core-colors.php:366
+msgid "Headings Hover Color"
+msgstr "标题 悬停颜色"
 
-#: framework/customizer/sections/styles/default-or-custom.php:35
-msgid "Default Theme Colors"
-msgstr "默认主题颜色"
+#: framework/customizer/sections/styles/core-colors.php:382
+#: framework/functions/dashboard.php:1726
+msgid "Link Color"
+msgstr "链接颜色"
 
-#: framework/customizer/sections/styles/default-or-custom.php:36
-msgid "My Own Custom Colors"
-msgstr "我自己的自定義顏色"
+#: framework/customizer/sections/styles/core-colors.php:398
+#: framework/functions/dashboard.php:1731
+msgid "Link Hover Color"
+msgstr "链接悬停颜色"
 
-#: framework/customizer/sections/styles/default-or-custom.php:47
-msgid "Important Note:"
-msgstr "重要的提示："
-
-#: framework/customizer/sections/styles/default-or-custom.php:48
-msgid ""
-"Above settings will automatically change to Default whenever you change the "
-"design variation. So that you can view freshly changed design variation in "
-"original colors."
-msgstr ""
-"每当您更改设计版本时，以上设置都会自动更改为默认值。这样您就可以查看原始颜色"
-"中刚更改的设计变化。"
+#: framework/customizer/sections/styles/core-colors.php:420
+msgid "Site Selection Background Color"
+msgstr "选址背景色"
 
 #: framework/customizer/sections/styles/floating-features.php:39
 msgid "Small Devices Bar Background Color"
@@ -6972,15 +6961,9 @@ msgstr "货币切换器 "
 #: framework/customizer/sections/styles/floating-features.php:71
 #: framework/customizer/sections/styles/floating-features.php:209
 #: framework/customizer/sections/styles/floating-features.php:346
+#: framework/customizer/sections/styles/header-styles.php:1045
 msgid "Background Color"
 msgstr "背景颜色"
-
-#: framework/customizer/sections/styles/floating-features.php:86
-#: framework/customizer/sections/styles/floating-features.php:224
-#: framework/customizer/sections/styles/floating-features.php:361
-#: framework/customizer/sections/styles/news.php:45
-msgid "Text Color"
-msgstr "文本颜色"
 
 #: framework/customizer/sections/styles/floating-features.php:101
 #: framework/customizer/sections/styles/floating-features.php:239
@@ -7107,302 +7090,295 @@ msgstr "注意：默认的背景图像的高度和宽度1770px 235px。"
 msgid "Gallery Images Hover Color"
 msgstr "画廊图片悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:37
+#: framework/customizer/sections/styles/header-styles.php:38
 msgid "Menu wrapper Background Color"
 msgstr "包裹（边框）背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:58
+#: framework/customizer/sections/styles/header-styles.php:61
 msgid "Header Meta wrapper Background Color"
 msgstr "元包装背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:83
-#: framework/customizer/sections/styles/header-styles.php:918
+#: framework/customizer/sections/styles/header-styles.php:91
+#: framework/customizer/sections/styles/header-styles.php:736
 msgid "Header/Banner Background Color"
 msgstr "标题横幅背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:85
+#: framework/customizer/sections/styles/header-styles.php:93
 #, php-format
 msgid "Applies when no banner image appears. Default Color is %s"
 msgstr "没有出现横幅图像时应用。默认颜色为%s"
 
-#: framework/customizer/sections/styles/header-styles.php:101
-#: framework/customizer/sections/styles/header-styles.php:740
+#: framework/customizer/sections/styles/header-styles.php:109
+#: framework/customizer/sections/styles/header-styles.php:558
 msgid "Logo Text Color"
 msgstr "Logo文字颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:122
+#: framework/customizer/sections/styles/header-styles.php:130
 msgid "Logo Text Hover Color"
 msgstr "标志文本悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:124
-#: framework/customizer/sections/styles/header-styles.php:323
-#: framework/customizer/sections/styles/header-styles.php:552
-#: framework/customizer/sections/styles/header-styles.php:568
-#: framework/customizer/sections/styles/header-styles.php:584
-#: framework/customizer/sections/styles/header-styles.php:600
-#: framework/customizer/sections/styles/header-styles.php:616
-#: framework/customizer/sections/styles/header-styles.php:632
-#: framework/customizer/sections/styles/header-styles.php:648
-#: framework/customizer/sections/styles/header-styles.php:664
-#: framework/customizer/sections/styles/header-styles.php:680
-#: framework/customizer/sections/styles/header-styles.php:696
+#: framework/customizer/sections/styles/header-styles.php:132
+#: framework/customizer/sections/styles/header-styles.php:316
+#: framework/customizer/sections/styles/header-styles.php:1047
+#: framework/customizer/sections/styles/header-styles.php:1063
+#: framework/customizer/sections/styles/header-styles.php:1079
+#: framework/customizer/sections/styles/header-styles.php:1095
+#: framework/customizer/sections/styles/header-styles.php:1111
+#: framework/customizer/sections/styles/header-styles.php:1127
+#: framework/customizer/sections/styles/header-styles.php:1143
+#: framework/customizer/sections/styles/header-styles.php:1159
+#: framework/customizer/sections/styles/header-styles.php:1175
 #, php-format
 msgid "Default Color is %s"
 msgstr "默認顏色是 %s"
 
-#: framework/customizer/sections/styles/header-styles.php:141
+#: framework/customizer/sections/styles/header-styles.php:149
 msgid "Tagline Text Color"
 msgstr "标语文本颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:158
+#: framework/customizer/sections/styles/header-styles.php:166
 msgid "Tagline Background Color"
 msgstr "标语的背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:175
+#: framework/customizer/sections/styles/header-styles.php:183
 msgid "Header Text Color"
 msgstr "标题文字颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:192
+#: framework/customizer/sections/styles/header-styles.php:200
 msgid "Header Links Hover Color"
 msgstr "标题连接悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:209
+#: framework/customizer/sections/styles/header-styles.php:217
 msgid "Header Borders Color"
 msgstr "标题边框颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:230
-msgid "Header Background Gradient One Color"
+#: framework/customizer/sections/styles/header-styles.php:238
+msgid "Header Background Gradient Color"
 msgstr "页眉背景渐变颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:232
+#: framework/customizer/sections/styles/header-styles.php:240
 msgid "Starting gradient color from top (default #000000)"
 msgstr "从顶部开始梯度颜色（默认#000000）"
 
-#: framework/customizer/sections/styles/header-styles.php:245
-msgid "Header Background Gradient Two Color"
-msgstr "标题背景梯度两种颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:247
-msgid "Finishing gradient color to bottom (default #c0c0c0)"
-msgstr "将渐变颜色整理到底部（默认#c0c0c0）"
-
-#: framework/customizer/sections/styles/header-styles.php:262
+#: framework/customizer/sections/styles/header-styles.php:255
 msgid "Main Menu Text Color"
 msgstr "主菜单文本颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:277
+#: framework/customizer/sections/styles/header-styles.php:270
 msgid "Main Menu Text Hover Color"
 msgstr "主栏菜单文本悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:297
+#: framework/customizer/sections/styles/header-styles.php:290
 msgid "Main Menu Hover Background/border"
 msgstr "主菜单悬停背景/边框"
 
-#: framework/customizer/sections/styles/header-styles.php:299
+#: framework/customizer/sections/styles/header-styles.php:292
 #: framework/customizer/sections/styles/home-page.php:354
 #: framework/customizer/sections/styles/property-item.php:90
 #: framework/customizer/sections/styles/slider.php:40
 msgid "Default color is #ea723d"
 msgstr "默认颜色为＃ea723d"
 
-#: framework/customizer/sections/styles/header-styles.php:321
+#: framework/customizer/sections/styles/header-styles.php:314
 msgid "Drop Down Menu Background Color"
 msgstr "下拉菜单背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:343
+#: framework/customizer/sections/styles/header-styles.php:336
 msgid "Drop Down Menu Text Color"
 msgstr "下拉菜单文本颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:367
+#: framework/customizer/sections/styles/header-styles.php:360
 msgid "Drop Down Menu Background Color on Mouse Over"
 msgstr "鼠标上的下拉菜单背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:389
+#: framework/customizer/sections/styles/header-styles.php:382
 msgid "Drop Down Menu Text Color on Mouse Over"
 msgstr "鼠标上的下拉菜单背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:409
+#: framework/customizer/sections/styles/header-styles.php:402
 msgid "Header Phone Number Background Color"
 msgstr "标题电话号码背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:427
-#: framework/customizer/sections/styles/header-styles.php:755
+#: framework/customizer/sections/styles/header-styles.php:420
+#: framework/customizer/sections/styles/header-styles.php:573
 msgid "Phone Number Text Color"
 msgstr "顶部电话号码文字颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:429
+#: framework/customizer/sections/styles/header-styles.php:422
 msgid "Default color is #e7eff7"
 msgstr "默认颜色为＃e7eff7"
 
-#: framework/customizer/sections/styles/header-styles.php:447
+#: framework/customizer/sections/styles/header-styles.php:440
 msgid "Phone/Email Number Text Color"
 msgstr "电话/电子邮件号码文字颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:463
+#: framework/customizer/sections/styles/header-styles.php:456
 msgid "Phone/Email Number Text Hover Color"
 msgstr "电话/电子邮件号码文字悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:483
+#: framework/customizer/sections/styles/header-styles.php:476
 msgid "Social Icon Color"
 msgstr "社交图标颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:499
+#: framework/customizer/sections/styles/header-styles.php:492
 msgid "Social Icon Hover Color"
 msgstr "社交图标悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:517
+#: framework/customizer/sections/styles/header-styles.php:510
 msgid "Header Phone Icon Background Color"
 msgstr "顶部电话图标背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:535
-msgid "Sticky Header "
-msgstr "粘性标题 "
-
-#: framework/customizer/sections/styles/header-styles.php:550
-msgid "Site Title Color"
-msgstr "网站标题颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:566
-msgid "Site Title Hover Color"
-msgstr "网站标题悬停颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:582
-msgid "Sticky Header Background"
-msgstr "置顶页眉背景"
-
-#: framework/customizer/sections/styles/header-styles.php:598
-msgid "Sticky Header Menu Text Color"
-msgstr "置顶标题文本颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:614
-msgid "Sticky Header Menu Background Hover Color"
-msgstr "页眉菜单背景悬停颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:630
-msgid "Sticky Header Menu Hover Text Color"
-msgstr "页眉菜单悬停文本颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:646
-msgid "Sticky Header Contacts Color"
-msgstr "粘页眉触点颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:662
-msgid "Sticky Header Submit Button Color"
-msgstr "头部提交按钮颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:678
-msgid "Sticky Header Submit Button Hover Color"
-msgstr "头部提交按钮悬停颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:694
-msgid "Sticky Header Submit Button Hover Text Color"
-msgstr "头部提交按钮悬停颜色"
-
-#: framework/customizer/sections/styles/header-styles.php:710
-#: framework/customizer/sections/styles/header-styles.php:903
+#: framework/customizer/sections/styles/header-styles.php:528
+#: framework/customizer/sections/styles/header-styles.php:721
 msgid "Responsive Header "
 msgstr "页眉响应式 "
 
-#: framework/customizer/sections/styles/header-styles.php:725
+#: framework/customizer/sections/styles/header-styles.php:543
 msgid "Responsive Header Background Color"
 msgstr "标题 - 背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:770
+#: framework/customizer/sections/styles/header-styles.php:588
 msgid "Phone Number Text Hover Color"
 msgstr "电话号码文字悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:785
+#: framework/customizer/sections/styles/header-styles.php:603
+#: framework/customizer/sections/styles/header-styles.php:1125
 msgid "Submit Button Background Color"
 msgstr "提交按钮背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:799
+#: framework/customizer/sections/styles/header-styles.php:617
 msgid "Submit Button Background Hover Color"
 msgstr "头部提交按钮背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:814
+#: framework/customizer/sections/styles/header-styles.php:632
+#: framework/customizer/sections/styles/header-styles.php:1157
 msgid "Submit Button Text Color"
 msgstr "提交按钮文本颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:828
+#: framework/customizer/sections/styles/header-styles.php:646
 msgid "Submit Button Text Hover Color"
 msgstr "提交按钮文字悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:843
-#: framework/customizer/sections/styles/header-styles.php:1094
+#: framework/customizer/sections/styles/header-styles.php:661
+#: framework/customizer/sections/styles/header-styles.php:912
 msgid "Responsive Menu Icon Color"
 msgstr "响应菜单图标颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:858
+#: framework/customizer/sections/styles/header-styles.php:676
 msgid "Responsive Menu Background Color"
 msgstr "响应式菜单背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:872
+#: framework/customizer/sections/styles/header-styles.php:690
 msgid "Responsive Menu Text Color"
 msgstr "响应式菜单文本颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:886
+#: framework/customizer/sections/styles/header-styles.php:704
 msgid "Responsive Menu Text Hover Color"
 msgstr "响应式菜单文本悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:933
+#: framework/customizer/sections/styles/header-styles.php:751
 msgid "Email Color"
 msgstr "邮箱颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:948
+#: framework/customizer/sections/styles/header-styles.php:766
 msgid "Email Hover Color"
 msgstr "电子邮件悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:963
+#: framework/customizer/sections/styles/header-styles.php:781
 msgid "User Nav Color"
 msgstr "用户导航颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:978
+#: framework/customizer/sections/styles/header-styles.php:796
 msgid "User Nav Hover Color"
 msgstr "用户导航悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:993
+#: framework/customizer/sections/styles/header-styles.php:811
 msgid "User Nav Border Color"
 msgstr "用户导航边框颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1008
+#: framework/customizer/sections/styles/header-styles.php:826
 msgid "Site Logo Color"
 msgstr "网站徽标颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1022
+#: framework/customizer/sections/styles/header-styles.php:840
 msgid "Site Logo Hover Color"
 msgstr "站点徽标悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1036
+#: framework/customizer/sections/styles/header-styles.php:854
 msgid "Tag Line Color"
 msgstr "标记线颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1050
+#: framework/customizer/sections/styles/header-styles.php:868
 msgid "Tag Line Background Color"
 msgstr "标记行背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1065
+#: framework/customizer/sections/styles/header-styles.php:883
 msgid "Phone Color"
 msgstr "手机颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1079
+#: framework/customizer/sections/styles/header-styles.php:897
 msgid "Phone Hover Color"
 msgstr "手机悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1109
+#: framework/customizer/sections/styles/header-styles.php:927
 msgid "Nav Container Background Color"
 msgstr "导航容器背景颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1124
+#: framework/customizer/sections/styles/header-styles.php:942
 msgid "Nav Text Color"
 msgstr "导航文字颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1138
+#: framework/customizer/sections/styles/header-styles.php:956
 msgid "Nav Text Hover Color"
 msgstr "导航文字悬停颜色"
 
-#: framework/customizer/sections/styles/header-styles.php:1153
+#: framework/customizer/sections/styles/header-styles.php:971
 msgid "Nav Background Hover Color"
 msgstr "导航背景悬停颜色"
+
+#: framework/customizer/sections/styles/header-styles.php:1013
+msgid "Logo for sticky header. Site Logo will be used if no image selected."
+msgstr "粘性标题的徽标。如果未选择图像，将使用网站徽标。"
+
+#: framework/customizer/sections/styles/header-styles.php:1026
+msgid ""
+"Use predefined color schemes for sticky header. Choose custom to create your "
+"desired Color Scheme using controls below."
+msgstr ""
+"对粘性标题使用预定义的配色方案。选择\"自定义\"以使用下面的控件创建所需的配色"
+"方案。"
+
+#: framework/customizer/sections/styles/header-styles.php:1030
+msgid "Dark"
+msgstr "黑暗"
+
+#: framework/customizer/sections/styles/header-styles.php:1031
+msgid "Light"
+msgstr "浅色"
+
+#: framework/customizer/sections/styles/header-styles.php:1061
+msgid "Site Title Color"
+msgstr "网站标题颜色"
+
+#: framework/customizer/sections/styles/header-styles.php:1077
+msgid "Site Title Hover Color"
+msgstr "网站标题悬停颜色"
+
+#: framework/customizer/sections/styles/header-styles.php:1093
+msgid "Menu Text Color"
+msgstr "菜单文本颜色"
+
+#: framework/customizer/sections/styles/header-styles.php:1109
+msgid "Menu Text Hover Color"
+msgstr "菜单文本悬停颜色"
+
+#: framework/customizer/sections/styles/header-styles.php:1141
+msgid "Submit Button Hover Background Color"
+msgstr "提交按钮悬停背景颜色"
+
+#: framework/customizer/sections/styles/header-styles.php:1173
+msgid "Submit Button Hover Text Color"
+msgstr "提交按钮文字悬停颜色"
 
 #: framework/customizer/sections/styles/home-page.php:15
 msgid "Home Page"
@@ -7431,7 +7407,7 @@ msgstr "标题颜色文本"
 #: framework/customizer/sections/styles/home-page.php:579
 #: framework/customizer/sections/styles/home-page.php:694
 #: framework/customizer/sections/styles/home-page.php:774
-#: framework/customizer/sections/styles/news.php:117
+#: framework/customizer/sections/styles/news.php:113
 #: framework/customizer/sections/styles/property-item.php:74
 #: framework/customizer/sections/styles/slider.php:224
 msgid "Default color is #1ea69a"
@@ -7483,8 +7459,8 @@ msgid "Testimonial Quote Mark Color"
 msgstr "引用客户评价颜色"
 
 #: framework/customizer/sections/styles/home-page.php:224
-msgid "Default color is #1c9d92"
-msgstr "默认颜色为＃1c9d92"
+msgid "Default color is #0b8278"
+msgstr "默认颜色为#0b8278"
 
 #: framework/customizer/sections/styles/home-page.php:240
 msgid "Name Color"
@@ -7602,28 +7578,27 @@ msgstr "部分的文字颜色"
 msgid "Default color is #3EB6E0"
 msgstr "默认颜色为＃3EB6E0"
 
-#: framework/customizer/sections/styles/news.php:63
+#: framework/customizer/sections/styles/news.php:59
 msgid "Post Border, Icon And Slider Nav Colors"
 msgstr "发布边框，图标和滑块Nav颜色"
 
-#: framework/customizer/sections/styles/news.php:82
+#: framework/customizer/sections/styles/news.php:78
 msgid "Post Meta Text Color"
 msgstr "文章Meta文本颜色"
 
-#: framework/customizer/sections/styles/news.php:84
-#| msgid "Default color is #1ea69a"
+#: framework/customizer/sections/styles/news.php:80
 msgid "Default color is #1a1a1a"
-msgstr ""
+msgstr "默认颜色为#1a1a1a"
 
-#: framework/customizer/sections/styles/news.php:98
+#: framework/customizer/sections/styles/news.php:94
 msgid "Post Meta Text Hover Color"
 msgstr "文本悬停颜色"
 
-#: framework/customizer/sections/styles/news.php:100
+#: framework/customizer/sections/styles/news.php:96
 msgid "Default color is #fff"
 msgstr "默认颜色使用：#fff。"
 
-#: framework/customizer/sections/styles/news.php:115
+#: framework/customizer/sections/styles/news.php:111
 msgid "Post Meta Background Color"
 msgstr "文章元背景颜色"
 
@@ -7714,7 +7689,7 @@ msgstr "圆角"
 
 #: framework/customizer/sections/styles/round-corners.php:32
 msgid "Round Corners for Theme Elements"
-msgstr ""
+msgstr "主题元素的圆角"
 
 #: framework/customizer/sections/styles/round-corners.php:33
 msgid "This option allows you to change corners of some common theme elements."
@@ -7722,15 +7697,15 @@ msgstr "此选项允许您更改某些常见主题元素的角落。"
 
 #: framework/customizer/sections/styles/round-corners.php:56
 msgid " Round Corners Value"
-msgstr ""
+msgstr "圆角值"
 
 #: framework/customizer/sections/styles/search-form.php:31
-#: framework/functions/dashboard.php:1692
+#: framework/functions/dashboard.php:1706
 msgid "Primary Color"
 msgstr "原色"
 
 #: framework/customizer/sections/styles/search-form.php:46
-#: framework/functions/dashboard.php:1697
+#: framework/functions/dashboard.php:1711
 msgid "Secondary Color"
 msgstr "次要颜色"
 
@@ -7799,9 +7774,8 @@ msgid "Base Typography"
 msgstr "基础排版"
 
 #: framework/customizer/sections/styles/typography.php:34
-#| msgid "Select a logo for your footer."
 msgid "Select the font for your content."
-msgstr ""
+msgstr "选择内容的字体。"
 
 #: framework/customizer/sections/styles/typography.php:48
 #: framework/customizer/sections/styles/typography.php:91
@@ -7820,9 +7794,8 @@ msgid "Headings Typography"
 msgstr "标题排版"
 
 #: framework/customizer/sections/styles/typography.php:77
-#| msgid "Select a logo for your footer."
 msgid "Select the font for your headings."
-msgstr ""
+msgstr "选择标题的字体。"
 
 #: framework/customizer/sections/styles/typography.php:119
 msgid "Secondary Typography"
@@ -7831,15 +7804,6 @@ msgstr "次级排版"
 #: framework/customizer/sections/styles/typography.php:120
 msgid "Select the secondary font for your content and headings."
 msgstr "为您的内容和标题选择次要字体。"
-
-#: framework/customizer/sections/styles/typography.php:167
-msgid "Headings Color"
-msgstr "标题颜色"
-
-#: framework/customizer/sections/styles/typography.php:182
-#: framework/functions/dashboard.php:1702
-msgid "Body Text Color"
-msgstr "正文文本颜色"
 
 #: framework/customizer/site-logo.php:53
 msgid "Site Retina Logo"
@@ -7892,82 +7856,78 @@ msgstr "倒置"
 msgid "No more properties are available."
 msgstr "沒有更多的房源可用。"
 
-#: framework/functions/basic.php:358
-msgid "WhatsApp Number"
-msgstr "WhatsApp号码"
-
 #: framework/functions/basic.php:364
 msgid "Youtube URL"
 msgstr "Youtube URL"
 
-#: framework/functions/basic.php:948
+#: framework/functions/basic.php:951
 msgid "GDPR Agreement"
 msgstr "GDPR协议"
 
-#: framework/functions/basic.php:950
+#: framework/functions/basic.php:953
 msgid "* Please accept GDPR agreement"
 msgstr "*请接受GDPR协议"
 
-#: framework/functions/basic.php:952
+#: framework/functions/basic.php:955
 msgid ""
 "I consent to having this website store my submitted information so they can "
 "respond to my inquiry."
 msgstr "我同意让本站保存我提交的信息，以便对我的查询作出回应。"
 
-#: framework/functions/basic.php:1320
+#: framework/functions/basic.php:1323
 msgid "Walkscore API key is missing"
 msgstr "Walkscore API密钥丢失"
 
-#: framework/functions/basic.php:1412
+#: framework/functions/basic.php:1415
 msgid "Yelp API key is missing"
 msgstr "耶尔普API密钥丢失"
 
-#: framework/functions/basic.php:1429
+#: framework/functions/basic.php:1432
 msgid "mi"
 msgstr "英里"
 
-#: framework/functions/basic.php:1433
+#: framework/functions/basic.php:1436
 msgid "km"
 msgstr "千米"
 
-#: framework/functions/basic.php:1504
+#: framework/functions/basic.php:1507
 msgid "Reviews"
 msgstr "评论"
 
-#: framework/functions/basic.php:1518
+#: framework/functions/basic.php:1521
 msgid "powered by"
 msgstr "技术支持"
 
-#: framework/functions/basic.php:1877 framework/functions/basic.php:1920
+#: framework/functions/basic.php:1880 framework/functions/basic.php:1923
 msgid "Property Agent"
 msgstr "俱乐部教练组"
 
-#: framework/functions/basic.php:1892
+#: framework/functions/basic.php:1895
 #: framework/include/admin/tabs/plugins.php:13
 #: framework/include/admin/tabs/plugins.php:37
 #: framework/include/tgm/class-tgm-plugin-activation.php:2361
 msgid "Recommended"
 msgstr "推荐"
 
-#: framework/functions/basic.php:2011
+#: framework/functions/basic.php:2014
 msgid "No property found for this criteria."
 msgstr "未为此标准找到任何属性。"
 
-#: framework/functions/basic.php:2014
+#: framework/functions/basic.php:2017
 msgid "Invalid property filter provided."
-msgstr ""
+msgstr "提供的属性筛选器无效。"
 
-#: framework/functions/basic.php:2251
+#: framework/functions/basic.php:2254
 #: framework/functions/property-ratings.php:149
 msgid "5 based on"
 msgstr "5 基于"
 
-#: framework/functions/basic.php:2251
+#: framework/functions/basic.php:2254
 #: framework/functions/property-ratings.php:149
 msgid "reviews"
 msgstr "评论"
 
-#: framework/functions/basic.php:2269
+#: framework/functions/basic.php:2272
 #: framework/functions/property-ratings.php:74
 #: framework/functions/property-ratings.php:161
 #, php-format
@@ -7976,14 +7936,42 @@ msgid "%s Star"
 msgid_plural "%s Stars"
 msgstr[0] "%s 星"
 
-#: framework/functions/basic.php:2334 framework/functions/basic.php:2467
+#: framework/functions/basic.php:2337 framework/functions/basic.php:2470
 #, php-format
 msgid "Hello, I'm interested in [%s] %s"
 msgstr "你好，我对[%s]%s感兴趣"
 
-#: framework/functions/basic.php:2349
-msgid "Call Now"
-msgstr "电话联系"
+#: framework/functions/colorschemes.php:23
+msgid "Red"
+msgstr "红色"
+
+#: framework/functions/colorschemes.php:41
+msgid "Orange"
+msgstr "橙色"
+
+#: framework/functions/colorschemes.php:59
+msgid "Yellow"
+msgstr "黄色"
+
+#: framework/functions/colorschemes.php:77
+msgid "Green"
+msgstr "绿色"
+
+#: framework/functions/colorschemes.php:95
+msgid "Blue"
+msgstr "蓝色"
+
+#: framework/functions/colorschemes.php:113
+msgid "Brown"
+msgstr "棕色"
+
+#: framework/functions/colorschemes.php:131
+msgid "Pink"
+msgstr "粉色"
+
+#: framework/functions/colorschemes.php:149
+msgid "Tiffany Blue"
+msgstr "Tiffany Blue"
 
 #: framework/functions/dashboard.php:218
 msgid "Add Property"
@@ -8057,144 +8045,139 @@ msgstr "75"
 msgid "100"
 msgstr "100"
 
-#: framework/functions/dashboard.php:1330
+#: framework/functions/dashboard.php:1344
 #: framework/functions/submit-edit.php:223
 msgid "Floor Name"
 msgstr "楼层名称"
 
-#: framework/functions/dashboard.php:1337
+#: framework/functions/dashboard.php:1351
 #: framework/functions/submit-edit.php:229
 msgid "Floor Plan Image"
 msgstr "房型图"
 
-#: framework/functions/dashboard.php:1338
+#: framework/functions/dashboard.php:1352
 #: framework/functions/submit-edit.php:229
 msgid "* Minimum width is 770px and height is flexible."
 msgstr "*最小宽度为770px，高度灵活。"
 
-#: framework/functions/dashboard.php:1343
+#: framework/functions/dashboard.php:1357
 #: framework/functions/submit-edit.php:240
 msgid "Select Image"
 msgstr "选择图像"
 
-#: framework/functions/dashboard.php:1363
+#: framework/functions/dashboard.php:1377
 #: framework/functions/submit-edit.php:258
 msgid "Floor Price"
 msgstr "底价"
 
-#: framework/functions/dashboard.php:1364
-#: framework/functions/dashboard.php:1380
+#: framework/functions/dashboard.php:1378
+#: framework/functions/dashboard.php:1394
 #: framework/functions/submit-edit.php:258
 #: framework/functions/submit-edit.php:271
-#| msgid "Floor Size ( Only digits )"
 msgid "( Only digits )"
-msgstr ""
+msgstr "（ 只有数字 ）"
 
-#: framework/functions/dashboard.php:1379
+#: framework/functions/dashboard.php:1393
 #: framework/functions/submit-edit.php:271
 msgid "Floor Size"
 msgstr "楼层尺寸"
 
-#: framework/functions/dashboard.php:1387
+#: framework/functions/dashboard.php:1401
 #: framework/functions/submit-edit.php:277
 msgid "Size Postfix"
 msgstr "面积后缀"
 
-#: framework/functions/dashboard.php:1657
-#: framework/functions/design-variations-handler.php:295
-#: framework/functions/design-variations-handler.php:323
-#: framework/functions/design-variations-handler.php:617
-#: framework/functions/design-variations-handler.php:684
+#: framework/functions/dashboard.php:1671
+#: framework/functions/design-variations-handler.php:241
+#: framework/functions/design-variations-handler.php:269
+#: framework/functions/design-variations-handler.php:536
+#: framework/functions/design-variations-handler.php:603
 msgid "Valid file formats"
 msgstr "有效的文件格式"
 
-#: framework/functions/dashboard.php:1659
+#: framework/functions/dashboard.php:1673
 msgid "Clear"
 msgstr "清除"
 
-#: framework/functions/dashboard.php:1660
+#: framework/functions/dashboard.php:1674
 msgid "Select Color"
 msgstr "选择颜色"
 
-#: framework/functions/dashboard.php:1662
-#: framework/functions/design-variations-handler.php:998
+#: framework/functions/dashboard.php:1676
+#: framework/functions/design-variations-handler.php:917
 msgid "Searching..."
 msgstr "搜索中..."
 
-#: framework/functions/dashboard.php:1663
-#: framework/functions/design-variations-handler.php:999
+#: framework/functions/dashboard.php:1677
+#: framework/functions/design-variations-handler.php:918
 msgid "Loading more results..."
 msgstr "加载更多的结果…"
 
-#: framework/functions/dashboard.php:1664
+#: framework/functions/dashboard.php:1678
 msgid "Are you sure you want to exit?"
 msgstr "您确定要退出吗?"
 
-#: framework/functions/dashboard.php:1707
+#: framework/functions/dashboard.php:1716
+msgid "Body Text Color"
+msgstr "正文文本颜色"
+
+#: framework/functions/dashboard.php:1721
 msgid "Heading Color"
 msgstr "标题颜色"
 
-#: framework/functions/dashboard.php:1712
-msgid "Link Color"
-msgstr "链接颜色"
-
-#: framework/functions/dashboard.php:1717
-msgid "Link Hover Color"
-msgstr "链接悬停颜色"
-
-#: framework/functions/dashboard.php:1722
+#: framework/functions/dashboard.php:1736
 msgid "Logo Background Color"
 msgstr "标志背景颜色"
 
-#: framework/functions/dashboard.php:1727
+#: framework/functions/dashboard.php:1741
 msgid "Logo Color"
 msgstr "Logo颜色"
 
-#: framework/functions/dashboard.php:1732
+#: framework/functions/dashboard.php:1746
 msgid "Logo Hover Color"
 msgstr "LOGO悬停颜色"
 
-#: framework/functions/dashboard.php:1737
+#: framework/functions/dashboard.php:1751
 msgid "Sidebar Background Color"
 msgstr "侧边栏背景颜色"
 
-#: framework/functions/dashboard.php:1742
+#: framework/functions/dashboard.php:1756
 msgid "Sidebar Menu Text Color"
 msgstr "侧边栏菜单文本颜色"
 
-#: framework/functions/dashboard.php:1747
+#: framework/functions/dashboard.php:1761
 msgid "Sidebar Menu Background Color"
 msgstr "侧边栏菜单背景颜色"
 
-#: framework/functions/dashboard.php:1752
+#: framework/functions/dashboard.php:1766
 msgid "Sidebar Menu Text Hover Color"
 msgstr "侧边栏菜单文本悬停颜色"
 
-#: framework/functions/dashboard.php:1757
+#: framework/functions/dashboard.php:1771
 msgid "Sidebar Menu Hover Background Color"
 msgstr "侧边栏菜单悬停背景颜色"
 
-#: framework/functions/dashboard.php:1762
+#: framework/functions/dashboard.php:1776
 msgid "Sidebar Active Submenu Text Color"
 msgstr "侧边栏活动子梅努文本颜色"
 
-#: framework/functions/dashboard.php:1767
+#: framework/functions/dashboard.php:1781
 msgid "Sidebar Active Submenu Background Color"
 msgstr "侧边栏活动子梅努背景颜色"
 
-#: framework/functions/dashboard.php:1780
+#: framework/functions/dashboard.php:1794
 msgid "Membership Package Background Color"
 msgstr "热门会员套餐背景色"
 
-#: framework/functions/dashboard.php:1786
+#: framework/functions/dashboard.php:1800
 msgid "Popular Membership Package Background Color"
 msgstr "热门会员套餐背景色"
 
-#: framework/functions/design-variations-handler.php:396
+#: framework/functions/design-variations-handler.php:340
 msgid "Go to..."
 msgstr "转到..."
 
-#: framework/functions/design-variations-handler.php:398
+#: framework/functions/design-variations-handler.php:342
 msgid "Less fields"
 msgstr "更少的字段"
 
@@ -8206,11 +8189,11 @@ msgstr "邮箱无效，请重试。"
 msgid "This Email is already used by another user. Please try a different one."
 msgstr "此电子邮件已被另一用户使用。请尝试另一个。"
 
-#: framework/functions/edit-profile-handler.php:261
+#: framework/functions/edit-profile-handler.php:269
 msgid "The passwords you entered do not match.  Your password was not updated."
 msgstr "您输入的密码不匹配。你的密码没有更新。"
 
-#: framework/functions/edit-profile-handler.php:296
+#: framework/functions/edit-profile-handler.php:304
 msgid "Profile information is updated successfully!"
 msgstr "成功更新配置文件信息！"
 
@@ -8282,9 +8265,8 @@ msgid "Property Removed Successfully!"
 msgstr "已成功删除属性！"
 
 #: framework/functions/my-properties.php:41
-#| msgid "Failed to Remove!"
 msgid "Failed to Remove Property!"
-msgstr ""
+msgstr "无法删除属性！"
 
 #: framework/functions/pagination.php:40 framework/functions/pagination.php:167
 #: framework/functions/pagination.php:233
@@ -8408,9 +8390,8 @@ msgid "Browse Attachments"
 msgstr "浏览附件"
 
 #: framework/functions/submit-edit.php:441
-#| msgid "You have reached maximum files upload limit"
 msgid "You have reached maximum attachments upload limit."
-msgstr ""
+msgstr "您已达到最大附件上传限制。"
 
 #: framework/functions/subscription-api.php:65
 msgid "ERE Subscription Interval"
@@ -8583,35 +8564,35 @@ msgid ""
 "for long term."
 msgstr "建议最终确定开始的设计变化，并仅长期使用。"
 
-#: framework/include/admin/tabs/design.php:25
+#: framework/include/admin/tabs/design.php:26
 msgid "Classic"
 msgstr "经典"
 
-#: framework/include/admin/tabs/design.php:34
+#: framework/include/admin/tabs/design.php:35
 msgid "Modern"
 msgstr "现代"
 
-#: framework/include/admin/tabs/design.php:43
+#: framework/include/admin/tabs/design.php:44
 #, php-format
 msgid ""
 "Make sure to follow the steps given below after changing the design "
 "variation and get in touch with %s in case of any issue."
 msgstr "更改设计变体后，请务必按照以下步骤操作，并在出现%s时联系您。"
 
-#: framework/include/admin/tabs/design.php:43
+#: framework/include/admin/tabs/design.php:44
 msgid "our support"
 msgstr "我们的支持"
 
-#: framework/include/admin/tabs/design.php:45
+#: framework/include/admin/tabs/design.php:46
 #, php-format
 msgid "Regenerate images on your website using %s plugin."
 msgstr "使用%s插件在网站上重新生成图像。"
 
-#: framework/include/admin/tabs/design.php:45
+#: framework/include/admin/tabs/design.php:46
 msgid "Regenerate Thumbnails"
 msgstr "重新生成缩略图"
 
-#: framework/include/admin/tabs/design.php:46
+#: framework/include/admin/tabs/design.php:47
 msgid "Test all pages on your website and rearrange widgets where required."
 msgstr "测试您网站上的所有页面，并根据需要重新排列小部件。"
 
@@ -8830,9 +8811,6 @@ msgid ""
 msgstr "如果您想用基于插件的表单替换默认联系人表单，请在此处提供简码。"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:256
-#| msgid ""
-#| "User will be redirected to the selected page after successful login. By "
-#| "default user will be redirected to the Homepage."
 msgid ""
 "User will be redirected to the selected page after successful submission of "
 "the contact form."
@@ -9892,13 +9870,9 @@ msgstr "巨大"
 msgid "XL"
 msgstr "XL"
 
-#: functions.php:188 functions.php:213
-msgid "Primary"
-msgstr "主要"
-
-#: functions.php:198 functions.php:223
-msgid "Secondary"
-msgstr "次要"
+#: functions.php:228
+msgid "Green Dark"
+msgstr "绿黑色"
 
 #: functions.php:236
 msgid "Black"
@@ -9908,107 +9882,107 @@ msgstr "黑色"
 msgid "White"
 msgstr "白色"
 
-#: functions.php:400
+#: functions.php:405
 msgid "Default Sidebar"
 msgstr "默认侧边栏"
 
-#: functions.php:402
+#: functions.php:407
 msgid "Widget area for default sidebar on news and post pages."
 msgstr "新闻和帖子页面默认侧边栏小部件区域。"
 
-#: functions.php:411
+#: functions.php:416
 msgid "Pages Sidebar"
 msgstr "页面侧边栏"
 
-#: functions.php:413
+#: functions.php:418
 msgid "Widget area for default page template sidebar."
 msgstr "默认页面模板侧边栏区域。"
 
-#: functions.php:423
+#: functions.php:428
 msgid "Contact Sidebar"
 msgstr "联系侧边栏"
 
-#: functions.php:425
+#: functions.php:430
 msgid "Widget area for contact page sidebar."
 msgstr "小工具区域的联系页面栏。"
 
-#: functions.php:435
+#: functions.php:440
 msgid "Property Sidebar"
 msgstr "房产侧边栏"
 
-#: functions.php:437
+#: functions.php:442
 msgid "Widget area for property detail page sidebar."
 msgstr "房产详细页边侧栏小工具区。"
 
-#: functions.php:446
+#: functions.php:451
 msgid "Properties Pages Sidebar"
 msgstr "属性页面边栏"
 
-#: functions.php:448
+#: functions.php:453
 msgid "Widget area for sidebar in properties list, grid and archive pages."
 msgstr "属性列表，网格和归档页面中侧栏的Widget区域。"
 
-#: functions.php:457
+#: functions.php:462
 msgid "Footer First Column"
 msgstr "页脚第一列"
 
-#: functions.php:459
+#: functions.php:464
 msgid "Widget area for first column in footer."
 msgstr "页脚中第一列的小部件区域。"
 
-#: functions.php:468
+#: functions.php:473
 msgid "Footer Second Column"
 msgstr "页脚第二列"
 
-#: functions.php:470
+#: functions.php:475
 msgid "Widget area for second column in footer."
 msgstr "页脚中第二列的小部件区域。"
 
-#: functions.php:479
+#: functions.php:484
 msgid "Footer Third Column"
 msgstr "页脚第三列"
 
-#: functions.php:481
+#: functions.php:486
 msgid "Widget area for third column in footer."
 msgstr "页脚中第三列的小部件区域。"
 
-#: functions.php:490
+#: functions.php:495
 msgid "Footer Fourth Column"
 msgstr "页脚第四列"
 
-#: functions.php:492
+#: functions.php:497
 msgid "Widget area for fourth column in footer."
 msgstr "页脚中第四列的小部件区域。"
 
-#: functions.php:501
+#: functions.php:506
 msgid "Agent Sidebar"
 msgstr "代理边侧栏"
 
-#: functions.php:503
+#: functions.php:508
 msgid "Sidebar widget area for agent detail page."
 msgstr "小部件边侧栏的代理详细页。"
 
-#: functions.php:512
+#: functions.php:517
 msgid "Agency Sidebar"
 msgstr "代理商边栏"
 
-#: functions.php:514
+#: functions.php:519
 msgid "Sidebar widget area for agency detail page."
 msgstr "代理商明细页面的侧边栏小部件区域。"
 
-#: functions.php:523
+#: functions.php:528
 msgid "Property Search Sidebar"
 msgstr "房产搜索边侧栏"
 
-#: functions.php:525
+#: functions.php:530
 msgid "Widget area for property search template with sidebar."
 msgstr "带边侧栏的房产搜索模板小部件区。"
 
-#: functions.php:537
+#: functions.php:542
 msgid "Home Search Area"
 msgstr "首页搜索区域"
 
-#: functions.php:539
+#: functions.php:544
 msgid ""
 "Widget area for only IDX Search Widget. Using this area means you want to "
 "display IDX search form instead of default search form."
@@ -10016,46 +9990,45 @@ msgstr ""
 "只有IDX搜索插件插件区。利用这个地区意味着你想显示IDX搜索形式代替默认的搜索形"
 "式。"
 
-#: functions.php:548
+#: functions.php:553
 msgid "dsIDX Sidebar"
 msgstr "dsIDX边侧栏"
 
-#: functions.php:550
+#: functions.php:555
 msgid "Widget area for dsIDX related pages."
 msgstr "用于dsIDX相关页面的窗口小部件区域."
 
-#: functions.php:564
+#: functions.php:569
 #, php-format
 msgid "Additional Sidebar %d"
 msgstr "附加侧边栏 %d"
 
-#: functions.php:565
+#: functions.php:570
 msgid "An extra sidebar to use with Visual Composer if needed."
 msgstr "额外的侧边栏须和Visual Composer一起使用。"
 
-#: functions.php:579
+#: functions.php:584
 msgid "Optima Express Sidebar"
 msgstr "最优表达的侧边栏"
 
-#: functions.php:581
+#: functions.php:586
 msgid "An extra sidebar to use with Optima Express if needed."
 msgstr "如果需要的话，可以使用一个额外的工具条。"
 
-#: functions.php:594
+#: functions.php:599
 msgid "Shop Sidebar"
 msgstr "商店侧边栏"
 
-#: functions.php:596
+#: functions.php:601
 msgid "An extra sidebar to use with WooCommerce pages if needed."
 msgstr "如果需要，可额外使用 Woo 商业页面的侧边栏。"
 
-#: functions.php:652
-#| msgid "on"
+#: functions.php:657
 msgctxt "Damion font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:661
+#: functions.php:666
 msgctxt "Rubik font: on or off"
 msgid "on"
 msgstr "开"
@@ -10064,7 +10037,7 @@ msgstr "开"
 msgid ""
 "Error: Before you access this page, please activate the RealHomes Vacation "
 "Rentals plugin!"
-msgstr ""
+msgstr "错误：在访问此页面之前，请激活RealHomes度假租赁插件！"
 
 #: templates/icalendar.php:12
 msgid "Error: This page called incorrectly!"
@@ -10094,6 +10067,165 @@ msgstr "逼逼汉化"
 #. Author URI of the plugin/theme
 msgid "https://www.inspirythemes.com/"
 msgstr "https://www.inspirythemes.com/"
+
+#~ msgid "Optimise Styles to Improve Performance"
+#~ msgstr "优化样式以提高性能"
+
+#~ msgid "Enabling this will include compressed version of few big css files."
+#~ msgstr "启用它将包括一些大的css文件的压缩版本。"
+
+#~ msgid "Footer Columns"
+#~ msgstr "页脚列"
+
+#~ msgid "Text"
+#~ msgstr "文本"
+
+#~ msgid "Others"
+#~ msgstr "其他"
+
+#~ msgid "Select Responsive Header"
+#~ msgstr "选择响应标题"
+
+#~ msgid "Enabling responsive header on mobile devices."
+#~ msgstr "在移动设备上启用响应式标头。"
+
+#~ msgid "Header Search Form"
+#~ msgstr "页头搜索表单"
+
+#~ msgid "Important Notes:"
+#~ msgstr "重要笔记："
+
+#, php-format
+#~ msgid ""
+#~ "• These color options replace the core colors %1$s mostly %2$s all over "
+#~ "the theme. You can also override these colors for almost each section in "
+#~ "%1$s Customizer > Styles %2$s ."
+#~ msgstr ""
+#~ "•这些颜色选项替换了整个主题中%1$s的核心颜色，主要是%2$s。您还可以在%1$s定"
+#~ "制程序>样式%2$s中为几乎每个部分覆盖这些颜色。"
+
+#, php-format
+#~ msgid ""
+#~ "• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
+#~ "option is selected in %1$s Customizer > Styles > Default or Custom %2$s. "
+#~ msgstr ""
+#~ "•要应用这些核心颜色，请确保在%1$s定制程序>样式>默认或自定义%2$s中选择"
+#~ "了%1$s我自己的自定义颜色%2$s选项。 "
+
+#, php-format
+#~ msgid ""
+#~ "Change core colors of %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Background %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Slider Direction Nav %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Featured Tag %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Add To Favourite Tag %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Featured Properties Slider Direction Nav "
+#~ "%1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Port Gallery Format Slider Direction Nav "
+#~ "%1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• CTA Button One Background %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Agents Arrow %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Sidebar widget links %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agent View My Listings Link %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ea723d "
+#~ msgstr ""
+#~ "更改%1$s的核心颜色•主菜单背景%1$s•主页滑块方向导航%1$s•属性特色标记%1$s•添"
+#~ "加到收藏夹标签%1$s•特色属性滑块方向导航%1$s•端口库格式滑块方向导航%1$s•CTA"
+#~ "按钮一个背景%1$s•家庭代理箭头%1$s•补充工具栏小部件链接%1$s•代理商查看我的"
+#~ "列表链接%1$s默认颜色是＃ea723d "
+
+#, php-format
+#~ msgid ""
+#~ "Change core colors of %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Meta Icons Home Slider %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Price %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Title Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Image Overlay %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Search Form %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Detail Headings %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Sidebar Buttons %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Testimonial Background %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Section Subtitle %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home CTA-Contact Background %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Title and Email Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Number and Property count %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Contact Form Button %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Title and Meta Background Bar %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Comment Submit Button %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Read More %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Gallery Item Overlay %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Gallery Filter Underline %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact Page Form Button %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Pagination %1$s\n"
+#~ "\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1ea69a "
+#~ msgstr ""
+#~ "更改%1$s的核心颜色•物业提交按钮%1$s•物业元图标主页滑块%1$s•物业价格%1$s•物"
+#~ "业名称悬停%1$s•物业图像叠加%1$s•物业搜索表格%1$s•物业详情标题%1$s•物业边栏"
+#~ "按钮%1$s•首页见证背景%1$s•首页部分字幕%1$s•首页CTA-联络背景%1$s•代理商名称"
+#~ "和电子邮件悬停%1$s•代理人数量和财产数量%1$s•代理商联系表格按钮%1$s•新闻标"
+#~ "题和元背景栏%1$s•评论提交按钮%1$s•新闻阅读更多%1$s•图库项目叠加%1$s•图库过"
+#~ "滤下划线%1$s•联系页面表格按钮%1$s•分页%1$s默认颜色为＃1ea69a "
+
+#, php-format
+#~ msgid ""
+#~ "Change core colors of %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Search Button Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Testimonial Quote Marks %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Sidebar Buttons Hovers %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Comment Submit Button Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Read More Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Contact Form Button Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact PAge Form Button Hover %1$s\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1c9d92 "
+#~ msgstr ""
+#~ "更改%1$s的核心颜色•属性提交按钮悬停%1$s•属性搜索按钮悬停%1$s•家庭推荐引"
+#~ "号%1$s•属性侧边栏按钮悬停%1$s•评论提交按钮悬停%1$s•新闻阅读更多内容悬"
+#~ "停%1$s•座席联系表单按钮悬停%1$s•联系人表单按钮悬停%1$s默认颜色为＃1c9d92 "
+
+#~ msgid "Default or Custom"
+#~ msgstr "默认或自定义"
+
+#~ msgid "You are going to use default theme colors or your own custom colors?"
+#~ msgstr "您将使用默认主题颜色还是您自己的自定义颜色？"
+
+#~ msgid "My Own Custom Colors"
+#~ msgstr "我自己的自定義顏色"
+
+#~ msgid "Header Background Gradient Two Color"
+#~ msgstr "标题背景梯度两种颜色"
+
+#~ msgid "Finishing gradient color to bottom (default #c0c0c0)"
+#~ msgstr "将渐变颜色整理到底部（默认#c0c0c0）"
+
+#~ msgid "Sticky Header "
+#~ msgstr "粘性标题 "
+
+#~ msgid "Sticky Header Background"
+#~ msgstr "置顶页眉背景"
+
+#~ msgid "Sticky Header Menu Text Color"
+#~ msgstr "置顶标题文本颜色"
+
+#~ msgid "Sticky Header Menu Background Hover Color"
+#~ msgstr "页眉菜单背景悬停颜色"
+
+#~ msgid "Sticky Header Menu Hover Text Color"
+#~ msgstr "页眉菜单悬停文本颜色"
+
+#~ msgid "Sticky Header Contacts Color"
+#~ msgstr "粘页眉触点颜色"
+
+#~ msgid "Sticky Header Submit Button Color"
+#~ msgstr "头部提交按钮颜色"
+
+#~ msgid "Sticky Header Submit Button Hover Text Color"
+#~ msgstr "头部提交按钮悬停颜色"
+
+#~ msgid "Default color is #1c9d92"
+#~ msgstr "默认颜色为＃1c9d92"
 
 #~ msgid "Property Submitted."
 #~ msgstr "房产已提交。"
