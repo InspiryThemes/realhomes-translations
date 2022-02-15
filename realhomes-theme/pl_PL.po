@@ -1,18 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RealHomes Theme\n"
-"POT-Creation-Date: 2021-09-14 17:59+0500\n"
-"PO-Revision-Date: 2021-10-04 17:06+0500\n"
+"POT-Creation-Date: 2022-02-03 13:58+0500\n"
+"PO-Revision-Date: 2022-02-16 00:38+0500\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
-"X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
 "|| n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: style.css\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -128,7 +128,8 @@ msgstr "Fax"
 #: assets/modern/partials/property/single-fullwidth/agent.php:143
 #: assets/modern/partials/property/single/agent-for-sidebar.php:98
 #: assets/modern/partials/property/single/agent.php:122
-#: framework/functions/basic.php:2341
+#: framework/customizer/sections/property/agent.php:159
+#: framework/functions/basic.php:2510
 msgid "WhatsApp"
 msgstr "WhatsApp"
 
@@ -176,7 +177,7 @@ msgstr "Więcej szczegółów"
 #: assets/classic/partials/agent/single/contact-form.php:25
 #: assets/classic/partials/agent/single/contact-form.php:31
 msgid "Send a Message"
-msgstr "Wyślij !iadomość"
+msgstr "Wyślij wiadomość"
 
 #: assets/classic/partials/agency/single/contact-form.php:26
 #: assets/classic/partials/agent/single/contact-form.php:36
@@ -402,7 +403,7 @@ msgstr "Wszystkie wpisy w Tagu"
 #: assets/classic/partials/blog/archive-contents.php:27
 #: assets/modern/partials/blog/post/archive-contents.php:28
 msgid "All Posts By"
-msgstr "Pokaż wszystkie posty"
+msgstr "Wszystkie wpisy od"
 
 #: assets/classic/partials/blog/article.php:33
 #: assets/classic/partials/blog/single-contents.php:37
@@ -467,7 +468,7 @@ msgstr "Poprzedni wpis"
 msgid "Next Post"
 msgstr "Następny wpis"
 
-#: assets/classic/partials/footer.php:93 assets/modern/partials/footer.php:105
+#: assets/classic/partials/footer.php:93 assets/modern/partials/footer.php:133
 msgid "All rights reserved."
 msgstr "Wszelkie prawa zastrzeżone."
 
@@ -496,7 +497,7 @@ msgstr "* Podaj nazwę użytkownika!"
 #: assets/classic/partials/page/forms/login-form.php:9
 #: assets/modern/partials/member/login-form.php:24
 #: assets/modern/partials/page/edit-profile.php:182
-#: common/dashboard/profile.php:238 common/partials/login-modal.php:140
+#: common/dashboard/profile.php:247 common/partials/login-modal.php:140
 #: common/partials/login-modal.php:146
 #: framework/customizer/sections/header/login-register.php:217
 #: framework/customizer/sections/header/login-register.php:228
@@ -597,14 +598,13 @@ msgid "Email us at"
 msgstr "Skontaktuj się z nami e-mailowo na"
 
 #: assets/classic/partials/header/phone-number.php:26
-#: assets/classic/partials/header/sticky-header.php:52
 msgid "Make a Call"
 msgstr "Zadzwoń"
 
 #: assets/classic/partials/header/user-nav.php:21
 #: assets/classic/partials/header/user-nav.php:26
-#: assets/modern/partials/header/modal.php:58
-#: assets/modern/partials/header/modal.php:97
+#: assets/modern/partials/header/modal.php:59
+#: assets/modern/partials/header/modal.php:98
 #: assets/modern/partials/member/properties.php:105
 #: assets/modern/partials/page/edit-profile.php:73
 #: assets/modern/partials/page/favorites.php:108
@@ -614,14 +614,14 @@ msgstr "Ulubione"
 
 #: assets/classic/partials/header/user-nav.php:45
 #: assets/classic/partials/home/slider/cfos.php:204
-#: assets/modern/partials/header/submit-property.php:21
+#: assets/modern/partials/header/submit-property.php:20
 #: assets/modern/partials/home/slider/cfos.php:199
-#: common/dashboard/header.php:131 framework/customizer/dashboard.php:182
+#: common/dashboard/header.php:132 framework/customizer/dashboard.php:182
 msgid "Submit"
 msgstr "Wyślij"
 
 #: assets/classic/partials/header/user-nav.php:70
-#: assets/modern/partials/header/modal.php:108
+#: assets/modern/partials/header/modal.php:109
 #: framework/customizer/dashboard.php:545
 #: framework/customizer/dashboard.php:671 framework/functions/dashboard.php:266
 #: framework/functions/dashboard.php:525
@@ -629,7 +629,7 @@ msgid "Saved Searches"
 msgstr "Zachowane Wyszukiwania"
 
 #: assets/classic/partials/header/user-nav.php:88
-#: assets/modern/partials/header/modal.php:87
+#: assets/modern/partials/header/modal.php:88
 #: assets/modern/partials/member/properties.php:95
 #: assets/modern/partials/page/edit-profile.php:63
 #: assets/modern/partials/page/favorites.php:98
@@ -637,13 +637,13 @@ msgstr "Zachowane Wyszukiwania"
 #: framework/customizer/dashboard.php:441 framework/functions/dashboard.php:211
 #: framework/functions/dashboard.php:212 framework/functions/dashboard.php:500
 msgid "My Properties"
-msgstr "Moje Nieruchomości"
+msgstr "Moje nieruchomości"
 
 #: assets/classic/partials/header/user-nav.php:99
 #: assets/classic/partials/header/user-nav.php:102
 #: assets/modern/partials/agency/single/agency.php:36
 #: assets/modern/partials/agent/single/agent.php:38
-#: assets/modern/partials/header/modal.php:73
+#: assets/modern/partials/header/modal.php:74
 #: assets/modern/partials/member/properties.php:85
 #: assets/modern/partials/page/edit-profile.php:53
 #: assets/modern/partials/page/favorites.php:88
@@ -652,7 +652,7 @@ msgid "Profile"
 msgstr "Profil"
 
 #: assets/classic/partials/header/user-nav.php:107
-#: assets/modern/partials/header/modal.php:140
+#: assets/modern/partials/header/modal.php:141
 #: framework/functions/dashboard.php:328 framework/functions/dashboard.php:329
 #: framework/functions/dashboard.php:557
 msgid "Logout"
@@ -670,7 +670,7 @@ msgstr "Menu"
 
 #: assets/classic/partials/home/sections/blog-posts.php:83
 msgid "On"
-msgstr "Wł."
+msgstr ""
 
 #: assets/classic/partials/home/sections/blog-posts.php:84
 msgid "by"
@@ -713,9 +713,9 @@ msgstr "Zdjęcie"
 #: common/dashboard/property-card.php:42
 #: common/dashboard/saved-search-item.php:74
 #: framework/customizer/dashboard.php:224
-#: framework/customizer/properties-templates-and-archive.php:232
-#: framework/customizer/properties-templates-and-archive.php:244
-#: framework/functions/dashboard.php:1395
+#: framework/customizer/properties-templates-and-archive.php:306
+#: framework/customizer/properties-templates-and-archive.php:318
+#: framework/functions/dashboard.php:1409
 #: framework/functions/submit-edit.php:283
 msgid "Bedrooms"
 msgstr "Sypialnie"
@@ -751,9 +751,9 @@ msgstr "Sypialnia"
 #: common/dashboard/property-card.php:60
 #: common/dashboard/saved-search-item.php:70
 #: framework/customizer/dashboard.php:225
-#: framework/customizer/properties-templates-and-archive.php:233
-#: framework/customizer/properties-templates-and-archive.php:245
-#: framework/functions/dashboard.php:1402
+#: framework/customizer/properties-templates-and-archive.php:307
+#: framework/customizer/properties-templates-and-archive.php:319
+#: framework/functions/dashboard.php:1416
 #: framework/functions/submit-edit.php:289
 msgid "Bathrooms"
 msgstr "Łazienki"
@@ -775,7 +775,7 @@ msgstr "Łazienka"
 #: assets/modern/partials/agency/card.php:143 framework/customizer/misc.php:40
 #: framework/customizer/sections/property/agent.php:126
 msgid "Know More"
-msgstr "Więcej"
+msgstr "Dowiedz się więcej"
 
 #: assets/classic/partials/home/sections/home-properties.php:117
 #: assets/classic/partials/page/edit-profile.php:426
@@ -832,7 +832,7 @@ msgstr "Opowiedz nam o żądanej nieruchomości"
 #: assets/modern/partials/home/slider/cfos.php:158
 #: assets/modern/partials/home/slider/cfos.php:174
 msgid "* Please provide "
-msgstr "* Proszę podać"
+msgstr ""
 
 #: assets/classic/partials/home/slider/search-form-over-image.php:103
 msgid "Advanced Search"
@@ -865,10 +865,10 @@ msgstr "Sortuj według"
 #: assets/modern/partials/properties/search.php:138
 #: assets/modern/partials/taxonomy/grid-layout.php:58
 #: assets/modern/partials/taxonomy/list-layout.php:56
-#: framework/customizer/misc.php:126 framework/functions/dashboard.php:1661
-#: framework/functions/design-variations-handler.php:410
-#: framework/functions/design-variations-handler.php:806
-#: framework/functions/design-variations-handler.php:995
+#: framework/customizer/misc.php:108 framework/functions/dashboard.php:1675
+#: framework/functions/design-variations-handler.php:354
+#: framework/functions/design-variations-handler.php:725
+#: framework/functions/design-variations-handler.php:914
 msgid "No Results Found!"
 msgstr "Nie znaleziono wyników!"
 
@@ -882,14 +882,14 @@ msgstr "Numer telefonu"
 #: assets/classic/partials/page/contact.php:187
 #: assets/modern/partials/page/contact.php:94
 msgid "* Please provide a valid email address"
-msgstr "Proszę wpisać poprawny e-mail"
+msgstr ""
 
 #: assets/classic/partials/page/edit-profile.php:115
 msgid "Change"
 msgstr "Zmień"
 
 #: assets/classic/partials/page/edit-profile.php:117
-#: framework/functions/dashboard.php:1345
+#: framework/functions/dashboard.php:1359
 #: framework/functions/submit-edit.php:241
 msgid "Remove"
 msgstr "Usuń"
@@ -934,7 +934,7 @@ msgstr "Telefon komórkowy"
 #: assets/modern/partials/page/edit-profile.php:214
 #: common/dashboard/profile.php:95 framework/functions/basic.php:356
 msgid "Office Number"
-msgstr "Numer do biura"
+msgstr "Pevná linka"
 
 #: assets/classic/partials/page/edit-profile.php:183
 #: assets/modern/partials/page/edit-profile.php:221
@@ -992,13 +992,13 @@ msgstr "Wypełnij tylko wtedy, gdy chcesz zmienić swoje hasło"
 
 #: assets/classic/partials/page/edit-profile.php:292
 #: assets/modern/partials/page/edit-profile.php:188
-#: common/dashboard/profile.php:245
+#: common/dashboard/profile.php:254
 msgid "Confirm Password"
 msgstr "Potwierdź hasło"
 
 #: assets/classic/partials/page/edit-profile.php:425
 #: assets/modern/partials/page/edit-profile.php:389
-#: common/dashboard/profile.php:365 framework/include/admin/tabs/design.php:51
+#: common/dashboard/profile.php:375 framework/include/admin/tabs/design.php:52
 msgid "Save Changes"
 msgstr "Zapisz zmiany"
 
@@ -1158,7 +1158,7 @@ msgstr "Wynik wyszukiwania dla: "
 
 #: assets/classic/partials/page/my-properties.php:220
 msgid "Posted on:"
-msgstr "Opublikowano dnia:"
+msgstr "Dodano:"
 
 #: assets/classic/partials/page/my-properties.php:262
 #: assets/modern/partials/member/my-property.php:116
@@ -1212,7 +1212,7 @@ msgstr "Brak Nieruchomości!"
 #: assets/modern/partials/page/submit-property.php:508
 #: common/dashboard/submit-property.php:34
 #: framework/functions/dashboard.php:735
-#: framework/functions/edit-profile-handler.php:313
+#: framework/functions/edit-profile-handler.php:321
 #: framework/functions/property-submit-handler.php:16
 #: framework/functions/property-submit-handler.php:77
 #: framework/functions/property-submit-handler.php:175
@@ -1254,8 +1254,8 @@ msgstr "Miasto"
 #: assets/modern/partials/property/single/meta.php:185
 #: common/dashboard/form-fields/lot-size.php:11
 #: framework/customizer/dashboard.php:229
-#: framework/customizer/properties-templates-and-archive.php:237
-#: framework/customizer/properties-templates-and-archive.php:249
+#: framework/customizer/properties-templates-and-archive.php:311
+#: framework/customizer/properties-templates-and-archive.php:323
 msgid "Lot Size"
 msgstr "Powierzchnia z działką"
 
@@ -1265,7 +1265,7 @@ msgstr "Powierzchnia z działką"
 #: assets/modern/partials/property/single-fullwidth/children.php:31
 #: assets/modern/partials/property/single/children.php:36
 msgid "Property Size"
-msgstr "Powierzchnia mieszkalna"
+msgstr "Powierzchnia nieruchomości"
 
 #: assets/classic/partials/properties/compare.php:131
 #: assets/classic/partials/property/form-fields/year-built.php:24
@@ -1278,8 +1278,8 @@ msgstr "Powierzchnia mieszkalna"
 #: common/dashboard/form-fields/year-built.php:16
 #: common/dashboard/form-fields/year-built.php:18
 #: framework/customizer/dashboard.php:231
-#: framework/customizer/properties-templates-and-archive.php:236
-#: framework/customizer/properties-templates-and-archive.php:248
+#: framework/customizer/properties-templates-and-archive.php:310
+#: framework/customizer/properties-templates-and-archive.php:322
 msgid "Year Built"
 msgstr "Rok budowy"
 
@@ -1291,7 +1291,7 @@ msgstr "Rok budowy"
 #: common/dashboard/saved-search-item.php:78
 #: framework/customizer/dashboard.php:226
 msgid "Garages"
-msgstr "Pomieszczenie przynależne"
+msgstr "Garaże"
 
 #: assets/classic/partials/properties/compare/button-compare.php:22
 msgid "Added To Compare"
@@ -1394,7 +1394,6 @@ msgstr "Wszyscy agenci"
 #: assets/modern/partials/property/form-fields/agent.php:99
 #: common/dashboard/form-fields/agent.php:74
 #: framework/customizer/sections/search/search-form-property-agents.php:74
-#| msgid "Agent Slug"
 msgid "Agents Selected"
 msgstr ""
 
@@ -1418,7 +1417,7 @@ msgstr "Słowo kluczowe"
 #: framework/customizer/sections/search/search-form-property-id.php:46
 #: framework/functions/real-estate.php:1008
 msgid "Any"
-msgstr "Dowolny"
+msgstr "Wszyscy"
 
 #: assets/classic/partials/properties/search/fields/location.php:36
 #: assets/modern/partials/properties/search/fields/location.php:43
@@ -1429,7 +1428,6 @@ msgstr "Brak takiej opcji wyboru"
 #: assets/classic/partials/property/form-fields/locations.php:41
 #: assets/modern/partials/property/form-fields/locations.php:36
 #: common/dashboard/form-fields/locations.php:36
-#| msgid "No results found"
 msgid "No results matched "
 msgstr ""
 
@@ -1444,7 +1442,6 @@ msgstr "Wszystkie lokalizacje"
 #: assets/classic/partials/properties/search/fields/location.php:60
 #: assets/classic/partials/property/form-fields/locations.php:54
 #: assets/modern/partials/properties/search/fields/location.php:65
-#| msgid "Number of Location Select Boxes"
 msgid " Locations Selected "
 msgstr ""
 
@@ -1453,7 +1450,7 @@ msgstr ""
 #: framework/customizer/sections/search/search-form-basics.php:103
 #: framework/customizer/sections/search/search-form-bed.php:69
 msgid "Min Baths"
-msgstr "Min. ilość łazienek"
+msgstr "Min. łazienek"
 
 #: assets/classic/partials/properties/search/fields/min-beds.php:10
 #: assets/modern/partials/properties/search/fields/min-beds.php:20
@@ -1488,7 +1485,7 @@ msgstr "Podaj tylko cyfry!"
 #: assets/modern/partials/properties/search/fields/min-max-area.php:49
 #: framework/customizer/sections/search/search-form-areas.php:68
 msgid "Max Area"
-msgstr "Powierzchnia do"
+msgstr "Max Powierzchnia"
 
 #: assets/classic/partials/properties/search/fields/min-max-price.php:11
 #: assets/classic/partials/properties/search/fields/min-max-price.php:38
@@ -1504,7 +1501,7 @@ msgstr "Min. cena"
 #: assets/modern/partials/properties/search/fields/min-max-price.php:76
 #: framework/customizer/sections/search/search-form-prices.php:67
 msgid "Max Price"
-msgstr "Cena do"
+msgstr "Cena maksymalna"
 
 #: assets/classic/partials/properties/search/fields/property-features.php:26
 #: assets/modern/partials/properties/search/fields/property-features.php:36
@@ -1558,7 +1555,7 @@ msgstr "Goście"
 #: framework/customizer/sections/property/similar-properties.php:109
 #: framework/customizer/sections/search/search-form-basics.php:99
 #: framework/customizer/sections/search/search-form-property-status.php:31
-#: framework/functions/basic.php:1876 framework/functions/basic.php:1919
+#: framework/functions/basic.php:1879 framework/functions/basic.php:1922
 msgid "Property Status"
 msgstr "Status Nieruchomości"
 
@@ -1571,7 +1568,7 @@ msgstr "Status Nieruchomości"
 #: framework/customizer/sections/property/similar-properties.php:107
 #: framework/customizer/sections/search/search-form-basics.php:100
 #: framework/customizer/sections/search/search-form-property-types.php:48
-#: framework/functions/basic.php:1874 framework/functions/basic.php:1917
+#: framework/functions/basic.php:1877 framework/functions/basic.php:1920
 msgid "Property Type"
 msgstr "Rodzaj nieruchomości"
 
@@ -1591,7 +1588,7 @@ msgid " Types Selected "
 msgstr ""
 
 #: assets/classic/partials/properties/search/form.php:46
-#: framework/functions/design-variations-handler.php:397
+#: framework/functions/design-variations-handler.php:341
 msgid "More fields"
 msgstr "Więcej pól"
 
@@ -1654,7 +1651,7 @@ msgstr "Informacje dodatkowe"
 #: assets/modern/partials/property/single-fullwidth/children.php:27
 #: assets/modern/partials/property/single/children.php:32
 #: common/dashboard/form-fields/video.php:4
-#: framework/functions/dashboard.php:1418
+#: framework/functions/dashboard.php:1432
 #: framework/functions/submit-edit.php:461
 #: framework/functions/submit-edit.php:482
 #: framework/include/meta-boxes/home-page-meta-box.php:983
@@ -1664,7 +1661,7 @@ msgstr "Tytuł"
 #: assets/classic/partials/property/form-fields/additional-details.php:17
 #: assets/modern/partials/property/form-fields/additional-details.php:63
 #: assets/modern/partials/property/form-fields/additional-details.php:106
-#: framework/functions/dashboard.php:1422
+#: framework/functions/dashboard.php:1436
 #: framework/functions/submit-edit.php:464
 #: framework/functions/submit-edit.php:483
 msgid "Value"
@@ -1717,7 +1714,7 @@ msgstr "Co wyświetlić w polu informacji o agencie?"
 #: framework/customizer/sections/header/login-register.php:149
 #: framework/customizer/sections/property/basics.php:87
 #: framework/customizer/sections/search/properties-search-page.php:194
-#: framework/customizer/site-logo.php:153 framework/functions/basic.php:1843
+#: framework/customizer/site-logo.php:153 framework/functions/basic.php:1846
 #: framework/functions/data.php:21
 #: framework/functions/property-submit-handler.php:276
 #: framework/functions/property-submit-handler.php:278
@@ -1755,7 +1752,6 @@ msgstr "Wyświetl informacje o Agencie"
 #: assets/classic/partials/property/form-fields/agent.php:56
 #: assets/modern/partials/property/form-fields/agent.php:98
 #: common/dashboard/form-fields/agent.php:80
-#| msgid "No Agent found"
 msgid "No Agent Selected"
 msgstr ""
 
@@ -1781,8 +1777,8 @@ msgstr "Jednostka powierzchni"
 #: assets/modern/partials/property/single/similar-property-card.php:141
 #: common/dashboard/form-fields/area.php:12
 #: common/dashboard/property-card.php:79 framework/customizer/dashboard.php:227
-#: framework/customizer/properties-templates-and-archive.php:234
-#: framework/customizer/properties-templates-and-archive.php:246
+#: framework/customizer/properties-templates-and-archive.php:308
+#: framework/customizer/properties-templates-and-archive.php:320
 msgid "Area"
 msgstr "Powierzchnia"
 
@@ -1896,7 +1892,7 @@ msgstr "Znajdź adres"
 #: assets/classic/partials/property/form-fields/images.php:51
 #: assets/modern/partials/property/form-fields/images.php:59
 msgid "Drag and drop images here"
-msgstr "Przeciągnij i upuść obrazy tutaj"
+msgstr "Sem presuňte obrázky"
 
 #: assets/classic/partials/property/form-fields/images.php:53
 #: assets/modern/partials/property/form-fields/images.php:61
@@ -1998,7 +1994,7 @@ msgstr "Aktualizuj nieruchomość"
 #: framework/functions/dashboard.php:201
 #: framework/include/meta-boxes/home-page-meta-box.php:1104
 msgid "Submit Property"
-msgstr "Dodaj nieruchomość"
+msgstr "Dodaj ogłoszenie"
 
 #: assets/classic/partials/property/form-fields/terms-conditions.php:4
 #: assets/modern/partials/property/form-fields/terms-conditions.php:9
@@ -2040,7 +2036,7 @@ msgstr "Adres URL filmu"
 #: assets/modern/partials/property/single-fullwidth/child.php:57
 #: framework/functions/favorites.php:270
 msgid "Added to favorites"
-msgstr "Dodano do ulubionych"
+msgstr ""
 
 #: assets/classic/partials/property/single/add-to-favorites.php:28
 #: assets/classic/partials/property/single/add-to-favorites.php:39
@@ -2061,7 +2057,7 @@ msgstr "Kontakt"
 #: assets/modern/partials/property/single-fullwidth/agent.php:330
 #: assets/modern/partials/property/single/agent.php:280
 msgid "Submitted by"
-msgstr "Przesłane przez"
+msgstr "Dodane przez"
 
 #: assets/classic/partials/property/single/children.php:33
 #: assets/modern/partials/property/single-fullwidth/children.php:28
@@ -2070,7 +2066,7 @@ msgstr "Przesłane przez"
 #: common/dashboard/saved-search-item.php:82
 #: framework/customizer/dashboard.php:217
 msgid "Price"
-msgstr "Cena"
+msgstr ""
 
 #: assets/classic/partials/property/single/children.php:34
 #: assets/modern/partials/property/single-fullwidth/children.php:29
@@ -2133,13 +2129,13 @@ msgstr "Rzuty pięter"
 
 #: assets/classic/partials/property/single/metas.php:21
 msgid "Area Size"
-msgstr "Powierzchnia"
+msgstr "Veľkosť oblasti"
 
 #: assets/classic/partials/property/single/metas.php:63
 #: assets/modern/partials/properties/card-parts/grid-card-meta.php:31
 #: assets/modern/partials/property/single/meta.php:67
 msgid "Garage"
-msgstr "Garaż"
+msgstr ""
 
 #: assets/classic/partials/property/single/metas.php:107
 #: framework/customizer/sections/property/basics.php:207
@@ -2153,7 +2149,7 @@ msgstr "Noclegi minimalny pobyt"
 #: assets/classic/partials/property/single/metas.php:117
 #: assets/classic/partials/property/single/metas.php:120
 #: common/dashboard/form-fields/vacation-rentals.php:5
-#: framework/customizer/properties-templates-and-archive.php:238
+#: framework/customizer/properties-templates-and-archive.php:312
 #: framework/customizer/sections/property/basics.php:222
 msgid "Guests Capacity"
 msgstr ""
@@ -2181,7 +2177,7 @@ msgstr "Warunek"
 #: assets/modern/partials/property/single/mortgage-calculator.php:61
 #: framework/customizer/sections/property/mortgage-calculator.php:251
 msgid "Interest"
-msgstr "Odsetki"
+msgstr ""
 
 #: assets/classic/partials/property/single/mortgage-calculator.php:62
 #: assets/modern/partials/property/single-fullwidth/mortgage-calculator.php:62
@@ -2195,7 +2191,7 @@ msgstr ""
 #: assets/modern/partials/property/single/mortgage-calculator.php:63
 #: framework/customizer/sections/property/mortgage-calculator.php:287
 msgid "Down Payment"
-msgstr "Zaliczka"
+msgstr "Wpłata własna"
 
 #: assets/classic/partials/property/single/mortgage-calculator.php:64
 #: assets/modern/partials/property/single-fullwidth/mortgage-calculator.php:64
@@ -2259,12 +2255,12 @@ msgstr ""
 #: assets/classic/partials/property/single/rvr/location-surroundings.php:10
 #: assets/modern/partials/property/single/rvr/location-surroundings.php:16
 msgid "Surroundings"
-msgstr "Otoczenia"
+msgstr ""
 
 #: assets/classic/partials/property/single/rvr/optional-services.php:12
 #: assets/modern/partials/property/single/rvr/optional-services.php:19
 msgid "Optional Services"
-msgstr "Centrum informacji"
+msgstr ""
 
 #: assets/classic/partials/property/single/rvr/optional-services.php:20
 #: assets/modern/partials/property/single/rvr/optional-services.php:27
@@ -2274,7 +2270,7 @@ msgstr "Wliczono"
 #: assets/classic/partials/property/single/rvr/optional-services.php:35
 #: assets/modern/partials/property/single/rvr/optional-services.php:49
 msgid "Not Included"
-msgstr "Pliki dołączane"
+msgstr ""
 
 #: assets/classic/partials/property/single/rvr/outdoor-features.php:10
 #: assets/modern/partials/property/single/rvr/outdoor-features.php:17
@@ -2311,7 +2307,6 @@ msgstr ""
 #: assets/classic/partials/property/single/rvr/price-details.php:65
 #: assets/modern/partials/property/single-fullwidth/rvr/price-details.php:73
 #: assets/modern/partials/property/single/rvr/price-details.php:70
-#| msgid "Save Changes"
 msgid "Service Charges"
 msgstr ""
 
@@ -2331,7 +2326,6 @@ msgstr ""
 #: assets/modern/partials/property/single/rvr/seasonal-prices.php:16
 #: framework/customizer/sections/property/sections-manager.php:72
 #: framework/customizer/sections/property/sections-manager.php:138
-#| msgid "Search Form Prices"
 msgid "Seasonal Prices"
 msgstr ""
 
@@ -2351,7 +2345,7 @@ msgstr "Data zakończenia"
 #: assets/modern/partials/property/single-fullwidth/rvr/seasonal-prices.php:19
 #: assets/modern/partials/property/single/rvr/seasonal-prices.php:19
 msgid "Per Night"
-msgstr "za noc"
+msgstr ""
 
 #: assets/classic/partials/property/single/social-share.php:3
 msgid "Share this"
@@ -2433,7 +2427,7 @@ msgstr "Twój telefon"
 #: assets/modern/partials/property/single/agent.php:178
 #: assets/modern/partials/property/single/agent.php:179
 msgid "Your Message"
-msgstr "Wiadomość"
+msgstr "Twoja wiadomość"
 
 #: assets/modern/partials/agent/card.php:131
 #: assets/modern/partials/page/users-list.php:256
@@ -2457,25 +2451,25 @@ msgstr "Nie znaleziono ogłoszeń"
 msgid "Whatsapp"
 msgstr "Whatsapp"
 
-#: assets/modern/partials/blog/post/meta.php:14
+#: assets/modern/partials/blog/post/meta.php:12
 #, php-format
 msgctxt "author byline"
 msgid "By %s"
 msgstr "Przez %s"
 
-#: assets/modern/partials/blog/post/meta.php:21
+#: assets/modern/partials/blog/post/meta.php:19
 msgid "Posted in"
 msgstr "Opublikowany w"
 
-#: assets/modern/partials/blog/post/meta.php:25
+#: assets/modern/partials/blog/post/meta.php:23
 msgid "On "
 msgstr "Wł "
 
-#: assets/modern/partials/header/modal.php:48
+#: assets/modern/partials/header/modal.php:49
 msgid "Welcome"
 msgstr "Witaj"
 
-#: assets/modern/partials/header/modal.php:132
+#: assets/modern/partials/header/modal.php:133
 #: assets/modern/partials/member/properties.php:118
 #: assets/modern/partials/page/edit-profile.php:86
 #: assets/modern/partials/page/favorites.php:121
@@ -2518,7 +2512,7 @@ msgstr "Pojemność"
 #: assets/modern/partials/home/slider/property.php:113
 #: assets/modern/partials/properties/card-parts/grid-card-meta.php:61
 #: assets/modern/partials/property/single/meta.php:119
-#: framework/customizer/properties-templates-and-archive.php:239
+#: framework/customizer/properties-templates-and-archive.php:313
 msgid "Min Stay"
 msgstr "Minimalny pobyt"
 
@@ -2597,8 +2591,6 @@ msgstr ""
 msgid ""
 "Profile image should have minimum width of 128px and minimum height of 128px."
 msgstr ""
-"Obrazek profilu powinien mieć minimalną szerokość 128 px i minimalną "
-"wysokość 128 px."
 
 #: assets/modern/partials/page/edit-profile.php:159
 #: common/dashboard/profile.php:46
@@ -2621,7 +2613,7 @@ msgid "Enter your email address"
 msgstr "Wpisz Swój adres e-mail"
 
 #: assets/modern/partials/page/edit-profile.php:184
-#: common/dashboard/profile.php:240
+#: common/dashboard/profile.php:249
 msgid "Note: Fill it only if you want to change your password"
 msgstr "Wypełnij tylko wtedy, gdy chcesz zmienić swoje hasło"
 
@@ -2727,13 +2719,13 @@ msgstr ""
 #: assets/modern/partials/property/form-fields/price.php:12
 #: common/dashboard/form-fields/price.php:10
 msgid "Sale or Rent Price"
-msgstr "Cena sprzedaży lub wynajmu"
+msgstr "Cena predaja alebo prenájmu"
 
 #: assets/modern/partials/property/form-fields/title.php:18
 msgid "Enter property title"
 msgstr "Wprowadź nazwę nieruchomości"
 
-#: assets/modern/partials/property/gallery/default.php:28
+#: assets/modern/partials/property/gallery/default.php:29
 msgid "of"
 msgstr "z"
 
@@ -2762,7 +2754,7 @@ msgstr "Drukuj"
 
 #: assets/modern/partials/property/single-fullwidth/content.php:45
 #: assets/modern/partials/property/single/content.php:6
-#: framework/functions/dashboard.php:1354
+#: framework/functions/dashboard.php:1368
 #: framework/functions/submit-edit.php:250
 msgid "Description"
 msgstr "Opis"
@@ -2811,7 +2803,6 @@ msgstr ""
 
 #: assets/modern/partials/property/single-fullwidth/rvr/price-details.php:67
 #: assets/modern/partials/property/single/rvr/price-details.php:64
-#| msgid "Center Right"
 msgid "(per night)"
 msgstr ""
 
@@ -2824,7 +2815,6 @@ msgstr ""
 
 #: assets/modern/partials/property/single-fullwidth/rvr/price-details.php:84
 #: assets/modern/partials/property/single/rvr/price-details.php:81
-#| msgid "Price"
 msgid "Bulk Prices"
 msgstr ""
 
@@ -2889,7 +2879,6 @@ msgid "Published Properties"
 msgstr "Opublikowane Nieruchomości"
 
 #: common/dashboard/dashboard.php:49
-#| msgid " Properties"
 msgid "Pending Properties"
 msgstr ""
 
@@ -2908,27 +2897,22 @@ msgid "My Favorites"
 msgstr "Moje ulubione"
 
 #: common/dashboard/form-fields/agent.php:36
-#| msgid "What to display in agent information box ?"
 msgid "What to display in agent information box?"
 msgstr ""
 
 #: common/dashboard/form-fields/agent.php:40
-#| msgid "( Agent information box will not be displayed )"
 msgid "None ( Agent information box will not be displayed )"
 msgstr ""
 
 #: common/dashboard/form-fields/agent.php:46
-#| msgid "My profile information"
 msgid "My profile information."
 msgstr ""
 
 #: common/dashboard/form-fields/agent.php:61
-#| msgid "Display an agent's information"
 msgid "Display agent(s) information."
 msgstr ""
 
 #: common/dashboard/form-fields/agent.php:63
-#| msgid "Select Images"
 msgid "Select agent(s)"
 msgstr ""
 
@@ -2943,7 +2927,6 @@ msgstr "Zdjęcia nieruchomości"
 
 #: common/dashboard/form-fields/images.php:50
 #, php-format
-#| msgid "Drag and drop images here"
 msgid "Drag and drop up to %s images"
 msgstr ""
 
@@ -2953,9 +2936,6 @@ msgid ""
 msgstr ""
 
 #: common/dashboard/form-fields/images.php:55
-#| msgid ""
-#| "You can mark an image as featured by clicking the star icon, otherwise "
-#| "first image will be considered featured image."
 msgid ""
 "* Mark an image as featured by clicking the star icon, otherwise first image "
 "will be considered featured image."
@@ -2986,7 +2966,6 @@ msgid "Gallery with Thumbnails on Bottom"
 msgstr ""
 
 #: common/dashboard/form-fields/images.php:88
-#| msgid "Gallery Type"
 msgid "Change Gallery Type"
 msgstr ""
 
@@ -2999,9 +2978,6 @@ msgid "Property Label Text"
 msgstr "Tekst etykiety Nieruchomości"
 
 #: common/dashboard/form-fields/label-and-color.php:21
-#| msgid ""
-#| "You can add a property label to display on property thumbnails. Example "
-#| "Value: Hot Deal"
 msgid ""
 "You can add a property label to display on property thumbnails. Example: Hot "
 "Deal"
@@ -3020,16 +2996,12 @@ msgstr ""
 "wyświetlany z przezroczystym tłem."
 
 #: common/dashboard/form-fields/mortgage-fields.php:24
-#| msgid ""
-#| "Provide common note text. It will be displayed on all properties detail "
-#| "pages."
 msgid ""
 "Provide monthly property tax amount. It will be displayed in the mortgage "
 "calculator only."
 msgstr ""
 
 #: common/dashboard/form-fields/mortgage-fields.php:37
-#| msgid "Provide Email that will be displayed in contact details section."
 msgid ""
 "Provide monthly any additional fee. It will be displayed in the mortgage "
 "calculator only."
@@ -3069,12 +3041,10 @@ msgid "Price Prefix Text"
 msgstr "Tekst przed ceną"
 
 #: common/dashboard/form-fields/price-prefix.php:10
-#| msgid "Example: State"
 msgid "Example: Starting Form"
 msgstr ""
 
 #: common/dashboard/form-fields/slider-image.php:15
-#| msgid "Do you want to add this property in Homepage Slider ?"
 msgid "Do you want to add this property in Homepage Slider?"
 msgstr ""
 
@@ -3083,7 +3053,6 @@ msgid "Upload Image"
 msgstr "Załaduj obrazek"
 
 #: common/dashboard/form-fields/slider-image.php:22
-#| msgid "Drag and drop images here"
 msgid "Drag and drop image"
 msgstr ""
 
@@ -3102,12 +3071,10 @@ msgid "Previous"
 msgstr "Poprzedni"
 
 #: common/dashboard/form-fields/terms-conditions.php:23
-#| msgid "Please check this option."
 msgid "* Please check this option."
 msgstr ""
 
 #: common/dashboard/form-fields/title.php:16
-#| msgid "* Please provide property title!"
 msgid "* Please provide property title"
 msgstr ""
 
@@ -3124,7 +3091,6 @@ msgid "Minimum Number of Nights to Stay"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:20
-#| msgid "Example: 4"
 msgid "Example: 1"
 msgstr ""
 
@@ -3133,7 +3099,6 @@ msgid "Percentage of Govt Tax"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:33
-#| msgid "Example: 4"
 msgid "Example: 16"
 msgstr ""
 
@@ -3142,7 +3107,6 @@ msgid "Percentage of Service Charges"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:46
-#| msgid "Example: 4"
 msgid "Example: 3"
 msgstr ""
 
@@ -3158,22 +3122,18 @@ msgid "Add More"
 msgstr "Dodaj więcej"
 
 #: common/dashboard/form-fields/vacation-rentals.php:113
-#| msgid "Not Included"
 msgid "What is included"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:145
-#| msgid "Not Included"
 msgid "What is not included"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:178
-#| msgid "Surroundings"
 msgid "Property Surroundings"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:180
-#| msgid "Interest"
 msgid "Point of Interest"
 msgstr ""
 
@@ -3182,12 +3142,10 @@ msgid "Distance or How to approach"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:219
-#| msgid "Property Video Title"
 msgid "Property Policies or Rules"
 msgstr ""
 
 #: common/dashboard/form-fields/vacation-rentals.php:221
-#| msgid "Plain Text"
 msgid "Policy Text"
 msgstr ""
 
@@ -3216,7 +3174,6 @@ msgid ""
 msgstr ""
 
 #: common/dashboard/header.php:9
-#| msgid "Agent Sidebar"
 msgid "Open Sidebar Menu"
 msgstr ""
 
@@ -3230,7 +3187,6 @@ msgid "Current Package"
 msgstr "Bieżący pakiet"
 
 #: common/dashboard/membership.php:31
-#| msgid "All Properties By"
 msgid "Allowed Properties"
 msgstr ""
 
@@ -3241,17 +3197,14 @@ msgid "0"
 msgstr "0"
 
 #: common/dashboard/membership.php:43
-#| msgid "Properties Search"
 msgid "Properties Remained"
 msgstr ""
 
 #: common/dashboard/membership.php:61
-#| msgid "Featured Properties"
 msgid "Allowed Featured Properties"
 msgstr ""
 
 #: common/dashboard/membership.php:73
-#| msgid "Featured Properties "
 msgid "Featured Properties Remained"
 msgstr ""
 
@@ -3259,8 +3212,8 @@ msgstr ""
 msgid "Expiry Date"
 msgstr "Data wygaśnięcia"
 
-#: common/dashboard/membership.php:96 framework/functions/dashboard.php:1658
-#: framework/functions/design-variations-handler.php:639
+#: common/dashboard/membership.php:96 framework/functions/dashboard.php:1672
+#: framework/functions/design-variations-handler.php:558
 msgid "Cancel Membership"
 msgstr "Anuluj członkostwo"
 
@@ -3277,7 +3230,6 @@ msgid "Error"
 msgstr "Błąd"
 
 #: common/dashboard/order.php:16
-#| msgid "Failed to remove!"
 msgid "Failed to process order!"
 msgstr ""
 
@@ -3306,7 +3258,6 @@ msgid "mo"
 msgstr "mo"
 
 #: common/dashboard/order.php:92 common/dashboard/packages.php:71
-#| msgid "year"
 msgid "yr"
 msgstr ""
 
@@ -3355,7 +3306,6 @@ msgid "Popular"
 msgstr "Popularne"
 
 #: common/dashboard/packages.php:53 framework/customizer/dashboard.php:853
-#| msgid "Getting Started"
 msgid "Starting at"
 msgstr ""
 
@@ -3392,7 +3342,6 @@ msgid "* Minimum required size is 210px by 210px."
 msgstr ""
 
 #: common/dashboard/profile.php:28
-#| msgid "Make sure to save changes after changing the image."
 msgid "* Make sure to Save Changes after uploading fresh image."
 msgstr ""
 
@@ -3408,8 +3357,11 @@ msgstr "Pinterest URL"
 msgid "YouTube URL"
 msgstr "YouTube URL"
 
+#: common/dashboard/profile.php:234 framework/functions/basic.php:358
+msgid "WhatsApp Number"
+msgstr "Numer WhatsApp"
+
 #: common/dashboard/properties.php:8
-#| msgid "Property updated successfully!"
 msgid "Property removed successfully!"
 msgstr ""
 
@@ -3418,7 +3370,6 @@ msgid "Pay"
 msgstr "Zapłać"
 
 #: common/dashboard/property-card.php:171
-#| msgid "Publish"
 msgid "to Publish"
 msgstr ""
 
@@ -3444,12 +3395,10 @@ msgid "View"
 msgstr "Zobacz"
 
 #: common/dashboard/property-columns.php:7
-#| msgid "Payment Amount"
 msgid "Payment & Actions"
 msgstr ""
 
 #: common/dashboard/property-columns.php:9
-#| msgid "Sections"
 msgid "Price & Actions"
 msgstr ""
 
@@ -3503,7 +3452,6 @@ msgid "Video"
 msgstr "Wideo"
 
 #: common/dashboard/submit-property-form.php:337
-#| msgid "Message to Reviewer"
 msgid "Agent & Reviewer"
 msgstr ""
 
@@ -3517,7 +3465,6 @@ msgid "Info:"
 msgstr "Info:"
 
 #: common/dashboard/submit-property.php:71
-#| msgid "Select the maximum number of properties to display on a page."
 msgid ""
 "You have reached the maximum allowed number of properties of your current "
 "membership package."
@@ -3532,14 +3479,12 @@ msgstr ""
 #: framework/customizer/floating-features.php:64
 #: framework/customizer/gallery.php:76
 #: framework/customizer/language-switcher.php:27
-#: framework/customizer/properties-templates-and-archive.php:103
-#: framework/customizer/sections/footer/logo.php:48
-#: framework/customizer/sections/footer/logo.php:106
+#: framework/customizer/properties-templates-and-archive.php:195
 #: framework/customizer/sections/footer/partners.php:38
 #: framework/customizer/sections/footer/text.php:39
 #: framework/customizer/sections/header/login-register.php:25
 #: framework/customizer/sections/header/login-register.php:80
-#: framework/customizer/sections/header/search-form.php:45
+#: framework/customizer/sections/header/search-form.php:37
 #: framework/customizer/sections/property/agent.php:64
 #: framework/customizer/sections/property/agent.php:90
 #: framework/customizer/sections/property/agent.php:105
@@ -3655,14 +3600,12 @@ msgstr ""
 #: framework/customizer/floating-features.php:65
 #: framework/customizer/gallery.php:77
 #: framework/customizer/language-switcher.php:28
-#: framework/customizer/properties-templates-and-archive.php:104
-#: framework/customizer/sections/footer/logo.php:49
-#: framework/customizer/sections/footer/logo.php:107
+#: framework/customizer/properties-templates-and-archive.php:196
 #: framework/customizer/sections/footer/partners.php:39
 #: framework/customizer/sections/footer/text.php:40
 #: framework/customizer/sections/header/login-register.php:26
 #: framework/customizer/sections/header/login-register.php:81
-#: framework/customizer/sections/header/search-form.php:44
+#: framework/customizer/sections/header/search-form.php:38
 #: framework/customizer/sections/property/agent.php:65
 #: framework/customizer/sections/property/agent.php:91
 #: framework/customizer/sections/property/agent.php:106
@@ -3707,7 +3650,6 @@ msgid "Hide"
 msgstr "Ukryj"
 
 #: framework/customizer/agencies.php:129
-#| msgid "Agent Listed Properties Color"
 msgid "Agencies Properties Count"
 msgstr ""
 
@@ -3748,7 +3690,6 @@ msgid "Properties on Agent Detail Page"
 msgstr ""
 
 #: framework/customizer/agents.php:112
-#| msgid "Agent Listed Properties Color"
 msgid "Agents Properties Count"
 msgstr ""
 
@@ -3789,7 +3730,7 @@ msgstr ""
 #: framework/include/meta-boxes/banner-meta-box.php:42
 #: framework/include/meta-boxes/banner-meta-box.php:94
 msgid "Banner Title"
-msgstr "Tytuł Baneru"
+msgstr "Baner - tytuł"
 
 #: framework/customizer/blog.php:90 framework/customizer/gallery.php:58
 #: framework/include/meta-boxes/banner-meta-box.php:48
@@ -3807,7 +3748,7 @@ msgstr "Link do Poprzedniego i Następnego Postu"
 #: framework/customizer/dashboard.php:457
 #: framework/customizer/dashboard.php:480
 #: framework/customizer/dashboard.php:503
-#: framework/customizer/properties-templates-and-archive.php:197
+#: framework/customizer/properties-templates-and-archive.php:296
 #: framework/customizer/sections/property/basics.php:107
 #: framework/customizer/sections/property/basics.php:491
 #: framework/customizer/sections/property/basics.php:511
@@ -3828,7 +3769,7 @@ msgstr "Włącz"
 #: framework/customizer/dashboard.php:458
 #: framework/customizer/dashboard.php:481
 #: framework/customizer/dashboard.php:504
-#: framework/customizer/properties-templates-and-archive.php:198
+#: framework/customizer/properties-templates-and-archive.php:297
 #: framework/customizer/sections/property/basics.php:108
 #: framework/customizer/sections/property/basics.php:492
 #: framework/customizer/sections/property/basics.php:512
@@ -3898,7 +3839,6 @@ msgid "Select Dashboard Page"
 msgstr "Wybierz stronę pulpitu nawigacyjnego"
 
 #: framework/customizer/dashboard.php:29
-#| msgid "Selected page should have Memberships Template assigned to it."
 msgid "Selected page should have Dashboard Template assigned to it."
 msgstr ""
 
@@ -3920,7 +3860,7 @@ msgstr "Subskrybent (poziom 0)"
 
 #: framework/customizer/dashboard.php:49
 msgid "Contributor ( Level 1 )"
-msgstr "Uczestnik (poziom 1)"
+msgstr "Współpracownik (poziom 1)"
 
 #: framework/customizer/dashboard.php:50
 msgid "Author ( Level 2 )"
@@ -3935,7 +3875,6 @@ msgid "Summarized Info on Dashboard"
 msgstr ""
 
 #: framework/customizer/dashboard.php:92
-#| msgid "Properties Search"
 msgid "Properties Search Field"
 msgstr ""
 
@@ -3944,7 +3883,6 @@ msgid "Posts Per Page"
 msgstr "Ilość wpisów na stronie"
 
 #: framework/customizer/dashboard.php:132
-#| msgid "Submit Property"
 msgid "Submit Property Module"
 msgstr ""
 
@@ -3961,7 +3899,6 @@ msgid "Single Step"
 msgstr ""
 
 #: framework/customizer/dashboard.php:169
-#| msgid "Submit Button Text"
 msgid "Submit Button in Header"
 msgstr ""
 
@@ -3982,15 +3919,14 @@ msgid "Guest Property Submission"
 msgstr ""
 
 #: framework/customizer/dashboard.php:215
-#| msgid "Property Address"
 msgid "Property Address and Map"
 msgstr ""
 
 #: framework/customizer/dashboard.php:218
-#: framework/functions/dashboard.php:1371
+#: framework/functions/dashboard.php:1385
 #: framework/functions/submit-edit.php:264
 msgid "Price Postfix"
-msgstr "Dopisek po cenie"
+msgstr "Cena Postfix"
 
 #: framework/customizer/dashboard.php:228
 msgid "Area Postfix"
@@ -4001,12 +3937,10 @@ msgid "Lot Size Postfix"
 msgstr "Jednostka"
 
 #: framework/customizer/dashboard.php:234
-#| msgid "Mortgage Calculator"
 msgid "Mortgage Calculator Fields"
 msgstr ""
 
 #: framework/customizer/dashboard.php:235
-#| msgid "Mark as Featured Checkbox"
 msgid "Mark as Featured"
 msgstr ""
 
@@ -4018,17 +3952,14 @@ msgid "Property Attachments"
 msgstr "Załączniki nieruchomości"
 
 #: framework/customizer/dashboard.php:238
-#| msgid "Homepage Slider"
 msgid "Homepage Slider Image"
 msgstr ""
 
 #: framework/customizer/dashboard.php:242
-#| msgid "Name Color"
 msgid "Label and Color"
 msgstr ""
 
 #: framework/customizer/dashboard.php:245
-#| msgid "Partner Information"
 msgid "Owner Information"
 msgstr ""
 
@@ -4041,7 +3972,6 @@ msgid "Terms & Conditions"
 msgstr "Regulamin"
 
 #: framework/customizer/dashboard.php:259
-#| msgid "Select Submit Property Page"
 msgid "Enable/Disable Submit Property Form Fields?"
 msgstr ""
 
@@ -4088,7 +4018,6 @@ msgid "Publish"
 msgstr "Publikuj"
 
 #: framework/customizer/dashboard.php:348
-#| msgid "Default Sort Order"
 msgid "Default Status for Updated Property"
 msgstr ""
 
@@ -4139,7 +4068,6 @@ msgid "Email Address to Received Submission Notices"
 msgstr ""
 
 #: framework/customizer/dashboard.php:453
-#| msgid "My Properties"
 msgid "My Properties Module"
 msgstr ""
 
@@ -4153,7 +4081,6 @@ msgid "My Profile Module"
 msgstr ""
 
 #: framework/customizer/dashboard.php:499
-#| msgid "Favorites"
 msgid "My Favorites Module"
 msgstr ""
 
@@ -4169,12 +4096,13 @@ msgstr ""
 #: framework/customizer/dashboard.php:567
 #: framework/customizer/dashboard.php:793
 #: framework/customizer/dashboard.php:816
-#: framework/customizer/dashboard.php:846 framework/customizer/misc.php:74
-#: framework/customizer/misc.php:90 framework/customizer/misc.php:147
-#: framework/customizer/pages.php:44
+#: framework/customizer/dashboard.php:846 framework/customizer/misc.php:72
+#: framework/customizer/misc.php:129 framework/customizer/pages.php:44
+#: framework/customizer/sections/footer/logo.php:48
+#: framework/customizer/sections/footer/logo.php:106
 #: framework/customizer/sections/header/banner.php:66
 #: framework/customizer/sections/header/login-register.php:133
-#: framework/customizer/sections/property/agent.php:181
+#: framework/customizer/sections/property/agent.php:203
 #: framework/customizer/sections/property/basics.php:63
 #: framework/customizer/sections/search/properties-search-page.php:277
 #: framework/customizer/sections/search/search-form-locations.php:171
@@ -4195,12 +4123,13 @@ msgstr "Tak"
 #: framework/customizer/dashboard.php:568
 #: framework/customizer/dashboard.php:794
 #: framework/customizer/dashboard.php:817
-#: framework/customizer/dashboard.php:847 framework/customizer/misc.php:75
-#: framework/customizer/misc.php:91 framework/customizer/misc.php:148
-#: framework/customizer/pages.php:45
+#: framework/customizer/dashboard.php:847 framework/customizer/misc.php:73
+#: framework/customizer/misc.php:130 framework/customizer/pages.php:45
+#: framework/customizer/sections/footer/logo.php:49
+#: framework/customizer/sections/footer/logo.php:107
 #: framework/customizer/sections/header/banner.php:67
 #: framework/customizer/sections/header/login-register.php:134
-#: framework/customizer/sections/property/agent.php:182
+#: framework/customizer/sections/property/agent.php:204
 #: framework/customizer/sections/property/basics.php:64
 #: framework/customizer/sections/search/properties-search-page.php:278
 #: framework/customizer/sections/search/search-form-locations.php:172
@@ -4218,7 +4147,6 @@ msgid "No"
 msgstr "Nie"
 
 #: framework/customizer/dashboard.php:562
-#| msgid "Enable Advance Search Label"
 msgid "Enable Saved Searches? "
 msgstr ""
 
@@ -4230,7 +4158,6 @@ msgid ""
 msgstr ""
 
 #: framework/customizer/dashboard.php:585
-#| msgid "Search Agency"
 msgid "Search Emails Frequency"
 msgstr ""
 
@@ -4243,17 +4170,14 @@ msgid "Weekly"
 msgstr "Tygodniowo"
 
 #: framework/customizer/dashboard.php:624
-#| msgid "Search Button Text"
 msgid "Save Search Button Label"
 msgstr ""
 
 #: framework/customizer/dashboard.php:642
-#| msgid "Search Button Text"
 msgid "Search Saved Button Label"
 msgstr ""
 
 #: framework/customizer/dashboard.php:661
-#| msgid "Search Button Text"
 msgid "Save Search Button Tooltip Text"
 msgstr ""
 
@@ -4320,7 +4244,6 @@ msgid "Membership Package Text Before Price"
 msgstr ""
 
 #: framework/customizer/dashboard.php:870
-#| msgid "Search Button Text"
 msgid "Membership Package Button Text"
 msgstr ""
 
@@ -4336,7 +4259,7 @@ msgstr ""
 msgid "Order Page Dialog Box Heading"
 msgstr ""
 
-#: framework/customizer/dashboard.php:921 framework/customizer/styles.php:24
+#: framework/customizer/dashboard.php:921 framework/customizer/styles.php:23
 msgid "Styles"
 msgstr "Style"
 
@@ -4411,6 +4334,8 @@ msgid "Floating Features"
 msgstr ""
 
 #: framework/customizer/floating-features.php:17
+#: framework/customizer/footer.php:23
+#: framework/customizer/sections/header/basics.php:21
 #: framework/customizer/sections/property/basics.php:26
 msgid "Basics"
 msgstr "Podstawowe"
@@ -4453,6 +4378,34 @@ msgstr ""
 msgid "Footer"
 msgstr "Stopka"
 
+#: framework/customizer/footer.php:34
+msgid "Footer Layout"
+msgstr "Układ stopki"
+
+#: framework/customizer/footer.php:38
+#: framework/customizer/google-fonts/google-fonts.php:119
+#: framework/customizer/google-fonts/google-fonts.php:135
+#: framework/customizer/sections/header/basics.php:94
+#: framework/customizer/sections/property/child-properties.php:64
+#: framework/customizer/sections/property/sections-manager.php:27
+#: framework/customizer/sections/search/search-form-basics.php:45
+#: framework/customizer/sections/styles/buttons.php:40
+#: framework/customizer/sections/styles/core-colors.php:42
+#: framework/functions/colorschemes.php:5
+#: framework/include/meta-boxes/home-page-meta-box.php:112
+#: framework/include/meta-boxes/property-card-meta-box.php:29
+msgid "Default"
+msgstr "Domyślny"
+
+#: framework/customizer/footer.php:39
+msgid "Centered"
+msgstr "Wyśrodkowane"
+
+#: framework/customizer/footer.php:40
+#: framework/customizer/sections/header/basics.php:59
+msgid "Full Width"
+msgstr "Pełna szerokość"
+
 #: framework/customizer/gallery.php:15
 msgid "Gallery Pages"
 msgstr "Strony w Galerii"
@@ -4473,19 +4426,8 @@ msgstr "Przejrzyj dostępne Nieruchomości"
 msgid "Properties Sort Control"
 msgstr ""
 
-#: framework/customizer/google-fonts/google-fonts.php:114
-#: framework/customizer/google-fonts/google-fonts.php:130
-#: framework/customizer/sections/header/others.php:80
-#: framework/customizer/sections/property/child-properties.php:64
-#: framework/customizer/sections/property/sections-manager.php:27
-#: framework/customizer/sections/search/search-form-basics.php:45
-#: framework/include/meta-boxes/home-page-meta-box.php:112
-#: framework/include/meta-boxes/property-card-meta-box.php:29
-msgid "Default"
-msgstr "Domyślny"
-
-#: framework/customizer/header.php:15
-#: framework/customizer/sections/styles/header-styles.php:23
+#: framework/customizer/header.php:13
+#: framework/customizer/sections/styles/header-styles.php:24
 msgid "Header"
 msgstr "Nagłówek"
 
@@ -4517,7 +4459,7 @@ msgstr "Tylko flaga "
 msgid "Misc"
 msgstr "Różne"
 
-#: framework/customizer/misc.php:25 framework/functions/basic.php:1117
+#: framework/customizer/misc.php:25 framework/functions/basic.php:1120
 msgid "View Property"
 msgstr "Zobacz nieruchomość"
 
@@ -4551,45 +4493,35 @@ msgstr ""
 msgid "Upload an image bigger than 1200px width and 680px height."
 msgstr ""
 
-#: framework/customizer/misc.php:69
-msgid "Optimise Styles to Improve Performance"
-msgstr "Optymalizacja stylów w celu zwiększenia wydajności"
-
-#: framework/customizer/misc.php:70
-msgid "Enabling this will include compressed version of few big css files."
-msgstr ""
-"Włączenie tego będzie zawierać skompresowaną wersję kilku dużych plików CSS."
-
-#: framework/customizer/misc.php:86
+#: framework/customizer/misc.php:68
 msgid "Show Scroll To Top Button"
 msgstr ""
 
-#: framework/customizer/misc.php:101
-#| msgid "Scroll to Top Button Icon Color"
+#: framework/customizer/misc.php:83
 msgid "Scroll To Top Button Position"
 msgstr ""
 
-#: framework/customizer/misc.php:105
+#: framework/customizer/misc.php:87
 msgid "Right"
 msgstr "Prawo"
 
-#: framework/customizer/misc.php:106
+#: framework/customizer/misc.php:88
 msgid "Left"
 msgstr "Lewo"
 
-#: framework/customizer/misc.php:117
+#: framework/customizer/misc.php:99
 msgid "Scroll To Top Button Position From Bottom (i.e 15px or 10%)"
 msgstr ""
 
-#: framework/customizer/misc.php:130
+#: framework/customizer/misc.php:112
 msgid "Select Drop Down No Result Text"
 msgstr ""
 
-#: framework/customizer/misc.php:142
+#: framework/customizer/misc.php:124
 msgid "Disable Default Image Sizes ?"
 msgstr ""
 
-#: framework/customizer/misc.php:143
+#: framework/customizer/misc.php:125
 msgid ""
 "Choosing \"Yes\" will disable WordPress default cropped image sizes (small, "
 "medium, medium_large, large) whenever an image is being uploaded"
@@ -4682,155 +4614,161 @@ msgstr "Hybrydowa"
 #: framework/include/meta-boxes/contact-page-meta-box.php:74
 #: framework/include/meta-boxes/home-page-meta-box.php:401
 msgid "Terrain"
-msgstr "Teren"
+msgstr "Mapa terenu"
 
 #: framework/customizer/properties-templates-and-archive.php:99
-msgid "Taxonomy Term Description"
+msgid ""
+"Check to Skip Sticky Properties on Properties Templates. (Not Recommended)"
 msgstr ""
 
-#: framework/customizer/properties-templates-and-archive.php:115
+#: framework/customizer/properties-templates-and-archive.php:109
+msgid "Archive Pages"
+msgstr "Strony archiwalne"
+
+#: framework/customizer/properties-templates-and-archive.php:121
 msgid "Default Layout for Archive Pages"
 msgstr ""
 
-#: framework/customizer/properties-templates-and-archive.php:119
+#: framework/customizer/properties-templates-and-archive.php:125
 #: framework/customizer/sections/search/properties-search-page.php:84
 msgid "List"
 msgstr "Lista"
 
-#: framework/customizer/properties-templates-and-archive.php:120
+#: framework/customizer/properties-templates-and-archive.php:126
 #: framework/customizer/sections/search/properties-search-page.php:85
 msgid "Grid"
 msgstr "Siatka"
 
-#: framework/customizer/properties-templates-and-archive.php:136
-msgid "Grid Layout Property Card Design"
+#: framework/customizer/properties-templates-and-archive.php:137
+msgid "Max Number of Properties on a Page"
 msgstr ""
 
 #: framework/customizer/properties-templates-and-archive.php:138
+msgid "Can be overridden for templates through page metabox."
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:172
+msgid "Default Sort Order"
+msgstr "Domyślne Sortowanie"
+
+#: framework/customizer/properties-templates-and-archive.php:173
+msgid "For Search Results, Properties Templates and Taxonomy Archive pages."
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:177
+#: framework/customizer/sections/property/similar-properties.php:177
+#: framework/include/meta-boxes/home-page-meta-box.php:683
+msgid "Price - Low to High"
+msgstr "Cena (rosnąco)"
+
+#: framework/customizer/properties-templates-and-archive.php:178
+#: framework/customizer/sections/property/similar-properties.php:178
+#: framework/include/meta-boxes/home-page-meta-box.php:684
+msgid "Price - High to Low"
+msgstr "Cena (malejąco)"
+
+#: framework/customizer/properties-templates-and-archive.php:179
+msgid "Date - Old to New"
+msgstr "Data (rosnąco)"
+
+#: framework/customizer/properties-templates-and-archive.php:180
+msgid "Date - New to Old"
+msgstr "Data (malejąco)"
+
+#: framework/customizer/properties-templates-and-archive.php:191
+msgid "Taxonomy Term Description"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:211
+msgid "Number of Properties to Mark on Map?"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:215
+msgid "All Found"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:216
+msgid "As on One Page"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:228
+msgid "Property Card"
+msgstr "Karta nieruchomości"
+
+#: framework/customizer/properties-templates-and-archive.php:244
+msgid "Grid Layout Property Card Design"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:246
 #: framework/customizer/sections/search/search-form-basics.php:188
 #: framework/customizer/sections/search/search-form-basics.php:207
 #: framework/include/meta-boxes/property-card-meta-box.php:30
 msgid "One"
 msgstr "Jeden"
 
-#: framework/customizer/properties-templates-and-archive.php:139
+#: framework/customizer/properties-templates-and-archive.php:247
 #: framework/customizer/sections/search/search-form-basics.php:189
 #: framework/customizer/sections/search/search-form-basics.php:208
 #: framework/include/meta-boxes/property-card-meta-box.php:31
 msgid "Two"
 msgstr "Dwa"
 
-#: framework/customizer/properties-templates-and-archive.php:140
+#: framework/customizer/properties-templates-and-archive.php:248
 #: framework/customizer/sections/search/search-form-basics.php:190
 #: framework/customizer/sections/search/search-form-basics.php:209
 #: framework/include/meta-boxes/property-card-meta-box.php:32
 msgid "Three"
 msgstr "Trzy"
 
-#: framework/customizer/properties-templates-and-archive.php:153
-msgid "Max Number of Properties on a Page"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:154
-msgid "Can be overridden for templates through page metabox."
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:193
-msgid "Enable Map Lightbox On Address Click"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:217
-msgid "Select Date Format"
-msgstr "Wybierz format daty"
-
-#: framework/customizer/properties-templates-and-archive.php:219
-msgid "Default ( Dashboard > Settings > General )"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:220
-msgid "Human Readable"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:235
-#: framework/customizer/properties-templates-and-archive.php:247
-#| msgid "Garages"
-msgid "Garages/Parking"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:282
-#| msgid "Select Submit Property Page"
-msgid "Select & Sort Property Card Meta"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:299
-msgid "Number of Properties to Mark on Map?"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:303
-msgid "All Found"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:304
-msgid "As on One Page"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:316
-msgid ""
-"Check to Skip Sticky Properties on Properties Templates. (Not Recommended)"
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:328
-msgid "Default Sort Order"
-msgstr "Domyślne Sortowanie"
-
-#: framework/customizer/properties-templates-and-archive.php:329
-msgid "For Search Results, Properties Templates and Taxonomy Archive pages."
-msgstr ""
-
-#: framework/customizer/properties-templates-and-archive.php:333
-#: framework/customizer/sections/property/similar-properties.php:177
-#: framework/include/meta-boxes/home-page-meta-box.php:683
-msgid "Price - Low to High"
-msgstr "Najpierw najtańsze"
-
-#: framework/customizer/properties-templates-and-archive.php:334
-#: framework/customizer/sections/property/similar-properties.php:178
-#: framework/include/meta-boxes/home-page-meta-box.php:684
-msgid "Price - High to Low"
-msgstr "Najpierw najdroższe"
-
-#: framework/customizer/properties-templates-and-archive.php:335
-msgid "Date - Old to New"
-msgstr "Data (rosnąco)"
-
-#: framework/customizer/properties-templates-and-archive.php:336
-msgid "Date - New to Old"
-msgstr "Data (malejąco)"
-
-#: framework/customizer/properties-templates-and-archive.php:347
+#: framework/customizer/properties-templates-and-archive.php:259
 msgid "Excerpt Length for Property Card"
 msgstr ""
 
-#: framework/customizer/properties-templates-and-archive.php:348
+#: framework/customizer/properties-templates-and-archive.php:260
 msgid "Leave empty for default behaviour."
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:275
+msgid "Select Date Format"
+msgstr "Wybierz format daty"
+
+#: framework/customizer/properties-templates-and-archive.php:277
+msgid "Default ( Dashboard > Settings > General )"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:278
+msgid "Human Readable"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:292
+msgid "Enable Map Lightbox On Address Click"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:309
+#: framework/customizer/properties-templates-and-archive.php:321
+msgid "Garages/Parking"
+msgstr ""
+
+#: framework/customizer/properties-templates-and-archive.php:354
+msgid "Select & Sort Property Card Meta"
 msgstr ""
 
 #: framework/customizer/property.php:14
 msgid "Property Detail Page"
-msgstr "Strona szczegółów nieruchomości"
+msgstr "Stránka podrobností o nehnuteľnosti"
 
 #: framework/customizer/search.php:12
 msgid "Properties Search"
 msgstr "Wyszukiwarka nieruchomości"
 
 #: framework/customizer/sections/footer/layout.php:24
-msgid "Layout"
-msgstr "Układ"
+msgid "Widgets"
+msgstr "Widgety"
 
 #: framework/customizer/sections/footer/layout.php:43
 #: framework/customizer/sections/search/properties-search-page.php:105
 msgid "One Column"
-msgstr "One Column"
+msgstr "Jedna kolumna"
 
 #: framework/customizer/sections/footer/layout.php:44
 #: framework/customizer/sections/search/properties-search-page.php:106
@@ -4847,37 +4785,41 @@ msgid "Four Columns"
 msgstr "Cztery kolumny"
 
 #: framework/customizer/sections/footer/layout.php:52
-msgid "Footer Columns"
-msgstr "Kolumny stopki"
+msgid "Layout"
+msgstr "Układ"
 
 #: framework/customizer/sections/footer/layout.php:53
 msgid "Select the number of footer widgets columns you want to use."
 msgstr "Wybierz liczbę kolumn widżetów stopki, których chcesz użyć."
 
 #: framework/customizer/sections/footer/logo.php:30
-#: framework/customizer/sections/footer/logo.php:76
-msgid "Footer Logo"
-msgstr "Logo stopki"
+msgid "Logo and Tagline"
+msgstr ""
 
 #: framework/customizer/sections/footer/logo.php:44
-msgid "Enable Footer Logo"
-msgstr "Włącz logo w stopce"
+msgid "Enable Logo"
+msgstr "Włącz logo"
+
+#: framework/customizer/sections/footer/logo.php:76
+#: framework/customizer/sections/styles/header-styles.php:1012
+msgid "Logo"
+msgstr "Logo"
 
 #: framework/customizer/sections/footer/logo.php:77
 msgid "Select a logo for your footer."
 msgstr "Wybierz logo dla stopki."
 
 #: framework/customizer/sections/footer/logo.php:102
-msgid "Enable Footer Tagline"
-msgstr "Włącz Tagline stopki"
+msgid "Enable Tagline"
+msgstr ""
 
 #: framework/customizer/sections/footer/logo.php:126
 msgid "Simply #1 Real Estate Theme"
 msgstr "Po prostu szablon #1 dla Nieruchomości"
 
 #: framework/customizer/sections/footer/logo.php:130
-msgid "Footer Tagline"
-msgstr "Tagline Stopki"
+msgid "Tagline"
+msgstr "Tagline"
 
 #: framework/customizer/sections/footer/partners.php:23
 #: framework/include/meta-boxes/home-page-meta-box.php:96
@@ -4916,8 +4858,8 @@ msgid "Number of Partners"
 msgstr ""
 
 #: framework/customizer/sections/footer/text.php:24
-msgid "Text"
-msgstr "Tekst"
+msgid "Copyright & Designed by Texts"
+msgstr ""
 
 #: framework/customizer/sections/footer/text.php:35
 msgid "Copyright Text Display"
@@ -4951,6 +4893,49 @@ msgstr "Ukrywanie tytułu i napisów z banera obrazu"
 msgid "Hide Title From Image Banner"
 msgstr "Ukrywanie tytułu z banera obrazu"
 
+#: framework/customizer/sections/header/basics.php:36
+msgid "Header Variations"
+msgstr ""
+
+#: framework/customizer/sections/header/basics.php:37
+msgid "Choose your desired header style."
+msgstr ""
+
+#: framework/customizer/sections/header/basics.php:54
+msgid "Header Layout"
+msgstr "Wygląd nagłówka"
+
+#: framework/customizer/sections/header/basics.php:58
+#, fuzzy
+#| msgid "Default Layout"
+msgid "Default (Boxed)"
+msgstr "Domyślny układ strony"
+
+#: framework/customizer/sections/header/basics.php:72
+msgid "Header Display on Mobile Devices"
+msgstr ""
+
+#: framework/customizer/sections/header/basics.php:76
+msgid "Transparent"
+msgstr "Przezroczysty"
+
+#: framework/customizer/sections/header/basics.php:77
+msgid "Solid"
+msgstr "Ciągła"
+
+#: framework/customizer/sections/header/basics.php:90
+msgid "Choose Header Variation"
+msgstr "Wybierz odmianę nagłówka"
+
+#: framework/customizer/sections/header/basics.php:95
+msgid "Center"
+msgstr "Środek"
+
+#: framework/customizer/sections/header/basics.php:107
+#: framework/customizer/sections/styles/header-styles.php:1002
+msgid "Sticky Header"
+msgstr "Przyklejony Nagłówek"
+
 #: framework/customizer/sections/header/contact-information.php:25
 msgid "Contact Information"
 msgstr "Dane kontaktowe"
@@ -4965,18 +4950,6 @@ msgstr "Adres e-mail"
 
 #: framework/customizer/sections/header/contact-information.php:102
 msgid "Phone Number Icon "
-msgstr ""
-
-#: framework/customizer/sections/header/header-var.php:29
-msgid "Header Variations"
-msgstr ""
-
-#: framework/customizer/sections/header/header-var.php:47
-msgid "Header Layout"
-msgstr "Wygląd nagłówka"
-
-#: framework/customizer/sections/header/header-var.php:48
-msgid "Choose your desired layout."
 msgstr ""
 
 #: framework/customizer/sections/header/login-register.php:10
@@ -5105,52 +5078,22 @@ msgstr ""
 msgid "Reset Password Button Text"
 msgstr ""
 
-#: framework/customizer/sections/header/others.php:25
-msgid "Others"
-msgstr "Inne"
-
-#: framework/customizer/sections/header/others.php:36
-msgid "Sticky Header"
-msgstr "Przyklejony Nagłówek"
-
-#: framework/customizer/sections/header/others.php:57
-msgid "Select Responsive Header"
-msgstr ""
-
-#: framework/customizer/sections/header/others.php:60
-msgid "Enabling responsive header on mobile devices."
-msgstr ""
-
-#: framework/customizer/sections/header/others.php:62
-msgid "Transparent"
-msgstr "Przezroczysty"
-
-#: framework/customizer/sections/header/others.php:63
-msgid "Solid"
-msgstr "Ciągła"
-
-#: framework/customizer/sections/header/others.php:76
-msgid "Choose Header Variation"
-msgstr "Wybierz odmianę nagłówka"
-
-#: framework/customizer/sections/header/others.php:81
-msgid "Center"
-msgstr "Środek"
-
-#: framework/customizer/sections/header/search-form.php:24
+#: framework/customizer/sections/header/search-form.php:19
 #: framework/customizer/sections/styles/search-form.php:17
 #: framework/include/meta-boxes/home-page-meta-box.php:1403
 msgid "Search Form"
 msgstr "Formularz wyszukiwania"
 
-#: framework/customizer/sections/header/search-form.php:39
-msgid "Header Search Form"
-msgstr "Wyszukiwarka w nagłówku"
+#: framework/customizer/sections/header/search-form.php:32
+#, fuzzy
+#| msgid "Search Partner"
+msgid "Search Form on Header"
+msgstr "Szukaj partnera"
 
-#: framework/customizer/sections/header/search-form.php:42
+#: framework/customizer/sections/header/search-form.php:33
 msgid ""
-"Enabling the Advance Search Form in header will hide the Advance Search "
-"Widget in the sidebar (except Home template)."
+"Enabling advance search form in header will hide advance search form widget "
+"in the sidebar but this setting has no effect on homepage."
 msgstr ""
 
 #: framework/customizer/sections/property/agent.php:38
@@ -5191,42 +5134,55 @@ msgstr ""
 
 #: framework/customizer/sections/property/agent.php:148
 msgid "Agent Contact Form"
-msgstr "Formularz kontaktowy Agenta"
+msgstr "Kontaktný formulár agenta"
 
-#: framework/customizer/sections/property/agent.php:159
-#: framework/functions/basic.php:2498
+#: framework/customizer/sections/property/agent.php:163
+msgid "WhatsApp Button Label"
+msgstr ""
+
+#: framework/customizer/sections/property/agent.php:170
+#: framework/functions/basic.php:2519
+msgid "Call Now"
+msgstr "Zadzwoń teraz"
+
+#: framework/customizer/sections/property/agent.php:174
+msgid "Call Now Button Label"
+msgstr ""
+
+#: framework/customizer/sections/property/agent.php:181
+#: framework/functions/basic.php:2501
 #, php-format
 msgid "Hello, I am interested in [%s]"
 msgstr ""
 
-#: framework/customizer/sections/property/agent.php:163
+#: framework/customizer/sections/property/agent.php:185
 msgid "Agent Form Default Message Text"
 msgstr ""
 
-#: framework/customizer/sections/property/agent.php:164
+#: framework/customizer/sections/property/agent.php:186
 #, php-format
 msgid "%s will be replaced with the Property Title"
 msgstr ""
 
-#: framework/customizer/sections/property/agent.php:177
+#: framework/customizer/sections/property/agent.php:199
 msgid "Get Copy of Message Sent to Agent"
 msgstr "Uzyskaj kopię wiadomości wysłanej do Agenta"
 
-#: framework/customizer/sections/property/agent.php:193
+#: framework/customizer/sections/property/agent.php:215
 msgid "Email Address to Get Copy of Message"
 msgstr "Adres email do uzyskania kopii wiadomości"
 
-#: framework/customizer/sections/property/agent.php:194
+#: framework/customizer/sections/property/agent.php:216
 msgid "Given email address will get a copy of message sent to agent."
 msgstr "Podany email dostanie kopię wiadomości wysłanej do agenta."
 
-#: framework/customizer/sections/property/agent.php:205
+#: framework/customizer/sections/property/agent.php:227
 #: framework/include/meta-boxes/contact-page-meta-box.php:255
 #: framework/include/meta-boxes/home-page-meta-box.php:376
 msgid "Select Page For Redirection"
 msgstr ""
 
-#: framework/customizer/sections/property/agent.php:206
+#: framework/customizer/sections/property/agent.php:228
 msgid ""
 "User will be redirected to the selected page after successful submission of "
 "the agent contact form."
@@ -5305,12 +5261,10 @@ msgid "This will overwrite the bathrooms field label."
 msgstr "Spowoduje to zastąpienie etykiety pola łazienki."
 
 #: framework/customizer/sections/property/basics.php:208
-#| msgid "This will overwrite the area field label."
 msgid "This will overwrite the minimum stay field label."
 msgstr ""
 
 #: framework/customizer/sections/property/basics.php:223
-#| msgid "This will overwrite the area field label."
 msgid "This will overwrite the guests capacity field label."
 msgstr ""
 
@@ -5396,7 +5350,7 @@ msgstr "Będzie widoczne tylko gdy nieruchomość posiada informacje dodatkowe."
 
 #: framework/customizer/sections/property/basics.php:440
 msgid "Features Title"
-msgstr "Tytuł Cech"
+msgstr "Tytuł cech nieruchomości"
 
 #: framework/customizer/sections/property/basics.php:454
 msgid "Property Features Display"
@@ -5424,7 +5378,7 @@ msgstr "Okruszki"
 
 #: framework/customizer/sections/property/breadcrumbs.php:36
 msgid "Property Breadcrumbs"
-msgstr "Pasek Nawigacyjny dla Nieruchomości"
+msgstr "Okruszki nieruchomości"
 
 #: framework/customizer/sections/property/breadcrumbs.php:52
 msgid "Breadcrumbs will be based on"
@@ -5434,7 +5388,7 @@ msgstr "Paski Nawigacyjne opierać się na"
 #: framework/customizer/sections/property/similar-properties.php:108
 #: framework/customizer/sections/search/search-form-basics.php:89
 #: framework/customizer/sections/search/search-form-basics.php:98
-#: framework/functions/basic.php:1875 framework/functions/basic.php:1918
+#: framework/functions/basic.php:1878 framework/functions/basic.php:1921
 msgid "Property Location"
 msgstr "Lokalizacja Nieruchomości"
 
@@ -5442,7 +5396,7 @@ msgstr "Lokalizacja Nieruchomości"
 #: framework/customizer/sections/property/sections-manager.php:45
 #: framework/customizer/sections/property/sections-manager.php:112
 msgid "Child Properties"
-msgstr "Określ właściwości"
+msgstr ""
 
 #: framework/customizer/sections/property/child-properties.php:30
 msgid "Sub Properties"
@@ -5472,7 +5426,7 @@ msgid "Common Note"
 msgstr "Wspólna Notatka"
 
 #: framework/customizer/sections/property/common-note.php:49
-#: framework/include/admin/tabs/design.php:43
+#: framework/include/admin/tabs/design.php:44
 msgid "Note"
 msgstr "Uwaga"
 
@@ -5494,7 +5448,7 @@ msgstr ""
 
 #: framework/customizer/sections/property/floor-plan.php:18
 msgid "Floor Plan"
-msgstr "Rzut kondygnacji"
+msgstr "Plán pôdorysu"
 
 #: framework/customizer/sections/property/floor-plan.php:29
 msgid "Floor Plans Label"
@@ -5521,7 +5475,7 @@ msgid "Image title in gallery lightbox."
 msgstr "Tytuł obrazu w galerii lightbox."
 
 #: framework/customizer/sections/property/gallery.php:94
-msgid "Image size In Property Full Width template."
+msgid "Full Width Property Template Slider Image Size"
 msgstr ""
 
 #: framework/customizer/sections/property/gallery.php:98
@@ -5579,7 +5533,6 @@ msgid "Choose Google Map Type"
 msgstr ""
 
 #: framework/customizer/sections/property/map.php:120
-#| msgid "Map Type"
 msgid "Marker Type"
 msgstr ""
 
@@ -5745,6 +5698,9 @@ msgid "Order Settings"
 msgstr "Ustawienia zamówień"
 
 #: framework/customizer/sections/property/sections-manager.php:28
+#: framework/customizer/sections/styles/core-colors.php:43
+#: framework/customizer/sections/styles/header-styles.php:1032
+#: framework/functions/colorschemes.php:223
 #: framework/include/meta-boxes/home-page-meta-box.php:113
 msgid "Custom"
 msgstr "Własny"
@@ -5813,17 +5769,15 @@ msgid "Number of Similar Properties"
 msgstr ""
 
 #: framework/customizer/sections/property/similar-properties.php:106
-#: framework/functions/basic.php:1873 framework/functions/basic.php:1916
+#: framework/functions/basic.php:1876 framework/functions/basic.php:1919
 msgid "Property Features"
 msgstr "Cechy"
 
 #: framework/customizer/sections/property/similar-properties.php:125
-#| msgid "Show similar properties based on"
 msgid "Show Similar Properties Based on"
 msgstr ""
 
 #: framework/customizer/sections/property/similar-properties.php:138
-#| msgid "Similar Properties Title"
 msgid "Similar Properties Filters on Frontend"
 msgstr ""
 
@@ -5848,7 +5802,7 @@ msgstr "Losowo"
 
 #: framework/customizer/sections/property/social-share.php:17
 msgid "Social Share"
-msgstr "Pokaż społecznościowe linki"
+msgstr "Udostępnij"
 
 #: framework/customizer/sections/property/social-share.php:31
 msgid "Property Share"
@@ -5878,7 +5832,7 @@ msgstr "Wysokość popupu wideo"
 #: framework/customizer/sections/property/virtual-tour.php:35
 #: framework/customizer/sections/property/virtual-tour.php:48
 msgid "Property Virtual Tour"
-msgstr "Wirtualny Spacer po Nieruchomości"
+msgstr "Wirtualna wycieczka nieruchomości"
 
 #: framework/customizer/sections/property/virtual-tour.php:52
 msgid "Property Virtual Tour Title"
@@ -5921,7 +5875,7 @@ msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:96
 msgid "Distance Unit"
-msgstr "Jednostka odległości"
+msgstr "Jednotka vzdialenosti"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:100
 msgid "Miles"
@@ -5940,123 +5894,123 @@ msgid "Select Terms"
 msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:128
-#: framework/functions/basic.php:1538
+#: framework/functions/basic.php:1541
 msgid "Active Life"
 msgstr "Aktywność"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:129
-#: framework/functions/basic.php:1542
+#: framework/functions/basic.php:1545
 msgid "Arts & Entertainment"
 msgstr "Sztuka Rozrywka"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:130
-#: framework/functions/basic.php:1546
+#: framework/functions/basic.php:1549
 msgid "Automotive"
 msgstr "Motoryzacja"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:131
-#: framework/functions/basic.php:1550
+#: framework/functions/basic.php:1553
 msgid "Beauty & Spas"
 msgstr "Beauty & Spa"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:132
-#: framework/functions/basic.php:1554
+#: framework/functions/basic.php:1557
 msgid "Education"
 msgstr "Edukacja"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:133
-#: framework/functions/basic.php:1558
+#: framework/functions/basic.php:1561
 msgid "Event Planning & Services"
-msgstr "Eventy - planowanie i usługi"
+msgstr "Plánovanie udalostí a služby"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:134
-#: framework/functions/basic.php:1562
+#: framework/functions/basic.php:1565
 msgid "Financial Services"
-msgstr "Finanse"
+msgstr "Finančné služby"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:135
-#: framework/functions/basic.php:1566
+#: framework/functions/basic.php:1569
 msgid "Food"
 msgstr "Jedzenie"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:136
-#: framework/functions/basic.php:1570
+#: framework/functions/basic.php:1573
 msgid "Health & Medical"
-msgstr "Medycyna"
+msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:137
-#: framework/functions/basic.php:1574
+#: framework/functions/basic.php:1577
 msgid "Home Services "
-msgstr "Usługi domowe "
+msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:138
-#: framework/functions/basic.php:1578
+#: framework/functions/basic.php:1581
 msgid "Hotels & Travel"
 msgstr "Hotele i podróże"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:139
-#: framework/functions/basic.php:1582
+#: framework/functions/basic.php:1585
 msgid "Local Flavor"
 msgstr "Lokalne smaki"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:140
-#: framework/functions/basic.php:1586
+#: framework/functions/basic.php:1589
 msgid "Local Services"
 msgstr ""
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:141
-#: framework/functions/basic.php:1590
+#: framework/functions/basic.php:1593
 msgid "Mass Media"
 msgstr "Masové médiá"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:142
-#: framework/functions/basic.php:1594
+#: framework/functions/basic.php:1597
 msgid "Nightlife"
 msgstr "Życie nocne"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:143
-#: framework/functions/basic.php:1598
+#: framework/functions/basic.php:1601
 msgid "Pets"
 msgstr "Zwierzęta"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:144
-#: framework/functions/basic.php:1602
+#: framework/functions/basic.php:1605
 msgid "Professional Services"
-msgstr "Usługi specjalistyczne"
+msgstr "Profesionálne služby"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:145
-#: framework/functions/basic.php:1606
+#: framework/functions/basic.php:1609
 msgid "Public Services & Government"
-msgstr "Usługi publiczne"
+msgstr "Verejné služby a vláda"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:146
-#: framework/functions/basic.php:1610
+#: framework/functions/basic.php:1613
 msgid "Real Estate"
-msgstr "Nieruchomości"
+msgstr "Nehnuteľnosť"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:147
-#: framework/functions/basic.php:1614
+#: framework/functions/basic.php:1617
 msgid "Religious Organizations"
-msgstr "Kościół"
+msgstr "Náboženské organizácie"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:148
-#: framework/functions/basic.php:1618
+#: framework/functions/basic.php:1621
 msgid "Restaurants"
 msgstr "Restauracje"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:149
-#: framework/functions/basic.php:1622
+#: framework/functions/basic.php:1625
 msgid "Shopping"
 msgstr "Zakupy"
 
 #: framework/customizer/sections/property/yelp-nearby-places.php:150
-#: framework/functions/basic.php:1626
+#: framework/functions/basic.php:1629
 msgid "Transportation"
-msgstr "Transportu"
+msgstr "Preprava"
 
 #: framework/customizer/sections/search/properties-search-page.php:24
 msgid "Properties Search Page"
-msgstr "Strona wyszukiwarki ofert"
+msgstr "Strona wyszukiwarki nieruchomości"
 
 #: framework/customizer/sections/search/properties-search-page.php:63
 msgid "Select Search Page"
@@ -6187,7 +6141,7 @@ msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:46
 msgid "Smart"
-msgstr "Eleganckie"
+msgstr "Inteligentnie"
 
 #: framework/customizer/sections/search/search-form-basics.php:61
 msgid "Find Your Home"
@@ -6198,7 +6152,6 @@ msgid "Search Form Title"
 msgstr "Tytuł formularza wyszukiwania"
 
 #: framework/customizer/sections/search/search-form-basics.php:90
-#| msgid "Check Out"
 msgid "Check In & Check Out"
 msgstr ""
 
@@ -6219,7 +6172,6 @@ msgid "Which fields you want to display in search form ?"
 msgstr "Które pola chcesz wyświetlić w formularzu wyszukiwania?"
 
 #: framework/customizer/sections/search/search-form-basics.php:155
-#| msgid "Title for Search Form Over Image"
 msgid "It is only for (SFOI) search form over image."
 msgstr ""
 
@@ -6257,42 +6209,34 @@ msgid "Collapse more Advance Search form fields in sidebar by default."
 msgstr "Domyślnie Zwiń pole \"Zaawansowanego Wyszukiwania\"."
 
 #: framework/customizer/sections/search/search-form-basics.php:291
-#| msgid "Label for Agent"
 msgid "Label for City"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:307
-#| msgid "Placeholder Text for Min Area"
 msgid "Placeholder for City Field"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:337
-#| msgid "Label for Agent"
 msgid "Label for Check In"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:355
-#| msgid "Placeholder Text for Property ID"
 msgid "Placeholder Text for Check In"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:385
-#| msgid "Label for Agent"
 msgid "Label for Check Out"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:403
-#| msgid "Placeholder Text for Min Area"
 msgid "Placeholder Text for Check Out"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:433
-#| msgid "Label for Agent"
 msgid "Label for Guests"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-basics.php:451
-#| msgid "Placeholder Text for Min Area"
 msgid "Placeholder Text for Guests"
 msgstr ""
 
@@ -6394,7 +6338,6 @@ msgstr ""
 "maksymalną garaży lub dokładną?"
 
 #: framework/customizer/sections/search/search-form-keyword.php:22
-#| msgid "Search Form"
 msgid "Search Form Keyword"
 msgstr ""
 
@@ -6439,7 +6382,6 @@ msgid "Placeholder for 1st Location Field"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-locations.php:76
-#| msgid "Email Placeholder"
 msgid "Location Selected Placeholder"
 msgstr ""
 
@@ -6461,7 +6403,7 @@ msgstr ""
 
 #: framework/customizer/sections/search/search-form-locations.php:115
 msgid "Title for 3rd Location Select Box"
-msgstr "Tytuł dla trzeciego pola wyboru lokalizacji"
+msgstr "Tytuł dla 3. pola wyboru lokalizacji"
 
 #: framework/customizer/sections/search/search-form-locations.php:116
 msgid "Example: City"
@@ -6536,8 +6478,8 @@ msgid ""
 "Only provide comma separated numbers. Do not add decimal points, dashes, "
 "spaces and currency signs."
 msgstr ""
-"Wspieraj tylko numery oddzielone przecinkiem. Nie dodawaj dziesiętnych "
-"miejsc po przecinku, ukośników, spacji i znaków waluty."
+"Poskytujte iba čísla oddelené čiarkou. Nepridávajte desatinné čiarky, "
+"pomlčky, medzery a znaky meny."
 
 #: framework/customizer/sections/search/search-form-prices.php:71
 msgid "Label for Max Price Field"
@@ -6574,7 +6516,6 @@ msgid "Maximum Prices List for Rent Only."
 msgstr "Lista maksymalnych cen dotyczących wynajmowania."
 
 #: framework/customizer/sections/search/search-form-property-agents.php:22
-#| msgid "Search Form Areas"
 msgid "Search Form Agents"
 msgstr ""
 
@@ -6599,7 +6540,6 @@ msgid "When selected agents are greater than 2  "
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-property-features.php:22
-#| msgid "Search Property Features"
 msgid "Search Form Property Features"
 msgstr ""
 
@@ -6612,7 +6552,6 @@ msgid "Title for Features Toggle"
 msgstr "Opis przełączania funkcji"
 
 #: framework/customizer/sections/search/search-form-property-id.php:22
-#| msgid "Search Property"
 msgid "Search Form Property ID"
 msgstr ""
 
@@ -6625,7 +6564,6 @@ msgid "Placeholder Text for Property ID"
 msgstr "Tekst zastępczy dla identyfikatora Nieruchomości"
 
 #: framework/customizer/sections/search/search-form-property-status.php:22
-#| msgid "Search Property Status"
 msgid "Search Form Property Status"
 msgstr ""
 
@@ -6638,12 +6576,10 @@ msgid "Placeholder for Property Status"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-property-types.php:22
-#| msgid "Search Property Types"
 msgid "Search Form Property Types"
 msgstr ""
 
 #: framework/customizer/sections/search/search-form-property-types.php:34
-#| msgid "Select Property Types"
 msgid "Enable Multi Select For Property Types Field? "
 msgstr ""
 
@@ -6703,24 +6639,52 @@ msgstr "Kolor tła subtytułu banera"
 msgid "Default color is #37B3D9"
 msgstr "Domyślnym kolorem jest #37B3D9"
 
-#: framework/customizer/sections/styles/buttons.php:24
+#: framework/customizer/sections/styles/buttons.php:23
 msgid "Buttons"
 msgstr "Przyciski"
 
-#: framework/customizer/sections/styles/buttons.php:37
-msgid "Button Text Color"
-msgstr "Kolor tekstu przycisku"
+#: framework/customizer/sections/styles/buttons.php:36
+msgid "Transition Style"
+msgstr ""
 
-#: framework/customizer/sections/styles/buttons.php:57
+#: framework/customizer/sections/styles/buttons.php:41
+msgid "Style 1"
+msgstr "Styl 1"
+
+#: framework/customizer/sections/styles/buttons.php:42
+msgid "Style 2"
+msgstr "Styl 2"
+
+#: framework/customizer/sections/styles/buttons.php:43
+msgid "Style 3"
+msgstr "Styl 3"
+
+#: framework/customizer/sections/styles/buttons.php:44
+msgid "Style 4"
+msgstr "Styl 4"
+
+#: framework/customizer/sections/styles/buttons.php:45
+msgid "Style 5"
+msgstr "Styl 5"
+
+#: framework/customizer/sections/styles/buttons.php:59
+msgid "Button Color"
+msgstr "Kolor przycisku"
+
+#: framework/customizer/sections/styles/buttons.php:74
+msgid "Button Hover Color"
+msgstr "Kolor przycisku (Hover)"
+
+#: framework/customizer/sections/styles/buttons.php:94
 msgid "Button Background Color"
 msgstr "Kolor tła przycisku"
 
-#: framework/customizer/sections/styles/buttons.php:59
-#: framework/customizer/sections/styles/buttons.php:95
+#: framework/customizer/sections/styles/buttons.php:96
+#: framework/customizer/sections/styles/buttons.php:117
 #: framework/customizer/sections/styles/gallery.php:46
-#: framework/customizer/sections/styles/header-styles.php:345
-#: framework/customizer/sections/styles/header-styles.php:369
-#: framework/customizer/sections/styles/header-styles.php:391
+#: framework/customizer/sections/styles/header-styles.php:338
+#: framework/customizer/sections/styles/header-styles.php:362
+#: framework/customizer/sections/styles/header-styles.php:384
 #: framework/customizer/sections/styles/property-item.php:133
 #: framework/customizer/sections/styles/property-item.php:154
 #: framework/customizer/sections/styles/slider.php:83
@@ -6729,120 +6693,106 @@ msgstr "Kolor tła przycisku"
 msgid "Default color is %s"
 msgstr "Domyślny kolor to %s"
 
-#: framework/customizer/sections/styles/buttons.php:73
-msgid "Button Hover Text Color"
-msgstr "Kolor tekstu linku przycisku"
-
-#: framework/customizer/sections/styles/buttons.php:93
+#: framework/customizer/sections/styles/buttons.php:115
 msgid "Button Hover Background Color"
 msgstr "Kolor tła przycisku po najechaniu"
 
-#: framework/customizer/sections/styles/buttons.php:122
+#: framework/customizer/sections/styles/buttons.php:144
 msgid "Scroll to Top Button Background Color"
 msgstr "Kolor tła przycisku przewijającego do góry"
 
-#: framework/customizer/sections/styles/buttons.php:124
-#: framework/customizer/sections/styles/header-styles.php:411
-#: framework/customizer/sections/styles/news.php:65
+#: framework/customizer/sections/styles/buttons.php:146
+#: framework/customizer/sections/styles/header-styles.php:404
+#: framework/customizer/sections/styles/news.php:61
 #: framework/customizer/sections/styles/property-item.php:171
 msgid "Default color is #4dc7ec"
 msgstr "Domyślnym kolorem jest #4dc7ec"
 
-#: framework/customizer/sections/styles/buttons.php:138
+#: framework/customizer/sections/styles/buttons.php:160
 msgid "Scroll to Top Button Background Hover Color"
 msgstr "Kolor tła przycisku przewijającego do góry po najechaniu kursorem"
 
-#: framework/customizer/sections/styles/buttons.php:140
-#: framework/customizer/sections/styles/header-styles.php:519
+#: framework/customizer/sections/styles/buttons.php:162
+#: framework/customizer/sections/styles/header-styles.php:512
 #: framework/customizer/sections/styles/slider.php:158
 msgid "Default color is #37b3d9"
 msgstr "Domyślnym kolorem jest #37b3d9"
 
-#: framework/customizer/sections/styles/buttons.php:155
+#: framework/customizer/sections/styles/buttons.php:177
 msgid "Scroll to Top Button Icon Color"
 msgstr "Kolor ikony przycisku przewijającego do góry"
 
-#: framework/customizer/sections/styles/buttons.php:172
+#: framework/customizer/sections/styles/buttons.php:196
+msgid "Header Submit Button Border Color"
+msgstr ""
+
+#: framework/customizer/sections/styles/buttons.php:220
+msgid "Header Submit Button Border Hover Color"
+msgstr ""
+
+#: framework/customizer/sections/styles/buttons.php:244
 msgid "Advance Search Button Background"
 msgstr "Kolor tła przycisku Zaawansowanego Wyszukiwania"
 
-#: framework/customizer/sections/styles/buttons.php:174
+#: framework/customizer/sections/styles/buttons.php:246
 msgid "Default color is #18998e"
 msgstr "Domyślnym kolorem jest #18998e"
 
-#: framework/customizer/sections/styles/buttons.php:188
-msgid "Submit Button Border Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/buttons.php:210
-msgid "Submit Button Border Hover Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/buttons.php:232
-msgid "Advance Search Button Icon"
-msgstr ""
-
-#: framework/customizer/sections/styles/buttons.php:234
-#: framework/customizer/sections/styles/buttons.php:266
-#: framework/customizer/sections/styles/header-styles.php:449
-#: framework/customizer/sections/styles/header-styles.php:465
-msgid "Default color is #ffffff"
-msgstr ""
-
-#: framework/customizer/sections/styles/buttons.php:248
+#: framework/customizer/sections/styles/buttons.php:260
 msgid "Advance Search Button Hover Background"
 msgstr "Kolor tła przycisku Zaawansowanego Wyszukiwania po najechaniu kursorem"
 
-#: framework/customizer/sections/styles/buttons.php:250
+#: framework/customizer/sections/styles/buttons.php:262
 msgid "Default color is #179086"
 msgstr "Domyślnym kolorem jest #179086"
 
-#: framework/customizer/sections/styles/buttons.php:264
+#: framework/customizer/sections/styles/buttons.php:276
+msgid "Advance Search Button Icon"
+msgstr ""
+
+#: framework/customizer/sections/styles/buttons.php:278
+#: framework/customizer/sections/styles/buttons.php:294
+#: framework/customizer/sections/styles/header-styles.php:442
+#: framework/customizer/sections/styles/header-styles.php:458
+msgid "Default color is #ffffff"
+msgstr ""
+
+#: framework/customizer/sections/styles/buttons.php:292
 msgid "Advance Search Button Icon Hover"
 msgstr ""
 
-#: framework/customizer/sections/styles/buttons.php:280
+#: framework/customizer/sections/styles/buttons.php:307
 msgid "Advance Search Arrow & Text"
 msgstr ""
 
-#: framework/customizer/sections/styles/buttons.php:282
+#: framework/customizer/sections/styles/buttons.php:309
 msgid "Default color is #333333"
 msgstr ""
 
-#: framework/customizer/sections/styles/core-colors.php:14
+#: framework/customizer/sections/styles/core-colors.php:13
 msgid "Core Colors"
 msgstr "Kolory podstawowe"
 
-#: framework/customizer/sections/styles/core-colors.php:26
-msgid "Important Notes:"
-msgstr "Ważne uwagi:"
+#: framework/customizer/sections/styles/core-colors.php:24
+msgid "Important Note:"
+msgstr "Ważna uwaga:"
 
-#: framework/customizer/sections/styles/core-colors.php:27
-#, php-format
+#: framework/customizer/sections/styles/core-colors.php:25
 msgid ""
-"• These color options replace the core colors %1$s mostly %2$s all over the "
-"theme. You can also override these colors for almost each section in %1$s "
-"Customizer > Styles %2$s ."
+"The setting will be restored to the Default option automatically whenever "
+"the design variation is changed. So that you can view freshly changed design "
+"variations in original colors."
 msgstr ""
-"• Te opcje kolorów zastępują kolory podstawowe%1$s w większości%2$s na całym "
-"motywie. Można również zastępować te kolory dla prawie każdej sekcji w%1$s "
-"Customizer > Styles %2$s."
 
-#: framework/customizer/sections/styles/core-colors.php:40
-#, php-format
-msgid ""
-"• To apply these core colors, make sure %1$s My Own Custom Colors %2$s "
-"option is selected in %1$s Customizer > Styles > Default or Custom %2$s. "
-msgstr ""
-"• Aby zastosować te podstawowe kolory, upewnij się, że%1$s moje własne "
-"kolory niestandardowe%2$s opcja jest zaznaczona w%1$s Customizer > Styles > "
-"Default lub niestandardowy%2$s. "
+#: framework/customizer/sections/styles/core-colors.php:38
+msgid "Theme colors"
+msgstr "Kolory motywu"
 
-#: framework/customizer/sections/styles/core-colors.php:73
+#: framework/customizer/sections/styles/core-colors.php:69
 msgid "Orange Light"
 msgstr "Jasnopomarańczowy"
 
-#: framework/customizer/sections/styles/core-colors.php:74
+#: framework/customizer/sections/styles/core-colors.php:70
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6867,12 +6817,12 @@ msgstr ""
 "przycisk ogłaszania odpowiedzi%1$s • filtr galerii%1$s • przycisk formularza "
 "kontaktowego%1$s domyślny kolor to #ec894d "
 
-#: framework/customizer/sections/styles/core-colors.php:103 functions.php:193
+#: framework/customizer/sections/styles/core-colors.php:99 functions.php:193
 #: functions.php:218
 msgid "Orange Dark"
 msgstr "Pomarańczowy ciemny"
 
-#: framework/customizer/sections/styles/core-colors.php:104
+#: framework/customizer/sections/styles/core-colors.php:100
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6884,11 +6834,11 @@ msgstr ""
 "Zmień kolory rdzenia%1$s • menu główne Hover%1$s • widgety linki Hover%1$s • "
 "widżety Sidebar Linki Hover%1$s domyślny kolor jest #dc7d44 "
 
-#: framework/customizer/sections/styles/core-colors.php:125
+#: framework/customizer/sections/styles/core-colors.php:121
 msgid "Orange Glow"
 msgstr "Pomarańczowy blask"
 
-#: framework/customizer/sections/styles/core-colors.php:126
+#: framework/customizer/sections/styles/core-colors.php:122
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6908,11 +6858,11 @@ msgstr ""
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Przycisk ogłaszania odpowiedzi Hover%1$s • "
 "paginacja%1$s domyślnym kolorem jest #e3712c "
 
-#: framework/customizer/sections/styles/core-colors.php:151
+#: framework/customizer/sections/styles/core-colors.php:147
 msgid "Orange Burnt"
 msgstr "Pomarańczowy spalony"
 
-#: framework/customizer/sections/styles/core-colors.php:152
+#: framework/customizer/sections/styles/core-colors.php:148
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6936,11 +6886,11 @@ msgstr ""
 "kontaktowej Hover%1$s • funkcja wyszukiwania aktywowana w widżecie "
 "formularza wyszukiwania%1$s domyślny kolor jest #df5400 "
 
-#: framework/customizer/sections/styles/core-colors.php:179
+#: framework/customizer/sections/styles/core-colors.php:175
 msgid "Blue light"
 msgstr "Jasno niebieski"
 
-#: framework/customizer/sections/styles/core-colors.php:180
+#: framework/customizer/sections/styles/core-colors.php:176
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6961,11 +6911,11 @@ msgstr ""
 "góry, ale tona%1$s • format postu ikona tło%1$s • Nawigacja po suwaku%1$s • "
 "nakładka Nieruchomości galerii%1$s domyślny kolor jest #4dc7ec "
 
-#: framework/customizer/sections/styles/core-colors.php:208 functions.php:203
+#: framework/customizer/sections/styles/core-colors.php:203 functions.php:203
 msgid "Blue Dark"
 msgstr "Niebieski Ciemny"
 
-#: framework/customizer/sections/styles/core-colors.php:209
+#: framework/customizer/sections/styles/core-colors.php:204
 #, php-format
 msgid ""
 "Change core colors of %1$s\n"
@@ -6983,133 +6933,59 @@ msgstr ""
 "\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t Domyślnym kolorem jest #37b3d9 "
 
-#: framework/customizer/sections/styles/core-colors.php:235
-msgid "Orange"
-msgstr "Pomarańczowy"
+#: framework/customizer/sections/styles/core-colors.php:229
+#: framework/customizer/sections/styles/header-styles.php:1025
+msgid "Color Scheme"
+msgstr "Schemat kolorystyczny"
 
-#: framework/customizer/sections/styles/core-colors.php:236
-#, php-format
-msgid ""
-"Change core colors of %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Main Menu Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Slider Direction Nav %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Featured Tag %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Add To Favourite Tag %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Featured Properties Slider Direction Nav %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Port Gallery Format Slider Direction Nav %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• CTA Button One Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Agents Arrow %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Sidebar widget links %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agent View My Listings Link %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #ea723d "
+#: framework/customizer/sections/styles/core-colors.php:258 functions.php:188
+#: functions.php:213
+msgid "Primary"
+msgstr "Podstawowy"
+
+#: framework/customizer/sections/styles/core-colors.php:274
+msgid "Primary Dark"
 msgstr ""
-"Zmień kolory rdzenia%1$s • tło menu głównego%1$s • Strona główna kierunek "
-"suwaka NAV%1$s • znacznik Nieruchomości%1$s • Dodaj do ulubionego tagu%1$s • "
-"Rekomendowane Nieruchomości kierunek suwaka NAV%1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Suwak format galerii portów NAV%1$s • przycisk "
-"CTA jedno tło%1$s • agenci domu strzałka%1$s • łącza widżetu pasek boczny"
-"%1$s • Agent Wyświetl moje aukcje Link%1$s domyślny kolor to #ea723d "
 
-#: framework/customizer/sections/styles/core-colors.php:264
-msgid "Green"
-msgstr "Zielony"
+#: framework/customizer/sections/styles/core-colors.php:291 functions.php:198
+#: functions.php:223
+msgid "Secondary"
+msgstr "Drugorzędne"
 
-#: framework/customizer/sections/styles/core-colors.php:265
-#, php-format
-msgid ""
-"Change core colors of %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Meta Icons Home Slider %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Price %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Title Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Image Overlay %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Search Form %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Detail Headings %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Sidebar Buttons %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Testimonial Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Section Subtitle %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home CTA-Contact Background %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Title and Email Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Number and Property count %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Contact Form Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Title and Meta Background Bar %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Comment Submit Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Read More %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Gallery Item Overlay %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Gallery Filter Underline %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact Page Form Button %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Pagination %1$s\n"
-"\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1ea69a "
+#: framework/customizer/sections/styles/core-colors.php:308
+msgid "Secondary Dark"
 msgstr ""
-"Zmień kolory rdzenia%1$s • przycisk Prześlij Właściwość%1$s • Właściwość "
-"meta ikony suwaka Strona główna%1$s • cena Nieruchomości%1$s • tytuł "
-"Nieruchomości Hover%1$s • Nakładka obrazu Nieruchomości%1$s • nieruchomość "
-"formularz ch%1$s • nagłówki szczegółów Nieruchomości%1$s • przyciski paska "
-"bocznego Nieruchomości%1$s • Strona główna Referencje tło%1$s • sekcja "
-"główna podtytuł%1$s • Strona główna CTA-kontakt tło%1$s • tytuł agentów i "
-"adres e-mail aktywowanie%1$s • liczba agentów i liczba Nieruchomości%1$s • "
-"formularz kontaktowy przycisk%1$s • tytuł wiadomości i pasek meta tła%1$s • "
-"przycisk Wyślij komentarz%1$s • Aktualności czytaj więcej%1$s • G Nakładka "
-"elementu wybieraka%1$s • Galeria filtr podkreślenie%1$s • formularz strony "
-"kontaktowej%1$s • podział na strony%1$s domyślny kolor jest #1ea69a "
 
-#: framework/customizer/sections/styles/core-colors.php:305 functions.php:228
-msgid "Green Dark"
-msgstr "Ciemny zielony"
+#: framework/customizer/sections/styles/core-colors.php:334
+#: framework/customizer/sections/styles/floating-features.php:86
+#: framework/customizer/sections/styles/floating-features.php:224
+#: framework/customizer/sections/styles/floating-features.php:361
+#: framework/customizer/sections/styles/news.php:42
+msgid "Text Color"
+msgstr "Kolor tekstu"
 
-#: framework/customizer/sections/styles/core-colors.php:306
-#, php-format
-msgid ""
-"Change core colors of %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Submit Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Search Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Home Testimonial Quote Marks %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Property Sidebar Buttons Hovers %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Comment Submit Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• News Read More Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Agents Contact Form Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t• Contact PAge Form Button Hover %1$s\n"
-"\t\t\t\t\t\t\t\t\t\t\t\t\t\t Default color is #1c9d92 "
+#: framework/customizer/sections/styles/core-colors.php:350
+msgid "Headings Color"
+msgstr "Kolor nagłówka"
+
+#: framework/customizer/sections/styles/core-colors.php:366
+msgid "Headings Hover Color"
 msgstr ""
-"Zmień kolory rdzenia%1$s • przycisk Prześlij Właściwość Hover%1$s • przycisk "
-"wyszukiwania Nieruchomości Hover%1$s • Strona główna Referencje znaki "
-"cudzysłowu%1$s • przyciski paska bocznego Nieruchomości unoszą się%1$s • "
-"przycisk Wyślij komentarz Hover%1$s • wiadomości czytaj więcej Hover%1$s • "
-"Agent kontakt przycisk Aktywuj%1$s • formularz strony kontaktowej przycisk "
-"Hover%1$s domyślny kolor to #1c9d92 "
 
-#: framework/customizer/sections/styles/default-or-custom.php:15
-msgid "Default or Custom"
-msgstr "Domyślne lub niestandardowe"
+#: framework/customizer/sections/styles/core-colors.php:382
+#: framework/functions/dashboard.php:1726
+msgid "Link Color"
+msgstr "Kolor odnośnika"
 
-#: framework/customizer/sections/styles/default-or-custom.php:30
-msgid "You are going to use default theme colors or your own custom colors?"
-msgstr ""
-"Masz zamiar używać domyślnych kolorów motywu lub własnych kolorów "
-"niestandardowych?"
+#: framework/customizer/sections/styles/core-colors.php:398
+#: framework/functions/dashboard.php:1731
+msgid "Link Hover Color"
+msgstr "Kolor aktywnego linku"
 
-#: framework/customizer/sections/styles/default-or-custom.php:35
-msgid "Default Theme Colors"
-msgstr "Domyślne kolory motywu"
-
-#: framework/customizer/sections/styles/default-or-custom.php:36
-msgid "My Own Custom Colors"
-msgstr "Moje własne kolory"
-
-#: framework/customizer/sections/styles/default-or-custom.php:47
-msgid "Important Note:"
-msgstr "Ważna uwaga:"
-
-#: framework/customizer/sections/styles/default-or-custom.php:48
-msgid ""
-"Above settings will automatically change to Default whenever you change the "
-"design variation. So that you can view freshly changed design variation in "
-"original colors."
-msgstr ""
-"Powyższe ustawienia zostaną automatycznie zmienione na domyślne po zmianie "
-"odmiany projektu. Tak, że można przeglądać świeżo zmienione zmiany projektu "
-"w oryginalnych kolorach."
+#: framework/customizer/sections/styles/core-colors.php:420
+#, fuzzy
+msgid "Site Selection Background Color"
+msgstr "Przełącznik języka Kolor tła"
 
 #: framework/customizer/sections/styles/floating-features.php:39
 msgid "Small Devices Bar Background Color"
@@ -7122,15 +6998,9 @@ msgstr "Przełącznik walut "
 #: framework/customizer/sections/styles/floating-features.php:71
 #: framework/customizer/sections/styles/floating-features.php:209
 #: framework/customizer/sections/styles/floating-features.php:346
+#: framework/customizer/sections/styles/header-styles.php:1045
 msgid "Background Color"
 msgstr "Kolor tła"
-
-#: framework/customizer/sections/styles/floating-features.php:86
-#: framework/customizer/sections/styles/floating-features.php:224
-#: framework/customizer/sections/styles/floating-features.php:361
-#: framework/customizer/sections/styles/news.php:45
-msgid "Text Color"
-msgstr "Kolor tekstu"
 
 #: framework/customizer/sections/styles/floating-features.php:101
 #: framework/customizer/sections/styles/floating-features.php:239
@@ -7147,7 +7017,7 @@ msgstr ""
 #: framework/customizer/sections/styles/floating-features.php:131
 #: framework/customizer/sections/styles/floating-features.php:269
 msgid "Dropdown Background Color"
-msgstr "Rozwijane menu kolor tła"
+msgstr "Kolor tła rozwijanego"
 
 #: framework/customizer/sections/styles/floating-features.php:147
 #: framework/customizer/sections/styles/floating-features.php:285
@@ -7257,303 +7127,293 @@ msgstr "Uwaga: Domyślne tło obrazu wynosi 235px wysokości i 1770px szerokośc
 msgid "Gallery Images Hover Color"
 msgstr "Kolor Galerii Zdjęć po najechaniu myszką"
 
-#: framework/customizer/sections/styles/header-styles.php:37
+#: framework/customizer/sections/styles/header-styles.php:38
 msgid "Menu wrapper Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:58
+#: framework/customizer/sections/styles/header-styles.php:61
 msgid "Header Meta wrapper Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:83
-#: framework/customizer/sections/styles/header-styles.php:918
+#: framework/customizer/sections/styles/header-styles.php:91
+#: framework/customizer/sections/styles/header-styles.php:736
 msgid "Header/Banner Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:85
+#: framework/customizer/sections/styles/header-styles.php:93
 #, php-format
 msgid "Applies when no banner image appears. Default Color is %s"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:101
-#: framework/customizer/sections/styles/header-styles.php:740
+#: framework/customizer/sections/styles/header-styles.php:109
+#: framework/customizer/sections/styles/header-styles.php:558
 msgid "Logo Text Color"
-msgstr "Kolor tekstu Logo"
+msgstr "Kolor tekstu logo"
 
-#: framework/customizer/sections/styles/header-styles.php:122
+#: framework/customizer/sections/styles/header-styles.php:130
 msgid "Logo Text Hover Color"
 msgstr "Kolor tekstu loga po wskazaniu"
 
-#: framework/customizer/sections/styles/header-styles.php:124
-#: framework/customizer/sections/styles/header-styles.php:323
-#: framework/customizer/sections/styles/header-styles.php:552
-#: framework/customizer/sections/styles/header-styles.php:568
-#: framework/customizer/sections/styles/header-styles.php:584
-#: framework/customizer/sections/styles/header-styles.php:600
-#: framework/customizer/sections/styles/header-styles.php:616
-#: framework/customizer/sections/styles/header-styles.php:632
-#: framework/customizer/sections/styles/header-styles.php:648
-#: framework/customizer/sections/styles/header-styles.php:664
-#: framework/customizer/sections/styles/header-styles.php:680
-#: framework/customizer/sections/styles/header-styles.php:696
+#: framework/customizer/sections/styles/header-styles.php:132
+#: framework/customizer/sections/styles/header-styles.php:316
+#: framework/customizer/sections/styles/header-styles.php:1047
+#: framework/customizer/sections/styles/header-styles.php:1063
+#: framework/customizer/sections/styles/header-styles.php:1079
+#: framework/customizer/sections/styles/header-styles.php:1095
+#: framework/customizer/sections/styles/header-styles.php:1111
+#: framework/customizer/sections/styles/header-styles.php:1127
+#: framework/customizer/sections/styles/header-styles.php:1143
+#: framework/customizer/sections/styles/header-styles.php:1159
+#: framework/customizer/sections/styles/header-styles.php:1175
 #, php-format
 msgid "Default Color is %s"
 msgstr "Domyślny kolor to %s"
 
-#: framework/customizer/sections/styles/header-styles.php:141
+#: framework/customizer/sections/styles/header-styles.php:149
 msgid "Tagline Text Color"
 msgstr "Kolor tekstu opisu strony"
 
-#: framework/customizer/sections/styles/header-styles.php:158
+#: framework/customizer/sections/styles/header-styles.php:166
 msgid "Tagline Background Color"
 msgstr "Kolor tła opisu strony"
 
-#: framework/customizer/sections/styles/header-styles.php:175
+#: framework/customizer/sections/styles/header-styles.php:183
 msgid "Header Text Color"
 msgstr "Kolor tekstu nagłówka"
 
-#: framework/customizer/sections/styles/header-styles.php:192
+#: framework/customizer/sections/styles/header-styles.php:200
 msgid "Header Links Hover Color"
 msgstr "Kolor linków po wskazaniu kursorem"
 
-#: framework/customizer/sections/styles/header-styles.php:209
+#: framework/customizer/sections/styles/header-styles.php:217
 msgid "Header Borders Color"
 msgstr "Kolor obramowania nagłówka"
 
-#: framework/customizer/sections/styles/header-styles.php:230
-#| msgid "Banner Background Color"
-msgid "Header Background Gradient One Color"
-msgstr ""
+#: framework/customizer/sections/styles/header-styles.php:238
+msgid "Header Background Gradient Color"
+msgstr "Kolor gradientu tła nagłówka"
 
-#: framework/customizer/sections/styles/header-styles.php:232
+#: framework/customizer/sections/styles/header-styles.php:240
 msgid "Starting gradient color from top (default #000000)"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:245
-#| msgid "Banner Background Color"
-msgid "Header Background Gradient Two Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:247
-msgid "Finishing gradient color to bottom (default #c0c0c0)"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:262
+#: framework/customizer/sections/styles/header-styles.php:255
 msgid "Main Menu Text Color"
 msgstr "Kolor tekstu głównego menu"
 
-#: framework/customizer/sections/styles/header-styles.php:277
+#: framework/customizer/sections/styles/header-styles.php:270
 msgid "Main Menu Text Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:297
+#: framework/customizer/sections/styles/header-styles.php:290
 msgid "Main Menu Hover Background/border"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:299
+#: framework/customizer/sections/styles/header-styles.php:292
 #: framework/customizer/sections/styles/home-page.php:354
 #: framework/customizer/sections/styles/property-item.php:90
 #: framework/customizer/sections/styles/slider.php:40
 msgid "Default color is #ea723d"
 msgstr "Domyślnym kolorem jest #ea723d"
 
-#: framework/customizer/sections/styles/header-styles.php:321
+#: framework/customizer/sections/styles/header-styles.php:314
 msgid "Drop Down Menu Background Color"
 msgstr "Kolor tła rozwijanego menu"
 
-#: framework/customizer/sections/styles/header-styles.php:343
+#: framework/customizer/sections/styles/header-styles.php:336
 msgid "Drop Down Menu Text Color"
 msgstr "Kolor tekstu rozwijanego menu"
 
-#: framework/customizer/sections/styles/header-styles.php:367
+#: framework/customizer/sections/styles/header-styles.php:360
 msgid "Drop Down Menu Background Color on Mouse Over"
 msgstr "Kolor tła rozwijanego menu po wskazaniu (mouse over)"
 
-#: framework/customizer/sections/styles/header-styles.php:389
+#: framework/customizer/sections/styles/header-styles.php:382
 msgid "Drop Down Menu Text Color on Mouse Over"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:409
+#: framework/customizer/sections/styles/header-styles.php:402
 msgid "Header Phone Number Background Color"
 msgstr "Kolor tła numeru telefonu w nagłówku"
 
-#: framework/customizer/sections/styles/header-styles.php:427
-#: framework/customizer/sections/styles/header-styles.php:755
+#: framework/customizer/sections/styles/header-styles.php:420
+#: framework/customizer/sections/styles/header-styles.php:573
 msgid "Phone Number Text Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:429
+#: framework/customizer/sections/styles/header-styles.php:422
 msgid "Default color is #e7eff7"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:447
+#: framework/customizer/sections/styles/header-styles.php:440
 msgid "Phone/Email Number Text Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:463
+#: framework/customizer/sections/styles/header-styles.php:456
 msgid "Phone/Email Number Text Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:483
+#: framework/customizer/sections/styles/header-styles.php:476
 msgid "Social Icon Color"
 msgstr "Kolor ikony spolecznosciowej"
 
-#: framework/customizer/sections/styles/header-styles.php:499
+#: framework/customizer/sections/styles/header-styles.php:492
 msgid "Social Icon Hover Color"
 msgstr "Kolor po najechaniu kursorem"
 
-#: framework/customizer/sections/styles/header-styles.php:517
+#: framework/customizer/sections/styles/header-styles.php:510
 msgid "Header Phone Icon Background Color"
 msgstr "Kolor tła ikony telefonu w nagłówku"
 
-#: framework/customizer/sections/styles/header-styles.php:535
-msgid "Sticky Header "
-msgstr "Przyczepiony nagłówek "
-
-#: framework/customizer/sections/styles/header-styles.php:550
-msgid "Site Title Color"
-msgstr "Kolor tytułu strony"
-
-#: framework/customizer/sections/styles/header-styles.php:566
-msgid "Site Title Hover Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:582
-msgid "Sticky Header Background"
-msgstr "Tło przyklejonego nagłówka"
-
-#: framework/customizer/sections/styles/header-styles.php:598
-msgid "Sticky Header Menu Text Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:614
-msgid "Sticky Header Menu Background Hover Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:630
-msgid "Sticky Header Menu Hover Text Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:646
-msgid "Sticky Header Contacts Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:662
-msgid "Sticky Header Submit Button Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:678
-msgid "Sticky Header Submit Button Hover Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:694
-msgid "Sticky Header Submit Button Hover Text Color"
-msgstr ""
-
-#: framework/customizer/sections/styles/header-styles.php:710
-#: framework/customizer/sections/styles/header-styles.php:903
+#: framework/customizer/sections/styles/header-styles.php:528
+#: framework/customizer/sections/styles/header-styles.php:721
 msgid "Responsive Header "
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:725
+#: framework/customizer/sections/styles/header-styles.php:543
 msgid "Responsive Header Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:770
+#: framework/customizer/sections/styles/header-styles.php:588
 msgid "Phone Number Text Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:785
+#: framework/customizer/sections/styles/header-styles.php:603
+#: framework/customizer/sections/styles/header-styles.php:1125
 msgid "Submit Button Background Color"
 msgstr "Kolor tła przycisku Zgłoś nieruchomość"
 
-#: framework/customizer/sections/styles/header-styles.php:799
+#: framework/customizer/sections/styles/header-styles.php:617
 msgid "Submit Button Background Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:814
+#: framework/customizer/sections/styles/header-styles.php:632
+#: framework/customizer/sections/styles/header-styles.php:1157
 msgid "Submit Button Text Color"
 msgstr "Kolor tekstu przycisku Zgłoś nieruchomość"
 
-#: framework/customizer/sections/styles/header-styles.php:828
+#: framework/customizer/sections/styles/header-styles.php:646
 msgid "Submit Button Text Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:843
-#: framework/customizer/sections/styles/header-styles.php:1094
+#: framework/customizer/sections/styles/header-styles.php:661
+#: framework/customizer/sections/styles/header-styles.php:912
 msgid "Responsive Menu Icon Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:858
+#: framework/customizer/sections/styles/header-styles.php:676
 msgid "Responsive Menu Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:872
+#: framework/customizer/sections/styles/header-styles.php:690
 msgid "Responsive Menu Text Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:886
+#: framework/customizer/sections/styles/header-styles.php:704
 msgid "Responsive Menu Text Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:933
+#: framework/customizer/sections/styles/header-styles.php:751
 msgid "Email Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:948
+#: framework/customizer/sections/styles/header-styles.php:766
 msgid "Email Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:963
+#: framework/customizer/sections/styles/header-styles.php:781
 msgid "User Nav Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:978
+#: framework/customizer/sections/styles/header-styles.php:796
 msgid "User Nav Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:993
+#: framework/customizer/sections/styles/header-styles.php:811
 msgid "User Nav Border Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1008
+#: framework/customizer/sections/styles/header-styles.php:826
 msgid "Site Logo Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1022
+#: framework/customizer/sections/styles/header-styles.php:840
 msgid "Site Logo Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1036
+#: framework/customizer/sections/styles/header-styles.php:854
 msgid "Tag Line Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1050
+#: framework/customizer/sections/styles/header-styles.php:868
 msgid "Tag Line Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1065
+#: framework/customizer/sections/styles/header-styles.php:883
 msgid "Phone Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1079
+#: framework/customizer/sections/styles/header-styles.php:897
 msgid "Phone Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1109
+#: framework/customizer/sections/styles/header-styles.php:927
 msgid "Nav Container Background Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/header-styles.php:1124
+#: framework/customizer/sections/styles/header-styles.php:942
 msgid "Nav Text Color"
 msgstr "Kolor tekstu"
 
-#: framework/customizer/sections/styles/header-styles.php:1138
+#: framework/customizer/sections/styles/header-styles.php:956
 msgid "Nav Text Hover Color"
 msgstr "Nav Tekst Hover Kolor"
 
-#: framework/customizer/sections/styles/header-styles.php:1153
+#: framework/customizer/sections/styles/header-styles.php:971
 msgid "Nav Background Hover Color"
+msgstr ""
+
+#: framework/customizer/sections/styles/header-styles.php:1013
+msgid "Logo for sticky header. Site Logo will be used if no image selected."
+msgstr ""
+
+#: framework/customizer/sections/styles/header-styles.php:1026
+msgid ""
+"Use predefined color schemes for sticky header. Choose custom to create your "
+"desired Color Scheme using controls below."
+msgstr ""
+
+#: framework/customizer/sections/styles/header-styles.php:1030
+msgid "Dark"
+msgstr "Ciemny"
+
+#: framework/customizer/sections/styles/header-styles.php:1031
+msgid "Light"
+msgstr "Jasny"
+
+#: framework/customizer/sections/styles/header-styles.php:1061
+msgid "Site Title Color"
+msgstr "Kolor tytułu strony"
+
+#: framework/customizer/sections/styles/header-styles.php:1077
+msgid "Site Title Hover Color"
+msgstr ""
+
+#: framework/customizer/sections/styles/header-styles.php:1093
+msgid "Menu Text Color"
+msgstr "Kolor tekstu menu rozwijanego"
+
+#: framework/customizer/sections/styles/header-styles.php:1109
+#, fuzzy
+msgid "Menu Text Hover Color"
+msgstr "Przełącznik językowy Łącze Kolor na górze"
+
+#: framework/customizer/sections/styles/header-styles.php:1141
+msgid "Submit Button Hover Background Color"
+msgstr "Prześlij przycisk Hover kolor tła"
+
+#: framework/customizer/sections/styles/header-styles.php:1173
+msgid "Submit Button Hover Text Color"
 msgstr ""
 
 #: framework/customizer/sections/styles/home-page.php:15
@@ -7583,7 +7443,7 @@ msgstr "Tekst nad kolorem tytułu"
 #: framework/customizer/sections/styles/home-page.php:579
 #: framework/customizer/sections/styles/home-page.php:694
 #: framework/customizer/sections/styles/home-page.php:774
-#: framework/customizer/sections/styles/news.php:117
+#: framework/customizer/sections/styles/news.php:113
 #: framework/customizer/sections/styles/property-item.php:74
 #: framework/customizer/sections/styles/slider.php:224
 msgid "Default color is #1ea69a"
@@ -7628,15 +7488,17 @@ msgstr "Referencje "
 
 #: framework/customizer/sections/styles/home-page.php:205
 msgid "Testimonial Text Color"
-msgstr "Kolor tekstu referencji"
+msgstr ""
 
 #: framework/customizer/sections/styles/home-page.php:222
 msgid "Testimonial Quote Mark Color"
 msgstr "Referencje cudzysłów kolor"
 
 #: framework/customizer/sections/styles/home-page.php:224
-msgid "Default color is #1c9d92"
-msgstr "Domyślnym kolorem jest #1c9d92"
+#, fuzzy
+#| msgid "Default Color is #afb4b5"
+msgid "Default color is #0b8278"
+msgstr "Domyślnym kolorem jest #afb4b5"
 
 #: framework/customizer/sections/styles/home-page.php:240
 msgid "Name Color"
@@ -7754,31 +7616,27 @@ msgstr "Kolor tekstu sekcji"
 msgid "Default color is #3EB6E0"
 msgstr "Domyślnym kolorem jest #3EB6E0"
 
-#: framework/customizer/sections/styles/news.php:63
+#: framework/customizer/sections/styles/news.php:59
 msgid "Post Border, Icon And Slider Nav Colors"
 msgstr "Kolory ramki posta, ikony i suwaka Nawigacyjnego"
 
-#: framework/customizer/sections/styles/news.php:82
-#| msgid "Property Meta Text Color"
+#: framework/customizer/sections/styles/news.php:78
 msgid "Post Meta Text Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/news.php:84
-#| msgid "Default color is #1ea69a"
+#: framework/customizer/sections/styles/news.php:80
 msgid "Default color is #1a1a1a"
 msgstr ""
 
-#: framework/customizer/sections/styles/news.php:98
-#| msgid "More Details Text Hover Color"
+#: framework/customizer/sections/styles/news.php:94
 msgid "Post Meta Text Hover Color"
 msgstr ""
 
-#: framework/customizer/sections/styles/news.php:100
-#| msgid "Default color is %s"
+#: framework/customizer/sections/styles/news.php:96
 msgid "Default color is #fff"
 msgstr ""
 
-#: framework/customizer/sections/styles/news.php:115
+#: framework/customizer/sections/styles/news.php:111
 msgid "Post Meta Background Color"
 msgstr "Kolor tła post meta"
 
@@ -7853,7 +7711,7 @@ msgstr "Kolor \"Meta\" Nieruchomości (nagłówek)"
 
 #: framework/customizer/sections/styles/property-item.php:297
 msgid "Property Meta Text Color"
-msgstr "Kolor \"Meta\" Nieruchomości (tekst)"
+msgstr "Kolor tekstu meta nieruchomości"
 
 #: framework/customizer/sections/styles/property-item.php:314
 msgid "Property Meta Background Color"
@@ -7880,17 +7738,16 @@ msgid " Round Corners Value"
 msgstr ""
 
 #: framework/customizer/sections/styles/search-form.php:31
-#: framework/functions/dashboard.php:1692
+#: framework/functions/dashboard.php:1706
 msgid "Primary Color"
 msgstr "Podstawowy kolor"
 
 #: framework/customizer/sections/styles/search-form.php:46
-#: framework/functions/dashboard.php:1697
+#: framework/functions/dashboard.php:1711
 msgid "Secondary Color"
 msgstr "Dodatkowy kolor"
 
 #: framework/customizer/sections/styles/search-form.php:61
-#| msgid "Button Text Color"
 msgid "Button & Dropdown Text Color"
 msgstr ""
 
@@ -7953,7 +7810,6 @@ msgid "Base Typography"
 msgstr "Podstawowa typografia"
 
 #: framework/customizer/sections/styles/typography.php:34
-#| msgid "Select a logo for your footer."
 msgid "Select the font for your content."
 msgstr ""
 
@@ -7974,27 +7830,16 @@ msgid "Headings Typography"
 msgstr "Typografia Nagłówków"
 
 #: framework/customizer/sections/styles/typography.php:77
-#| msgid "Select a logo for your footer."
 msgid "Select the font for your headings."
 msgstr ""
 
 #: framework/customizer/sections/styles/typography.php:119
-#| msgid "Typography"
 msgid "Secondary Typography"
 msgstr ""
 
 #: framework/customizer/sections/styles/typography.php:120
 msgid "Select the secondary font for your content and headings."
 msgstr ""
-
-#: framework/customizer/sections/styles/typography.php:167
-msgid "Headings Color"
-msgstr "Kolor nagłówka"
-
-#: framework/customizer/sections/styles/typography.php:182
-#: framework/functions/dashboard.php:1702
-msgid "Body Text Color"
-msgstr "Kolor tekstu w głównej treści strony"
 
 #: framework/customizer/site-logo.php:53
 msgid "Site Retina Logo"
@@ -8035,7 +7880,7 @@ msgstr "Kontrast"
 
 #: framework/customizer/site-logo.php:155
 msgid "Grayscale"
-msgstr "Zdjęcie pracownika szarości"
+msgstr "Skala szarości"
 
 #: framework/customizer/site-logo.php:156
 msgid "Invert"
@@ -8045,23 +7890,19 @@ msgstr "Odwróć"
 msgid "No more properties are available."
 msgstr "Nie ma więcej Nieruchomości."
 
-#: framework/functions/basic.php:358
-msgid "WhatsApp Number"
-msgstr "Numer WhatsApp"
-
 #: framework/functions/basic.php:364
 msgid "Youtube URL"
 msgstr "Youtube URL"
 
-#: framework/functions/basic.php:948
+#: framework/functions/basic.php:951
 msgid "GDPR Agreement"
 msgstr "Zgoda na RODO"
 
-#: framework/functions/basic.php:950
+#: framework/functions/basic.php:953
 msgid "* Please accept GDPR agreement"
 msgstr "* Proszę zaakceptować umowę RODO"
 
-#: framework/functions/basic.php:952
+#: framework/functions/basic.php:955
 msgid ""
 "I consent to having this website store my submitted information so they can "
 "respond to my inquiry."
@@ -8069,61 +7910,60 @@ msgstr ""
 "Wyrażam zgodę na przechowywanie na tej stronie moich danych w celu "
 "umożliwienia odpowiedzi na moje zapytania."
 
-#: framework/functions/basic.php:1320
+#: framework/functions/basic.php:1323
 msgid "Walkscore API key is missing"
 msgstr ""
 
-#: framework/functions/basic.php:1412
+#: framework/functions/basic.php:1415
 msgid "Yelp API key is missing"
 msgstr ""
 
-#: framework/functions/basic.php:1429
+#: framework/functions/basic.php:1432
 msgid "mi"
 msgstr "mi"
 
-#: framework/functions/basic.php:1433
+#: framework/functions/basic.php:1436
 msgid "km"
 msgstr "km"
 
-#: framework/functions/basic.php:1504
+#: framework/functions/basic.php:1507
 msgid "Reviews"
 msgstr "Opinie"
 
-#: framework/functions/basic.php:1518
+#: framework/functions/basic.php:1521
 msgid "powered by"
-msgstr "oparty na"
+msgstr "powered by"
 
-#: framework/functions/basic.php:1877 framework/functions/basic.php:1920
+#: framework/functions/basic.php:1880 framework/functions/basic.php:1923
 msgid "Property Agent"
 msgstr "Agent nehnuteľností"
 
-#: framework/functions/basic.php:1892
+#: framework/functions/basic.php:1895
 #: framework/include/admin/tabs/plugins.php:13
 #: framework/include/admin/tabs/plugins.php:37
 #: framework/include/tgm/class-tgm-plugin-activation.php:2361
 msgid "Recommended"
 msgstr "Zalecane"
 
-#: framework/functions/basic.php:2011
-#| msgid "No Property found in Trash"
+#: framework/functions/basic.php:2014
 msgid "No property found for this criteria."
 msgstr ""
 
-#: framework/functions/basic.php:2014
+#: framework/functions/basic.php:2017
 msgid "Invalid property filter provided."
 msgstr ""
 
-#: framework/functions/basic.php:2251
+#: framework/functions/basic.php:2254
 #: framework/functions/property-ratings.php:149
 msgid "5 based on"
 msgstr "Na podstawie"
 
-#: framework/functions/basic.php:2251
+#: framework/functions/basic.php:2254
 #: framework/functions/property-ratings.php:149
 msgid "reviews"
 msgstr "opinie"
 
-#: framework/functions/basic.php:2269
+#: framework/functions/basic.php:2272
 #: framework/functions/property-ratings.php:74
 #: framework/functions/property-ratings.php:161
 #, php-format
@@ -8134,14 +7974,42 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: framework/functions/basic.php:2334 framework/functions/basic.php:2467
+#: framework/functions/basic.php:2337 framework/functions/basic.php:2470
 #, php-format
 msgid "Hello, I'm interested in [%s] %s"
 msgstr ""
 
-#: framework/functions/basic.php:2349
-msgid "Call Now"
-msgstr "Zadzwoń teraz"
+#: framework/functions/colorschemes.php:23
+msgid "Red"
+msgstr "Czerwony"
+
+#: framework/functions/colorschemes.php:41
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+#: framework/functions/colorschemes.php:59
+msgid "Yellow"
+msgstr "Żółty"
+
+#: framework/functions/colorschemes.php:77
+msgid "Green"
+msgstr "Zielony"
+
+#: framework/functions/colorschemes.php:95
+msgid "Blue"
+msgstr "Niebieski"
+
+#: framework/functions/colorschemes.php:113
+msgid "Brown"
+msgstr "Brązowy"
+
+#: framework/functions/colorschemes.php:131
+msgid "Pink"
+msgstr "Różowy"
+
+#: framework/functions/colorschemes.php:149
+msgid "Tiffany Blue"
+msgstr ""
 
 #: framework/functions/dashboard.php:218
 msgid "Add Property"
@@ -8164,7 +8032,6 @@ msgid "My Membership"
 msgstr "Członkostwo"
 
 #: framework/functions/dashboard.php:279
-#| msgid "Select Memberships Page"
 msgid "My Membership Package"
 msgstr ""
 
@@ -8216,174 +8083,157 @@ msgstr ""
 msgid "100"
 msgstr "100"
 
-#: framework/functions/dashboard.php:1330
+#: framework/functions/dashboard.php:1344
 #: framework/functions/submit-edit.php:223
 msgid "Floor Name"
-msgstr "Nazwa Piętra"
+msgstr "Nazwa piętra"
 
-#: framework/functions/dashboard.php:1337
+#: framework/functions/dashboard.php:1351
 #: framework/functions/submit-edit.php:229
 msgid "Floor Plan Image"
 msgstr "Obraz planu piętra"
 
-#: framework/functions/dashboard.php:1338
+#: framework/functions/dashboard.php:1352
 #: framework/functions/submit-edit.php:229
-#| msgid "The recommended minimum width is 770px and height is flexible."
 msgid "* Minimum width is 770px and height is flexible."
 msgstr ""
 
-#: framework/functions/dashboard.php:1343
+#: framework/functions/dashboard.php:1357
 #: framework/functions/submit-edit.php:240
 msgid "Select Image"
 msgstr "Wybierz obraz"
 
-#: framework/functions/dashboard.php:1363
+#: framework/functions/dashboard.php:1377
 #: framework/functions/submit-edit.php:258
-#| msgid "Floor Plan"
 msgid "Floor Price"
 msgstr ""
 
-#: framework/functions/dashboard.php:1364
-#: framework/functions/dashboard.php:1380
+#: framework/functions/dashboard.php:1378
+#: framework/functions/dashboard.php:1394
 #: framework/functions/submit-edit.php:258
 #: framework/functions/submit-edit.php:271
-#| msgid "Lot Size ( Only digits )"
 msgid "( Only digits )"
 msgstr ""
 
-#: framework/functions/dashboard.php:1379
+#: framework/functions/dashboard.php:1393
 #: framework/functions/submit-edit.php:271
-#| msgid "Floor Name"
 msgid "Floor Size"
 msgstr ""
 
-#: framework/functions/dashboard.php:1387
+#: framework/functions/dashboard.php:1401
 #: framework/functions/submit-edit.php:277
 msgid "Size Postfix"
-msgstr "Jednostka"
+msgstr "Veľkosť Postfix"
 
-#: framework/functions/dashboard.php:1657
-#: framework/functions/design-variations-handler.php:295
-#: framework/functions/design-variations-handler.php:323
-#: framework/functions/design-variations-handler.php:617
-#: framework/functions/design-variations-handler.php:684
+#: framework/functions/dashboard.php:1671
+#: framework/functions/design-variations-handler.php:241
+#: framework/functions/design-variations-handler.php:269
+#: framework/functions/design-variations-handler.php:536
+#: framework/functions/design-variations-handler.php:603
 msgid "Valid file formats"
 msgstr "Nieprawidłowy format pliku"
 
-#: framework/functions/dashboard.php:1659
+#: framework/functions/dashboard.php:1673
 msgid "Clear"
 msgstr "Wyczyść"
 
-#: framework/functions/dashboard.php:1660
+#: framework/functions/dashboard.php:1674
 msgid "Select Color"
 msgstr "Wybierz Kolor"
 
-#: framework/functions/dashboard.php:1662
-#: framework/functions/design-variations-handler.php:998
+#: framework/functions/dashboard.php:1676
+#: framework/functions/design-variations-handler.php:917
 msgid "Searching..."
 msgstr "Szukam ..."
 
-#: framework/functions/dashboard.php:1663
-#: framework/functions/design-variations-handler.php:999
+#: framework/functions/dashboard.php:1677
+#: framework/functions/design-variations-handler.php:918
 msgid "Loading more results..."
 msgstr ""
 
-#: framework/functions/dashboard.php:1664
+#: framework/functions/dashboard.php:1678
 msgid "Are you sure you want to exit?"
 msgstr "Czy na pewno chcesz wyjść?"
 
-#: framework/functions/dashboard.php:1707
+#: framework/functions/dashboard.php:1716
+msgid "Body Text Color"
+msgstr "Kolor tekstu w głównej treści strony"
+
+#: framework/functions/dashboard.php:1721
 msgid "Heading Color"
 msgstr "Kolor nagłówka"
 
-#: framework/functions/dashboard.php:1712
-msgid "Link Color"
-msgstr "Kolor odnośnika"
-
-#: framework/functions/dashboard.php:1717
-msgid "Link Hover Color"
-msgstr "Kolor aktywnego linku"
-
-#: framework/functions/dashboard.php:1722
+#: framework/functions/dashboard.php:1736
 msgid "Logo Background Color"
 msgstr "Kolor tła logo"
 
-#: framework/functions/dashboard.php:1727
+#: framework/functions/dashboard.php:1741
 msgid "Logo Color"
 msgstr "Kolor Logo"
 
-#: framework/functions/dashboard.php:1732
-#| msgid "Logo Text Hover Color"
+#: framework/functions/dashboard.php:1746
 msgid "Logo Hover Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1737
+#: framework/functions/dashboard.php:1751
 msgid "Sidebar Background Color"
 msgstr "Kolor tła paska bocznego"
 
-#: framework/functions/dashboard.php:1742
-#| msgid "Slider Meta Text Color"
+#: framework/functions/dashboard.php:1756
 msgid "Sidebar Menu Text Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1747
-#| msgid "Drop Down Menu Background Color"
+#: framework/functions/dashboard.php:1761
 msgid "Sidebar Menu Background Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1752
-#| msgid "Slider Meta Text Color"
+#: framework/functions/dashboard.php:1766
 msgid "Sidebar Menu Text Hover Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1757
-#| msgid "Slide Know More Button Hover Background Color"
+#: framework/functions/dashboard.php:1771
 msgid "Sidebar Menu Hover Background Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1762
-#| msgid "Section Text Color"
+#: framework/functions/dashboard.php:1776
 msgid "Sidebar Active Submenu Text Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1767
-#| msgid "Section Background Color"
+#: framework/functions/dashboard.php:1781
 msgid "Sidebar Active Submenu Background Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1780
-#| msgid "Property Price Background Color"
+#: framework/functions/dashboard.php:1794
 msgid "Membership Package Background Color"
 msgstr ""
 
-#: framework/functions/dashboard.php:1786
-#| msgid "Property Price Background Color"
+#: framework/functions/dashboard.php:1800
 msgid "Popular Membership Package Background Color"
 msgstr ""
 
-#: framework/functions/design-variations-handler.php:396
+#: framework/functions/design-variations-handler.php:340
 msgid "Go to..."
 msgstr "Idź do…"
 
-#: framework/functions/design-variations-handler.php:398
+#: framework/functions/design-variations-handler.php:342
 msgid "Less fields"
 msgstr "Mniej pól"
 
 #: framework/functions/edit-profile-handler.php:147
 msgid "The Email you entered is not valid. Please try again."
-msgstr "Adresu e-mail jest nieprawidłowy. Spróbuj ponownie."
+msgstr "Podany adres e-mail jest nieprawidłowy. Proszę spróbuj ponownie."
 
 #: framework/functions/edit-profile-handler.php:152
 msgid "This Email is already used by another user. Please try a different one."
-msgstr "Wprowadzony email jest używany przez innego użytkownika. Spróbuj inny."
+msgstr "Tento e-mail už používa iný používateľ. Skúste iný."
 
-#: framework/functions/edit-profile-handler.php:261
+#: framework/functions/edit-profile-handler.php:269
 msgid "The passwords you entered do not match.  Your password was not updated."
 msgstr ""
 "Hasła które wprowadziłeś nie pasują do siebie. Twoje hasło nie zostało "
 "uaktualnione."
 
-#: framework/functions/edit-profile-handler.php:296
+#: framework/functions/edit-profile-handler.php:304
 msgid "Profile information is updated successfully!"
 msgstr "Profil pomyślnie zaktualizowany!"
 
@@ -8394,15 +8244,13 @@ msgstr "Dodano do ulubionych"
 #: framework/functions/favorites.php:21
 #: framework/include/admin/class-rh-admin.php:321
 msgid "Failed!"
-msgstr "Nie Kupiono!"
+msgstr "Nie powiodło się!"
 
 #: framework/functions/favorites.php:164
-#| msgid "Property updated successfully!"
 msgid "Property removed form favorites successfully!"
 msgstr ""
 
 #: framework/functions/favorites.php:171
-#| msgid "You have no property in favorites!"
 msgid "Failed to remove property form favorites!"
 msgstr ""
 
@@ -8430,17 +8278,17 @@ msgstr "Wybierz rolę użytkownika."
 
 #: framework/functions/member.php:157
 msgid "This username already exists."
-msgstr "Taka nazwa użytkownika już istnieje."
+msgstr "Ta nazwa użytkownika już istnieje."
 
 #: framework/functions/member.php:162
 msgid "This email is already registered."
-msgstr "Podany adres e-mail jest już zarejestrowany."
+msgstr "Ten e-mail jest już zarejestrowany."
 
 #: framework/functions/member.php:212
 msgid "Registration is complete. Check your email for details!"
 msgstr ""
-"Rejestracja jest zakończona. Sprawdź swój adres e-mail, aby uzyskać "
-"szczegółowe informacje!"
+"Rejestracja zakończona. Sprawdź skrzynkę e-mail, aby uzyskać szczegółowe "
+"informacje!"
 
 #: framework/functions/member.php:895
 msgid "User Role Information"
@@ -8455,12 +8303,10 @@ msgid "Select Agency If Any"
 msgstr ""
 
 #: framework/functions/my-properties.php:34
-#| msgid "Removed Successfully!"
 msgid "Property Removed Successfully!"
 msgstr ""
 
 #: framework/functions/my-properties.php:41
-#| msgid "Failed to remove!"
 msgid "Failed to Remove Property!"
 msgstr ""
 
@@ -8476,7 +8322,6 @@ msgstr "Ostatni"
 
 #: framework/functions/property-ratings.php:62
 #, php-format
-#| msgid "Reviews"
 msgctxt "Rating Reviews"
 msgid "Review %s"
 msgid_plural "Reviews %s"
@@ -8561,15 +8406,13 @@ msgstr ""
 #: framework/functions/save-searches.php:41
 #: framework/include/admin/class-rh-admin.php:335
 msgid "Unverified Nonce!"
-msgstr "Chwilowo niezweryfikowane!"
+msgstr "Niezweryfikowane!"
 
 #: framework/functions/save-searches.php:74
-#| msgid "Search Slide"
 msgid "Search is Saved!"
 msgstr ""
 
 #: framework/functions/save-searches.php:82
-#| msgid "Invalid Request !"
 msgid "Invalid Request!"
 msgstr ""
 
@@ -8578,13 +8421,11 @@ msgid "Permissions Denied!"
 msgstr ""
 
 #: framework/functions/save-searches.php:178
-#| msgid "Property updated successfully!"
 msgid "Search item is deleted successfully!"
 msgstr ""
 
 #: framework/functions/submit-edit.php:437
 #, php-format
-#| msgid "Drag and drop images here"
 msgid "Drag and drop up to %s attachments"
 msgstr ""
 
@@ -8620,7 +8461,7 @@ msgstr "włączony"
 #: framework/functions/theme-comment.php:42
 #, php-format
 msgid "%1$s at %2$s"
-msgstr "%1$s na %2$s"
+msgstr "%1$s at %2$s"
 
 #: framework/functions/theme-comment.php:45
 msgid "said"
@@ -8647,7 +8488,7 @@ msgstr "Dostosowywanie ustawień"
 #: framework/include/admin/class-rh-admin.php:103
 #: framework/include/admin/class-rh-admin.php:184
 msgid "Demo Import"
-msgstr "Importuj przykładową treść"
+msgstr "Import demo"
 
 #: framework/include/admin/class-rh-admin.php:183
 msgid "RealHomes Demo Import"
@@ -8696,7 +8537,7 @@ msgstr "Aktywuj teraz"
 
 #: framework/include/admin/class-rh-admin.php:318
 msgid "Activating..."
-msgstr "Aktywuję..."
+msgstr "Aktywacja..."
 
 #: framework/include/admin/class-rh-admin.php:319
 msgid "Activated!"
@@ -8738,7 +8579,7 @@ msgstr "Możesz skontaktować się z "
 
 #: framework/include/admin/class-rh-admin.php:367
 msgid " via email, "
-msgstr " przez email: "
+msgstr " przez email, "
 
 #: framework/include/admin/class-rh-admin.php:379
 msgid "Thank you for your feedback!"
@@ -8763,35 +8604,35 @@ msgid ""
 "for long term."
 msgstr ""
 
-#: framework/include/admin/tabs/design.php:25
+#: framework/include/admin/tabs/design.php:26
 msgid "Classic"
 msgstr "Klasyczny"
 
-#: framework/include/admin/tabs/design.php:34
+#: framework/include/admin/tabs/design.php:35
 msgid "Modern"
 msgstr "Nowoczesny"
 
-#: framework/include/admin/tabs/design.php:43
+#: framework/include/admin/tabs/design.php:44
 #, php-format
 msgid ""
 "Make sure to follow the steps given below after changing the design "
 "variation and get in touch with %s in case of any issue."
 msgstr ""
 
-#: framework/include/admin/tabs/design.php:43
+#: framework/include/admin/tabs/design.php:44
 msgid "our support"
 msgstr "nasze wsparcie"
 
-#: framework/include/admin/tabs/design.php:45
+#: framework/include/admin/tabs/design.php:46
 #, php-format
 msgid "Regenerate images on your website using %s plugin."
 msgstr ""
 
-#: framework/include/admin/tabs/design.php:45
+#: framework/include/admin/tabs/design.php:46
 msgid "Regenerate Thumbnails"
 msgstr "Regeneruj miniaturki"
 
-#: framework/include/admin/tabs/design.php:46
+#: framework/include/admin/tabs/design.php:47
 msgid "Test all pages on your website and rearrange widgets where required."
 msgstr ""
 
@@ -8806,7 +8647,7 @@ msgstr ""
 
 #: framework/include/admin/tabs/feedback.php:28
 msgid "Feedback Details"
-msgstr "Szczegóły informacji zwrotnej"
+msgstr ""
 
 #: framework/include/admin/tabs/feedback.php:30
 #, php-format
@@ -8815,7 +8656,7 @@ msgstr ""
 
 #: framework/include/admin/tabs/feedback.php:35
 msgid "Send Feedback"
-msgstr "Wyślij opinię"
+msgstr ""
 
 #: framework/include/admin/tabs/help.php:100
 msgid "Welcome to Inspiry Help Desk!"
@@ -8895,9 +8736,7 @@ msgstr "Alias slajdera Revolution"
 msgid ""
 "If you want to replace banner with revolution slider then provide its alias "
 "here."
-msgstr ""
-"Jeśli chcesz zastąpić banner tym z Revolution Slidera, wpisz tutaj jego "
-"nazwę."
+msgstr "Jeśli chcesz zastąpić baner Sliderem, podaj tutaj jego alias."
 
 #: framework/include/meta-boxes/banner-meta-box.php:84
 msgid "Banner Title Display Status"
@@ -8935,11 +8774,11 @@ msgstr "Tytuł"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:129
 msgid "Cell Number"
-msgstr "Nr komórki"
+msgstr "Numer komórkowy"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:153
 msgid "Display Email"
-msgstr "Wyświetl email"
+msgstr "Wyświetl e-mail"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:161
 msgid "Contact Address"
@@ -8971,7 +8810,7 @@ msgstr ""
 #: framework/include/meta-boxes/contact-page-meta-box.php:219
 #: framework/include/meta-boxes/home-page-meta-box.php:344
 msgid "Contact Form Email"
-msgstr "E-Mail Formularza kontaktowego"
+msgstr "E-mail formularza kontaktowego"
 
 #: framework/include/meta-boxes/contact-page-meta-box.php:220
 #: framework/include/meta-boxes/home-page-meta-box.php:345
@@ -9098,7 +8937,7 @@ msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:53
 msgid "Home Properties"
-msgstr "Nieruchomości domu (?)"
+msgstr "Strona domowa Nieruchomości"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:54
 #: framework/include/meta-boxes/home-page-meta-box.php:1423
@@ -9124,7 +8963,7 @@ msgstr "Najnowsze oferty"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:92
 msgid "Testimonials"
-msgstr "Opinie"
+msgstr "Referencje"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:93
 #: framework/include/meta-boxes/home-page-meta-box.php:1440
@@ -9491,7 +9330,7 @@ msgstr ""
 #: framework/include/meta-boxes/home-page-meta-box.php:1051
 #: framework/include/meta-boxes/home-page-meta-box.php:1436
 msgid "Testimonial"
-msgstr "Referencje"
+msgstr "Referencja"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:1054
 msgid ""
@@ -9575,7 +9414,7 @@ msgstr "Przekroje kąta obramowania"
 
 #: framework/include/meta-boxes/home-page-meta-box.php:1381
 msgid "Diagonal"
-msgstr "Przekątna"
+msgstr ""
 
 #: framework/include/meta-boxes/home-page-meta-box.php:1382
 msgid "Flat"
@@ -9615,21 +9454,18 @@ msgid ""
 "If you are not using self hosted videos then please provide the video embed "
 "code and remove the width and height attributes."
 msgstr ""
-"Jeśli nie używasz własnego hostowania wideo, umieść kod wideo i usuń "
-"atrybuty dotyczące szerokości i wysokości."
+"Jeśli nie korzystasz z hostowanych filmów, podaj kod do umieszczenia filmu i "
+"usuń atrybuty szerokości i wysokości."
 
 #: framework/include/meta-boxes/post-meta-box.php:38
 msgid "Gallery Images"
-msgstr "Obrazy galerii"
+msgstr "Galeria zdjęć"
 
 #: framework/include/meta-boxes/post-meta-box.php:47
 msgid "Upload Gallery Images"
-msgstr "Załaduj swoje zdjęcia do galerii"
+msgstr "Załaduj zdjęcia do galerii"
 
 #: framework/include/meta-boxes/post-meta-box.php:49
-#| msgid ""
-#| "Images should have minimum width of 830px and minimum height of 460px, "
-#| "Bigger size images will be cropped automatically."
 msgid ""
 "Images should have minimum width of 1240px and minimum height of 720px, "
 "Bigger size images will be cropped automatically."
@@ -9640,7 +9476,6 @@ msgid "Grid Layout"
 msgstr "Układ siatki"
 
 #: framework/include/meta-boxes/property-card-meta-box.php:23
-#| msgid "Property Features"
 msgid "Property Card Design"
 msgstr ""
 
@@ -9734,21 +9569,21 @@ msgstr[2] ""
 #: framework/include/tgm/class-tgm-plugin-activation.php:378
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
-msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #: framework/include/tgm/class-tgm-plugin-activation.php:383
 msgid "Begin updating plugin"
 msgid_plural "Begin updating plugins"
-msgstr[0] "Rozpoczyna aktualizowanie wtyczki"
+msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #: framework/include/tgm/class-tgm-plugin-activation.php:388
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
-msgstr[0] "Rozpoczyna aktywację wtyczki"
+msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
@@ -9772,7 +9607,7 @@ msgstr "Wtyczka aktywowana pomyślnie."
 #: framework/include/tgm/class-tgm-plugin-activation.php:3037
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
-msgstr[0] "Następująca wtyczka została aktywowana pomyślnie:"
+msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
@@ -10139,13 +9974,9 @@ msgstr "Wielka"
 msgid "XL"
 msgstr "XL"
 
-#: functions.php:188 functions.php:213
-msgid "Primary"
-msgstr "Podstawowy"
-
-#: functions.php:198 functions.php:223
-msgid "Secondary"
-msgstr "Drugorzędne"
+#: functions.php:228
+msgid "Green Dark"
+msgstr "Ciemny zielony"
 
 #: functions.php:236
 msgid "Black"
@@ -10155,111 +9986,111 @@ msgstr "Czarny"
 msgid "White"
 msgstr "Biały"
 
-#: functions.php:400
+#: functions.php:405
 msgid "Default Sidebar"
 msgstr "Domyślny pasek boczny"
 
-#: functions.php:402
+#: functions.php:407
 msgid "Widget area for default sidebar on news and post pages."
 msgstr ""
-"Obszar widżetu dla domyślnego paska bocznego na stronach wiadomości i post."
+"Obszar widżetu dla domyślnego paska bocznego na stronach wiadomości i postów."
 
-#: functions.php:411
+#: functions.php:416
 msgid "Pages Sidebar"
 msgstr "Pasek boczny stron"
 
-#: functions.php:413
+#: functions.php:418
 msgid "Widget area for default page template sidebar."
 msgstr "Obszar widżetu dla domyślnego paska bocznego szablonu strony."
 
-#: functions.php:423
+#: functions.php:428
 msgid "Contact Sidebar"
 msgstr "Pasek boczny danych kontaktowych"
 
-#: functions.php:425
+#: functions.php:430
 msgid "Widget area for contact page sidebar."
 msgstr "Obszar widget dla strony kontaktowej."
 
-#: functions.php:435
+#: functions.php:440
 msgid "Property Sidebar"
 msgstr "Pasek boczny strony nieruchomości"
 
-#: functions.php:437
+#: functions.php:442
 msgid "Widget area for property detail page sidebar."
-msgstr "Obszar widgetu na pasku bocznym strony szczegółów Nieruchomości."
+msgstr "Obszar widżetu na pasku bocznym dla Szczegóły oferty."
 
-#: functions.php:446
+#: functions.php:451
 msgid "Properties Pages Sidebar"
 msgstr ""
 
-#: functions.php:448
+#: functions.php:453
 msgid "Widget area for sidebar in properties list, grid and archive pages."
 msgstr ""
 "Obszar widget na pasku bocznym na liście Nieruchomości, siatce i stronach "
 "archiwum."
 
-#: functions.php:457
+#: functions.php:462
 msgid "Footer First Column"
 msgstr "Pierwsza kolumna Stopki"
 
-#: functions.php:459
+#: functions.php:464
 msgid "Widget area for first column in footer."
 msgstr "Obszar widżetu dla pierwszej kolumny w stopce."
 
-#: functions.php:468
+#: functions.php:473
 msgid "Footer Second Column"
 msgstr "Druga kolumna stopki"
 
-#: functions.php:470
+#: functions.php:475
 msgid "Widget area for second column in footer."
 msgstr "Obszar widżetu dla drugiej kolumny w stopce."
 
-#: functions.php:479
+#: functions.php:484
 msgid "Footer Third Column"
 msgstr "Trzecia kolumna stopki"
 
-#: functions.php:481
+#: functions.php:486
 msgid "Widget area for third column in footer."
 msgstr "Obszar widżetu dla trzeciej kolumny w stopce."
 
-#: functions.php:490
+#: functions.php:495
 msgid "Footer Fourth Column"
 msgstr "Czwarta kolumna stopki"
 
-#: functions.php:492
+#: functions.php:497
 msgid "Widget area for fourth column in footer."
 msgstr "Obszar widżetu dla czwartej kolumny w stopce."
 
-#: functions.php:501
+#: functions.php:506
 msgid "Agent Sidebar"
-msgstr "Panel boczny na stronie Agenta"
+msgstr "Bočný panel agenta"
 
-#: functions.php:503
+#: functions.php:508
 msgid "Sidebar widget area for agent detail page."
 msgstr "Obszar dla widgetów w panelu bocznym Agenta."
 
-#: functions.php:512
+#: functions.php:517
 msgid "Agency Sidebar"
-msgstr "Sidebar Agencji"
+msgstr "Bočný panel agentúry"
 
-#: functions.php:514
+#: functions.php:519
 msgid "Sidebar widget area for agency detail page."
 msgstr "Obszar widgetu Sidebar na stronę szczegółów agencji."
 
-#: functions.php:523
+#: functions.php:528
 msgid "Property Search Sidebar"
 msgstr "Wyszukiwanie nieruchomości w pasku bocznym"
 
-#: functions.php:525
+#: functions.php:530
 msgid "Widget area for property search template with sidebar."
 msgstr ""
 "Obszar widżetu dla szablonu wyszukiwania Nieruchomości z paskiem bocznym."
 
-#: functions.php:537
+#: functions.php:542
 msgid "Home Search Area"
 msgstr "Obszar wyszukiwania na stronie głównej"
 
-#: functions.php:539
+#: functions.php:544
 msgid ""
 "Widget area for only IDX Search Widget. Using this area means you want to "
 "display IDX search form instead of default search form."
@@ -10267,47 +10098,46 @@ msgstr ""
 "Obszar widżetów tylko dla wyszukiwania IDX. Używanie tego obszaru znaczy, że "
 "chcesz wyświetlić tylko wyniki wyszukiwania IDX."
 
-#: functions.php:548
+#: functions.php:553
 msgid "dsIDX Sidebar"
 msgstr "dsIDX Sidebar"
 
-#: functions.php:550
+#: functions.php:555
 msgid "Widget area for dsIDX related pages."
-msgstr "Obszar widget dla stron powiązanych dsIDX."
+msgstr "Obszar widżetu dla stron powiązanych z dsIDX."
 
-#: functions.php:564
+#: functions.php:569
 #, php-format
 msgid "Additional Sidebar %d"
 msgstr "Dodatkowy pasek boczny %d"
 
-#: functions.php:565
+#: functions.php:570
 msgid "An extra sidebar to use with Visual Composer if needed."
 msgstr "Dodatkowy pasek boczny do użycia z Visual Composerem w razie potrzeby."
 
-#: functions.php:579
+#: functions.php:584
 msgid "Optima Express Sidebar"
 msgstr "Optima Express Sidebar"
 
-#: functions.php:581
+#: functions.php:586
 msgid "An extra sidebar to use with Optima Express if needed."
 msgstr ""
 "Dodatkowy pasek boczny do korzystania z Optima Express w razie potrzeby."
 
-#: functions.php:594
+#: functions.php:599
 msgid "Shop Sidebar"
 msgstr "Pasek boczny sklepu"
 
-#: functions.php:596
-#| msgid "An extra sidebar to use with Optima Express if needed."
+#: functions.php:601
 msgid "An extra sidebar to use with WooCommerce pages if needed."
 msgstr ""
 
-#: functions.php:652
+#: functions.php:657
 msgctxt "Damion font: on or off"
 msgid "on"
 msgstr "włączony"
 
-#: functions.php:661
+#: functions.php:666
 msgctxt "Rubik font: on or off"
 msgid "on"
 msgstr "włączony"
@@ -10337,7 +10167,7 @@ msgstr ""
 
 #. Author of the plugin/theme
 msgid "Inspiry Themes"
-msgstr "Motywy INSPIRE"
+msgstr "Inspiry Themes"
 
 #. Author URI of the plugin/theme
 msgid "https://www.inspirythemes.com/"
@@ -10544,12 +10374,6 @@ msgstr ""
 #~ msgid "One Month"
 #~ msgstr "Jeden miesiąc"
 
-#~ msgid "Default Layout"
-#~ msgstr "Domyślny układ strony"
-
-#~ msgid "List Layout"
-#~ msgstr "Układ listy"
-
 #~ msgid "Skip Sticky Properties"
 #~ msgstr "Pomiń Przypięte Nieruchomości"
 
@@ -10585,9 +10409,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Włączenie tego zmniejszy liczbę skryptów znajdujących się na stronie."
 
-#~ msgid "Various Pages"
-#~ msgstr "Różne strony"
-
 #~ msgid "Enable PayPal Payments for Submitted Property"
 #~ msgstr "Włącz PayPal dla dodanej nieruchomości"
 
@@ -10620,9 +10441,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "User Login and Register Links Display"
 #~ msgstr "Wyświetlanie logowania i rejestracji użytkowników"
-
-#~ msgid "Property City"
-#~ msgstr "Miasto"
 
 #~ msgid ""
 #~ "Selected page should have Property Search Template assigned to it. Also, "
@@ -10947,16 +10765,8 @@ msgstr ""
 #~ msgstr "Info agenta pod Mapą Google"
 
 #, fuzzy
-#~ msgid "Language Switch Background Color"
-#~ msgstr "Przełącznik języka Kolor tła"
-
-#, fuzzy
 #~ msgid "Language Switch Link Color"
 #~ msgstr "Przełącznik językowy Kolor łącza"
-
-#, fuzzy
-#~ msgid "Language Switch Link Hover Color"
-#~ msgstr "Przełącznik językowy Łącze Kolor na górze"
 
 #~ msgid "URL Slugs"
 #~ msgstr "Uproszczone nazwy adresów"
@@ -11037,9 +10847,6 @@ msgstr ""
 
 #~ msgid "Google"
 #~ msgstr "Google"
-
-#~ msgid "Default Color is #afb4b5"
-#~ msgstr "Domyślnym kolorem jest #afb4b5"
 
 #~ msgid "Default Color is #dc7d44."
 #~ msgstr "Domyślnym kolorem jest #dc7d44."
@@ -11291,9 +11098,6 @@ msgstr ""
 #~ msgid "View Partner"
 #~ msgstr "Zobacz partnera"
 
-#~ msgid "Search Partner"
-#~ msgstr "Szukaj partnera"
-
 #~ msgid "No Partner found"
 #~ msgstr "Nie znaleziono Partnera"
 
@@ -11302,9 +11106,6 @@ msgstr ""
 
 #~ msgid "partners"
 #~ msgstr "partnerzy"
-
-#~ msgid "Logo"
-#~ msgstr "Logo"
 
 #, fuzzy
 #~ msgid "Publish Time"
@@ -12338,9 +12139,6 @@ msgstr ""
 #~ msgid "Top Center"
 #~ msgstr "Top Center"
 
-#~ msgid "Center Left"
-#~ msgstr "Środek lewy"
-
 #~ msgid "Center Center"
 #~ msgstr "Środek środek"
 
@@ -12463,9 +12261,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Nie skonfigurowano jeszcze strony szukania zaawansowanego. Zapoznaj się z "
 #~ "dokumentacją tego szablonu dla strony zaawansowanego wyszukiwania."
-
-#~ msgid "Widget Title"
-#~ msgstr "Tytuł widżetu"
 
 #~ msgid "Important: This widget is only for the Agent Sidebar."
 #~ msgstr "Ważne: Ten widżet jest tylko dla paska bocznego Agenta."
