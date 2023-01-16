@@ -1,16 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Real Estate CRM\n"
-"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-23 18:40+0500\n"
 "PO-Revision-Date: 2023-01-16 16:07+0500\n"
-"Last-Translator: admin <postmaster@portocasasreurb.pt>\n"
-"Language-Team: Portuguese (Portugal)\n"
-"Language: pt_PT\n"
+"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 3.2.2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
@@ -19,92 +18,88 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
 "_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
-"X-Loco-Version: 2.3.0; wp-5.2.2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
-"X-Poedit-SearchPathExcluded-1: css\n"
-"X-Poedit-SearchPathExcluded-2: images\n"
-"X-Poedit-SearchPathExcluded-3: js\n"
-"X-Poedit-SearchPathExcluded-4: languages\n"
 
 #. Plugin Name of the plugin/theme
 #: inc/class-recrm-admin-menu.php:20 inc/class-recrm-admin-menu.php:21
+#, fuzzy
 msgid "Real Estate CRM"
-msgstr "CRM Imobiliário"
+msgstr "CRM immobilier"
 
 #: inc/class-recrm-admin-menu.php:36 inc/class-recrm-admin-menu.php:37
 #: inc/class-recrm-post-types.php:20
 msgid "Contacts"
-msgstr "Contactos"
+msgstr "Contacts"
 
 #: inc/class-recrm-admin-menu.php:52 inc/class-recrm-admin-menu.php:53
 msgid "Add Contact"
-msgstr "Adicionar Contacto"
+msgstr "Ajouter Contact"
 
 #: inc/class-recrm-admin-menu.php:68 inc/class-recrm-admin-menu.php:69
 #: inc/class-recrm-meta-boxes.php:415 inc/class-recrm-post-types.php:110
 msgid "Enquiries"
-msgstr "Pedidos"
+msgstr "Renseignements"
 
 #: inc/class-recrm-admin-menu.php:82 inc/class-recrm-admin-menu.php:83
 msgid "Contact Tags"
-msgstr "Tags de Contacto"
+msgstr "Étiquettes de contact"
 
 #: inc/class-recrm-custom-columns.php:37 inc/class-recrm-meta-boxes.php:218
 #: inc/class-recrm-meta-boxes.php:761
 msgid "Contact ID"
-msgstr "ID de Contacto"
+msgstr "Identifiant de contact"
 
 #: inc/class-recrm-custom-columns.php:38
 msgid "Name"
-msgstr "Nome"
+msgstr "Nom"
 
 #: inc/class-recrm-custom-columns.php:39
 msgid "Photo"
-msgstr "Foto"
+msgstr "Photo"
 
 #: inc/class-recrm-custom-columns.php:40 inc/class-recrm-meta-boxes.php:59
 msgid "Contact Details"
-msgstr "Detalhes de Contacto"
+msgstr "Coordonnées"
 
 #: inc/class-recrm-custom-columns.php:41 inc/class-recrm-custom-columns.php:230
 #: inc/class-recrm-meta-boxes.php:226 inc/class-recrm-meta-boxes.php:766
 #: inc/class-recrm-meta-boxes.php:1075 inc/class-recrm-meta-boxes.php:1339
 msgid "Status"
-msgstr "Estado"
+msgstr "Statut"
 
 #: inc/class-recrm-custom-columns.php:42 inc/class-recrm-post-types.php:87
 msgid "Tags"
-msgstr "Tags"
+msgstr "Étiquettes"
 
 #: inc/class-recrm-custom-columns.php:43
 msgid "Date"
-msgstr "Data"
+msgstr "Date"
 
 #: inc/class-recrm-custom-columns.php:97
-#, php-format
+#, fuzzy, php-format
 msgid "Email: %1$s %2$s"
-msgstr "Email: %1$s %2$s"
+msgstr "Courriel : %1$s %2$s"
 
 #: inc/class-recrm-custom-columns.php:100
-#, php-format
+#, fuzzy, php-format
 msgid "Work: %1$s %2$s"
-msgstr "Trabalho: %1$s %2$s"
+msgstr "Travail : %1$s %2$s"
 
 #: inc/class-recrm-custom-columns.php:103
-#, php-format
+#, fuzzy, php-format
 msgid "Home: %1$s %2$s"
-msgstr "Casa: %1$s %2$s"
+msgstr "Domicile: %1$s %2$s"
 
 #: inc/class-recrm-custom-columns.php:106
-#, php-format
+#, fuzzy, php-format
 msgid "Mobile: %1$s %2$s"
-msgstr "Telemóvel: %1$s %2$s"
+msgstr "Portable: %1$s %2$s"
 
 #: inc/class-recrm-custom-columns.php:182
 #, php-format
 msgid "Show All %s"
-msgstr "Mostrar Todos %s"
+msgstr "Afficher tout %s"
 
 #: inc/class-recrm-custom-columns.php:201
 msgid "..."
@@ -112,7 +107,7 @@ msgstr "..."
 
 #: inc/class-recrm-custom-columns.php:226
 msgid "Enquiry ID"
-msgstr "ID do Pedido"
+msgstr "Contact ID"
 
 #: inc/class-recrm-custom-columns.php:227
 msgid "From"
@@ -120,45 +115,45 @@ msgstr "De"
 
 #: inc/class-recrm-custom-columns.php:228
 msgid "Thumbnail"
-msgstr "Miniatura"
+msgstr "Miniature"
 
 #: inc/class-recrm-custom-columns.php:229
 msgid "Excerpt"
-msgstr "Excerto"
+msgstr "Extrait"
 
 #: inc/class-recrm-custom-columns.php:231 inc/class-recrm-meta-boxes.php:1354
 msgid "Negotiator"
-msgstr "Negociante"
+msgstr "Négociateur"
 
 #: inc/class-recrm-custom-columns.php:232 inc/class-recrm-meta-boxes.php:327
 #: inc/class-recrm-meta-boxes.php:771 inc/class-recrm-meta-boxes.php:1067
 #: inc/class-recrm-meta-boxes.php:1360 inc/class-recrm-settings.php:87
 msgid "Source"
-msgstr "Origem"
+msgstr "Source"
 
 #: inc/class-recrm-custom-columns.php:233
 msgid "Date & Time"
-msgstr "Data & Hora"
+msgstr "Date & Heure"
 
 #: inc/class-recrm-get-posts-from-form.php:117
 #: inc/class-recrm-meta-boxes.php:204
 msgid "Lead,Customer"
-msgstr "Líder, Cliente"
+msgstr "Prospect, Client"
 
 #: inc/class-recrm-get-posts-from-form.php:126
 #: inc/class-recrm-meta-boxes.php:1055 inc/class-recrm-settings.php:100
 msgid "Open, Close"
-msgstr "Abrir, Fechar"
+msgstr "Ouvert, Fermé"
 
 #: inc/class-recrm-get-posts-from-form.php:134
 #: inc/class-recrm-meta-boxes.php:210 inc/class-recrm-meta-boxes.php:1052
 #: inc/class-recrm-settings.php:90
 msgid "Website, Word of Mouth, Newspaper, Friend"
-msgstr "Site, boca a boca, jornal, amigo"
+msgstr "Site Web"
 
 #: inc/class-recrm-meta-boxes.php:44
 msgid "Just added a note"
-msgstr "Acabei de adicionar uma nota"
+msgstr "Vient d'ajouter une note"
 
 #: inc/class-recrm-meta-boxes.php:45
 msgid "x"
@@ -166,178 +161,180 @@ msgstr "x"
 
 #: inc/class-recrm-meta-boxes.php:46
 msgid "An Error Occurred"
-msgstr "Um erro ocorreu"
+msgstr "Une erreur s’est produite"
 
 #: inc/class-recrm-meta-boxes.php:47
 msgid " - Just Added"
-msgstr " - Acabou de adicionar"
+msgstr " - Ajouté à l'instant"
 
 #: inc/class-recrm-meta-boxes.php:207 inc/class-recrm-settings.php:81
 msgid "Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
-msgstr "Sr, Sra, Dr, Prof, Eng"
+msgstr "M., Mme, Mme, Mlle"
 
 #: inc/class-recrm-meta-boxes.php:207 inc/class-recrm-meta-boxes.php:210
 #: inc/class-recrm-meta-boxes.php:1058 inc/class-recrm-meta-boxes.php:1319
 #: inc/class-recrm-settings.php:57
 msgid "None"
-msgstr "Nenhum"
+msgstr "Aucune"
 
 #: inc/class-recrm-meta-boxes.php:233
 msgid "Prefix"
-msgstr "Prefixo"
+msgstr "Préfixe"
 
 #: inc/class-recrm-meta-boxes.php:235
 msgid "i.e Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
-msgstr "ex: Sr, Sra, Dr, Prof, Eng"
+msgstr "ex M., Mme, Mlle, Dr, Prof, M. et Mme"
 
 #: inc/class-recrm-meta-boxes.php:241 inc/class-recrm-meta-boxes.php:716
 msgid "First Name"
-msgstr "Primeiro Nome"
+msgstr "Prénom"
 
 #: inc/class-recrm-meta-boxes.php:247 inc/class-recrm-meta-boxes.php:721
 msgid "Last Name"
-msgstr "Último Nome"
+msgstr "Nom"
 
 #: inc/class-recrm-meta-boxes.php:253
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 #: inc/class-recrm-meta-boxes.php:259 inc/class-recrm-meta-boxes.php:726
 msgid "Address"
-msgstr "Endereço"
+msgstr "Adresse"
 
 #: inc/class-recrm-meta-boxes.php:265 inc/class-recrm-meta-boxes.php:731
 msgid "City"
-msgstr "Cidade"
+msgstr "Ville"
 
 #: inc/class-recrm-meta-boxes.php:271
 msgid "State/Province"
-msgstr "Cidade/Distrito"
+msgstr "État/Province"
 
 #: inc/class-recrm-meta-boxes.php:277 inc/class-recrm-meta-boxes.php:741
 msgid "Zip/Postal Code"
-msgstr "Código Postal"
+msgstr "Code postal"
 
 #: inc/class-recrm-meta-boxes.php:284
 msgid "Country"
-msgstr "País"
+msgstr "Pays"
 
 #: inc/class-recrm-meta-boxes.php:291 inc/class-recrm-meta-boxes.php:746
 msgid "Mobile"
-msgstr "Telemóvel"
+msgstr "Mobile"
 
 #: inc/class-recrm-meta-boxes.php:297
 msgid "Work Phone"
-msgstr "Contacto do Emprego"
+msgstr "Téléphone au travail"
 
 #: inc/class-recrm-meta-boxes.php:303
 msgid "Home Phone"
-msgstr "Telefone"
+msgstr "Téléphone maison"
 
 #: inc/class-recrm-meta-boxes.php:309
 msgid "Twitter Profile URL"
-msgstr "URL do Perfil do Twitter"
+msgstr "URL du Profil Twitter"
 
 #: inc/class-recrm-meta-boxes.php:315
 msgid "Linkedin Profile URL"
-msgstr "URL do Perfil do LinkedIn"
+msgstr "URL Profile Linkedin"
 
 #: inc/class-recrm-meta-boxes.php:321
 msgid "Facebook Profile URL"
-msgstr "URL do Perfil de Facebook"
+msgstr "URL Profile facebook"
 
 #: inc/class-recrm-meta-boxes.php:329 inc/class-recrm-meta-boxes.php:1069
 #: inc/class-recrm-meta-boxes.php:1077
 msgid "i.e Website, Word of Mouth, Newspaper, Friend"
-msgstr "ex: Website, Jornal, Amigo.."
+msgstr "ex site Web, bouche à oreille, journal, ami"
 
 #: inc/class-recrm-meta-boxes.php:335 inc/class-recrm-meta-boxes.php:802
 #: inc/class-recrm-meta-boxes.php:1092 inc/class-recrm-meta-boxes.php:1410
 msgid "Private Note"
-msgstr "Nota Privada"
+msgstr "Remarque privée"
 
 #: inc/class-recrm-meta-boxes.php:359
 msgid "Attachment"
-msgstr "Anexo"
+msgstr "Pièce jointe"
 
 #: inc/class-recrm-meta-boxes.php:387
 msgid "Add File"
-msgstr "Adicionar Ficheiro"
+msgstr "Ajouter un fichier"
 
 #: inc/class-recrm-meta-boxes.php:431 inc/class-recrm-meta-boxes.php:1121
 msgid "Enquiry For "
-msgstr "Pedido para "
+msgstr "Demande de renseignements pour "
 
 #: inc/class-recrm-meta-boxes.php:434 inc/class-recrm-meta-boxes.php:437
 #: inc/class-recrm-meta-boxes.php:495 inc/class-recrm-meta-boxes.php:502
 #: inc/class-recrm-meta-boxes.php:1124 inc/class-recrm-meta-boxes.php:1127
 #: inc/class-recrm-meta-boxes.php:1183 inc/class-recrm-meta-boxes.php:1190
 msgid "Enquiry To "
-msgstr "Pedido para "
+msgstr "Demande de renseignements pour "
 
 #: inc/class-recrm-meta-boxes.php:439 inc/class-recrm-meta-boxes.php:1129
+#, fuzzy
 msgid "Enquiry Via <span>Contact Form</span>"
-msgstr "Pedido Via <span> Formulário de contato </ span>"
+msgstr "Demande via <span>le formulaire de contact</span>"
 
 #: inc/class-recrm-meta-boxes.php:476 inc/class-recrm-meta-boxes.php:1166
-#, php-format
+#, fuzzy, php-format
 msgid "Enquired %1$s  ago"
-msgstr "Pedido %1$s atrás"
+msgstr "Demandé il y a %1$s"
 
 #: inc/class-recrm-meta-boxes.php:477 inc/class-recrm-meta-boxes.php:1167
 #, php-format
 msgid "Status: %1$s"
-msgstr "Estado: %1$s"
+msgstr "Statut: %1$s"
 
 #: inc/class-recrm-meta-boxes.php:480
+#, fuzzy
 msgid "View Enquiry Details"
-msgstr "Ver Detalhes do Pedido"
+msgstr "Voir les détails de la demande"
 
 #: inc/class-recrm-meta-boxes.php:508 inc/class-recrm-meta-boxes.php:1109
 #: inc/class-recrm-post-types.php:111 inc/class-recrm-post-types.php:137
 msgid "Enquiry"
-msgstr "Pedido"
+msgstr "Demande"
 
 #: inc/class-recrm-meta-boxes.php:537
 msgid "Notes"
-msgstr "Notas"
+msgstr "Notes"
 
 #: inc/class-recrm-meta-boxes.php:539
 msgid "New Note"
-msgstr "Nova Nota"
+msgstr "Nouvelle note"
 
 #: inc/class-recrm-meta-boxes.php:546
 msgid "Save Note"
-msgstr "Gravar Nota"
+msgstr "Sauvegarder la remarque"
 
 #: inc/class-recrm-meta-boxes.php:585
-#, php-format
+#, fuzzy, php-format
 msgid "Added note %s ago"
-msgstr "Nota Adicionada %s atrás"
+msgstr "Ajout d’une note il y a %s"
 
 #: inc/class-recrm-meta-boxes.php:595
 msgid "Delete"
-msgstr "Eliminar"
+msgstr "Supprimer"
 
 #: inc/class-recrm-meta-boxes.php:628 inc/class-recrm-meta-boxes.php:1221
 msgid "View"
-msgstr "Ver"
+msgstr "Voir"
 
 #: inc/class-recrm-meta-boxes.php:629 inc/class-recrm-meta-boxes.php:1222
 msgid "Edit"
-msgstr "Editar"
+msgstr "Modifier"
 
 #: inc/class-recrm-meta-boxes.php:736
 msgid "State"
-msgstr "Cidade"
+msgstr "État"
 
 #: inc/class-recrm-meta-boxes.php:751
 msgid "Home"
-msgstr "Casa"
+msgstr "Accueil"
 
 #: inc/class-recrm-meta-boxes.php:756
 msgid "Work"
-msgstr "Emprego"
+msgstr "Travail"
 
 #: inc/class-recrm-meta-boxes.php:787 inc/class-recrm-meta-boxes.php:1388
 #: inc/class-recrm-meta-boxes.php:1393
@@ -346,19 +343,20 @@ msgstr "-"
 
 #: inc/class-recrm-meta-boxes.php:816
 msgid "Attachments"
-msgstr "Anexos"
+msgstr "Pièces-jointes"
 
 #: inc/class-recrm-meta-boxes.php:1037
 msgid "Enquiry Details"
-msgstr "Detalhes de Pedidos"
+msgstr "Détails des questions"
 
 #: inc/class-recrm-meta-boxes.php:1084
+#, fuzzy
 msgid "Agent/Negotiator"
-msgstr "Comercial"
+msgstr "Agent/Négociateur"
 
 #: inc/class-recrm-meta-boxes.php:1086
 msgid "Select an agent"
-msgstr "Seleccione um Comercial"
+msgstr "Sélectionnez un agent"
 
 #: inc/class-recrm-meta-boxes.php:1326
 msgid "ID"
@@ -367,347 +365,364 @@ msgstr "ID"
 #: inc/class-recrm-meta-boxes.php:1332 inc/class-recrm-post-types.php:21
 #: inc/class-recrm-post-types.php:48
 msgid "Contact"
-msgstr "Contacto"
+msgstr "Contact"
 
 #: inc/class-recrm-meta-boxes.php:1345
 msgid "Property"
-msgstr "Imóvel"
+msgstr "Bien"
 
 #: inc/class-recrm-meta-boxes.php:1455 inc/class-recrm-meta-boxes.php:1488
 msgid "NA"
-msgstr "N/A"
+msgstr "NA"
 
 #: inc/class-recrm-post-types.php:18
 msgctxt "Post Type General Name"
 msgid "Contacts"
-msgstr "Contactos"
+msgstr "Contacts"
 
 #: inc/class-recrm-post-types.php:19
 msgctxt "Post Type Singular Name"
 msgid "Contact"
-msgstr "Contacto"
+msgstr "Contact"
 
 #: inc/class-recrm-post-types.php:22
 msgid "Contact Archives"
-msgstr "Arquivos de Contacto"
+msgstr "Archive des Client"
 
 #: inc/class-recrm-post-types.php:23
 msgid "Contact Attributes"
-msgstr "Atributos de Contacto"
+msgstr "Attributs du contact"
 
 #: inc/class-recrm-post-types.php:24
 msgid "Parent Contact:"
-msgstr "Contacto Superior:"
+msgstr "Contact parent :"
 
 #: inc/class-recrm-post-types.php:25
 msgid "All Contacts"
-msgstr "Todos os Contactos"
+msgstr "Tous les contacts"
 
 #: inc/class-recrm-post-types.php:26
 msgid "Add New Contact"
-msgstr "Adicionar Novo Contacto"
+msgstr "Ajouter un nouveau contact"
 
 #: inc/class-recrm-post-types.php:27 inc/class-recrm-post-types.php:117
 msgid "Add New"
-msgstr "Adicionar Novo"
+msgstr "Ajouter"
 
 #: inc/class-recrm-post-types.php:28
 msgid "New Contact"
-msgstr "Novo Contacto"
+msgstr "Nouveau contact"
 
 #: inc/class-recrm-post-types.php:29
 msgid "Edit Contact"
-msgstr "Editar Contacto"
+msgstr "Modifier le Contact"
 
 #: inc/class-recrm-post-types.php:30
 msgid "Update Contact"
-msgstr "Atualizar Contacto"
+msgstr "Modifier le contact"
 
 #: inc/class-recrm-post-types.php:31
 msgid "View Contact"
-msgstr "Ver Contacto"
+msgstr "Voir contact"
 
 #: inc/class-recrm-post-types.php:32
+#, fuzzy
 msgid "View ContactS"
-msgstr "Ver Contactos"
+msgstr "Voir ContactS"
 
 #: inc/class-recrm-post-types.php:33
 msgid "Search Contact"
-msgstr "Procurar Contacto"
+msgstr "Trouver un contact"
 
 #: inc/class-recrm-post-types.php:34 inc/class-recrm-post-types.php:124
 msgid "Not found"
-msgstr "Não encontrado"
+msgstr "Pas de résultat"
 
 #: inc/class-recrm-post-types.php:35 inc/class-recrm-post-types.php:125
 msgid "Not found in Trash"
-msgstr "Não encontrado no Lixo"
+msgstr "Pas résultat dans la Corbeille"
 
 #: inc/class-recrm-post-types.php:36 inc/class-recrm-post-types.php:126
 msgid "Featured Image"
-msgstr "Imagem em Destaque"
+msgstr "Image à la une"
 
 #: inc/class-recrm-post-types.php:37 inc/class-recrm-post-types.php:127
 msgid "Set featured image"
-msgstr "Definir imagem em destaque"
+msgstr "Définir une image d'illustration"
 
 #: inc/class-recrm-post-types.php:38 inc/class-recrm-post-types.php:128
 msgid "Remove featured image"
-msgstr "Remover Imagem de Destaque"
+msgstr "Supprimer l'image mise en avant"
 
 #: inc/class-recrm-post-types.php:39 inc/class-recrm-post-types.php:129
 msgid "Use as featured image"
-msgstr "Use como imagem em destaque"
+msgstr "Utiliser comme image mise en avant"
 
 #: inc/class-recrm-post-types.php:40
 msgid "Insert into contact"
-msgstr "Inserir no contato"
+msgstr "Insérer dans le contact"
 
 #: inc/class-recrm-post-types.php:41
 msgid "Uploaded to this contact"
-msgstr "Carregado para este contato"
+msgstr "Uploadé dans ce contact"
 
 #: inc/class-recrm-post-types.php:42
 msgid "Contacts list"
-msgstr "Lista de Contactos"
+msgstr "Liste des contact"
 
 #: inc/class-recrm-post-types.php:43
 msgid "Contacts list navigation"
-msgstr "Navegação da lista de contatos"
+msgstr "Liste contacts navigation"
 
 #: inc/class-recrm-post-types.php:44
 msgid "Filter contacts list"
-msgstr "Filtrar lista de contatos"
+msgstr "Filter la liste des contacts"
 
 #: inc/class-recrm-post-types.php:49
+#, fuzzy
 msgid "Real Estate Contacts."
-msgstr "Contatos imobiliários."
+msgstr "Contacts immobiliers."
 
 #: inc/class-recrm-post-types.php:77
 msgctxt "taxonomy general name"
 msgid "Contact Tags"
-msgstr "Tags de Contacto"
+msgstr "Étiquettes de contact"
 
 #: inc/class-recrm-post-types.php:78
 msgctxt "taxonomy singular name"
 msgid "Contact Tag"
-msgstr "Tag de Contacto"
+msgstr "Mot-clé du Contact"
 
 #: inc/class-recrm-post-types.php:79
 msgid "Search Contact Tags"
-msgstr "Procurar Tags de Contacto"
+msgstr "Rechercher des étiquettes de contact"
 
 #: inc/class-recrm-post-types.php:80
+#, fuzzy
 msgid "All Contact Tags"
-msgstr "Todas as tags de contato"
+msgstr "Toutes les balises de contact"
 
 #: inc/class-recrm-post-types.php:81
 msgid "Parent Contact Tag"
-msgstr "Tag de Contacto Superior"
+msgstr "Étiquette de contact parent"
 
 #: inc/class-recrm-post-types.php:82
+#, fuzzy
 msgid "Parent Contact Tag:"
-msgstr "Tag de Contacto Superior:"
+msgstr "Balise de contact parent:"
 
 #: inc/class-recrm-post-types.php:83
+#, fuzzy
 msgid "Edit Contact Tag"
-msgstr "Editar Tag de Contacto"
+msgstr "Modifier la balise de contact"
 
 #: inc/class-recrm-post-types.php:84
+#, fuzzy
 msgid "Update Contact Tag"
-msgstr "Atualizar Tag de Contacto"
+msgstr "Mettre à jour la balise de contact"
 
 #: inc/class-recrm-post-types.php:85
+#, fuzzy
 msgid "Add New Contact Tag"
-msgstr "Adicionar Nova Tag de Contacto"
+msgstr "Ajouter une nouvelle balise de contact"
 
 #: inc/class-recrm-post-types.php:86
 msgid "New Contact Tag Name"
-msgstr "Nova Tag de Contacto"
+msgstr "Nouveau nom de l'étiquette de contact"
 
 #: inc/class-recrm-post-types.php:108
 msgctxt "Post Type General Name"
 msgid "Enquiries"
-msgstr "Pedidos"
+msgstr "Renseignements"
 
 #: inc/class-recrm-post-types.php:109
 msgctxt "Post Type Singular Name"
 msgid "Enquiry"
-msgstr "Pedido"
+msgstr "Demande"
 
 #: inc/class-recrm-post-types.php:112
 msgid "Enquiry Archives"
-msgstr "Arquivo de Pedidos"
+msgstr "Archives des demandes"
 
 #: inc/class-recrm-post-types.php:113
 msgid "Enquiry Attributes"
-msgstr "Atributos de Pedidos"
+msgstr "Attributs des demandes"
 
 #: inc/class-recrm-post-types.php:114
 msgid "Parent Enquiry:"
-msgstr "Pedido Superior:"
+msgstr "Demande parent :"
 
 #: inc/class-recrm-post-types.php:115
+#, fuzzy
 msgid "All Enquiries"
-msgstr "Todos os Pedidos"
+msgstr "Toutes les demandes de renseignements"
 
 #: inc/class-recrm-post-types.php:116
 msgid "Add New Enquiry"
-msgstr "Adicionar Novo Pedido"
+msgstr "Ajouter une nouvelle enquête"
 
 #: inc/class-recrm-post-types.php:118
 msgid "New Enquiry"
-msgstr "Novo Pedido"
+msgstr "Nouvelle demande de renseignement"
 
 #: inc/class-recrm-post-types.php:119
 msgid "Edit Enquiry"
-msgstr "Editar Pedido"
+msgstr "Modifier demande"
 
 #: inc/class-recrm-post-types.php:120
 msgid "Update Enquiry"
-msgstr "Atualizar Pedido"
+msgstr "Mette à jour la demande"
 
 #: inc/class-recrm-post-types.php:121
 msgid "View Enquiry"
-msgstr "Ver Pedido"
+msgstr "Afficher l'enquête"
 
 #: inc/class-recrm-post-types.php:122
 msgid "View Enquiries"
-msgstr "Ver Pedidos"
+msgstr "Voir les demandes"
 
 #: inc/class-recrm-post-types.php:123
 msgid "Search Enquiry"
-msgstr "Procurar Pedido"
+msgstr "Rechercher une demande"
 
 #: inc/class-recrm-post-types.php:130
 msgid "Insert into enquiry"
-msgstr "Inserir no Pedido"
+msgstr "Insérer dans le demande"
 
 #: inc/class-recrm-post-types.php:131
 msgid "Uploaded to this enquiry"
-msgstr "Carregado para este pedido"
+msgstr "Téléversé vers cette demande"
 
 #: inc/class-recrm-post-types.php:132
+#, fuzzy
 msgid "Enquiries list"
-msgstr "Lista de Pedidos"
+msgstr "Liste des demandes de renseignements"
 
 #: inc/class-recrm-post-types.php:133
+#, fuzzy
 msgid "Enquiries list navigation"
-msgstr "Navegação da lista de pedidos"
+msgstr "Navigation dans la liste des demandes de renseignements"
 
 #: inc/class-recrm-post-types.php:134
+#, fuzzy
 msgid "Filter enquiries list"
-msgstr "Filtrar lista de pedidos"
+msgstr "Filtrer la liste des demandes de renseignements"
 
 #: inc/class-recrm-post-types.php:138
+#, fuzzy
 msgid "Real Estate Enquiries."
-msgstr "Pedidos Imobiliários."
+msgstr "Demandes immobilières."
 
 #: inc/class-recrm-settings.php:34 inc/class-recrm-settings.php:47
+#, fuzzy
 msgid "Real Estate CRM Settings"
-msgstr "Configurações de CRM para imóveis"
+msgstr "Paramètres CRM immobiliers"
 
 #: inc/class-recrm-settings.php:35 real-estate-crm.php:77
 msgid "Settings"
-msgstr "Definições"
+msgstr "Paramètres"
 
 #: inc/class-recrm-settings.php:70
 msgid "Contact Statuses"
-msgstr "Estados de Contacto"
+msgstr "Statuts des contacts"
 
 #: inc/class-recrm-settings.php:71
 msgid ""
 "Provide comma separated values e.g (Lead, Customer). First value will be "
 "considered default for contact status."
 msgstr ""
-"Forneça valores separados por vírgula, por exemplo, (Líder, Cliente). O "
-"primeiro valor será considerado padrão para o estado do contato."
+"Indiquez des valeurs séparées par une virgule, par exemple (Prospect, "
+"Client). La première valeur sera considérée par défaut pour le statut du "
+"contact."
 
 #: inc/class-recrm-settings.php:73
 msgid "Lead, Customer"
-msgstr "Líder, Cliente"
+msgstr "Prospect, Client"
 
 #: inc/class-recrm-settings.php:78
+#, fuzzy
 msgid "Contact Prefixes"
-msgstr "Prefixo de Contacto"
+msgstr "Préfixes de contact"
 
 #: inc/class-recrm-settings.php:79
 msgid ""
 "Provide comma separated values e.g (Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs)."
 msgstr ""
-"Forneça valores separados por vírgula, por exemplo (Sr., Sra., Sra., Srta., "
-"Dr, Prof)."
+"Fournir des valeurs séparées de virgule par exemple (M. Mme, Mme, Miss, Dr, "
+"Prof, M. et Mme)."
 
 #: inc/class-recrm-settings.php:88
 msgid ""
 "Provide comma separated values e.g (Website, Word of Mouth, Newspaper, "
 "Friend). First value will be considered default for contact prefix."
 msgstr ""
-"Forneça valores separados por vírgula, por exemplo (site, boca a boca, "
-"jornal, amigo). O primeiro valor será considerado padrão para o prefixo de "
-"contato."
+"Indiquez des valeurs séparées par une virgule, par exemple (site Web, bouche "
+"à oreille, journal, ami). La première valeur sera considérée par défaut pour "
+"le préfixe de contact."
 
 #: inc/class-recrm-settings.php:97
 msgid "Enquiry Status"
-msgstr "Estado do Pedido"
+msgstr "Statut"
 
 #: inc/class-recrm-settings.php:98
 msgid ""
 "Provide comma separated values e.g (Open, Close). First value will be "
 "considered default for enquiry status."
 msgstr ""
-"Forneça valores separados por vírgula, por exemplo, (Abrir, Fechar). O "
-"primeiro valor será considerado padrão para o estado da consulta."
+"Indiquez des valeurs séparées par une virgule, par exemple (Ouvert, Fermé). "
+"La première valeur sera considérée par défaut pour l'état de la demande."
 
 #: inc/class-recrm-settings.php:106
 msgid "Enquiry Negotiator Source"
-msgstr "Fonte do Negociador do Pedido"
+msgstr "Source du négociateur de la demande"
 
 #: inc/class-recrm-settings.php:107
+#, fuzzy
 msgid "Select Negotiator Type"
-msgstr "Selecione o tipo de negociador"
+msgstr "Sélectionnez le type de négociateur"
 
 #: inc/class-recrm-settings.php:111
 msgid "Custom Post Types"
-msgstr "Tipos de Posts Personalizadas"
+msgstr "Types d'Articles personnalisés"
 
 #: inc/class-recrm-settings.php:112
 msgid "Users"
-msgstr "Utilizadores"
+msgstr "Utilisateurs"
 
 #: inc/class-recrm-settings.php:119
 msgid "Select Custom Post Type For Negotiator Source"
-msgstr "Selecione o tipo de post personalizado para a origem do negociador"
+msgstr "Sélectionnez le Custom Post Type pour la source du négociateur"
 
 #: inc/class-recrm-settings.php:120
 msgid "Select Agent Custom Post Type"
-msgstr "Selecione o tipo de post personalizado do comercial"
+msgstr "Sélectionnez le Custom Post Type de l'agent"
 
 #: inc/class-settings-api.php:344
 msgid "Choose File"
-msgstr "Escolha um Ficheiro"
+msgstr "Choisissez un fichier"
 
 #: inc/plugin-update.php:80
-#, fuzzy
 msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
 msgstr ""
-"Ocorreu um erro HTTP inesperado durante o pedido da API. Tentar novamente!"
+"Une erreur HTTP inattendue s'est produite lors de la requête API. Essayez à "
+"nouveau !"
 
 #: inc/plugin-update.php:85
 msgid "An unknown error occurred"
-msgstr "Ocorreu um erro desconhecido"
+msgstr "Une erreur inconnue s’est produite"
 
 #: real-estate-crm.php:58
 msgid "Insert File"
-msgstr "Inserir Ficheiro"
+msgstr "Insérer un fichier"
 
 #: real-estate-crm.php:59
 msgid "Use this File"
-msgstr "Usar este Ficheiro"
+msgstr "Utilisez le texte du titre du fichier par défaut lorsqu'il est vide"
 
 #. Description of the plugin/theme
+#, fuzzy
 msgid "Provides CRM functionality for Real Homes theme."
-msgstr "Fornece funcionalidade CRM para o tema Real Homes."
+msgstr "Fournit une fonctionnalité CRM pour le thème Real Homes."
 
 #. Author of the plugin/theme
 msgid "Inspiry Themes"
@@ -716,3 +731,7 @@ msgstr "Inspiry Themes"
 #. Author URI of the plugin/theme
 msgid "https://inspirythemes.com/"
 msgstr "https://inspirythemes.com/"
+
+#, fuzzy
+#~ msgid "RECRM Settings"
+#~ msgstr "Paramètres RECRM"
