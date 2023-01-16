@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2022-02-02 21:10+0500\n"
-"PO-Revision-Date: 2022-02-16 00:54+0500\n"
+"POT-Creation-Date: 2022-12-29 17:11+0500\n"
+"PO-Revision-Date: 2023-01-16 15:48+0500\n"
 "Last-Translator: \n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: zh_CN\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -37,81 +37,88 @@ msgid "Icon Class"
 msgstr "图标类"
 
 #: easy-real-estate.php:257
+#, fuzzy
 msgid "Example: fas fa-flicker"
-msgstr ""
+msgstr "示例：fas fa-flicker"
 
 #: easy-real-estate.php:258
+#, fuzzy
 msgid "Get icon!"
-msgstr ""
+msgstr "获取图标！"
 
-#: easy-real-estate.php:299
+#: easy-real-estate.php:321
 msgid "Property Views"
 msgstr "物业景观"
 
-#: easy-real-estate.php:314
+#: easy-real-estate.php:336
 msgid "Price Format"
 msgstr "价格格式"
 
-#: easy-real-estate.php:315
+#: easy-real-estate.php:337
 msgid "URL Slugs"
 msgstr "网址别名（slug）"
 
-#: easy-real-estate.php:316
+#: easy-real-estate.php:338
 msgid "Maps"
 msgstr "地图"
 
-#: easy-real-estate.php:317
+#: easy-real-estate.php:339
 msgid "reCAPTCHA"
 msgstr "验证码"
 
-#: easy-real-estate.php:318 includes/mb/agent-agency-meta-boxes-config.php:24
-#: includes/mb/agent-agency-meta-boxes-config.php:188
+#: easy-real-estate.php:340 includes/mb/agent-agency-meta-boxes-config.php:24
+#: includes/mb/agent-agency-meta-boxes-config.php:206
 msgid "Social"
 msgstr "社交"
 
-#: easy-real-estate.php:319
+#: easy-real-estate.php:341
 msgid "GDPR"
 msgstr "GDPR"
 
-#: easy-real-estate.php:320 includes/custom-post-types/property.php:23
-#: includes/mb/property-meta-boxes-config.php:54
+#: easy-real-estate.php:342 includes/custom-post-types/property.php:23
+#: includes/mb/property-meta-boxes-config.php:57
 msgid "Property"
 msgstr "属性"
 
-#: easy-real-estate.php:321
+#: easy-real-estate.php:343
+#, fuzzy
 msgid "Property Analytics"
-msgstr ""
+msgstr "物业分析"
 
-#: easy-real-estate.php:322
+#: easy-real-estate.php:344
 msgid "Webhooks"
 msgstr "Web挂钩"
 
-#: easy-real-estate.php:422
+#: easy-real-estate.php:444
 msgid "Settings saved successfully!"
 msgstr "设置已保存成功！"
 
-#: easy-real-estate.php:431
+#: easy-real-estate.php:453
+#, fuzzy
 msgid "Cloning is forbidden!"
-msgstr ""
+msgstr "禁止克隆！"
 
-#: easy-real-estate.php:438
+#: easy-real-estate.php:460
 msgid "Unserializing is forbidden!"
 msgstr "禁止非序列化！"
 
-#: easy-real-estate.php:485
-#, php-format
+#: easy-real-estate.php:507
+#, fuzzy, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
 "conflicts with RealHomes Theme functionality. Please delete these plugins to "
 "run your site smoothly."
 msgstr ""
+"%sEasy Real Estate%s检测到以下插件，这些插件可能会与RealHomes主题功能产生冲"
+"突。请删除这些插件以顺利运行您的网站。"
 
 #. Plugin Name of the plugin/theme
 #: includes/admin-menu/class-ere-admin-menu.php:38
 #: includes/admin-menu/class-ere-admin-menu.php:39
 #: includes/settings/settings.php:8 includes/settings/settings.php:11
+#, fuzzy
 msgid "Easy Real Estate"
-msgstr ""
+msgstr "易房地产"
 
 #: includes/admin-menu/class-ere-admin-menu.php:51
 #: includes/custom-post-types/property.php:25
@@ -129,29 +136,29 @@ msgstr "新房源"
 msgid "Agencies"
 msgstr "房屋机构页面"
 
-#: includes/admin-menu/class-ere-admin-menu.php:88
-#: includes/admin-menu/class-ere-admin-menu.php:89
+#: includes/admin-menu/class-ere-admin-menu.php:102
+#: includes/admin-menu/class-ere-admin-menu.php:103
 #: includes/custom-post-types/agent.php:20
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
-#: includes/widgets/agents-list-widget.php:142
+#: includes/widgets/agents-list-widget.php:162
 msgid "Agents"
 msgstr "代理"
 
-#: includes/admin-menu/class-ere-admin-menu.php:96
-#: includes/admin-menu/class-ere-admin-menu.php:97
+#: includes/admin-menu/class-ere-admin-menu.php:124
+#: includes/admin-menu/class-ere-admin-menu.php:125
 #: includes/custom-post-types/partners.php:11
 msgid "Partners"
 msgstr "合作伙伴"
 
-#: includes/admin-menu/class-ere-admin-menu.php:104
-#: includes/admin-menu/class-ere-admin-menu.php:105
+#: includes/admin-menu/class-ere-admin-menu.php:132
+#: includes/admin-menu/class-ere-admin-menu.php:133
 #: includes/custom-post-types/slide.php:11
 msgid "Slides"
 msgstr "幻灯片"
 
-#: includes/admin-menu/class-ere-admin-menu.php:112
-#: includes/admin-menu/class-ere-admin-menu.php:113
+#: includes/admin-menu/class-ere-admin-menu.php:140
+#: includes/admin-menu/class-ere-admin-menu.php:141
 msgid "Settings"
 msgstr "设置"
 
@@ -167,7 +174,7 @@ msgstr "机构"
 
 #: includes/custom-post-types/agency.php:16
 #: includes/custom-post-types/agency.php:42
-#: includes/custom-post-types/agency.php:110
+#: includes/custom-post-types/agency.php:184
 msgid "Agency"
 msgstr "机构"
 
@@ -176,8 +183,9 @@ msgid "Agency Archives"
 msgstr "机构档案"
 
 #: includes/custom-post-types/agency.php:18
+#, fuzzy
 msgid "Agency Attributes"
-msgstr ""
+msgstr "代理机构属性"
 
 #: includes/custom-post-types/agency.php:19
 msgid "Parent Agency:"
@@ -216,8 +224,9 @@ msgid "View Agency"
 msgstr "查看房屋机构"
 
 #: includes/custom-post-types/agency.php:27
+#, fuzzy
 msgid "View Agencies"
-msgstr ""
+msgstr "查看代理机构"
 
 #: includes/custom-post-types/agency.php:28
 msgid "Search Agency"
@@ -232,88 +241,193 @@ msgid "Not found in Trash"
 msgstr "在回收站中找不到"
 
 #: includes/custom-post-types/agency.php:31
+#, fuzzy
 msgid "Agency Logo Image"
-msgstr ""
+msgstr "机构徽标图像"
 
 #: includes/custom-post-types/agency.php:32
+#, fuzzy
 msgid "Set agency logo image"
-msgstr ""
+msgstr "设置机构徽标图像"
 
 #: includes/custom-post-types/agency.php:33
+#, fuzzy
 msgid "Remove agency logo image"
-msgstr ""
+msgstr "移除代理机构徽标图片"
 
 #: includes/custom-post-types/agency.php:34
+#, fuzzy
 msgid "Use as agency logo image"
-msgstr ""
+msgstr "用作机构徽标图像"
 
 #: includes/custom-post-types/agency.php:35
+#, fuzzy
 msgid "Insert into agency"
-msgstr ""
+msgstr "插入代理"
 
 #: includes/custom-post-types/agency.php:36
+#, fuzzy
 msgid "Uploaded to this agency"
-msgstr ""
+msgstr "上传到此代理机构"
 
 #: includes/custom-post-types/agency.php:37
+#, fuzzy
 msgid "Agencies list"
-msgstr ""
+msgstr "代理机构列表"
 
 #: includes/custom-post-types/agency.php:38
+#, fuzzy
 msgid "Agencies list navigation"
-msgstr ""
+msgstr "代理机构列表导航"
 
 #: includes/custom-post-types/agency.php:39
+#, fuzzy
 msgid "Filter agencies list"
-msgstr ""
+msgstr "过滤机构列表"
 
 #: includes/custom-post-types/agency.php:43
+#, fuzzy
 msgid "An agency is a company of realtors."
-msgstr ""
+msgstr "代理机构是房地产经纪人的公司。"
 
-#: includes/custom-post-types/agency.php:60 includes/settings/slug.php:9
+#: includes/custom-post-types/agency.php:60 includes/settings/slug.php:10
 msgid "agency"
 msgstr "开发商"
 
 #: includes/custom-post-types/agency.php:63
+#, fuzzy
 msgid "agencies"
-msgstr ""
+msgstr "房屋机构页面"
 
 #: includes/custom-post-types/agency.php:111
-#: includes/custom-post-types/agent.php:97
+#: includes/custom-post-types/agency.php:125
+#, fuzzy
+#| msgid "Locations"
+msgid "Agency Locations"
+msgstr "位置"
+
+#: includes/custom-post-types/agency.php:112
+msgid "Agency Location"
+msgstr "中介公司地点"
+
+#: includes/custom-post-types/agency.php:113
+#, fuzzy
+#| msgid "Search Agency"
+msgid "Search Agency Locations"
+msgstr "搜索房屋机构"
+
+#: includes/custom-post-types/agency.php:114
+#, fuzzy
+#| msgid "Property Locations"
+msgid "Popular Agency Locations"
+msgstr "房源位置"
+
+#: includes/custom-post-types/agency.php:115
+#, fuzzy
+#| msgid "All Agencies"
+msgid "All Agency Locations"
+msgstr "所有机构"
+
+#: includes/custom-post-types/agency.php:116
+#, fuzzy
+#| msgid "Parent Agency:"
+msgid "Parent Agency Location"
+msgstr "母公司："
+
+#: includes/custom-post-types/agency.php:117
+#, fuzzy
+#| msgid "Parent Agency:"
+msgid "Parent Agency Location:"
+msgstr "母公司："
+
+#: includes/custom-post-types/agency.php:118
+#, fuzzy
+#| msgid "Edit Agency"
+msgid "Edit Agency Location"
+msgstr "编辑房屋机构"
+
+#: includes/custom-post-types/agency.php:119
+#, fuzzy
+#| msgid "Update Agency"
+msgid "Update Agency Location"
+msgstr "更新机构"
+
+#: includes/custom-post-types/agency.php:120
+#, fuzzy
+#| msgid "Add New Agency"
+msgid "Add New Agency Location"
+msgstr "添加新房屋机构"
+
+#: includes/custom-post-types/agency.php:121
+#, fuzzy
+msgid "New Agency Location Name"
+msgstr "新的代理机构位置名称"
+
+#: includes/custom-post-types/agency.php:122
+#, fuzzy
+#| msgid "Separate Property Status with commas"
+msgid "Separate Agency Locations with commas"
+msgstr "以“,”分隔的房源状态"
+
+#: includes/custom-post-types/agency.php:123
+#, fuzzy
+#| msgid "Add or remove Property Status"
+msgid "Add or remove Agency Locations"
+msgstr "添加或移除房源状态"
+
+#: includes/custom-post-types/agency.php:124
+#, fuzzy
+#| msgid "Choose from the most used Property Status"
+msgid "Choose from the most used Agency Locations"
+msgstr "从最常用的状态中选择"
+
+#: includes/custom-post-types/agency.php:138 includes/settings/slug.php:11
+#, fuzzy
+#| msgid "Location"
+msgid "agency-location"
+msgstr "位置"
+
+#: includes/custom-post-types/agency.php:141
+#, fuzzy
+#| msgid "Locations"
+msgid "agency-locations"
+msgstr "位置"
+
+#: includes/custom-post-types/agency.php:185
+#: includes/custom-post-types/agent.php:171
 #: includes/custom-post-types/property.php:388
 #: includes/custom-post-types/slide.php:63
 msgid "Thumbnail"
 msgstr "缩略图"
 
-#: includes/custom-post-types/agency.php:112
-#: includes/custom-post-types/agent.php:98
+#: includes/custom-post-types/agency.php:186
+#: includes/custom-post-types/agent.php:172
 msgid "Total Properties"
 msgstr "总房源"
 
-#: includes/custom-post-types/agency.php:113
-#: includes/custom-post-types/agent.php:99
+#: includes/custom-post-types/agency.php:187
+#: includes/custom-post-types/agent.php:173
 msgid "Published Properties"
 msgstr "已发布房源"
 
-#: includes/custom-post-types/agency.php:114
-#: includes/custom-post-types/agent.php:100
+#: includes/custom-post-types/agency.php:188
+#: includes/custom-post-types/agent.php:174
 msgid "Other Properties"
 msgstr "其他属性"
 
-#: includes/custom-post-types/agency.php:115
-#: includes/custom-post-types/agent.php:101
+#: includes/custom-post-types/agency.php:189
+#: includes/custom-post-types/agent.php:175
 msgid "Created"
 msgstr "创建"
 
-#: includes/custom-post-types/agency.php:162
-#: includes/custom-post-types/agent.php:149
-#: includes/custom-post-types/property.php:458
+#: includes/custom-post-types/agency.php:236
+#: includes/custom-post-types/agent.php:223
+#: includes/custom-post-types/property.php:459
 msgid "No Thumbnail"
 msgstr "没有缩略图"
 
 #: includes/custom-post-types/agent.php:21
-#: includes/custom-post-types/agent.php:96 includes/shortcodes/vc-map.php:137
+#: includes/custom-post-types/agent.php:170 includes/shortcodes/vc-map.php:137
 msgid "Agent"
 msgstr "代理"
 
@@ -345,13 +459,108 @@ msgstr "没发现代理"
 msgid "No Agent found in Trash"
 msgstr "回收站中没有代理"
 
-#: includes/custom-post-types/agent.php:48 includes/settings/slug.php:8
+#: includes/custom-post-types/agent.php:49 includes/settings/slug.php:8
 msgid "agent"
 msgstr "代理"
 
-#: includes/custom-post-types/agent.php:51
+#: includes/custom-post-types/agent.php:52
 msgid "agents"
 msgstr "经纪人"
+
+#: includes/custom-post-types/agent.php:97
+#: includes/custom-post-types/agent.php:111
+#, fuzzy
+#| msgid "Locations"
+msgid "Agent Locations"
+msgstr "位置"
+
+#: includes/custom-post-types/agent.php:98
+msgid "Agent Location"
+msgstr "代理位置"
+
+#: includes/custom-post-types/agent.php:99
+#, fuzzy
+#| msgid "Search Agent"
+msgid "Search Agent Locations"
+msgstr "搜索地产经纪人"
+
+#: includes/custom-post-types/agent.php:100
+#, fuzzy
+#| msgid "Property Locations"
+msgid "Popular Agent Locations"
+msgstr "房源位置"
+
+#: includes/custom-post-types/agent.php:101
+#, fuzzy
+#| msgid "All Agencies"
+msgid "All Agent Locations"
+msgstr "所有机构"
+
+#: includes/custom-post-types/agent.php:102
+#, fuzzy
+#| msgid "Parent Agency:"
+msgid "Parent Agent Location"
+msgstr "母公司："
+
+#: includes/custom-post-types/agent.php:103
+#, fuzzy
+#| msgid "Parent Agency:"
+msgid "Parent Agent Location:"
+msgstr "母公司："
+
+#: includes/custom-post-types/agent.php:104
+#, fuzzy
+#| msgid "Edit Agent"
+msgid "Edit Agent Location"
+msgstr "编辑代理"
+
+#: includes/custom-post-types/agent.php:105
+#, fuzzy
+#| msgid "Update Agency"
+msgid "Update Agent Location"
+msgstr "更新机构"
+
+#: includes/custom-post-types/agent.php:106
+#, fuzzy
+#| msgid "Add New Agent"
+msgid "Add New Agent Location"
+msgstr "添加新的代理"
+
+#: includes/custom-post-types/agent.php:107
+#, fuzzy
+#| msgid "Agent Information"
+msgid "New Agent Location Name"
+msgstr "俱乐部信息"
+
+#: includes/custom-post-types/agent.php:108
+#, fuzzy
+#| msgid "Separate Property Status with commas"
+msgid "Separate Agent Locations with commas"
+msgstr "以“,”分隔的房源状态"
+
+#: includes/custom-post-types/agent.php:109
+#, fuzzy
+#| msgid "Add or remove Property Status"
+msgid "Add or remove Agent Locations"
+msgstr "添加或移除房源状态"
+
+#: includes/custom-post-types/agent.php:110
+#, fuzzy
+#| msgid "Choose from the most used Property Status"
+msgid "Choose from the most used Agent Locations"
+msgstr "从最常用的状态中选择"
+
+#: includes/custom-post-types/agent.php:124 includes/settings/slug.php:9
+#, fuzzy
+#| msgid "Agent Information"
+msgid "agent-location"
+msgstr "俱乐部信息"
+
+#: includes/custom-post-types/agent.php:127
+#, fuzzy
+#| msgid "Locations"
+msgid "agent-locations"
+msgstr "位置"
 
 #: includes/custom-post-types/partners.php:12
 #: includes/custom-post-types/partners.php:65
@@ -405,7 +614,7 @@ msgid "No logo provided"
 msgstr "没有提供 LOGO"
 
 #: includes/custom-post-types/property.php:22 includes/shortcodes/vc-map.php:77
-#: includes/widgets/properties-widget.php:252
+#: includes/widgets/properties-widget.php:294
 msgid "Properties"
 msgstr "属性"
 
@@ -414,15 +623,15 @@ msgid "Edit Property"
 msgstr "编辑房源"
 
 #: includes/custom-post-types/property.php:28
-#: includes/widgets/agent-featured-properties-widget.php:199
-#: includes/widgets/agent-featured-properties-widget.php:256
-#: includes/widgets/agent-properties-widget.php:211
-#: includes/widgets/agent-properties-widget.php:275
-#: includes/widgets/featured-properties-widget.php:209
-#: includes/widgets/featured-properties-widget.php:264
-#: includes/widgets/grid-cards/grid-card-1.php:53
-#: includes/widgets/properties-widget.php:245
-#: includes/widgets/properties-widget.php:297
+#: includes/widgets/agent-featured-properties-widget.php:243
+#: includes/widgets/agent-featured-properties-widget.php:299
+#: includes/widgets/agent-properties-widget.php:253
+#: includes/widgets/agent-properties-widget.php:321
+#: includes/widgets/featured-properties-widget.php:248
+#: includes/widgets/featured-properties-widget.php:304
+#: includes/widgets/grid-cards/grid-card-1.php:45
+#: includes/widgets/properties-widget.php:287
+#: includes/widgets/properties-widget.php:344
 msgid "View Property"
 msgstr "查看房源"
 
@@ -503,13 +712,14 @@ msgstr "添加或移除房源特色"
 msgid "Choose from the most used Property Features"
 msgstr "从最常用的特色中选择"
 
-#: includes/custom-post-types/property.php:144 includes/settings/slug.php:13
+#: includes/custom-post-types/property.php:144 includes/settings/slug.php:15
 msgid "property-feature"
 msgstr "房源特色"
 
 #: includes/custom-post-types/property.php:147
+#, fuzzy
 msgid "property-features"
-msgstr ""
+msgstr "房源特点"
 
 #: includes/custom-post-types/property.php:161
 #: includes/custom-post-types/property.php:175
@@ -531,7 +741,7 @@ msgid "Popular Property Types"
 msgstr "流行类型"
 
 #: includes/custom-post-types/property.php:165
-#: includes/custom-post-types/property.php:711
+#: includes/custom-post-types/property.php:716
 msgid "All Property Types"
 msgstr "所有类型"
 
@@ -571,13 +781,14 @@ msgstr "添加或移除房源类型"
 msgid "Choose from the most used Property Types"
 msgstr "从最常用的类型中选择"
 
-#: includes/custom-post-types/property.php:188 includes/settings/slug.php:12
+#: includes/custom-post-types/property.php:188 includes/settings/slug.php:14
 msgid "property-type"
 msgstr "房源类型"
 
 #: includes/custom-post-types/property.php:191
+#, fuzzy
 msgid "property-types"
-msgstr ""
+msgstr "房源类型"
 
 #: includes/custom-post-types/property.php:205
 #: includes/custom-post-types/property.php:219
@@ -589,61 +800,74 @@ msgid "Property Location"
 msgstr "俱乐部位置"
 
 #: includes/custom-post-types/property.php:207
+#, fuzzy
 msgid "Search Property Locations"
-msgstr ""
+msgstr "搜索物业位置"
 
 #: includes/custom-post-types/property.php:208
+#, fuzzy
 msgid "Popular Property Locations"
-msgstr ""
+msgstr "热门酒店位置"
 
 #: includes/custom-post-types/property.php:209
-#: includes/custom-post-types/property.php:698
+#: includes/custom-post-types/property.php:703
+#, fuzzy
 msgid "All Property Locations"
-msgstr ""
+msgstr "所有物业位置"
 
 #: includes/custom-post-types/property.php:210
+#, fuzzy
 msgid "Parent Property Location"
-msgstr ""
+msgstr "父物业位置"
 
 #: includes/custom-post-types/property.php:211
+#, fuzzy
 msgid "Parent Property Location:"
-msgstr ""
+msgstr "父物业位置："
 
 #: includes/custom-post-types/property.php:212
+#, fuzzy
 msgid "Edit Property Location"
-msgstr ""
+msgstr "编辑属性位置"
 
 #: includes/custom-post-types/property.php:213
+#, fuzzy
 msgid "Update Property Location"
-msgstr ""
+msgstr "更新属性位置"
 
 #: includes/custom-post-types/property.php:214
+#, fuzzy
 msgid "Add New Property Location"
-msgstr ""
+msgstr "添加新属性位置"
 
 #: includes/custom-post-types/property.php:215
+#, fuzzy
 msgid "New Property Location Name"
-msgstr ""
+msgstr "新物业位置名称"
 
 #: includes/custom-post-types/property.php:216
+#, fuzzy
 msgid "Separate Property Locations with commas"
-msgstr ""
+msgstr "带逗号的单独属性位置"
 
 #: includes/custom-post-types/property.php:217
+#, fuzzy
 msgid "Add or remove Property Locations"
-msgstr ""
+msgstr "添加或删除属性位置"
 
 #: includes/custom-post-types/property.php:218
+#, fuzzy
 msgid "Choose from the most used Property Locations"
-msgstr ""
+msgstr "从最常用的物业位置中选择"
 
 #: includes/custom-post-types/property.php:232
 msgid "property-city"
 msgstr "房源所属城市"
 
 #: includes/custom-post-types/property.php:235
+#, fuzzy
 msgid "property-cities"
-msgstr ""
+msgstr "物业-城市"
 
 #: includes/custom-post-types/property.php:249
 msgid "Property Statuses"
@@ -702,17 +926,20 @@ msgstr "添加或移除房源状态"
 msgid "Choose from the most used Property Status"
 msgstr "从最常用的状态中选择"
 
-#: includes/custom-post-types/property.php:276 includes/settings/slug.php:11
+#: includes/custom-post-types/property.php:276 includes/settings/slug.php:13
 msgid "property-status"
 msgstr "房源状态"
 
 #: includes/custom-post-types/property.php:279
+#, fuzzy
 msgid "property-statuses"
-msgstr ""
+msgstr "房源状态"
 
 #: includes/custom-post-types/property.php:387
-#: includes/functions/form-handlers.php:135
-#: includes/functions/form-handlers.php:513
+#: includes/functions/form-handlers.php:144
+#: includes/functions/form-handlers.php:522
+#: includes/functions/form-handlers.php:689
+#: includes/functions/form-handlers.php:1191
 msgid "Property Title"
 msgstr "俱乐部名称"
 
@@ -734,7 +961,7 @@ msgid "Price"
 msgstr "价格"
 
 #: includes/custom-post-types/property.php:393
-#: includes/custom-post-types/property.php:755
+#: includes/custom-post-types/property.php:759
 #: includes/mb/property/basic-metaboxes.php:164
 msgid "Property ID"
 msgstr "房产ID"
@@ -751,81 +978,86 @@ msgstr "过去 2 周"
 msgid "Last 30 Days"
 msgstr "最近30天"
 
-#: includes/custom-post-types/property.php:465
-#: includes/widgets/agent-featured-properties-widget.php:210
-#: includes/widgets/featured-properties-widget.php:220
+#: includes/custom-post-types/property.php:466
+#: includes/widgets/agent-featured-properties-widget.php:254
+#: includes/widgets/featured-properties-widget.php:259
 #: includes/widgets/grid-cards/card-parts/tags.php:20
-#: includes/widgets/grid-cards/grid-card-1.php:22
+#: includes/widgets/grid-cards/grid-card-1.php:16
+#: includes/widgets/grid-cards/grid-card-4.php:45
+#: includes/widgets/grid-cards/grid-card-5.php:32
+#: includes/widgets/ultra-grid-cards/grid-card-1.php:27
+#: includes/widgets/ultra-grid-cards/grid-card-2.php:34
 msgid "Featured"
 msgstr "精选"
 
-#: includes/custom-post-types/property.php:477
-#: includes/custom-post-types/property.php:489
-#: includes/custom-post-types/property.php:517
-#: includes/custom-post-types/property.php:525
-#: includes/custom-post-types/property.php:533
-#: includes/custom-post-types/property.php:541
+#: includes/custom-post-types/property.php:478
+#: includes/custom-post-types/property.php:490
+#: includes/custom-post-types/property.php:518
+#: includes/custom-post-types/property.php:526
+#: includes/custom-post-types/property.php:534
+#: includes/custom-post-types/property.php:542
 #: includes/custom-post-types/slide.php:97
 msgid "NA"
 msgstr "未提供"
 
-#: includes/custom-post-types/property.php:500
+#: includes/custom-post-types/property.php:501
 msgid "No Address Provided!"
 msgstr "没有提供地址！"
 
-#: includes/custom-post-types/property.php:544
+#: includes/custom-post-types/property.php:545
 msgid " View"
 msgstr " 浏览"
 
-#: includes/custom-post-types/property.php:547
+#: includes/custom-post-types/property.php:548
 msgid " Views"
 msgstr " 查看"
 
-#: includes/custom-post-types/property.php:563
+#: includes/custom-post-types/property.php:565
 msgid "Payment Information"
 msgstr "支付信息"
 
-#: includes/custom-post-types/property.php:579
+#: includes/custom-post-types/property.php:582
 msgid "Not Available"
 msgstr "不可用"
 
-#: includes/custom-post-types/property.php:594
+#: includes/custom-post-types/property.php:597
 msgid "Transaction ID"
 msgstr "交易ID"
 
-#: includes/custom-post-types/property.php:599
+#: includes/custom-post-types/property.php:602
 msgid "Payment Date"
 msgstr "支付日期"
 
-#: includes/custom-post-types/property.php:607
+#: includes/custom-post-types/property.php:610
 msgid "First Name"
 msgstr "名字"
 
-#: includes/custom-post-types/property.php:612
+#: includes/custom-post-types/property.php:615
 msgid "Last Name"
 msgstr "姓"
 
-#: includes/custom-post-types/property.php:620
+#: includes/custom-post-types/property.php:623
 msgid "Payer Email"
 msgstr "支付者邮箱"
 
-#: includes/custom-post-types/property.php:625
+#: includes/custom-post-types/property.php:628
 msgid "Payment Status"
 msgstr "付款状态"
 
-#: includes/custom-post-types/property.php:630
+#: includes/custom-post-types/property.php:633
 msgid "Payment Amount"
 msgstr "支付金额"
 
-#: includes/custom-post-types/property.php:635
+#: includes/custom-post-types/property.php:638
 msgid "Payment Currency"
 msgstr "支付货币"
 
-#: includes/custom-post-types/property.php:724
+#: includes/custom-post-types/property.php:729
+#, fuzzy
 msgid "All Property Statuses"
-msgstr ""
+msgstr "所有属性状态"
 
-#: includes/custom-post-types/property.php:737
+#: includes/custom-post-types/property.php:742
 msgid "All Users"
 msgstr "所有用户"
 
@@ -898,187 +1130,314 @@ msgid "This URL will be applied on Slide Image."
 msgstr "幻灯片的链接地址。"
 
 #: includes/email-template/email-template.php:268
+#, fuzzy
 msgid "Sent from "
-msgstr ""
+msgstr "发送自"
 
-#: includes/functions/form-handlers.php:75
-#: includes/functions/form-handlers.php:280
-#: includes/functions/form-handlers.php:460
-msgid "Unverified Nonce!"
-msgstr "未经验证的随机数！"
+#: includes/functions/basic.php:577
+msgid "Date/Time"
+msgstr "日期/时间"
 
-#: includes/functions/form-handlers.php:99
-#: includes/functions/form-handlers.php:301
-#: includes/functions/form-handlers.php:474
-msgid "Target Email address is not properly configured!"
-msgstr "目标电子邮件地址配置不正确！"
+#: includes/functions/basic.php:578 includes/functions/form-handlers.php:1220
+msgid "Tour Type"
+msgstr "旅游类型"
 
-#: includes/functions/form-handlers.php:116
-#: includes/functions/form-handlers.php:318
-#: includes/functions/form-handlers.php:492
-msgid "Provided Email address is invalid!"
-msgstr "提供电子邮件地址无效！"
-
-#: includes/functions/form-handlers.php:124
-#: includes/functions/form-handlers.php:326
-#: includes/functions/form-handlers.php:502
-msgid "New message sent by"
-msgstr "新消息来自"
-
-#: includes/functions/form-handlers.php:124
-msgid "using contact form at"
-msgstr "在使用联系人表单"
-
-#: includes/functions/form-handlers.php:145
-#: includes/functions/form-handlers.php:523
-msgid "Property URL"
-msgstr ""
-
-#: includes/functions/form-handlers.php:152
-#: includes/functions/form-handlers.php:334
-#: includes/functions/form-handlers.php:530
+#: includes/functions/basic.php:579 includes/functions/form-handlers.php:161
+#: includes/functions/form-handlers.php:343
+#: includes/functions/form-handlers.php:539
+#: includes/functions/form-handlers.php:1227
 #: includes/widgets/contact-form-widget.php:47
 msgid "Name"
 msgstr "名称"
 
-#: includes/functions/form-handlers.php:158
-#: includes/functions/form-handlers.php:340
-#: includes/widgets/contact-form-widget.php:59
-#: includes/widgets/rh-contact-information-widget.php:136
-msgid "Phone Number"
-msgstr "电话号码"
+#: includes/functions/basic.php:580
+msgid "Phone"
+msgstr "电话"
 
-#: includes/functions/form-handlers.php:164
-#: includes/functions/form-handlers.php:346
-#: includes/functions/form-handlers.php:535 includes/functions/members.php:154
-#: includes/widgets/contact-form-widget.php:53
+#: includes/functions/basic.php:581 includes/functions/form-handlers.php:173
+#: includes/functions/form-handlers.php:355
+#: includes/functions/form-handlers.php:544
+#: includes/functions/form-handlers.php:1233 includes/functions/members.php:154
+#: includes/widgets/contact-form-widget.php:54
 #: includes/widgets/rh-contact-information-widget.php:144
 msgid "Email"
 msgstr "邮箱"
 
-#: includes/functions/form-handlers.php:169
-#: includes/functions/form-handlers.php:351
-#: includes/functions/form-handlers.php:547
-#: includes/widgets/contact-form-widget.php:63
+#: includes/functions/basic.php:602
+#, fuzzy
+msgid "There are no tour requests for this property."
+msgstr "这家酒店没有旅游要求。"
+
+#: includes/functions/basic.php:662
+msgid "Share"
+msgstr "分享"
+
+#: includes/functions/form-handlers.php:84
+#: includes/functions/form-handlers.php:289
+#: includes/functions/form-handlers.php:469
+#: includes/functions/form-handlers.php:649
+#: includes/functions/form-handlers.php:1108
+msgid "Unverified Nonce!"
+msgstr "未经验证的随机数！"
+
+#: includes/functions/form-handlers.php:108
+#: includes/functions/form-handlers.php:310
+#: includes/functions/form-handlers.php:483
+#: includes/functions/form-handlers.php:1158
+msgid "Target Email address is not properly configured!"
+msgstr "目标电子邮件地址配置不正确！"
+
+#: includes/functions/form-handlers.php:125
+#: includes/functions/form-handlers.php:327
+#: includes/functions/form-handlers.php:501
+#: includes/functions/form-handlers.php:1177
+msgid "Provided Email address is invalid!"
+msgstr "提供电子邮件地址无效！"
+
+#: includes/functions/form-handlers.php:133
+#: includes/functions/form-handlers.php:335
+#: includes/functions/form-handlers.php:511
+msgid "New message sent by"
+msgstr "新消息来自"
+
+#: includes/functions/form-handlers.php:133
+msgid "using contact form at"
+msgstr "在使用联系人表单"
+
+#: includes/functions/form-handlers.php:154
+#: includes/functions/form-handlers.php:532
+#: includes/functions/form-handlers.php:699
+#: includes/functions/form-handlers.php:1199
+#, fuzzy
+msgid "Property URL"
+msgstr "属性网址"
+
+#: includes/functions/form-handlers.php:167
+#: includes/functions/form-handlers.php:349
+#: includes/widgets/contact-form-widget.php:61
+#: includes/widgets/rh-contact-information-widget.php:136
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: includes/functions/form-handlers.php:178
+#: includes/functions/form-handlers.php:360
+#: includes/functions/form-handlers.php:556
+#: includes/functions/form-handlers.php:1246
+#: includes/widgets/contact-form-widget.php:66
 msgid "Message"
 msgstr "信息"
 
-#: includes/functions/form-handlers.php:177
-#: includes/functions/form-handlers.php:359
-#: includes/functions/form-handlers.php:555 includes/functions/gdpr.php:39
+#: includes/functions/form-handlers.php:186
+#: includes/functions/form-handlers.php:368
+#: includes/functions/form-handlers.php:564 includes/functions/gdpr.php:39
 #: includes/settings/gdpr.php:8
 msgid "GDPR Agreement"
 msgstr "GDPR协议"
 
-#: includes/functions/form-handlers.php:238
-#: includes/functions/form-handlers.php:420
-#: includes/functions/form-handlers.php:597
+#: includes/functions/form-handlers.php:247
+#: includes/functions/form-handlers.php:429
+#: includes/functions/form-handlers.php:606
+#: includes/functions/form-handlers.php:1294
 msgid "Message Sent Successfully!"
 msgstr "消息发送成功！"
 
-#: includes/functions/form-handlers.php:243
-#: includes/functions/form-handlers.php:425
-#: includes/functions/form-handlers.php:602
+#: includes/functions/form-handlers.php:252
+#: includes/functions/form-handlers.php:434
+#: includes/functions/form-handlers.php:611
+#: includes/functions/form-handlers.php:1300
 msgid "Server Error: WordPress mail function failed!"
 msgstr "服务器错误：WordPress邮件功能失败!"
 
-#: includes/functions/form-handlers.php:251
-#: includes/functions/form-handlers.php:433
-#: includes/functions/form-handlers.php:610
+#: includes/functions/form-handlers.php:260
+#: includes/functions/form-handlers.php:442
+#: includes/functions/form-handlers.php:619
 msgid "Invalid Request !"
 msgstr "无效请求！"
 
-#: includes/functions/form-handlers.php:326
+#: includes/functions/form-handlers.php:335
+#, fuzzy
 msgid "using home contact form at"
-msgstr ""
+msgstr "使用家庭联系表格"
 
-#: includes/functions/form-handlers.php:501
+#: includes/functions/form-handlers.php:510
+#, fuzzy
 msgid "using agency contact form at"
-msgstr ""
+msgstr "使用代理联系表格"
 
-#: includes/functions/form-handlers.php:501
+#: includes/functions/form-handlers.php:510
 msgid "using agent contact form at"
 msgstr "使用代理联系"
 
-#: includes/functions/form-handlers.php:541
+#: includes/functions/form-handlers.php:550
+#: includes/functions/form-handlers.php:1239
 msgid "Contact Number"
 msgstr "联系电话"
 
-#: includes/functions/form-handlers.php:674
-msgid "No field provided."
-msgstr ""
+#: includes/functions/form-handlers.php:648
+msgid "Security Issue"
+msgstr "安全问题"
 
-#: includes/functions/form-handlers.php:727
+#: includes/functions/form-handlers.php:660
+#, fuzzy
+#| msgid "Email"
+msgid "Email Error"
+msgstr "邮箱"
+
+#: includes/functions/form-handlers.php:661
+#, fuzzy
+#| msgid "Target Email address is not properly configured!"
+msgid "Target email address is not properly configured!"
+msgstr "目标电子邮件地址配置不正确！"
+
+#: includes/functions/form-handlers.php:673
+msgid "Invalid Email"
+msgstr "无效的电子邮件"
+
+#: includes/functions/form-handlers.php:674
+#, fuzzy
+#| msgid "Provided Email address is invalid!"
+msgid "Provided email address is invalid!"
+msgstr "提供电子邮件地址无效！"
+
+#: includes/functions/form-handlers.php:682
+#, fuzzy
+msgid "A New Report is Received!"
+msgstr "收到新报告！"
+
+#: includes/functions/form-handlers.php:683
+msgid "User Feedback"
+msgstr "用户反馈"
+
+#: includes/functions/form-handlers.php:741
+msgid "User Message"
+msgstr "用户信息"
+
+#: includes/functions/form-handlers.php:760
+msgid "User Email"
+msgstr "用户邮箱"
+
+#: includes/functions/form-handlers.php:797
+msgid "Server Error"
+msgstr "服务器错误"
+
+#: includes/functions/form-handlers.php:798
+#, fuzzy
+#| msgid "Server Error: WordPress mail function failed!"
+msgid "WordPress mail function failed!"
+msgstr "服务器错误：WordPress邮件功能失败!"
+
+#: includes/functions/form-handlers.php:806
+#: includes/functions/form-handlers.php:1308
+msgid "Invalid Request!"
+msgstr "无效的请求！"
+
+#: includes/functions/form-handlers.php:807
+#, fuzzy
+#| msgid "Target Email address is not properly configured!"
+msgid "The email address is not properly configured!"
+msgstr "目标电子邮件地址配置不正确！"
+
+#: includes/functions/form-handlers.php:868
+#, fuzzy
+msgid "No field provided."
+msgstr "未提供字段。"
+
+#: includes/functions/form-handlers.php:922
 msgid "Email Template"
 msgstr "邮件模板"
 
-#: includes/functions/form-handlers.php:739
+#: includes/functions/form-handlers.php:934
 msgid "Header Content"
 msgstr "页眉内容"
 
-#: includes/functions/form-handlers.php:740
+#: includes/functions/form-handlers.php:935
+#, fuzzy
 msgid "Content to include in email template header"
-msgstr ""
+msgstr "要包含在电子邮件模板标头中的内容"
 
-#: includes/functions/form-handlers.php:744
+#: includes/functions/form-handlers.php:939
+#, fuzzy
 msgid "Logo or Custom Image"
-msgstr ""
+msgstr "徽标或自定义图像"
 
-#: includes/functions/form-handlers.php:745
+#: includes/functions/form-handlers.php:940
+#, fuzzy
 msgid "Title ( by default: Site Title )"
-msgstr ""
+msgstr "标题（默认：网站标题）"
 
-#: includes/functions/form-handlers.php:746
+#: includes/functions/form-handlers.php:941
 msgid "Both"
 msgstr "两者"
 
-#: includes/functions/form-handlers.php:747
+#: includes/functions/form-handlers.php:942
 #: includes/mb/main/inc/fields/select.php:92
-#: includes/mb/meta-box-helper-functions.php:52
-#: includes/mb/meta-box-helper-functions.php:84
-#: includes/mb/property-additional-fields.php:196
-#: includes/mb/property-additional-fields.php:371
-#: includes/mb/property-additional-fields.php:414
-#: includes/mb/property-additional-fields.php:460
-#: includes/mb/property-additional-fields.php:499
-#: includes/mb/property-additional-fields.php:540
+#: includes/mb/meta-box-helper-functions.php:61
+#: includes/mb/meta-box-helper-functions.php:93
+#: includes/mb/property-additional-fields.php:212
+#: includes/mb/property-additional-fields.php:536
 #: includes/mb/property-additional-fields.php:579
+#: includes/mb/property-additional-fields.php:627
+#: includes/mb/property-additional-fields.php:666
+#: includes/mb/property-additional-fields.php:709
+#: includes/mb/property-additional-fields.php:747
 #: includes/mb/property/energy-metaboxes.php:37
 #: includes/mb/property/energy-metaboxes.php:49
+#: includes/widgets/advance-search-widget.php:102
 msgid "None"
 msgstr "无"
 
-#: includes/functions/form-handlers.php:758
+#: includes/functions/form-handlers.php:953
 msgid "Header Image"
 msgstr "标题图片"
 
-#: includes/functions/form-handlers.php:769
+#: includes/functions/form-handlers.php:964
 msgid "Header Title"
 msgstr "页眉标题"
 
-#: includes/functions/form-handlers.php:782
+#: includes/functions/form-handlers.php:977
 msgid "Header Title Color"
 msgstr "标题颜色"
 
-#: includes/functions/form-handlers.php:812
+#: includes/functions/form-handlers.php:1008
 msgid "Background Color"
 msgstr "背景颜色"
 
-#: includes/functions/form-handlers.php:824
+#: includes/functions/form-handlers.php:1020
 msgid "Body Links Color"
 msgstr "主体链接颜色"
 
-#: includes/functions/form-handlers.php:845
+#: includes/functions/form-handlers.php:1041
 msgid "Footer Text"
 msgstr "页脚文本"
 
-#: includes/functions/form-handlers.php:858
+#: includes/functions/form-handlers.php:1054
 msgid "Footer Text Color"
 msgstr "页脚文本颜色"
 
-#: includes/functions/form-handlers.php:869
+#: includes/functions/form-handlers.php:1065
 msgid "Footer Link Color"
 msgstr "页脚链接颜色"
+
+#: includes/functions/form-handlers.php:1150
+#, fuzzy
+#| msgid "No Property found"
+msgid "Property ID is not found!"
+msgstr "没有找到房源"
+
+#: includes/functions/form-handlers.php:1183
+#, fuzzy
+msgid "Property Tour is requested by - "
+msgstr "物业参观要求 -"
+
+#: includes/functions/form-handlers.php:1206
+msgid "Selected Date"
+msgstr "选择日期"
+
+#: includes/functions/form-handlers.php:1213
+#, fuzzy
+#| msgid "Select File"
+msgid "Selected Time"
+msgstr "选择文件"
 
 #: includes/functions/gdpr.php:40 includes/settings/gdpr.php:10
 msgid "* Please accept GDPR agreement"
@@ -1095,8 +1454,9 @@ msgid "The secret parameter is missing."
 msgstr ""
 
 #: includes/functions/google-recaptcha.php:153
+#, fuzzy
 msgid "The secret parameter is invalid or malformed."
-msgstr ""
+msgstr "secret参数无效或格式错误。"
 
 #: includes/functions/google-recaptcha.php:154
 msgid "The response parameter is missing."
@@ -1158,8 +1518,9 @@ msgid "Oops! Something went wrong while resetting your password!"
 msgstr "哎呀!重置密码时出错！"
 
 #: includes/functions/members.php:145
-msgid "A new user is registered on your site with the following infromation."
-msgstr ""
+#, fuzzy
+msgid "A new user is registered on your site with the following information."
+msgstr "在您的网站上注册了一个新用户，其中包含以下信息。"
 
 #: includes/functions/members.php:149
 msgid "Username"
@@ -1170,7 +1531,7 @@ msgstr "用户名"
 msgid "[%s] New User Registration"
 msgstr "[%s] 新用户注册"
 
-#: includes/functions/members.php:167 includes/functions/members.php:187
+#: includes/functions/members.php:167 includes/functions/members.php:205
 #: includes/mb/main/inc/about/sections/welcome.php:14
 #, php-format
 msgid "Welcome to %s"
@@ -1180,21 +1541,31 @@ msgstr "欢迎来到 %s"
 msgid "Your Username"
 msgstr "您的用户名"
 
-#: includes/functions/members.php:176
+#: includes/functions/members.php:181
+#, fuzzy
+msgid "To set your password, visit the following address"
+msgstr "要设置密码，请访问以下地址"
+
+#: includes/functions/members.php:187
+msgid "Login URL"
+msgstr "登录网址"
+
+#: includes/functions/members.php:193
 msgid "Your Password"
 msgstr "你的密码"
 
-#: includes/functions/members.php:182
+#: includes/functions/members.php:199
 msgid "It is highly recommended to change your password after login."
 msgstr "强烈建议您在登录后更改密码。"
 
-#: includes/functions/members.php:182
+#: includes/functions/members.php:199
 msgid "For more details visit:"
 msgstr "欲了解更多信息:"
 
 #: includes/functions/plugin-update.php:80
+#, fuzzy
 msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
-msgstr ""
+msgstr "API 请求期间发生意外的 HTTP 错误。再试一次！"
 
 #: includes/functions/plugin-update.php:85
 msgid "An unknown error occurred"
@@ -1209,9 +1580,9 @@ msgid "Price On Call"
 msgstr "电话询价"
 
 #: includes/functions/property-submit.php:43
-#, php-format
+#, fuzzy, php-format
 msgid "A new property is submitted at %s"
-msgstr ""
+msgstr "%s将以%s提交新房产"
 
 #: includes/functions/property-submit.php:45
 #, php-format
@@ -1219,30 +1590,33 @@ msgid "A new property is submitted by %s at %s"
 msgstr "%s将以%s提交新房产"
 
 #: includes/functions/property-submit.php:54
+#, fuzzy
 msgid "A new property is submitted"
-msgstr ""
+msgstr "%s将以%s提交新房产"
 
 #: includes/functions/property-submit.php:59
-#, php-format
+#, fuzzy, php-format
 msgid "A new property is submitted by %s"
-msgstr ""
+msgstr "%s将以%s提交新房产"
 
 #: includes/functions/property-submit.php:68
+#, fuzzy
 msgid "Property Preview Link"
-msgstr ""
+msgstr "物业预览链接"
 
 #: includes/functions/property-submit.php:78
 msgid "Message to the Reviewer"
 msgstr "评论者消息"
 
 #: includes/functions/property-submit.php:86
+#, fuzzy
 msgid "Submitter Email"
-msgstr ""
+msgstr "提交者电子邮件"
 
 #: includes/functions/property-submit.php:148
-#, php-format
+#, fuzzy, php-format
 msgid "Property Published: %s"
-msgstr ""
+msgstr "房地产发布： %s"
 
 #: includes/functions/property-submit.php:154
 #, php-format
@@ -1250,17 +1624,19 @@ msgid "Hello %s,"
 msgstr "您好 %s,"
 
 #: includes/functions/property-submit.php:155
-#, php-format
+#, fuzzy, php-format
 msgid "We have published your property \"%s\"."
-msgstr ""
+msgstr "我们已将您的财产“%s”发布。"
 
 #: includes/functions/property-submit.php:159
+#, fuzzy
 msgid "You can view it here."
-msgstr ""
+msgstr "您可以在此处查看。"
 
 #: includes/functions/property-submit.php:165
+#, fuzzy
 msgid "Thanks for Submitting."
-msgstr ""
+msgstr "感谢提交房产！"
 
 #: includes/functions/purchase-api.php:117
 msgid "Please enter an item purchase code."
@@ -1274,7 +1650,7 @@ msgstr "请提供有效的购买代码！"
 msgid "Problem in connecting..."
 msgstr "连接问题..."
 
-#: includes/functions/real-estate.php:79
+#: includes/functions/real-estate.php:104
 msgid "Any"
 msgstr "任何"
 
@@ -1287,127 +1663,170 @@ msgid "Agent Details"
 msgstr "中介人详情"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:20
-#: includes/mb/agent-agency-meta-boxes-config.php:184
+#: includes/mb/agent-agency-meta-boxes-config.php:202
 msgid "Contact"
 msgstr "联系"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:31
-#: includes/mb/agent-agency-meta-boxes-config.php:196
+#: includes/mb/agent-agency-meta-boxes-config.php:214
 msgid "Mobile Number"
 msgstr "手机号码"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:38
-#: includes/mb/agent-agency-meta-boxes-config.php:203
+#: includes/mb/agent-agency-meta-boxes-config.php:221
 msgid "Office Number"
 msgstr "办公电话"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:45
-#: includes/mb/agent-agency-meta-boxes-config.php:210
+#: includes/mb/agent-agency-meta-boxes-config.php:228
 msgid "WhatsApp Number"
 msgstr "WhatsApp号码"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:52
-#: includes/mb/agent-agency-meta-boxes-config.php:217
+#: includes/mb/agent-agency-meta-boxes-config.php:235
 msgid "Fax Number"
 msgstr "传真号码"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:59
-#: includes/mb/agent-agency-meta-boxes-config.php:224
+#: includes/mb/agent-agency-meta-boxes-config.php:242
 msgid "Website"
 msgstr "网站"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:66
-#: includes/mb/agent-agency-meta-boxes-config.php:231
+msgid "License Number"
+msgstr "许可证编号"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:73
+#: includes/mb/agent-agency-meta-boxes-config.php:249
 msgid "Address"
 msgstr "地址"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:78
-#: includes/mb/agent-agency-meta-boxes-config.php:243
+#: includes/mb/agent-agency-meta-boxes-config.php:80
+msgid "Mark as Verified"
+msgstr "标记为已验证"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:85
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property/banner-metaboxes.php:51
+#: includes/mb/property/basic-metaboxes.php:189
+#: includes/mb/property/gallery-metaboxes.php:63
+#: includes/mb/property/location-metaboxes.php:66
+#: includes/mb/property/misc-metaboxes.php:46
+#: includes/mb/property/misc-metaboxes.php:176
+#: includes/mb/templates-meta-boxes-config.php:141
+#: includes/mb/templates-meta-boxes-config.php:151
+#: includes/settings/gdpr.php:33 includes/settings/gdpr.php:75
+#: includes/settings/map.php:105 includes/shortcodes/vc-map.php:279
+msgid "Yes"
+msgstr "是"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:86
+#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/property/banner-metaboxes.php:52
+#: includes/mb/property/basic-metaboxes.php:190
+#: includes/mb/property/gallery-metaboxes.php:64
+#: includes/mb/property/homeslider-metaboxes.php:41
+#: includes/mb/property/location-metaboxes.php:67
+#: includes/mb/property/misc-metaboxes.php:47
+#: includes/mb/property/misc-metaboxes.php:177
+#: includes/mb/templates-meta-boxes-config.php:142
+#: includes/mb/templates-meta-boxes-config.php:152
+#: includes/settings/gdpr.php:38 includes/settings/gdpr.php:80
+#: includes/settings/map.php:110 includes/shortcodes/vc-map.php:278
+#, fuzzy
+msgid "No"
+msgstr "否"
+
+#: includes/mb/agent-agency-meta-boxes-config.php:97
+#: includes/mb/agent-agency-meta-boxes-config.php:261
 msgid "Email Address"
 msgstr "电子邮件地址"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:80
+#: includes/mb/agent-agency-meta-boxes-config.php:99
+#, fuzzy
 msgid ""
 "Messages from default agent form on property single will be sent to this "
 "address."
-msgstr ""
+msgstr "来自属性单一的默认代理表单的消息将发送到此地址。"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:86
+#: includes/mb/agent-agency-meta-boxes-config.php:105
 msgid "Shortcode to Replace Default Agent Form"
 msgstr "替换默认代理表格的简码"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:88
+#: includes/mb/agent-agency-meta-boxes-config.php:107
 msgid ""
 "Default agent form can be replaced with custom form using contact form 7 or "
 "WPForms plugin shortcode."
 msgstr "默认代理表单可以使用联系人表单 7 或 WPForms 插件缩写替换为自定义表单。"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:99
+#: includes/mb/agent-agency-meta-boxes-config.php:118
 msgid "Select Agency If Any"
 msgstr "选择代理（如果有）"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:112
-#: includes/mb/agent-agency-meta-boxes-config.php:265
+#: includes/mb/agent-agency-meta-boxes-config.php:131
+#: includes/mb/agent-agency-meta-boxes-config.php:283
 #: includes/settings/social.php:86
 msgid "Facebook URL"
 msgstr "Facebook网址"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:119
-#: includes/mb/agent-agency-meta-boxes-config.php:272
+#: includes/mb/agent-agency-meta-boxes-config.php:138
+#: includes/mb/agent-agency-meta-boxes-config.php:290
 #: includes/settings/social.php:93
 msgid "Twitter URL"
 msgstr "Twitter URL"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:126
-#: includes/mb/agent-agency-meta-boxes-config.php:279
+#: includes/mb/agent-agency-meta-boxes-config.php:145
+#: includes/mb/agent-agency-meta-boxes-config.php:297
 msgid "LinkedIn URL"
 msgstr "LinkedIn URL"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:133
-#: includes/mb/agent-agency-meta-boxes-config.php:286
+#: includes/mb/agent-agency-meta-boxes-config.php:152
+#: includes/mb/agent-agency-meta-boxes-config.php:304
 #: includes/settings/social.php:106
 msgid "Instagram URL"
 msgstr "Instagram URL"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:140
-#: includes/mb/agent-agency-meta-boxes-config.php:293
+#: includes/mb/agent-agency-meta-boxes-config.php:159
+#: includes/mb/agent-agency-meta-boxes-config.php:311
 #: includes/settings/social.php:114
 msgid "Pinterest URL"
 msgstr "Pinterest网址"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:147
-#: includes/mb/agent-agency-meta-boxes-config.php:300
+#: includes/mb/agent-agency-meta-boxes-config.php:166
+#: includes/mb/agent-agency-meta-boxes-config.php:318
 msgid "Youtube URL"
 msgstr "Youtube URL"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:178
+#: includes/mb/agent-agency-meta-boxes-config.php:196
 msgid "Provide Related Information"
 msgstr "提供相关信息"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:245
+#: includes/mb/agent-agency-meta-boxes-config.php:263
+#, fuzzy
 msgid "Messages from default agency form will be sent to this address."
-msgstr ""
+msgstr "来自默认代理表单的消息将发送到此地址。"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:251
+#: includes/mb/agent-agency-meta-boxes-config.php:269
 msgid "Shortcode to Replace Default Agency Form"
 msgstr "替换默认代理窗体的简短代码"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:253
+#: includes/mb/agent-agency-meta-boxes-config.php:271
 msgid ""
 "Default agency form can be replaced with custom form using contact form 7 or "
 "WPForms plugin shortcode."
 msgstr "可以使用联系表7或WPForms插件短代码将默认代理机构表单替换为自定义表单。"
 
-#: includes/mb/class-ere-meta-boxes.php:140
+#: includes/mb/class-ere-meta-boxes.php:141
 msgid "Meta Box plugin has been deactivated!"
 msgstr "元框插件已停用！"
 
-#: includes/mb/class-ere-meta-boxes.php:141
+#: includes/mb/class-ere-meta-boxes.php:143
+#, fuzzy
 msgid ""
 "As similar functionality is already embedded with in Easy Real Estate plugin."
-msgstr ""
+msgstr "由于类似的功能已经嵌入在Easy Real Estate插件中。"
 
-#: includes/mb/class-ere-meta-boxes.php:143
+#: includes/mb/class-ere-meta-boxes.php:145
 msgid "So, You should completely remove it from your plugins."
 msgstr "所以，你应该完全删除它。"
 
@@ -1473,14 +1892,15 @@ msgstr "仪表盘"
 #: includes/mb/main/inc/about/about.php:156
 #, php-format
 msgid ""
-"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank"
-"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target="
-"\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the "
-"Meta Box team!"
+"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" "
+"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a "
+"href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us spread the "
+"word. Thank you from the Meta Box team!"
 msgstr ""
 "请对 <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;"
-"&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank"
-"\">WordPress.org</a> 来帮助我们传播信息，来自Meta Box团队的感谢!"
+"&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" "
+"target=\"_blank\">WordPress.org</a> 来帮助我们传播信息，来自Meta Box团队的感"
+"谢!"
 
 #: includes/mb/main/inc/about/sections/extensions.php:11
 msgid ""
@@ -1676,8 +2096,8 @@ msgid ""
 "Still need help with Meta Box? We offer excellent support for you. But don't "
 "forget to check our <a href=\"%s\">documentation</a> first."
 msgstr ""
-"元标签框还需要帮助吗？我们为您提供极好的支持。但不要忘记先检查我们的 \"href ="
-"\" %s \"文档 </a>。"
+"元标签框还需要帮助吗？我们为您提供极好的支持。但不要忘记先检查我们的 \"href "
+"=\" %s \"文档 </a>。"
 
 #: includes/mb/main/inc/about/sections/support.php:23
 msgid "Free Support"
@@ -1718,8 +2138,9 @@ msgid "Go to support forum"
 msgstr "转到支持论坛"
 
 #: includes/mb/main/inc/about/sections/tabs.php:10
+#, fuzzy
 msgid "Getting Started"
-msgstr ""
+msgstr "入门"
 
 #: includes/mb/main/inc/about/sections/tabs.php:13
 #: includes/mb/main/inc/about/sections/welcome.php:22
@@ -1891,42 +2312,16 @@ msgstr "包含"
 msgid "Click me"
 msgstr "点击我"
 
-#: includes/mb/main/inc/fields/checkbox.php:53
-#: includes/mb/property/banner-metaboxes.php:51
-#: includes/mb/property/basic-metaboxes.php:189
-#: includes/mb/property/gallery-metaboxes.php:63
-#: includes/mb/property/location-metaboxes.php:60
-#: includes/mb/property/misc-metaboxes.php:46
-#: includes/mb/property/misc-metaboxes.php:176
-#: includes/mb/templates-meta-boxes-config.php:141
-#: includes/settings/gdpr.php:33 includes/settings/gdpr.php:75
-#: includes/settings/map.php:49 includes/shortcodes/vc-map.php:279
-msgid "Yes"
-msgstr "是"
-
-#: includes/mb/main/inc/fields/checkbox.php:53
-#: includes/mb/property/banner-metaboxes.php:52
-#: includes/mb/property/basic-metaboxes.php:190
-#: includes/mb/property/gallery-metaboxes.php:64
-#: includes/mb/property/homeslider-metaboxes.php:41
-#: includes/mb/property/location-metaboxes.php:61
-#: includes/mb/property/misc-metaboxes.php:47
-#: includes/mb/property/misc-metaboxes.php:177
-#: includes/mb/templates-meta-boxes-config.php:142
-#: includes/settings/gdpr.php:38 includes/settings/gdpr.php:80
-#: includes/settings/map.php:54 includes/shortcodes/vc-map.php:278
-msgid "No"
-msgstr ""
-
 #: includes/mb/main/inc/fields/file-input.php:23
 msgid "Select File"
 msgstr "选择文件"
 
 #: includes/mb/main/inc/fields/file-input.php:43
 #: includes/mb/main/inc/fields/select.php:92
-#: includes/mb/property-additional-fields.php:114
+#: includes/mb/property-additional-fields.php:129
+#, fuzzy
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #: includes/mb/main/inc/fields/file.php:24
 #, php-format
@@ -2078,8 +2473,9 @@ msgid "Select an user"
 msgstr "选择一个用户"
 
 #: includes/mb/main/inc/loader.php:119
+#, fuzzy
 msgid "Dismiss all Meta Box news"
-msgstr ""
+msgstr "关闭所有元盒新闻"
 
 #: includes/mb/main/inc/loader.php:120
 msgid "Are you sure to dismiss all Meta Box news?"
@@ -2102,17 +2498,17 @@ msgid ""
 "out on automatic updates and support! Please <a href=\"%1$s\">enter your "
 "license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
-"您尚未设置Meta Box许可证密钥，这意味着您缺少自动更新和支持！ 请<a href=\"%1$s"
-"\">输入您的许可证密钥</a>，或<a href=\"%2$s\" target=\"_blank\">在此处获取新"
-"的许可证</a>。"
+"您尚未设置Meta Box许可证密钥，这意味着您缺少自动更新和支持！ 请<a "
+"href=\"%1$s\">输入您的许可证密钥</a>，或<a href=\"%2$s\" target=\"_blank\">在"
+"此处获取新的许可证</a>。"
 
 #: includes/mb/main/inc/update/notification.php:114
 #: includes/mb/main/inc/update/notification.php:116
 #, php-format
 msgid ""
-"Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s"
-"\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a "
-"new one</a> to enable automatic updates."
+"Your license key for Meta Box is <b>invalid</b>. Please <a "
+"href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" "
+"target=\"_blank\">get a new one</a> to enable automatic updates."
 msgstr ""
 "您的Meta Box许可证密钥<b>无效</b> 。请<a href=\"%1$s\">更新您的许可证密钥</a>"
 "或<a href=\"%2$s\" target=\"_blank\">获取新</a> <a href=\"%1$s\">密钥</a>以启"
@@ -2151,8 +2547,8 @@ msgstr ""
 #: includes/mb/main/inc/update/notification.php:148
 #, php-format
 msgid ""
-"Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank"
-"\">renew your license</a>."
+"Your license key is <b>expired</b>. Please <a href=\"%3$s\" "
+"target=\"_blank\">renew your license</a>."
 msgstr ""
 "您的许可证密钥已<b>过期</b> 。请<a href=\"%3$s\" target=\"_blank\">续签您的许"
 "可证</a> 。"
@@ -2188,9 +2584,9 @@ msgid ""
 "extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
 "here</a>."
 msgstr ""
-"要获取许可证密钥，请访问metabox.io网站上的“ <a href=\"%1$s\" target=\"_blank"
-"\">我的帐户”</a>页面。如果您尚未购买任何扩展程序，请<a href=\"%2$s\" target="
-"\"_blank\">在此处获取新的许可证</a> 。"
+"要获取许可证密钥，请访问metabox.io网站上的“ <a href=\"%1$s\" "
+"target=\"_blank\">我的帐户”</a>页面。如果您尚未购买任何扩展程序，请<a "
+"href=\"%2$s\" target=\"_blank\">在此处获取新的许可证</a> 。"
 
 #: includes/mb/main/inc/update/settings.php:108
 msgid "License Key"
@@ -2203,14 +2599,14 @@ msgid ""
 "Your license key is <b>invalid</b>. Please update your license key or <a "
 "href=\"%1$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
-"您的许可证密钥<b>无效</b> 。请更新您的许可证密钥或<a href=\"%1$s\" target="
-"\"_blank\">在此处获取新的</a>许可证密钥。"
+"您的许可证密钥<b>无效</b> 。请更新您的许可证密钥或<a href=\"%1$s\" "
+"target=\"_blank\">在此处获取新的</a>许可证密钥。"
 
 #: includes/mb/main/inc/update/settings.php:117
 #, php-format
 msgid ""
-"Your license key is <b>expired</b>. Please <a href=\"%2$s\" target=\"_blank"
-"\">renew your license</a>."
+"Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
+"target=\"_blank\">renew your license</a>."
 msgstr ""
 "您的许可证密钥已<b>过期</b> 。请<a href=\"%2$s\" target=\"_blank\">续签您的许"
 "可证</a> 。"
@@ -2221,9 +2617,9 @@ msgstr "您的许可证密钥已<b>激活</b> 。"
 
 #: includes/mb/main/inc/update/settings.php:131
 #: includes/settings/captcha.php:79 includes/settings/gdpr.php:89
-#: includes/settings/map.php:98 includes/settings/price.php:301
-#: includes/settings/property-analytics.php:83
-#: includes/settings/property.php:115 includes/settings/slug.php:66
+#: includes/settings/map.php:187 includes/settings/price.php:301
+#: includes/settings/property-analytics.php:104
+#: includes/settings/property.php:115 includes/settings/slug.php:78
 #: includes/settings/social.php:343 includes/settings/webhooks.php:61
 msgid "Save Changes"
 msgstr "保存更改"
@@ -2252,9 +2648,9 @@ msgid ""
 "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
 "or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
 msgstr ""
-"无效的许可证。请<a href=\"%2$s\" target=\"_blank\">在此处</a> <a href=\"%1$s"
-"\" target=\"_blank\">再次检查</a>或<a href=\"%2$s\" target=\"_blank\">获取新"
-"许可证</a> 。"
+"无效的许可证。请<a href=\"%2$s\" target=\"_blank\">在此处</a> <a "
+"href=\"%1$s\" target=\"_blank\">再次检查</a>或<a href=\"%2$s\" "
+"target=\"_blank\">获取新许可证</a> 。"
 
 #: includes/mb/main/inc/validation.php:43
 msgid "Please correct the errors highlighted below and try again."
@@ -2265,18 +2661,24 @@ msgid ""
 "Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
 msgstr "Meta Box需要PHP 5.3+版本。请联系您的主机进行升级。"
 
-#: includes/mb/meta-box-helper-functions.php:116
+#: includes/mb/meta-box-helper-functions.php:125
+#, fuzzy
 msgid ""
 "Images should have minimum size of 1240px by 720px. Bigger size images will "
 "be cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
+"图片的最小尺寸应为 1240 像素 x 720 像素。较大尺寸的图像将自动裁剪。显示图库至"
+"少需要 2 张图像。"
 
-#: includes/mb/meta-box-helper-functions.php:120
+#: includes/mb/meta-box-helper-functions.php:129
+#, fuzzy
 msgid ""
 "Images should have minimum size of 1170px by 648px for thumbnails on right "
 "and 830px by 460px for thumbnails on bottom. Bigger size images will be "
 "cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
+"图片右侧缩略图的最小尺寸应为 1170 x 648 像素，底部缩略图的最小尺寸应为 830 x "
+"460 像素。较大尺寸的图像将自动裁剪。显示图库至少需要 2 张图像。"
 
 #: includes/mb/partner-meta-boxes-config.php:14
 msgid "Partner Information"
@@ -2290,82 +2692,96 @@ msgstr "网址"
 msgid "Provide Website URL"
 msgstr "提供网站URL"
 
-#: includes/mb/property-additional-fields.php:73
-msgid "New Fields Builder"
-msgstr ""
-
 #: includes/mb/property-additional-fields.php:88
-msgid "Add New Property Fields"
-msgstr ""
+#, fuzzy
+msgid "New Fields Builder"
+msgstr "新字段生成器"
 
-#: includes/mb/property-additional-fields.php:101
+#: includes/mb/property-additional-fields.php:103
+#, fuzzy
+msgid "Add New Property Fields"
+msgstr "添加新属性字段"
+
+#: includes/mb/property-additional-fields.php:116
 msgid "Field Name"
 msgstr "字段名称"
 
-#: includes/mb/property-additional-fields.php:102
+#: includes/mb/property-additional-fields.php:117
+#, fuzzy
 msgid ""
 "Keep it short and unique. Do not use any special Characters. Example: First "
 "Additional Field"
-msgstr ""
+msgstr "保持简短和独特。不要使用任何特殊字符。示例：第一个附加字段"
 
-#: includes/mb/property-additional-fields.php:107
+#: includes/mb/property-additional-fields.php:122
 msgid "Field Type"
 msgstr "字段类型"
 
-#: includes/mb/property-additional-fields.php:112
+#: includes/mb/property-additional-fields.php:127
 msgid "Text"
 msgstr "文本"
 
-#: includes/mb/property-additional-fields.php:113
+#: includes/mb/property-additional-fields.php:128
+#, fuzzy
 msgid "Text Multiple Line"
-msgstr ""
+msgstr "文本多行"
 
-#: includes/mb/property-additional-fields.php:115
+#: includes/mb/property-additional-fields.php:130
 msgid "Checkbox List"
 msgstr "复选框列表"
 
-#: includes/mb/property-additional-fields.php:116
+#: includes/mb/property-additional-fields.php:131
 msgid "Radio"
 msgstr "单选"
 
-#: includes/mb/property-additional-fields.php:120
+#: includes/mb/property-additional-fields.php:135
 msgid "Field Options"
 msgstr "字段选项"
 
-#: includes/mb/property-additional-fields.php:121
+#: includes/mb/property-additional-fields.php:136
+#, fuzzy
 msgid "Please add comma separated options. Example: One, Two, Three"
-msgstr ""
+msgstr "请添加逗号分隔的选项。示例：一、二、三"
 
-#: includes/mb/property-additional-fields.php:127
+#: includes/mb/property-additional-fields.php:142
 msgid "Field Icon"
 msgstr "字段图标"
 
-#: includes/mb/property-additional-fields.php:128
-#, php-format
+#: includes/mb/property-additional-fields.php:143
+#, fuzzy, php-format
 msgid "You can use the %s. You just need to add the icon class like %s "
-msgstr ""
+msgstr "您可以使用%s。您只需要添加图标类，例如%s"
 
-#: includes/mb/property-additional-fields.php:128
+#: includes/mb/property-additional-fields.php:143
 msgid "Font Awesome Icons"
 msgstr "Font Awesome图标"
 
-#: includes/mb/property-additional-fields.php:133
+#: includes/mb/property-additional-fields.php:148
+#, fuzzy
 msgid "Where do you want to display this field?"
-msgstr ""
+msgstr "要在哪里显示此字段？"
 
-#: includes/mb/property-additional-fields.php:137
+#: includes/mb/property-additional-fields.php:152
 msgid "Advance Search Form"
 msgstr "高级搜索表单"
 
-#: includes/mb/property-additional-fields.php:138
+#: includes/mb/property-additional-fields.php:153
+#, fuzzy
 msgid "Property Submit Page"
-msgstr ""
+msgstr "住宿提交页面"
 
-#: includes/mb/property-additional-fields.php:139
+#: includes/mb/property-additional-fields.php:154
+#, fuzzy
+#| msgid "Property Locations"
+msgid "Property Listing Cards"
+msgstr "房源位置"
+
+#: includes/mb/property-additional-fields.php:155
+#, fuzzy
 msgid "Property Single Page"
-msgstr ""
+msgstr "属性单页"
 
-#: includes/mb/property-additional-fields.php:165
+#: includes/mb/property-additional-fields.php:181
 msgid "Additional Fields"
 msgstr "附加字段"
 
@@ -2398,14 +2814,18 @@ msgid "Top Banner Image"
 msgstr "顶部的横幅图像"
 
 #: includes/mb/property/banner-metaboxes.php:36
+#, fuzzy
 msgid ""
 "You can upload banner image specific for this property to override default "
 "one. Recommended minimum image size is 2000px by 230px."
 msgstr ""
+"您可以上传特定于此属性的横幅图像以覆盖默认横幅图像。建议的最小图像大小为 "
+"2000 x 230 像素。"
 
 #: includes/mb/property/banner-metaboxes.php:47
+#, fuzzy
 msgid "Hide Search Form in Header ?"
-msgstr ""
+msgstr "在标题中隐藏搜索表单？"
 
 #: includes/mb/property/basic-metaboxes.php:12
 msgid "Basic Information"
@@ -2416,40 +2836,45 @@ msgid "Sale or Rent Price ( Only digits )"
 msgstr "出售、出租价格（仅数字）"
 
 #: includes/mb/property/basic-metaboxes.php:54
+#, fuzzy
 msgid "Example: 12500"
-msgstr ""
+msgstr "示例：12500"
 
 #: includes/mb/property/basic-metaboxes.php:62
+#, fuzzy
 msgid "Old Price If Any ( Only digits )"
-msgstr ""
+msgstr "旧价格（如果有）（仅数字）"
 
 #: includes/mb/property/basic-metaboxes.php:63
+#, fuzzy
 msgid "Example: 14500"
-msgstr ""
+msgstr "示例：14500"
 
 #: includes/mb/property/basic-metaboxes.php:71
 msgid "Price Prefix"
 msgstr "价格前缀"
 
 #: includes/mb/property/basic-metaboxes.php:72
+#, fuzzy
 msgid "Example: From"
-msgstr ""
+msgstr "示例：从"
 
 #: includes/mb/property/basic-metaboxes.php:80
-#: includes/mb/property/floorplans-metaboxes.php:61
+#: includes/mb/property/floorplans-metaboxes.php:62
 msgid "Price Postfix"
 msgstr "价格后缀"
 
 #: includes/mb/property/basic-metaboxes.php:81
+#, fuzzy
 msgid "Example: Monthly or Per Night"
-msgstr ""
+msgstr "示例：每月或每晚"
 
 #: includes/mb/property/basic-metaboxes.php:101
 msgid "Area Size ( Only digits )"
 msgstr "面积（仅数字）"
 
 #: includes/mb/property/basic-metaboxes.php:102
-#: includes/mb/property/floorplans-metaboxes.php:70
+#: includes/mb/property/floorplans-metaboxes.php:71
 msgid "Example: 2500"
 msgstr "例如：2500"
 
@@ -2459,7 +2884,7 @@ msgstr "区域大小后缀"
 
 #: includes/mb/property/basic-metaboxes.php:111
 #: includes/mb/property/basic-metaboxes.php:129
-#: includes/mb/property/floorplans-metaboxes.php:77
+#: includes/mb/property/floorplans-metaboxes.php:78
 msgid "Example: sq ft"
 msgstr "例如：平方米"
 
@@ -2468,34 +2893,35 @@ msgid "Lot Size ( Only digits )"
 msgstr "土地面积（仅数字）"
 
 #: includes/mb/property/basic-metaboxes.php:120
+#, fuzzy
 msgid "Example: 3000"
-msgstr ""
+msgstr "示例：3000"
 
 #: includes/mb/property/basic-metaboxes.php:128
 msgid "Lot Size Postfix"
 msgstr "批量大小的后缀"
 
 #: includes/mb/property/basic-metaboxes.php:137
-#: includes/mb/property/floorplans-metaboxes.php:82
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:13
-#: includes/widgets/grid-cards/grid-card-1.php:97
+#: includes/mb/property/floorplans-metaboxes.php:83
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:10
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:13
 msgid "Bedrooms"
 msgstr "卧室"
 
 #: includes/mb/property/basic-metaboxes.php:138
-#: includes/mb/property/floorplans-metaboxes.php:84
+#: includes/mb/property/floorplans-metaboxes.php:85
 msgid "Example: 4"
 msgstr "例如：4"
 
 #: includes/mb/property/basic-metaboxes.php:146
-#: includes/mb/property/floorplans-metaboxes.php:89
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:19
-#: includes/widgets/grid-cards/grid-card-1.php:118
+#: includes/mb/property/floorplans-metaboxes.php:90
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:16
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:19
 msgid "Bathrooms"
 msgstr "浴室"
 
 #: includes/mb/property/basic-metaboxes.php:147
-#: includes/mb/property/floorplans-metaboxes.php:91
+#: includes/mb/property/floorplans-metaboxes.php:92
 msgid "Example: 2"
 msgstr "例如：2"
 
@@ -2516,8 +2942,9 @@ msgid "Year Built"
 msgstr "建造年份"
 
 #: includes/mb/property/basic-metaboxes.php:177
+#, fuzzy
 msgid "Example: 2017"
-msgstr ""
+msgstr "示例：2017"
 
 #: includes/mb/property/basic-metaboxes.php:184
 msgid "Mark this property as featured ?"
@@ -2545,8 +2972,9 @@ msgid "Recommended image size for icon is 64px by 64px."
 msgstr "建议的图标大小为64像素×64像素。"
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:85
+#, fuzzy
 msgid "Property Status Tag Colors"
-msgstr ""
+msgstr "属性状态标记颜色"
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:89
 msgid "Status Tag Background Color"
@@ -2575,8 +3003,9 @@ msgid "%s Current Rating"
 msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:78
+#, fuzzy
 msgid "Example: 83"
-msgstr ""
+msgstr "示例：83"
 
 #: includes/mb/property/energy-metaboxes.php:86
 #, php-format
@@ -2584,50 +3013,52 @@ msgid "%s Potential Rating"
 msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:87
+#, fuzzy
 msgid "Example: 94"
-msgstr ""
+msgstr "示例：94"
 
 #: includes/mb/property/floorplans-metaboxes.php:12
 msgid "Floor Plans"
 msgstr "楼层平面图"
 
-#: includes/mb/property/floorplans-metaboxes.php:41
+#: includes/mb/property/floorplans-metaboxes.php:42
 msgid "Floor Name"
 msgstr "楼层名称"
 
-#: includes/mb/property/floorplans-metaboxes.php:43
+#: includes/mb/property/floorplans-metaboxes.php:44
 msgid "Example: Ground Floor"
 msgstr "例如：首层"
 
-#: includes/mb/property/floorplans-metaboxes.php:48
+#: includes/mb/property/floorplans-metaboxes.php:49
 msgid "Description"
 msgstr "描述"
 
-#: includes/mb/property/floorplans-metaboxes.php:54
+#: includes/mb/property/floorplans-metaboxes.php:55
 msgid "Floor Price ( Only digits )"
 msgstr "楼层价格(仅数字)"
 
-#: includes/mb/property/floorplans-metaboxes.php:56
+#: includes/mb/property/floorplans-metaboxes.php:57
 msgid "Example: 4000"
 msgstr "例如：4000"
 
-#: includes/mb/property/floorplans-metaboxes.php:63
+#: includes/mb/property/floorplans-metaboxes.php:64
+#, fuzzy
 msgid "Example: Per Month or Per Night"
-msgstr ""
+msgstr "示例：每月或每晚"
 
-#: includes/mb/property/floorplans-metaboxes.php:68
+#: includes/mb/property/floorplans-metaboxes.php:69
 msgid "Floor Size ( Only digits )"
 msgstr "楼面面积（仅数字）"
 
-#: includes/mb/property/floorplans-metaboxes.php:75
+#: includes/mb/property/floorplans-metaboxes.php:76
 msgid "Size Postfix"
 msgstr "面积后缀"
 
-#: includes/mb/property/floorplans-metaboxes.php:97
+#: includes/mb/property/floorplans-metaboxes.php:98
 msgid "Floor Plan Image"
 msgstr "房型图"
 
-#: includes/mb/property/floorplans-metaboxes.php:99
+#: includes/mb/property/floorplans-metaboxes.php:100
 msgid "The recommended minimum width is 770px and height is flexible."
 msgstr "建议图片最小宽度为 770px，高度自适应。"
 
@@ -2676,11 +3107,14 @@ msgid "Change Gallery Type"
 msgstr "更改库类型"
 
 #: includes/mb/property/gallery-metaboxes.php:59
+#, fuzzy
 msgid ""
 "It allow you to specify gallery type only for current property by overriding "
 "default gallery type settings provided in Appearance > Customize > Property "
 "Detail Page > Gallery > Gallery Type."
 msgstr ""
+"它允许您仅通过覆盖外观>自定义属性详细信息页面>库>库类型中提供的默认库类型设置"
+">为当前属性指定库类型。"
 
 #: includes/mb/property/gallery-metaboxes.php:70
 msgid "Gallery Type You Want to Use"
@@ -2707,37 +3141,44 @@ msgid "Slider Image"
 msgstr "滑块图像"
 
 #: includes/mb/property/homeslider-metaboxes.php:49
+#, fuzzy
 msgid ""
 "The recommended image size is 1970px by 850px. You can use bigger or smaller "
 "image but try to keep the same height to width ratio and use the exactly "
 "same size images for all properties that will be added in slider."
 msgstr ""
+"建议的图像大小为 1970 像素 x 850 像素。您可以使用更大或更小的图像，但尝试保持"
+"相同的高宽比，并对将在滑块中添加的所有属性使用完全相同大小的图像。"
 
 #: includes/mb/property/location-metaboxes.php:12
 msgid "Location on Map"
 msgstr "地图上位置"
 
-#: includes/mb/property/location-metaboxes.php:34
+#: includes/mb/property/location-metaboxes.php:40
+#, fuzzy
 msgid "Property Location on Map"
-msgstr ""
+msgstr "地图上的物业位置"
 
-#: includes/mb/property/location-metaboxes.php:35
+#: includes/mb/property/location-metaboxes.php:41
+#, fuzzy
 msgid ""
 "Drag the map marker to point property location. Address field given above "
 "can be used to search location."
-msgstr ""
+msgstr "将地图标记拖动到点属性位置。上面给出的地址字段可用于搜索位置。"
 
-#: includes/mb/property/location-metaboxes.php:47
+#: includes/mb/property/location-metaboxes.php:53
 msgid "Property Address"
 msgstr "地址"
 
-#: includes/mb/property/location-metaboxes.php:48
+#: includes/mb/property/location-metaboxes.php:54
+#, fuzzy
 msgid "Leaving it empty will hide the map on property detail page."
-msgstr ""
+msgstr "将其留空将隐藏属性详细信息页面上的地图。"
 
-#: includes/mb/property/location-metaboxes.php:55
+#: includes/mb/property/location-metaboxes.php:61
+#, fuzzy
 msgid "Hide map on property detail page and listings lightbox?"
-msgstr ""
+msgstr "隐藏房产详情页面和房源灯箱上的地图？"
 
 #: includes/mb/property/misc-metaboxes.php:12
 msgid "Misc"
@@ -2745,6 +3186,7 @@ msgstr "杂项"
 
 #: includes/mb/property/misc-metaboxes.php:32
 #: includes/widgets/mortgage-calculator-widget.php:113
+#: includes/widgets/ultra-mortgage-calculator-widget.php:113
 msgid "Property Taxes"
 msgstr "财产税"
 
@@ -2828,8 +3270,54 @@ msgid "Message to Reviewer"
 msgstr "消息给审阅者"
 
 #: includes/mb/property/misc-metaboxes.php:173
+#, fuzzy
 msgid "Override website level template settings for this property"
+msgstr "覆盖此属性的网站级模板设置"
+
+#: includes/mb/property/schedule-a-tour.php:17
+msgid "Schedule a tour"
+msgstr "来访参观"
+
+#: includes/mb/property/schedule-a-tour.php:42
+#, fuzzy
+msgid "Schedule A Tour"
+msgstr "安排参观"
+
+#: includes/mb/property/schedule-a-tour.php:47 includes/settings/social.php:73
+msgid "Show"
+msgstr "显示"
+
+#: includes/mb/property/schedule-a-tour.php:48 includes/settings/social.php:79
+msgid "Hide"
+msgstr "隐藏"
+
+#: includes/mb/property/schedule-a-tour.php:55
+msgid "Time Slots"
+msgstr "时间段"
+
+#: includes/mb/property/schedule-a-tour.php:56
+#, fuzzy
+msgid ""
+"If you want to add property specific times instead of using global options "
+"then provide comma (,) separated times. (For example: 12:00 am, 12:15 am, "
+"12:30 am)"
 msgstr ""
+"如果要添加属性特定时间而不是使用全局选项，请提供逗号 （，） 分隔时间。（例"
+"如：上午 12：00、上午 12：15、凌晨 12：30）"
+
+#: includes/mb/property/schedule-a-tour.php:64
+msgid "Schedule Description"
+msgstr "附表说明"
+
+#: includes/mb/property/schedule-a-tour.php:65
+#, fuzzy
+msgid "You can use heading, paragraph, image, and anchor tags."
+msgstr "您可以使用标题、段落、图像和锚标记。"
+
+#: includes/mb/property/schedule-a-tour.php:84
+#, fuzzy
+msgid "Scheduled Times"
+msgstr "预定时间"
 
 #: includes/mb/property/video-metaboxes.php:12
 msgid "Property Video"
@@ -2840,19 +3328,23 @@ msgid "Add Multiple Videos"
 msgstr "多部影片"
 
 #: includes/mb/property/video-metaboxes.php:40
+#, fuzzy
 msgid ""
 "Provide an image of minimum width 818px and minimum height 417px. Bigger "
 "size images will be cropped automatically. Property featured image will be "
 "shown if no image is selected."
 msgstr ""
+"提供最小宽度为 818 像素、最小高度为 417 像素的图片。较大尺寸的图像将自动裁"
+"剪。如果未选择图像，将显示属性特色图像。"
 
 #: includes/mb/property/video-metaboxes.php:45
 msgid "Image"
 msgstr ""
 
 #: includes/mb/property/video-metaboxes.php:55
+#, fuzzy
 msgid "Title of video"
-msgstr ""
+msgstr "视频标题"
 
 #: includes/mb/property/video-metaboxes.php:60
 msgid "URL"
@@ -2869,34 +3361,42 @@ msgid "360 Virtual Tour"
 msgstr "360 虚拟看房"
 
 #: includes/mb/property/video-metaboxes.php:79
+#, fuzzy
 msgid ""
 "Provide iframe embed code or <a href=\"https://wordpress.org/plugins/"
 "ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">iPanorama</a> "
-"shortcode for the 360 virtual tour. For more details please consult <a href="
-"\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
+"shortcode for the 360 virtual tour. For more details please consult <a "
+"href=\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
 "virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
 msgstr ""
+"为 360 度虚拟导览提供 iframe 嵌入代码或 <a href=\"https://wordpress.org/"
+"plugins/ipanorama-360-virtual-tour-builder-lite/\" "
+"target=\"_blank\">iPanorama</a> 简码。有关更多详细信息，请参阅文档中的 <a "
+"href=\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
+"virtual-tour\" target=\"_blank\">添加属性</a> 。"
 
 #: includes/mb/property/video-metaboxes.php:97
-#, php-format
+#, fuzzy, php-format
 msgid "Virtual Tour Video URL %s * %s"
-msgstr ""
+msgstr "虚拟旅游视频网址%s * %s"
 
 #: includes/mb/property/video-metaboxes.php:98
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
 "supported. %1$s %2$s *This field is deprecated in favour of %4$s Add "
 "Multiple Videos %5$s field above , So stop using it %3$s"
 msgstr ""
+"提供虚拟旅游视频网址。支持YouTube，Vimeo，SWF文件和MOV文件。%1$s %2$s *此字段"
+"已弃用，%4$s上面的“添加多个视频”字段%5$s，因此请停止使用它%3$s"
 
 #: includes/mb/property/video-metaboxes.php:104
-#, php-format
+#, fuzzy, php-format
 msgid "Virtual Tour Video Image %s * %s"
-msgstr ""
+msgstr "虚拟旅游视频图像%s * %s"
 
 #: includes/mb/property/video-metaboxes.php:105
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "Provide an image of minimum width 818px and minimum height 417px. Bigger "
 "size images will be cropped automatically. Property featured image will be "
@@ -2904,13 +3404,17 @@ msgid ""
 "\t\t\t\t\t\t\t\t%1$s %2$s *This field is deprecated in favour of %4$s Add "
 "Multiple Videos %5$s field above , So stop using it %3$s"
 msgstr ""
+"提供最小宽度为 818 像素、最小高度为 417 像素的图片。较大尺寸的图像将自动裁"
+"剪。如果未选择图像，将显示属性特色图像。\n"
+"\t\t\t\t\t\t\t\t%1$s %2$s *此字段已弃用，%4$s上面的“添加多个视频”字段%5$s，因"
+"此请停止使用它%3$s"
 
 #: includes/mb/templates-meta-boxes-config.php:17
 msgid "Properties Filter Settings"
 msgstr "房产过滤设置"
 
 #: includes/mb/templates-meta-boxes-config.php:33
-#: includes/mb/templates-meta-boxes-config.php:184
+#: includes/mb/templates-meta-boxes-config.php:194
 msgid "Number of Properties Per Page"
 msgstr "每页房产数"
 
@@ -2939,25 +3443,25 @@ msgid "Price High to Low"
 msgstr "价格从高到低"
 
 #: includes/mb/templates-meta-boxes-config.php:57
-#: includes/mb/templates-meta-boxes-config.php:193
+#: includes/mb/templates-meta-boxes-config.php:203
 #: includes/shortcodes/vc-map.php:144
 msgid "Locations"
 msgstr "位置"
 
 #: includes/mb/templates-meta-boxes-config.php:66
-#: includes/mb/templates-meta-boxes-config.php:202
+#: includes/mb/templates-meta-boxes-config.php:212
 #: includes/shortcodes/vc-map.php:151
 msgid "Statuses"
 msgstr "状态"
 
 #: includes/mb/templates-meta-boxes-config.php:75
-#: includes/mb/templates-meta-boxes-config.php:211
+#: includes/mb/templates-meta-boxes-config.php:221
 #: includes/shortcodes/vc-map.php:158
 msgid "Types"
 msgstr "类型"
 
 #: includes/mb/templates-meta-boxes-config.php:84
-#: includes/mb/templates-meta-boxes-config.php:220
+#: includes/mb/templates-meta-boxes-config.php:230
 #: includes/shortcodes/vc-map.php:285
 msgid "Features"
 msgstr "特征"
@@ -2985,35 +3489,43 @@ msgid "Properties by Agents"
 msgstr "代理的房源"
 
 #: includes/mb/templates-meta-boxes-config.php:138
+msgid "Disable AJAX Pagination"
+msgstr "禁用AJAX分页"
+
+#: includes/mb/templates-meta-boxes-config.php:148
 #: includes/shortcodes/vc-map.php:275
 msgid "Display Only Featured Properties"
 msgstr "只显示特色房源"
 
-#: includes/mb/templates-meta-boxes-config.php:170
+#: includes/mb/templates-meta-boxes-config.php:180
 msgid "Properties Gallery Filter Settings"
 msgstr "房源图库筛选器设置"
 
 #: includes/settings/captcha.php:22
+#, fuzzy
 msgid "For spam protection on agent and contact forms!"
-msgstr ""
+msgstr "用于代理和联系表格上的垃圾邮件保护！"
 
 #: includes/settings/captcha.php:28 includes/settings/captcha.php:32
 msgid "Google reCAPTCHA"
 msgstr "谷歌验证码"
 
-#: includes/settings/captcha.php:35 includes/settings/property-analytics.php:38
+#: includes/settings/captcha.php:35 includes/settings/property-analytics.php:40
+#: includes/settings/property-analytics.php:90
 #: includes/settings/property.php:46
 msgid "Enable"
 msgstr "启用"
 
-#: includes/settings/captcha.php:40 includes/settings/property-analytics.php:43
+#: includes/settings/captcha.php:40 includes/settings/property-analytics.php:45
+#: includes/settings/property-analytics.php:95
 #: includes/settings/property.php:51
 msgid "Disable"
 msgstr "禁用"
 
 #: includes/settings/captcha.php:46 includes/settings/captcha.php:50
+#, fuzzy
 msgid "Google reCAPTCHA Type"
-msgstr ""
+msgstr "谷歌验证码类型"
 
 #: includes/settings/captcha.php:53
 msgid "V2"
@@ -3032,102 +3544,147 @@ msgid "Site Key"
 msgstr "网站密钥"
 
 #: includes/settings/captcha.php:68
-#, php-format
+#, fuzzy, php-format
 msgid "You can get new keys for your website by %s signing in here %s"
-msgstr ""
+msgstr "您可以通过在此处登录%s来获取网站的新密钥%s"
 
 #: includes/settings/captcha.php:72
 msgid "Secret Key"
 msgstr "密钥"
 
 #: includes/settings/gdpr.php:27 includes/settings/gdpr.php:30
+#, fuzzy
 msgid "Add GDPR agreement checkbox in forms across website?"
-msgstr ""
+msgstr "在网站的表单中添加 GDPR 协议复选框？"
 
 #: includes/settings/gdpr.php:44
+#, fuzzy
 msgid "GDPR agreement checkbox label"
-msgstr ""
+msgstr "GDPR 协议复选框标签"
 
 #: includes/settings/gdpr.php:48
+#, fuzzy
 msgid "GDPR agreement checkbox text"
-msgstr ""
+msgstr "GDPR 协议复选框文本"
 
 #: includes/settings/gdpr.php:62
+#, fuzzy
 msgid ""
 "You can use <a>,<br>,<em> and <strong> tags in your GDPR agreement text."
 msgstr ""
+"您可以使用 <a>,<br>，<em> <strong> 以及 GDPR 协议文本中的标记。</strong></"
+"em></a>"
 
 #: includes/settings/gdpr.php:66
+#, fuzzy
 msgid "GDPR agreement checkbox validation message"
-msgstr ""
+msgstr "GDPR 协议复选框验证消息"
 
 #: includes/settings/gdpr.php:69 includes/settings/gdpr.php:72
+#, fuzzy
 msgid "Add GDPR detail in resulting email?"
-msgstr ""
+msgstr "在生成的电子邮件中添加 GDPR 详细信息？"
 
-#: includes/settings/map.php:10
+#: includes/settings/map.php:16
+#, fuzzy
 msgid "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
-msgstr ""
+msgstr "15421西南39th露台，迈阿密，FL 33185，美国"
 
-#: includes/settings/map.php:11
+#: includes/settings/map.php:17
+#, fuzzy
 msgid "25.7308309,-80.44414899999998"
-msgstr ""
+msgstr "25.7308309,-80.44414899999998"
 
-#: includes/settings/map.php:12
+#: includes/settings/map.php:18
+#, fuzzy
 msgid "27.664827,-81.515755"
-msgstr ""
+msgstr "27.664827,-81.515755"
 
-#: includes/settings/map.php:25
-msgid "Default Map"
-msgstr "默認地圖"
+#: includes/settings/map.php:56
+msgid "Map Settings"
+msgstr "地图设置"
 
-#: includes/settings/map.php:27
-#, php-format
-msgid ""
-"By default, %sOpen Street Map%s will be displayed if Google Maps API key is "
-"empty."
-msgstr ""
+#: includes/settings/map.php:62 includes/settings/map.php:66
+#, fuzzy
+msgid "Website Map Service"
+msgstr "网站地图服务"
 
-#: includes/settings/map.php:34
+#: includes/settings/map.php:69
+msgid "Google Maps"
+msgstr "谷歌地图"
+
+#: includes/settings/map.php:74
+msgid "MapBox"
+msgstr "地图盒"
+
+#: includes/settings/map.php:79
+msgid "OpenStreetMaps"
+msgstr "开放街道地图"
+
+#: includes/settings/map.php:88
 msgid "Google Maps API Key"
 msgstr "Google Maps API密钥"
 
-#: includes/settings/map.php:38
+#: includes/settings/map.php:93
+#, fuzzy
 msgid "How to get Google Maps API Key?"
-msgstr ""
+msgstr "如何获取谷歌地图API密钥？"
 
-#: includes/settings/map.php:42 includes/settings/map.php:46
+#: includes/settings/map.php:98 includes/settings/map.php:102
+#, fuzzy
 msgid "Localize Google Maps"
-msgstr ""
+msgstr "本地化谷歌地图"
 
-#: includes/settings/map.php:61
+#: includes/settings/map.php:117
+#, fuzzy
 msgid "Google Maps Styles JSON (optional)"
-msgstr ""
+msgstr "谷歌地图样式 JSON（可选）"
 
-#: includes/settings/map.php:65
-#, php-format
+#: includes/settings/map.php:121
+#, fuzzy, php-format
 msgid ""
 "You can create Google Maps styles JSON using %s Google Styling Wizard %s or "
 "%s Snazzy Maps %s."
 msgstr ""
+"您可以使用%s Google Styleing Wizard %s或%s Snazzy Maps %s创建 Google 地图样"
+"式 JSON。"
 
-#: includes/settings/map.php:70
+#: includes/settings/map.php:128
+#, fuzzy
+#| msgid "Google Maps API Key"
+msgid "MapBox API Key"
+msgstr "Google Maps API密钥"
+
+#: includes/settings/map.php:133
+#, fuzzy
+#| msgid "Google Maps API Key"
+msgid "How to get MapBox API Key?"
+msgstr "Google Maps API密钥"
+
+#: includes/settings/map.php:141
+msgid "Mapbox Style"
+msgstr "自定义地图风格"
+
+#: includes/settings/map.php:159
+#, fuzzy
 msgid "Default Address for New Property"
-msgstr ""
+msgstr "新属性的默认地址"
 
-#: includes/settings/map.php:78
+#: includes/settings/map.php:167
+#, fuzzy
 msgid "Default Map Location for New Property (Latitude,Longitude)"
-msgstr ""
+msgstr "新属性的默认地图位置（纬度、经度）"
 
-#: includes/settings/map.php:82 includes/settings/map.php:91
-#, php-format
+#: includes/settings/map.php:171 includes/settings/map.php:180
+#, fuzzy, php-format
 msgid ""
 "You can use %s OR %s to get Latitude and longitude of your desired location."
-msgstr ""
+msgstr "您可以使用%s或%s来获取所需位置的纬度和经度。"
 
-#: includes/settings/map.php:87
+#: includes/settings/map.php:176
+#, fuzzy
 msgid "Default Properties Map Location (Latitude,Longitude)"
-msgstr ""
+msgstr "默认属性映射位置（纬度、经度）"
 
 #: includes/settings/price.php:33
 msgid "Currency Sign"
@@ -3138,8 +3695,9 @@ msgid "Provide currency sign. For Example: $"
 msgstr "提供货币符号。示例：￥"
 
 #: includes/settings/price.php:42 includes/settings/price.php:46
+#, fuzzy
 msgid "Position of Currency Sign"
-msgstr ""
+msgstr "货币符号的位置"
 
 #: includes/settings/price.php:51
 msgid "Before the numbers"
@@ -3214,46 +3772,61 @@ msgid "Text to display when no price is provided."
 msgstr "没有价格时显示的文字。"
 
 #: includes/settings/price.php:288
+#, fuzzy
 msgid "Price Preview Number Format Language"
-msgstr ""
+msgstr "价格预览数字格式语言"
 
 #: includes/settings/price.php:292
+#, fuzzy
 msgid ""
 "Change the property metabox price fields number format preview as per "
 "selected language."
-msgstr ""
+msgstr "根据所选语言更改属性元框价格字段数字格式预览。"
 
 #: includes/settings/price.php:302
+#, fuzzy
 msgid ""
 "Note: If you have enabled RealHomes Currency Switcher then default format of "
 "selected base currency will override above settings."
 msgstr ""
+"注意：如果您启用了RealHomes货币切换器，则所选基础货币的默认格式将覆盖上述设"
+"置。"
 
-#: includes/settings/property-analytics.php:30
+#: includes/settings/property-analytics.php:32
+#, fuzzy
 msgid "Collect Property Analytics Data"
-msgstr ""
+msgstr "收集属性分析数据"
 
-#: includes/settings/property-analytics.php:34
+#: includes/settings/property-analytics.php:36
+#, fuzzy
 msgid ""
 "Enabling this option will allow the system to collect each property view "
 "from its datail page."
-msgstr ""
+msgstr "启用此选项将允许系统从其 datail 页面收集每个属性视图。"
 
-#: includes/settings/property-analytics.php:49
+#: includes/settings/property-analytics.php:51
 msgid "Chart Type"
 msgstr "图表类型"
 
-#: includes/settings/property-analytics.php:54
+#: includes/settings/property-analytics.php:56
+#, fuzzy
 msgid "Line"
-msgstr ""
+msgstr "标记线颜色"
 
-#: includes/settings/property-analytics.php:59
+#: includes/settings/property-analytics.php:61
 msgid "Bar"
 msgstr "栏"
 
-#: includes/settings/property-analytics.php:65
+#: includes/settings/property-analytics.php:67
+#, fuzzy
 msgid "Display Property Views Of Last"
-msgstr ""
+msgstr "显示上一个属性视图"
+
+#: includes/settings/property-analytics.php:82
+#, fuzzy
+#| msgid "Property Views"
+msgid "Property Views Column"
+msgstr "物业景观"
 
 #: includes/settings/property.php:41
 msgid "Enable Auto-Generated Property ID"
@@ -3273,16 +3846,18 @@ msgid ""
 msgstr "请在您的模式中使用 {ID} 因为它将被Property ID取代。"
 
 #: includes/settings/property.php:73
+#, fuzzy
 msgid "Energy Perofrmance Certificate Classes"
-msgstr ""
+msgstr "能源性能证书类"
 
 #: includes/settings/property.php:77
 msgid "Class Name"
 msgstr "类别名称"
 
 #: includes/settings/property.php:78
+#, fuzzy
 msgid "Class Color"
-msgstr ""
+msgstr "类颜色"
 
 #. Author of the plugin/theme
 #: includes/settings/settings.php:14
@@ -3294,63 +3869,74 @@ msgid "You do not have sufficient permissions to access this page."
 msgstr "您没有足够的权限访问此页面。"
 
 #: includes/settings/settings.php:38
-#, php-format
+#, fuzzy, php-format
 msgid "Version  %s"
-msgstr ""
+msgstr "版本 %s"
 
-#: includes/settings/slug.php:10
+#: includes/settings/slug.php:12
+#, fuzzy
 msgid "property-location"
-msgstr ""
+msgstr "俱乐部位置"
 
-#: includes/settings/slug.php:27
+#: includes/settings/slug.php:31
+#, fuzzy
 msgid "Important Note for URL Slugs"
-msgstr ""
+msgstr "网址蛞蝓的重要说明"
 
-#: includes/settings/slug.php:29
+#: includes/settings/slug.php:33
+#, fuzzy
 msgid ""
 "Make sure to re-save permalinks settings after every change in URL slugs to "
 "avoid 404 errors. You can do that from [ Settings > Permalinks ]"
 msgstr ""
+"确保在每次更改 URL 数据域后重新保存永久链接设置，以避免 404 错误。您可以从 "
+"[ 设置>永久链接]"
 
-#: includes/settings/slug.php:35
+#: includes/settings/slug.php:39
 msgid "Property Slug"
 msgstr "俱乐部 Slug"
 
-#: includes/settings/slug.php:39
+#: includes/settings/slug.php:43
 msgid "Agent Slug"
 msgstr "俱乐部 Slug"
 
-#: includes/settings/slug.php:43
-msgid "Agency Slug"
-msgstr ""
-
 #: includes/settings/slug.php:47
-msgid "Property Location Slug"
-msgstr ""
+#, fuzzy
+#| msgid "Agent Slug"
+msgid "Agent Location Slug"
+msgstr "俱乐部 Slug"
 
 #: includes/settings/slug.php:51
+#, fuzzy
+msgid "Agency Slug"
+msgstr "机构鼻涕虫"
+
+#: includes/settings/slug.php:55
+#, fuzzy
+#| msgid "Agent Slug"
+msgid "Agency Location Slug"
+msgstr "俱乐部 Slug"
+
+#: includes/settings/slug.php:59
+#, fuzzy
+msgid "Property Location Slug"
+msgstr "物业位置 鼻涕虫"
+
+#: includes/settings/slug.php:63
 msgid "Property Status Slug"
 msgstr "房源状态 Slug"
 
-#: includes/settings/slug.php:55
+#: includes/settings/slug.php:67
 msgid "Property Type Slug"
 msgstr "俱乐部类型 Slug"
 
-#: includes/settings/slug.php:59
+#: includes/settings/slug.php:71
 msgid "Property Feature Slug"
 msgstr "俱乐部特色 Slug"
 
 #: includes/settings/social.php:64 includes/settings/social.php:68
 msgid "Show or Hide Social Icons"
 msgstr "显示或隐藏社交图标"
-
-#: includes/settings/social.php:73
-msgid "Show"
-msgstr "显示"
-
-#: includes/settings/social.php:79
-msgid "Hide"
-msgstr "隐藏"
 
 #: includes/settings/social.php:100
 msgid "Linkedin URL"
@@ -3369,12 +3955,14 @@ msgid "Skype Username"
 msgstr "Skype用户名"
 
 #: includes/settings/social.php:126
+#, fuzzy
 msgid "LINE ID"
-msgstr ""
+msgstr "线路编号"
 
 #: includes/settings/social.php:149
+#, fuzzy
 msgid "Example: fa-flicker"
-msgstr ""
+msgstr "示例：闪烁"
 
 #: includes/settings/social.php:152
 msgid "Edit"
@@ -3385,8 +3973,9 @@ msgid "Ok"
 msgstr "确定"
 
 #: includes/settings/social.php:168
+#, fuzzy
 msgid "+ Add New Social Network"
-msgstr ""
+msgstr "+ 添加新的社交网络"
 
 #: includes/settings/social.php:181
 msgid "Social Login Settings"
@@ -3401,21 +3990,24 @@ msgid "Enable Facebook"
 msgstr "启用Facebook"
 
 #: includes/settings/social.php:200
+#, fuzzy
 msgid "Enable login/register with facebook on login forms."
-msgstr ""
+msgstr "在登录表单上启用登录/注册脸书。"
 
 #: includes/settings/social.php:207
+#, fuzzy
 msgid "App ID*"
-msgstr ""
+msgstr "应用标识*"
 
 #: includes/settings/social.php:214
-#, php-format
+#, fuzzy, php-format
 msgid "Learn how to get Facebook APP ID and Secret by %s."
-msgstr ""
+msgstr "了解如何通过%s获取 Facebook APP ID 和 Secret。"
 
 #: includes/settings/social.php:221
+#, fuzzy
 msgid "App Secret*"
-msgstr ""
+msgstr "应用密钥*"
 
 #: includes/settings/social.php:233
 msgid "Google Login"
@@ -3426,25 +4018,29 @@ msgid "Enable Google"
 msgstr "启用Google"
 
 #: includes/settings/social.php:247
+#, fuzzy
 msgid "Enable login/register with google on login forms."
-msgstr ""
+msgstr "在登录表单上启用登录/注册谷歌。"
 
 #: includes/settings/social.php:254
+#, fuzzy
 msgid "API Key*"
-msgstr ""
+msgstr "API密钥"
 
 #: includes/settings/social.php:261
-#, php-format
+#, fuzzy, php-format
 msgid "Learn how to get Google API Key, Client ID and Client Secret by %s."
-msgstr ""
+msgstr "了解如何通过%s获取 Google API 密钥、客户端 ID 和客户端密钥。"
 
 #: includes/settings/social.php:268
+#, fuzzy
 msgid "Client ID*"
-msgstr ""
+msgstr "客户编号*"
 
 #: includes/settings/social.php:281
+#, fuzzy
 msgid "Client Secret*"
-msgstr ""
+msgstr "客户端密码*"
 
 #: includes/settings/social.php:293
 msgid "Twitter Login"
@@ -3455,43 +4051,52 @@ msgid "Enable Twitter"
 msgstr "启用Twitter"
 
 #: includes/settings/social.php:307
+#, fuzzy
 msgid "Enable login/register with twitter on login forms."
-msgstr ""
+msgstr "在登录表单上启用登录/注册推特。"
 
 #: includes/settings/social.php:314
+#, fuzzy
 msgid "Consumer Key*"
-msgstr ""
+msgstr "使用者密钥*"
 
 #: includes/settings/social.php:321
-#, php-format
+#, fuzzy, php-format
 msgid "Learn how to get Twitter Consumer Key and Consumer Secret by %s."
-msgstr ""
+msgstr "了解如何通过%s获取 Twitter 使用者密钥和使用者机密。"
 
 #: includes/settings/social.php:328
+#, fuzzy
 msgid "Consumer Secret*"
-msgstr ""
+msgstr "消费者机密*"
 
 #: includes/settings/webhooks.php:21
+#, fuzzy
 msgid ""
 "You can use the Webhooks settings below to feed forms data to services like "
 "Zapier. For example you can use Zapier Webhooks to create leads in Zoho CRM."
 msgstr ""
+"您可以使用下面的 Webhooks 设置将表单数据提供给 Zapier 等服务。例如，您可以使"
+"用Zapier Webhooks在Zoho CRM中创建潜在客户。"
 
 #: includes/settings/webhooks.php:27
 msgid "Webhook URL"
 msgstr "Webhook URL"
 
 #: includes/settings/webhooks.php:35
+#, fuzzy
 msgid "Integrate Contact Form"
-msgstr ""
+msgstr "整合联系表格"
 
 #: includes/settings/webhooks.php:44
+#, fuzzy
 msgid "Integrate Agent Form"
-msgstr ""
+msgstr "集成代理表单"
 
 #: includes/settings/webhooks.php:53
+#, fuzzy
 msgid "Integrate Agency Form"
-msgstr ""
+msgstr "整合代理表格"
 
 #: includes/shortcodes/elements.php:329
 msgid "Result:"
@@ -3530,10 +4135,10 @@ msgid "Layout"
 msgstr "布局"
 
 #: includes/shortcodes/vc-map.php:94
-#: includes/widgets/agent-featured-properties-widget.php:247
-#: includes/widgets/agent-properties-widget.php:264
-#: includes/widgets/featured-properties-widget.php:247
-#: includes/widgets/properties-widget.php:281
+#: includes/widgets/agent-featured-properties-widget.php:293
+#: includes/widgets/agent-properties-widget.php:312
+#: includes/widgets/featured-properties-widget.php:291
+#: includes/widgets/properties-widget.php:328
 msgid "Number of Properties"
 msgstr "房源数量"
 
@@ -3583,20 +4188,24 @@ msgid "Maximum Area"
 msgstr "最大面积"
 
 #: includes/social-login/ajax-handler.php:25
+#, fuzzy
 msgid "Facebook App keys are not set yet."
-msgstr ""
+msgstr "Facebook 应用程序密钥尚未设置。"
 
 #: includes/social-login/ajax-handler.php:51
+#, fuzzy
 msgid "Redirecting you to the Facebook for the authentication..."
-msgstr ""
+msgstr "将您重定向到脸书进行身份验证..."
 
 #: includes/social-login/ajax-handler.php:58
+#, fuzzy
 msgid "Facebook library is not loaded."
-msgstr ""
+msgstr "脸书库未加载。"
 
 #: includes/social-login/ajax-handler.php:85
+#, fuzzy
 msgid "Google related keys are not set yet."
-msgstr ""
+msgstr "谷歌相关的密钥尚未设置。"
 
 #: includes/social-login/ajax-handler.php:100
 #: includes/social-login/callbacks.php:128
@@ -3604,24 +4213,29 @@ msgid "Login to"
 msgstr "登录到"
 
 #: includes/social-login/ajax-handler.php:113
+#, fuzzy
 msgid "Redirecting you to the Google for the authentication..."
-msgstr ""
+msgstr "将您重定向到谷歌进行身份验证..."
 
 #: includes/social-login/ajax-handler.php:121
+#, fuzzy
 msgid "Google library is not loaded."
-msgstr ""
+msgstr "谷歌图书馆未加载。"
 
 #: includes/social-login/ajax-handler.php:148
+#, fuzzy
 msgid "Twitter App keys are not set yet."
-msgstr ""
+msgstr "Twitter 应用密钥尚未设置。"
 
 #: includes/social-login/ajax-handler.php:170
+#, fuzzy
 msgid "Redirecting you to the Twitter for the authentication..."
-msgstr ""
+msgstr "将您重定向到推特进行身份验证..."
 
 #: includes/social-login/ajax-handler.php:188
+#, fuzzy
 msgid "Twitter library is not loaded."
-msgstr ""
+msgstr "推特库未加载。"
 
 #: includes/social-login/callbacks.php:49
 #: includes/social-login/callbacks.php:86
@@ -3677,26 +4291,31 @@ msgstr "显示高级搜索对话框。"
 msgid "RealHomes - Advance Search Widget"
 msgstr "高级搜索工具"
 
-#: includes/widgets/advance-search-widget.php:21
-#: includes/widgets/advance-search-widget.php:51
+#: includes/widgets/advance-search-widget.php:33
+#: includes/widgets/advance-search-widget.php:77
 msgid "Find Your Home"
 msgstr "找到您的房子"
 
-#: includes/widgets/advance-search-widget.php:41
+#: includes/widgets/advance-search-widget.php:66
 msgid ""
 "Advance search page is not configured yet. Please read this theme "
 "documentation for the Advance Search page & form configuration details."
 msgstr "高级搜索页尚未配置。 请阅读高级搜索页面和表单配置详细信息的主题文档。"
 
-#: includes/widgets/advance-search-widget.php:57
-#: includes/widgets/agent-featured-properties-widget.php:221
-#: includes/widgets/agent-properties-widget.php:237
-#: includes/widgets/agents-list-widget.php:151
-#: includes/widgets/featured-properties-widget.php:231
-#: includes/widgets/properties-widget.php:265
+#: includes/widgets/advance-search-widget.php:85
+#: includes/widgets/agent-featured-properties-widget.php:265
+#: includes/widgets/agent-properties-widget.php:279
+#: includes/widgets/agents-list-widget.php:171
+#: includes/widgets/featured-properties-widget.php:270
+#: includes/widgets/properties-widget.php:307
 #: includes/widgets/property-types-widget.php:82
 msgid "Widget Title"
 msgstr "小工具标题"
+
+#: includes/widgets/advance-search-widget.php:100
+#, fuzzy
+msgid "Select Elementor Search Form"
+msgstr "选择元素搜索表单"
 
 #: includes/widgets/agent-featured-properties-widget.php:19
 msgid "Important: This widget is only for the Agent Sidebar."
@@ -3707,91 +4326,115 @@ msgid "RealHomes - Agent Featured Properties"
 msgstr "代理特色房产"
 
 #: includes/widgets/agent-featured-properties-widget.php:137
-#: includes/widgets/agent-featured-properties-widget.php:201
-#: includes/widgets/agent-featured-properties-widget.php:260
+#: includes/widgets/agent-featured-properties-widget.php:245
+#: includes/widgets/agent-featured-properties-widget.php:303
 #: includes/widgets/agent-properties-widget.php:141
-#: includes/widgets/agent-properties-widget.php:213
-#: includes/widgets/agent-properties-widget.php:279
-#: includes/widgets/featured-properties-widget.php:143
-#: includes/widgets/featured-properties-widget.php:211
-#: includes/widgets/featured-properties-widget.php:268
+#: includes/widgets/agent-properties-widget.php:255
+#: includes/widgets/agent-properties-widget.php:325
+#: includes/widgets/featured-properties-widget.php:142
+#: includes/widgets/featured-properties-widget.php:250
+#: includes/widgets/featured-properties-widget.php:308
 #: includes/widgets/properties-widget.php:175
-#: includes/widgets/properties-widget.php:247
-#: includes/widgets/properties-widget.php:299
+#: includes/widgets/properties-widget.php:289
+#: includes/widgets/properties-widget.php:347
 msgid "Read More"
 msgstr "阅读更多"
 
 #: includes/widgets/agent-featured-properties-widget.php:157
+#, fuzzy
 msgid "No featured property found for this agent."
-msgstr ""
+msgstr "该经纪人没有精选房源"
 
 #: includes/widgets/agent-featured-properties-widget.php:186
 msgid "No Featured Property Found For This Agent"
 msgstr "该经纪人没有精选房源"
 
-#: includes/widgets/agent-featured-properties-widget.php:206
-#: includes/widgets/featured-properties-widget.php:216
+#: includes/widgets/agent-featured-properties-widget.php:226
+#: includes/widgets/agent-properties-widget.php:232
+#: includes/widgets/featured-properties-widget.php:160
+#: includes/widgets/featured-properties-widget.php:187
+#: includes/widgets/featured-properties-widget.php:227
+#: includes/widgets/properties-widget.php:266
+msgid "No Featured Property Found!"
+msgstr "没有发现房产！"
+
+#: includes/widgets/agent-featured-properties-widget.php:250
+#: includes/widgets/featured-properties-widget.php:255
 msgid "Featured Properties"
 msgstr "精选房源"
 
-#: includes/widgets/agent-featured-properties-widget.php:228
-#: includes/widgets/agent-properties-widget.php:241
-#: includes/widgets/featured-properties-widget.php:237
-#: includes/widgets/properties-widget.php:271
+#: includes/widgets/agent-featured-properties-widget.php:272
+#: includes/widgets/agent-properties-widget.php:286
+#: includes/widgets/featured-properties-widget.php:277
+#: includes/widgets/properties-widget.php:314
 msgid "Property Card Design"
 msgstr "属性卡设计"
 
-#: includes/widgets/agent-featured-properties-widget.php:231
-#: includes/widgets/agent-properties-widget.php:244
-#: includes/widgets/featured-properties-widget.php:240
-#: includes/widgets/properties-widget.php:274
+#: includes/widgets/agent-featured-properties-widget.php:274
+#: includes/widgets/agent-properties-widget.php:288
+#: includes/widgets/featured-properties-widget.php:279
+#: includes/widgets/properties-widget.php:316
 msgid "Default"
 msgstr "默认"
 
-#: includes/widgets/agent-featured-properties-widget.php:232
-#: includes/widgets/agent-properties-widget.php:245
-#: includes/widgets/featured-properties-widget.php:241
-#: includes/widgets/properties-widget.php:275
+#: includes/widgets/agent-featured-properties-widget.php:275
+#: includes/widgets/agent-properties-widget.php:289
+#: includes/widgets/featured-properties-widget.php:280
+#: includes/widgets/properties-widget.php:317
 msgid "One"
 msgstr "一"
 
-#: includes/widgets/agent-featured-properties-widget.php:233
-#: includes/widgets/agent-properties-widget.php:246
-#: includes/widgets/featured-properties-widget.php:242
-#: includes/widgets/properties-widget.php:276
+#: includes/widgets/agent-featured-properties-widget.php:276
+#: includes/widgets/agent-properties-widget.php:290
+#: includes/widgets/featured-properties-widget.php:281
+#: includes/widgets/properties-widget.php:318
 msgid "Two"
 msgstr "二"
 
-#: includes/widgets/agent-featured-properties-widget.php:234
-#: includes/widgets/agent-properties-widget.php:247
-#: includes/widgets/featured-properties-widget.php:243
-#: includes/widgets/properties-widget.php:277
+#: includes/widgets/agent-featured-properties-widget.php:277
+#: includes/widgets/agent-properties-widget.php:291
+#: includes/widgets/featured-properties-widget.php:282
+#: includes/widgets/properties-widget.php:319
 msgid "Three"
 msgstr "三"
 
-#: includes/widgets/agent-featured-properties-widget.php:239
-#: includes/widgets/agent-properties-widget.php:257
-#: includes/widgets/featured-properties-widget.php:253
-#: includes/widgets/properties-widget.php:287
+#: includes/widgets/agent-featured-properties-widget.php:278
+#: includes/widgets/agent-properties-widget.php:292
+#: includes/widgets/featured-properties-widget.php:283
+#: includes/widgets/properties-widget.php:320
+msgid "Four"
+msgstr "四"
+
+#: includes/widgets/agent-featured-properties-widget.php:279
+#: includes/widgets/agent-properties-widget.php:293
+#: includes/widgets/featured-properties-widget.php:284
+#: includes/widgets/properties-widget.php:321
+msgid "Five"
+msgstr "五"
+
+#: includes/widgets/agent-featured-properties-widget.php:287
+#: includes/widgets/agent-properties-widget.php:306
+#: includes/widgets/featured-properties-widget.php:295
+#: includes/widgets/properties-widget.php:332
 msgid "Sort By:"
 msgstr "排序方式："
 
-#: includes/widgets/agent-featured-properties-widget.php:242
-#: includes/widgets/agent-properties-widget.php:259
-#: includes/widgets/featured-properties-widget.php:256
-#: includes/widgets/properties-widget.php:290
+#: includes/widgets/agent-featured-properties-widget.php:289
+#: includes/widgets/agent-properties-widget.php:308
+#: includes/widgets/featured-properties-widget.php:297
+#: includes/widgets/properties-widget.php:334
 msgid "Most Recent"
 msgstr "最近"
 
-#: includes/widgets/agent-featured-properties-widget.php:243
-#: includes/widgets/agent-properties-widget.php:260
-#: includes/widgets/featured-properties-widget.php:257
-#: includes/widgets/properties-widget.php:291
+#: includes/widgets/agent-featured-properties-widget.php:290
+#: includes/widgets/agent-properties-widget.php:309
+#: includes/widgets/featured-properties-widget.php:298
+#: includes/widgets/properties-widget.php:335
 msgid "Random"
 msgstr "随机"
 
-#: includes/widgets/agent-featured-properties-widget.php:272
-#: includes/widgets/featured-properties-widget.php:280
+#: includes/widgets/agent-featured-properties-widget.php:313
+#: includes/widgets/featured-properties-widget.php:322
 msgid "Featured Tag Text"
 msgstr "特色标签文字"
 
@@ -3808,95 +4451,108 @@ msgstr "代理相关房产"
 msgid "No Property Found Under Selected Agent!"
 msgstr "所选代理没有房产！"
 
-#: includes/widgets/agent-properties-widget.php:251
+#: includes/widgets/agent-properties-widget.php:300
 msgid "Select an Agent:"
 msgstr "选择代理："
 
-#: includes/widgets/agent-properties-widget.php:269
+#: includes/widgets/agent-properties-widget.php:316
 msgid "Show only Featured Properties."
 msgstr "仅显示特性。"
 
 #: includes/widgets/agents-list-widget.php:23
+#, fuzzy
 msgid "This widget displays agents list."
-msgstr ""
+msgstr "此小组件显示代理列表。"
 
 #: includes/widgets/agents-list-widget.php:26
+#, fuzzy
 msgid "RealHomes - Agents"
-msgstr ""
+msgstr "真实家园 - 代理商"
 
-#: includes/widgets/agents-list-widget.php:127
+#: includes/widgets/agents-list-widget.php:147
+#, fuzzy
 msgid "No Agent Found!"
-msgstr ""
+msgstr "没发现代理"
 
-#: includes/widgets/agents-list-widget.php:157
+#: includes/widgets/agents-list-widget.php:174
 msgid "Number of Agents"
 msgstr "经纪人数量"
 
 #: includes/widgets/contact-form-widget.php:17
+#, fuzzy
 msgid "This widget displays contact form."
-msgstr ""
+msgstr "此小组件显示联系表单。"
 
 #: includes/widgets/contact-form-widget.php:20
+#, fuzzy
 msgid "RealHomes - Contact Form"
-msgstr ""
+msgstr "真实家园 - 联系表格"
 
 #: includes/widgets/contact-form-widget.php:49
 msgid "* Please provide your name"
 msgstr "请填写您的名字"
 
-#: includes/widgets/contact-form-widget.php:55
+#: includes/widgets/contact-form-widget.php:56
 msgid "* Please provide a valid email address"
 msgstr "* 请提供有效邮箱地址"
 
-#: includes/widgets/contact-form-widget.php:65
+#: includes/widgets/contact-form-widget.php:68
 msgid "* Please provide your message"
 msgstr "*请输入消息"
 
-#: includes/widgets/contact-form-widget.php:134
+#: includes/widgets/contact-form-widget.php:166
 msgid "Send Message"
 msgstr "发送信息"
 
-#: includes/widgets/contact-form-widget.php:153
+#: includes/widgets/contact-form-widget.php:201
+#, fuzzy
 msgid ""
 "Please provide the 'Target Email' address in the widget settings to show the "
 "contact form."
-msgstr ""
+msgstr "请在小部件设置中提供“目标电子邮件”地址以显示联系表格。"
 
-#: includes/widgets/contact-form-widget.php:165
+#: includes/widgets/contact-form-widget.php:213
 msgid "Contact Us"
 msgstr "联系我们"
 
-#: includes/widgets/contact-form-widget.php:182
+#: includes/widgets/contact-form-widget.php:230
 msgid "Widget Title:"
 msgstr "小工具标题："
 
-#: includes/widgets/contact-form-widget.php:187
+#: includes/widgets/contact-form-widget.php:235
+#, fuzzy
 msgid "Target Email:"
-msgstr ""
+msgstr "目标电子邮件："
 
-#: includes/widgets/contact-form-widget.php:191
+#: includes/widgets/contact-form-widget.php:239
+#, fuzzy
 msgid "Customize Contact Form Labels"
-msgstr ""
+msgstr "自定义联系人表单标签"
 
-#: includes/widgets/contact-form-widget.php:193
+#: includes/widgets/contact-form-widget.php:241
+#, fuzzy
 msgid "Name Field Label:"
-msgstr ""
+msgstr "名称字段标签"
 
-#: includes/widgets/contact-form-widget.php:198
+#: includes/widgets/contact-form-widget.php:246
+#, fuzzy
 msgid "Email Field Label:"
-msgstr ""
+msgstr "邮箱字段标签"
 
-#: includes/widgets/contact-form-widget.php:203
+#: includes/widgets/contact-form-widget.php:251
+#, fuzzy
 msgid "Phone Number Field Label:"
-msgstr ""
+msgstr "电话字段"
 
-#: includes/widgets/contact-form-widget.php:208
+#: includes/widgets/contact-form-widget.php:256
+#, fuzzy
 msgid "Message Field Label:"
-msgstr ""
+msgstr "消息字段标签"
 
-#: includes/widgets/contact-form-widget.php:213
+#: includes/widgets/contact-form-widget.php:261
+#, fuzzy
 msgid "Submit Button Label:"
-msgstr ""
+msgstr "提交按钮标签："
 
 #: includes/widgets/featured-properties-widget.php:28
 msgid "Displays Random or Recent Featured Properties."
@@ -3906,11 +4562,6 @@ msgstr "显示随机或者最近房产。"
 msgid "RealHomes - Featured Properties"
 msgstr "RealHomes - 精选房源"
 
-#: includes/widgets/featured-properties-widget.php:161
-#: includes/widgets/featured-properties-widget.php:191
-msgid "No Featured Property Found!"
-msgstr "没有发现房产！"
-
 #: includes/widgets/grid-cards/card-parts/added.php:4
 msgid "Added: "
 msgstr "已添加： "
@@ -3919,29 +4570,33 @@ msgstr "已添加： "
 msgid "Ago "
 msgstr "前 "
 
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:25
-#: includes/widgets/grid-cards/grid-card-1.php:164
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:22
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:25
 msgid "Area"
 msgstr "区域"
 
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:31
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:28
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:31
 msgid "Garage"
 msgstr "车库"
 
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:37
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:34
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:37
 msgid "Year"
 msgstr "年"
 
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:43
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:40
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:43
 msgid "Lot Size"
 msgstr "土地面积"
 
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:55
-#: includes/widgets/grid-cards/grid-card-1.php:142
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:50
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:55
 msgid "Guests"
 msgstr "客人"
 
-#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:61
+#: includes/widgets/grid-cards/card-parts/grid-card-meta.php:56
+#: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:61
 msgid "Min Stay"
 msgstr "最小住宿"
 
@@ -3950,79 +4605,99 @@ msgid "Owner"
 msgstr "所有者"
 
 #: includes/widgets/mortgage-calculator-widget.php:24
+#: includes/widgets/ultra-mortgage-calculator-widget.php:24
+#, fuzzy
 msgid "Realhomes - Mortgage Calculator"
-msgstr ""
+msgstr "真实房屋 - 抵押贷款计算器"
 
 #: includes/widgets/mortgage-calculator-widget.php:25
+#: includes/widgets/ultra-mortgage-calculator-widget.php:25
+#, fuzzy
 msgid "This widget display Mortgage Calculator."
-msgstr ""
+msgstr "此小部件显示抵押贷款计算器。"
 
 #: includes/widgets/mortgage-calculator-widget.php:95
+#: includes/widgets/ultra-mortgage-calculator-widget.php:95
 msgid "Term"
 msgstr "术语"
 
 #: includes/widgets/mortgage-calculator-widget.php:96
+#: includes/widgets/ultra-mortgage-calculator-widget.php:96
 msgid "Interest"
 msgstr "利益"
 
 #: includes/widgets/mortgage-calculator-widget.php:97
+#: includes/widgets/ultra-mortgage-calculator-widget.php:97
 msgid "Home Price"
 msgstr "房价"
 
 #: includes/widgets/mortgage-calculator-widget.php:98
+#: includes/widgets/ultra-mortgage-calculator-widget.php:98
 msgid "Down Payment"
 msgstr "首付"
 
 #: includes/widgets/mortgage-calculator-widget.php:99
+#: includes/widgets/ultra-mortgage-calculator-widget.php:99
 msgid "Principle and Interest"
 msgstr "原则和利益"
 
 #: includes/widgets/mortgage-calculator-widget.php:100
+#: includes/widgets/ultra-mortgage-calculator-widget.php:100
 msgid "per month"
 msgstr "每月"
 
 #: includes/widgets/mortgage-calculator-widget.php:150
 #: includes/widgets/mortgage-calculator-widget.php:155
 #: includes/widgets/mortgage-calculator-widget.php:200
+#: includes/widgets/ultra-mortgage-calculator-widget.php:130
+#: includes/widgets/ultra-mortgage-calculator-widget.php:153
+#: includes/widgets/ultra-mortgage-calculator-widget.php:203
 msgid "Years Fixed"
 msgstr "固定年数"
 
 #: includes/widgets/mortgage-calculator-widget.php:262
+#: includes/widgets/ultra-mortgage-calculator-widget.php:293
 msgid "Mortgage Calculator"
 msgstr "按揭计算器"
 
 #: includes/widgets/mortgage-calculator-widget.php:267
+#: includes/widgets/ultra-mortgage-calculator-widget.php:298
 msgid "Title:"
 msgstr "标题："
 
 #: includes/widgets/properties-widget.php:28
+#, fuzzy
 msgid "Displays Properties based on custom filters."
-msgstr ""
+msgstr "显示基于自定义筛选器的属性。"
 
 #: includes/widgets/properties-widget.php:33
+#, fuzzy
 msgid "RealHomes - Properties"
-msgstr ""
+msgstr "真实家园 - 属性"
 
 #: includes/widgets/properties-widget.php:198
 #: includes/widgets/properties-widget.php:226
 msgid "No Property Found!"
 msgstr "没有房源!"
 
-#: includes/widgets/properties-widget.php:312
+#: includes/widgets/properties-widget.php:361
+#, fuzzy
 msgid "Property Location:"
-msgstr ""
+msgstr "俱乐部位置"
 
-#: includes/widgets/properties-widget.php:346
+#: includes/widgets/properties-widget.php:394
 msgid "Property Status:"
 msgstr "房源状态："
 
-#: includes/widgets/properties-widget.php:378
+#: includes/widgets/properties-widget.php:425
+#, fuzzy
 msgid "Property Types:"
-msgstr ""
+msgstr "房源类型"
 
-#: includes/widgets/properties-widget.php:410
+#: includes/widgets/properties-widget.php:457
+#, fuzzy
 msgid "Property Feature:"
-msgstr ""
+msgstr "属性特色"
 
 #: includes/widgets/property-types-widget.php:26
 msgid "This widget displays a list of Property Types."
@@ -4041,24 +4716,38 @@ msgid "RealHomes - Contact Information"
 msgstr "RealHomes - 联系信息"
 
 #: includes/widgets/rh-contact-information-widget.php:116
+#, fuzzy
 msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
-msgstr ""
+msgstr "3015大大道，椰林，梅里克路，FL 12345"
 
 #: includes/widgets/rh-contact-information-widget.php:117
+#, fuzzy
 msgid "+123-456-789"
-msgstr ""
+msgstr "+123-456-789"
 
 #: includes/widgets/rh-contact-information-widget.php:118
+#, fuzzy
 msgid "robot@inspirythemes.com"
-msgstr ""
+msgstr "robot@inspirythemes.com"
 
 #: includes/widgets/rh-contact-information-widget.php:132
 msgid "Contact Address"
 msgstr "联系地址"
 
 #: includes/widgets/rh-contact-information-widget.php:141
+#, fuzzy
 msgid "Use WhatsApp icon for the phone number?"
-msgstr ""
+msgstr "使用WhatsApp图标作为电话号码？"
+
+#: includes/widgets/ultra-grid-cards/card-parts/year-built.php:8
+msgid "Build"
+msgstr "构建"
+
+#: includes/widgets/ultra-mortgage-calculator-widget.php:120
+#, fuzzy
+#| msgid "Other Properties"
+msgid "Other Dues"
+msgstr "其他属性"
 
 #. Plugin URI of the plugin/theme
 msgid ""
@@ -4067,9 +4756,14 @@ msgstr ""
 "http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
 
 #. Description of the plugin/theme
+#, fuzzy
 msgid "Provides real estate functionality for RealHomes theme."
-msgstr ""
+msgstr "为RealHomes主题提供房地产功能。"
 
 #. Author URI of the plugin/theme
+#, fuzzy
 msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
-msgstr ""
+msgstr "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
+
+#~ msgid "Default Map"
+#~ msgstr "默認地圖"
