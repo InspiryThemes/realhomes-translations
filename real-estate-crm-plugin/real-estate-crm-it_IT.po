@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Real Estate CRM\n"
-"POT-Creation-Date: 2022-06-23 18:40+0500\n"
-"PO-Revision-Date: 2023-01-16 16:11+0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2023-04-12 00:14+0500\n"
+"PO-Revision-Date: 2023-05-02 08:58+0500\n"
+"Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
@@ -23,9 +23,8 @@ msgstr ""
 
 #. Plugin Name of the plugin/theme
 #: inc/class-recrm-admin-menu.php:20 inc/class-recrm-admin-menu.php:21
-#, fuzzy
 msgid "Real Estate CRM"
-msgstr "CRM immobiliare"
+msgstr ""
 
 #: inc/class-recrm-admin-menu.php:36 inc/class-recrm-admin-menu.php:37
 #: inc/class-recrm-post-types.php:20
@@ -77,24 +76,24 @@ msgid "Date"
 msgstr "Data"
 
 #: inc/class-recrm-custom-columns.php:97
-#, fuzzy, php-format
+#, php-format
 msgid "Email: %1$s %2$s"
-msgstr "E-mail: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:100
-#, fuzzy, php-format
+#, php-format
 msgid "Work: %1$s %2$s"
-msgstr "Lavoro: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:103
-#, fuzzy, php-format
+#, php-format
 msgid "Home: %1$s %2$s"
-msgstr "Pagina iniziale: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:106
-#, fuzzy, php-format
+#, php-format
 msgid "Mobile: %1$s %2$s"
-msgstr "Cellulare: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:182
 #, php-format
@@ -106,9 +105,8 @@ msgid "..."
 msgstr "..."
 
 #: inc/class-recrm-custom-columns.php:226
-#, fuzzy
 msgid "Enquiry ID"
-msgstr "ID richiesta"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:227
 msgid "From"
@@ -138,27 +136,23 @@ msgstr "Data e Ora"
 
 #: inc/class-recrm-get-posts-from-form.php:117
 #: inc/class-recrm-meta-boxes.php:204
-#, fuzzy
 msgid "Lead,Customer"
-msgstr "Lead,Cliente"
+msgstr ""
 
 #: inc/class-recrm-get-posts-from-form.php:126
 #: inc/class-recrm-meta-boxes.php:1055 inc/class-recrm-settings.php:100
-#, fuzzy
 msgid "Open, Close"
-msgstr "Apri, chiudi"
+msgstr ""
 
 #: inc/class-recrm-get-posts-from-form.php:134
 #: inc/class-recrm-meta-boxes.php:210 inc/class-recrm-meta-boxes.php:1052
 #: inc/class-recrm-settings.php:90
-#, fuzzy
 msgid "Website, Word of Mouth, Newspaper, Friend"
-msgstr "Sito web, Passaparola, Giornale, Amico"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:44
-#, fuzzy
 msgid "Just added a note"
-msgstr "Ho appena aggiunto una nota"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:45
 msgid "x"
@@ -169,9 +163,8 @@ msgid "An Error Occurred"
 msgstr "Si è verificato un errore"
 
 #: inc/class-recrm-meta-boxes.php:47
-#, fuzzy
 msgid " - Just Added"
-msgstr " - Appena aggiunto"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:207 inc/class-recrm-settings.php:81
 msgid "Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
@@ -188,9 +181,8 @@ msgid "Prefix"
 msgstr "Prefisso"
 
 #: inc/class-recrm-meta-boxes.php:235
-#, fuzzy
 msgid "i.e Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
-msgstr "cioè Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:241 inc/class-recrm-meta-boxes.php:716
 msgid "First Name"
@@ -221,7 +213,6 @@ msgid "Zip/Postal Code"
 msgstr "Codice Postale"
 
 #: inc/class-recrm-meta-boxes.php:284
-#, fuzzy
 msgid "Country"
 msgstr "Nazione"
 
@@ -251,9 +242,8 @@ msgstr "URL Profilo Facebook"
 
 #: inc/class-recrm-meta-boxes.php:329 inc/class-recrm-meta-boxes.php:1069
 #: inc/class-recrm-meta-boxes.php:1077
-#, fuzzy
 msgid "i.e Website, Word of Mouth, Newspaper, Friend"
-msgstr "cioè sito web, passaparola, giornale, amico"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:335 inc/class-recrm-meta-boxes.php:802
 #: inc/class-recrm-meta-boxes.php:1092 inc/class-recrm-meta-boxes.php:1410
@@ -269,37 +259,33 @@ msgid "Add File"
 msgstr "Aggiungi File"
 
 #: inc/class-recrm-meta-boxes.php:431 inc/class-recrm-meta-boxes.php:1121
-#, fuzzy
 msgid "Enquiry For "
-msgstr "Richiesta per "
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:434 inc/class-recrm-meta-boxes.php:437
 #: inc/class-recrm-meta-boxes.php:495 inc/class-recrm-meta-boxes.php:502
 #: inc/class-recrm-meta-boxes.php:1124 inc/class-recrm-meta-boxes.php:1127
 #: inc/class-recrm-meta-boxes.php:1183 inc/class-recrm-meta-boxes.php:1190
-#, fuzzy
 msgid "Enquiry To "
-msgstr "Richiesta a "
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:439 inc/class-recrm-meta-boxes.php:1129
-#, fuzzy
 msgid "Enquiry Via <span>Contact Form</span>"
-msgstr "Richiesta tramite <span>modulo di contatto</span>"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:476 inc/class-recrm-meta-boxes.php:1166
-#, fuzzy, php-format
+#, php-format
 msgid "Enquired %1$s  ago"
-msgstr "Richiesta %1$s fa"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:477 inc/class-recrm-meta-boxes.php:1167
-#, fuzzy, php-format
+#, php-format
 msgid "Status: %1$s"
-msgstr "Stato: %1$s"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:480
-#, fuzzy
 msgid "View Enquiry Details"
-msgstr "Visualizza i dettagli della richiesta"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:508 inc/class-recrm-meta-boxes.php:1109
 #: inc/class-recrm-post-types.php:111 inc/class-recrm-post-types.php:137
@@ -319,9 +305,9 @@ msgid "Save Note"
 msgstr "Salva nota"
 
 #: inc/class-recrm-meta-boxes.php:585
-#, fuzzy, php-format
+#, php-format
 msgid "Added note %s ago"
-msgstr "Aggiunta nota %s fa"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:595
 msgid "Delete"
@@ -357,14 +343,12 @@ msgid "Attachments"
 msgstr "Allegati"
 
 #: inc/class-recrm-meta-boxes.php:1037
-#, fuzzy
 msgid "Enquiry Details"
-msgstr "Dettagli della richiesta"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:1084
-#, fuzzy
 msgid "Agent/Negotiator"
-msgstr "Agente/Negoziatore"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:1086
 msgid "Select an agent"
@@ -398,19 +382,16 @@ msgid "Contact"
 msgstr "Contatto"
 
 #: inc/class-recrm-post-types.php:22
-#, fuzzy
 msgid "Contact Archives"
-msgstr "Archivio contatti"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:23
-#, fuzzy
 msgid "Contact Attributes"
-msgstr "Attributi di contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:24
-#, fuzzy
 msgid "Parent Contact:"
-msgstr "Contatto per i genitori:"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:25
 msgid "All Contacts"
@@ -433,18 +414,16 @@ msgid "Edit Contact"
 msgstr "Modifica contatto"
 
 #: inc/class-recrm-post-types.php:30
-#, fuzzy
 msgid "Update Contact"
-msgstr "Aggiorna contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:31
 msgid "View Contact"
 msgstr "Visualizza contatto"
 
 #: inc/class-recrm-post-types.php:32
-#, fuzzy
 msgid "View ContactS"
-msgstr "Visualizza Contatti"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:33
 msgid "Search Contact"
@@ -475,34 +454,28 @@ msgid "Use as featured image"
 msgstr "Usa come immagine in evidenza"
 
 #: inc/class-recrm-post-types.php:40
-#, fuzzy
 msgid "Insert into contact"
-msgstr "Inserisci nel contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:41
-#, fuzzy
 msgid "Uploaded to this contact"
-msgstr "Caricato su questo contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:42
-#, fuzzy
 msgid "Contacts list"
-msgstr "Elenco contatti"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:43
-#, fuzzy
 msgid "Contacts list navigation"
-msgstr "Navigazione nell'elenco contatti"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:44
-#, fuzzy
 msgid "Filter contacts list"
-msgstr "Filtrare l'elenco dei contatti"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:49
-#, fuzzy
 msgid "Real Estate Contacts."
-msgstr "Contatti immobiliari."
+msgstr ""
 
 #: inc/class-recrm-post-types.php:77
 msgctxt "taxonomy general name"
@@ -510,50 +483,41 @@ msgid "Contact Tags"
 msgstr "Tag Contatti"
 
 #: inc/class-recrm-post-types.php:78
-#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Contact Tag"
-msgstr "Tag di contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:79
-#, fuzzy
 msgid "Search Contact Tags"
-msgstr "Cerca tag di contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:80
-#, fuzzy
 msgid "All Contact Tags"
-msgstr "Tutti i tag di contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:81
-#, fuzzy
 msgid "Parent Contact Tag"
-msgstr "Tag di contatto genitore"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:82
-#, fuzzy
 msgid "Parent Contact Tag:"
-msgstr "Tag di contatto genitore:"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:83
-#, fuzzy
 msgid "Edit Contact Tag"
-msgstr "Modifica tag contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:84
-#, fuzzy
 msgid "Update Contact Tag"
-msgstr "Aggiorna tag contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:85
-#, fuzzy
 msgid "Add New Contact Tag"
-msgstr "Aggiungi nuovo tag di contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:86
-#, fuzzy
 msgid "New Contact Tag Name"
-msgstr "Nuovo nome del tag di contatto"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:108
 msgctxt "Post Type General Name"
@@ -566,24 +530,20 @@ msgid "Enquiry"
 msgstr "Richiesta"
 
 #: inc/class-recrm-post-types.php:112
-#, fuzzy
 msgid "Enquiry Archives"
-msgstr "Archivio delle richieste"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:113
-#, fuzzy
 msgid "Enquiry Attributes"
-msgstr "Attributi della richiesta"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:114
-#, fuzzy
 msgid "Parent Enquiry:"
-msgstr "Richiesta dei genitori:"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:115
-#, fuzzy
 msgid "All Enquiries"
-msgstr "Tutte le richieste"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:116
 msgid "Add New Enquiry"
@@ -598,128 +558,99 @@ msgid "Edit Enquiry"
 msgstr "Modifica richiesta"
 
 #: inc/class-recrm-post-types.php:120
-#, fuzzy
 msgid "Update Enquiry"
-msgstr "Richiesta di aggiornamento"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:121
 msgid "View Enquiry"
 msgstr "Vedi Richiesta"
 
 #: inc/class-recrm-post-types.php:122
-#, fuzzy
 msgid "View Enquiries"
-msgstr "Visualizza richieste"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:123
-#, fuzzy
 msgid "Search Enquiry"
-msgstr "Ricerca richiesta"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:130
-#, fuzzy
 msgid "Insert into enquiry"
-msgstr "Inserisci nella richiesta"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:131
-#, fuzzy
 msgid "Uploaded to this enquiry"
-msgstr "Caricato in questa richiesta"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:132
-#, fuzzy
 msgid "Enquiries list"
-msgstr "Elenco delle richieste"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:133
-#, fuzzy
 msgid "Enquiries list navigation"
-msgstr "Navigazione nell'elenco delle richieste"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:134
-#, fuzzy
 msgid "Filter enquiries list"
-msgstr "Filtra l'elenco delle richieste"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:138
-#, fuzzy
 msgid "Real Estate Enquiries."
-msgstr "Richieste immobiliari."
+msgstr ""
 
 #: inc/class-recrm-settings.php:34 inc/class-recrm-settings.php:47
-#, fuzzy
 msgid "Real Estate CRM Settings"
-msgstr "Impostazioni CRM immobiliari"
+msgstr ""
 
 #: inc/class-recrm-settings.php:35 real-estate-crm.php:77
 msgid "Settings"
 msgstr "Impostazioni"
 
 #: inc/class-recrm-settings.php:70
-#, fuzzy
 msgid "Contact Statuses"
-msgstr "Stato dei contatti"
+msgstr ""
 
 #: inc/class-recrm-settings.php:71
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Lead, Customer). First value will be "
 "considered default for contact status."
 msgstr ""
-"Fornire valori separati da virgole, ad esempio (Lead, Customer). Il primo "
-"valore verrà considerato predefinito per lo stato del contatto."
 
 #: inc/class-recrm-settings.php:73
-#, fuzzy
 msgid "Lead, Customer"
-msgstr "Lead, Cliente"
+msgstr ""
 
 #: inc/class-recrm-settings.php:78
-#, fuzzy
 msgid "Contact Prefixes"
-msgstr "Prefissi di contatto"
+msgstr ""
 
 #: inc/class-recrm-settings.php:79
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs)."
 msgstr ""
-"Fornire valori separati da virgole, ad esempio (Mr, Mrs, Ms, Miss, Dr, Prof, "
-"Mr & Mrs)."
 
 #: inc/class-recrm-settings.php:88
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Website, Word of Mouth, Newspaper, "
 "Friend). First value will be considered default for contact prefix."
 msgstr ""
-"Fornire valori separati da virgole, ad esempio (sito Web, passaparola, "
-"giornale, amico). Il primo valore verrà considerato predefinito per il "
-"prefisso di contatto."
 
 #: inc/class-recrm-settings.php:97
-#, fuzzy
 msgid "Enquiry Status"
-msgstr "Stato della richiesta"
+msgstr ""
 
 #: inc/class-recrm-settings.php:98
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Open, Close). First value will be "
 "considered default for enquiry status."
 msgstr ""
-"Fornire valori separati da virgole, ad esempio (Apri, Chiudi). Il primo "
-"valore verrà considerato predefinito per lo stato della richiesta."
 
 #: inc/class-recrm-settings.php:106
-#, fuzzy
 msgid "Enquiry Negotiator Source"
-msgstr "Fonte del negoziatore di richieste"
+msgstr ""
 
 #: inc/class-recrm-settings.php:107
-#, fuzzy
 msgid "Select Negotiator Type"
-msgstr "Seleziona il tipo di negoziatore"
+msgstr ""
 
 #: inc/class-recrm-settings.php:111
 msgid "Custom Post Types"
@@ -730,14 +661,12 @@ msgid "Users"
 msgstr "Utenti"
 
 #: inc/class-recrm-settings.php:119
-#, fuzzy
 msgid "Select Custom Post Type For Negotiator Source"
-msgstr "Seleziona il tipo di post personalizzato per la fonte del negoziatore"
+msgstr ""
 
 #: inc/class-recrm-settings.php:120
-#, fuzzy
 msgid "Select Agent Custom Post Type"
-msgstr "Seleziona il tipo di post personalizzato dell'agente"
+msgstr ""
 
 #: inc/class-settings-api.php:344
 msgid "Choose File"
@@ -754,25 +683,21 @@ msgid "An unknown error occurred"
 msgstr "Si è verificato un errore sconosciuto"
 
 #: real-estate-crm.php:58
-#, fuzzy
 msgid "Insert File"
-msgstr "Inserisci file"
+msgstr ""
 
 #: real-estate-crm.php:59
-#, fuzzy
 msgid "Use this File"
-msgstr "Usa questo file"
+msgstr ""
 
 #. Description of the plugin/theme
-#, fuzzy
 msgid "Provides CRM functionality for Real Homes theme."
-msgstr "Fornisce funzionalità CRM per il tema Real Homes."
+msgstr ""
 
 #. Author of the plugin/theme
 msgid "Inspiry Themes"
 msgstr "Inspiry Themes"
 
 #. Author URI of the plugin/theme
-#, fuzzy
 msgid "https://inspirythemes.com/"
-msgstr "https://inspirythemes.com"
+msgstr ""

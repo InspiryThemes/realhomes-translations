@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Real Estate CRM\n"
-"POT-Creation-Date: 2022-06-23 18:40+0500\n"
-"PO-Revision-Date: 2023-01-16 16:12+0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2023-04-12 00:14+0500\n"
+"PO-Revision-Date: 2023-05-02 09:00+0500\n"
+"Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -23,15 +23,13 @@ msgstr ""
 
 #. Plugin Name of the plugin/theme
 #: inc/class-recrm-admin-menu.php:20 inc/class-recrm-admin-menu.php:21
-#, fuzzy
 msgid "Real Estate CRM"
-msgstr "房地产客户关系管理"
+msgstr ""
 
 #: inc/class-recrm-admin-menu.php:36 inc/class-recrm-admin-menu.php:37
 #: inc/class-recrm-post-types.php:20
-#, fuzzy
 msgid "Contacts"
-msgstr "联系人"
+msgstr ""
 
 #: inc/class-recrm-admin-menu.php:52 inc/class-recrm-admin-menu.php:53
 msgid "Add Contact"
@@ -43,9 +41,8 @@ msgid "Enquiries"
 msgstr "咨询"
 
 #: inc/class-recrm-admin-menu.php:82 inc/class-recrm-admin-menu.php:83
-#, fuzzy
 msgid "Contact Tags"
-msgstr "联系人标签"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:37 inc/class-recrm-meta-boxes.php:218
 #: inc/class-recrm-meta-boxes.php:761
@@ -79,24 +76,24 @@ msgid "Date"
 msgstr "日期"
 
 #: inc/class-recrm-custom-columns.php:97
-#, fuzzy, php-format
+#, php-format
 msgid "Email: %1$s %2$s"
-msgstr "电子邮件： %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:100
-#, fuzzy, php-format
+#, php-format
 msgid "Work: %1$s %2$s"
-msgstr "工作： %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:103
-#, fuzzy, php-format
+#, php-format
 msgid "Home: %1$s %2$s"
-msgstr "家： %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:106
-#, fuzzy, php-format
+#, php-format
 msgid "Mobile: %1$s %2$s"
-msgstr "手机：%1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:182
 #, php-format
@@ -108,9 +105,8 @@ msgid "..."
 msgstr "..."
 
 #: inc/class-recrm-custom-columns.php:226
-#, fuzzy
 msgid "Enquiry ID"
-msgstr "查询编号"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:227
 msgid "From"
@@ -125,9 +121,8 @@ msgid "Excerpt"
 msgstr "摘要"
 
 #: inc/class-recrm-custom-columns.php:231 inc/class-recrm-meta-boxes.php:1354
-#, fuzzy
 msgid "Negotiator"
-msgstr "谈判"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:232 inc/class-recrm-meta-boxes.php:327
 #: inc/class-recrm-meta-boxes.php:771 inc/class-recrm-meta-boxes.php:1067
@@ -141,27 +136,23 @@ msgstr "日期＆时间"
 
 #: inc/class-recrm-get-posts-from-form.php:117
 #: inc/class-recrm-meta-boxes.php:204
-#, fuzzy
 msgid "Lead,Customer"
-msgstr "领导，客户"
+msgstr ""
 
 #: inc/class-recrm-get-posts-from-form.php:126
 #: inc/class-recrm-meta-boxes.php:1055 inc/class-recrm-settings.php:100
-#, fuzzy
 msgid "Open, Close"
-msgstr "打开， 关闭"
+msgstr ""
 
 #: inc/class-recrm-get-posts-from-form.php:134
 #: inc/class-recrm-meta-boxes.php:210 inc/class-recrm-meta-boxes.php:1052
 #: inc/class-recrm-settings.php:90
-#, fuzzy
 msgid "Website, Word of Mouth, Newspaper, Friend"
-msgstr "网站， 口碑， 报纸， 朋友"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:44
-#, fuzzy
 msgid "Just added a note"
-msgstr "刚刚添加了一个注释"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:45
 msgid "x"
@@ -172,9 +163,8 @@ msgid "An Error Occurred"
 msgstr "发生错误"
 
 #: inc/class-recrm-meta-boxes.php:47
-#, fuzzy
 msgid " - Just Added"
-msgstr "- 刚刚添加"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:207 inc/class-recrm-settings.php:81
 msgid "Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
@@ -191,9 +181,8 @@ msgid "Prefix"
 msgstr "前缀"
 
 #: inc/class-recrm-meta-boxes.php:235
-#, fuzzy
 msgid "i.e Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
-msgstr "即先生，夫人，女士，小姐，博士，教授，先生和夫人"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:241 inc/class-recrm-meta-boxes.php:716
 msgid "First Name"
@@ -253,9 +242,8 @@ msgstr "Facebook个人主页网址"
 
 #: inc/class-recrm-meta-boxes.php:329 inc/class-recrm-meta-boxes.php:1069
 #: inc/class-recrm-meta-boxes.php:1077
-#, fuzzy
 msgid "i.e Website, Word of Mouth, Newspaper, Friend"
-msgstr "即网站、口碑、报纸、朋友"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:335 inc/class-recrm-meta-boxes.php:802
 #: inc/class-recrm-meta-boxes.php:1092 inc/class-recrm-meta-boxes.php:1410
@@ -271,27 +259,24 @@ msgid "Add File"
 msgstr "添加文件"
 
 #: inc/class-recrm-meta-boxes.php:431 inc/class-recrm-meta-boxes.php:1121
-#, fuzzy
 msgid "Enquiry For "
-msgstr "查询"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:434 inc/class-recrm-meta-boxes.php:437
 #: inc/class-recrm-meta-boxes.php:495 inc/class-recrm-meta-boxes.php:502
 #: inc/class-recrm-meta-boxes.php:1124 inc/class-recrm-meta-boxes.php:1127
 #: inc/class-recrm-meta-boxes.php:1183 inc/class-recrm-meta-boxes.php:1190
-#, fuzzy
 msgid "Enquiry To "
-msgstr "查询至"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:439 inc/class-recrm-meta-boxes.php:1129
-#, fuzzy
 msgid "Enquiry Via <span>Contact Form</span>"
-msgstr "通过<span>联系表格</span>查询"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:476 inc/class-recrm-meta-boxes.php:1166
-#, fuzzy, php-format
+#, php-format
 msgid "Enquired %1$s  ago"
-msgstr "%1$s前查询"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:477 inc/class-recrm-meta-boxes.php:1167
 #, php-format
@@ -299,9 +284,8 @@ msgid "Status: %1$s"
 msgstr "状态:%1$s"
 
 #: inc/class-recrm-meta-boxes.php:480
-#, fuzzy
 msgid "View Enquiry Details"
-msgstr "查看查询详情"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:508 inc/class-recrm-meta-boxes.php:1109
 #: inc/class-recrm-post-types.php:111 inc/class-recrm-post-types.php:137
@@ -321,9 +305,9 @@ msgid "Save Note"
 msgstr "保存笔记"
 
 #: inc/class-recrm-meta-boxes.php:585
-#, fuzzy, php-format
+#, php-format
 msgid "Added note %s ago"
-msgstr "%s前添加注释"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:595
 msgid "Delete"
@@ -363,9 +347,8 @@ msgid "Enquiry Details"
 msgstr "询盘详情"
 
 #: inc/class-recrm-meta-boxes.php:1084
-#, fuzzy
 msgid "Agent/Negotiator"
-msgstr "代理人/谈判代表"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:1086
 msgid "Select an agent"
@@ -389,10 +372,9 @@ msgid "NA"
 msgstr "未提供"
 
 #: inc/class-recrm-post-types.php:18
-#, fuzzy
 msgctxt "Post Type General Name"
 msgid "Contacts"
-msgstr "联系人"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:19
 msgctxt "Post Type Singular Name"
@@ -400,14 +382,12 @@ msgid "Contact"
 msgstr "联系"
 
 #: inc/class-recrm-post-types.php:22
-#, fuzzy
 msgid "Contact Archives"
-msgstr "联系档案"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:23
-#, fuzzy
 msgid "Contact Attributes"
-msgstr "联系人属性"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:24
 msgid "Parent Contact:"
@@ -442,9 +422,8 @@ msgid "View Contact"
 msgstr "查看联系人"
 
 #: inc/class-recrm-post-types.php:32
-#, fuzzy
 msgid "View ContactS"
-msgstr "查看联系人"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:33
 msgid "Search Contact"
@@ -475,86 +454,70 @@ msgid "Use as featured image"
 msgstr "作为缩略图"
 
 #: inc/class-recrm-post-types.php:40
-#, fuzzy
 msgid "Insert into contact"
-msgstr "插入触点"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:41
-#, fuzzy
 msgid "Uploaded to this contact"
-msgstr "已上传到此联系人"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:42
-#, fuzzy
 msgid "Contacts list"
-msgstr "联系人列表"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:43
-#, fuzzy
 msgid "Contacts list navigation"
-msgstr "联系人列表导航"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:44
-#, fuzzy
 msgid "Filter contacts list"
-msgstr "筛选联系人列表"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:49
-#, fuzzy
 msgid "Real Estate Contacts."
-msgstr "房地产联系人。"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:77
-#, fuzzy
 msgctxt "taxonomy general name"
 msgid "Contact Tags"
-msgstr "联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:78
-#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Contact Tag"
-msgstr "联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:79
-#, fuzzy
 msgid "Search Contact Tags"
-msgstr "搜索联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:80
-#, fuzzy
 msgid "All Contact Tags"
-msgstr "所有联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:81
-#, fuzzy
 msgid "Parent Contact Tag"
-msgstr "家长联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:82
-#, fuzzy
 msgid "Parent Contact Tag:"
-msgstr "家长联系人标签："
+msgstr ""
 
 #: inc/class-recrm-post-types.php:83
-#, fuzzy
 msgid "Edit Contact Tag"
-msgstr "编辑联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:84
-#, fuzzy
 msgid "Update Contact Tag"
-msgstr "更新联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:85
-#, fuzzy
 msgid "Add New Contact Tag"
-msgstr "添加新的联系人标签"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:86
-#, fuzzy
 msgid "New Contact Tag Name"
-msgstr "新联系人标签名称"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:108
 msgctxt "Post Type General Name"
@@ -567,24 +530,20 @@ msgid "Enquiry"
 msgstr "咨询"
 
 #: inc/class-recrm-post-types.php:112
-#, fuzzy
 msgid "Enquiry Archives"
-msgstr "查询档案"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:113
-#, fuzzy
 msgid "Enquiry Attributes"
-msgstr "查询属性"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:114
-#, fuzzy
 msgid "Parent Enquiry:"
-msgstr "家长查询："
+msgstr ""
 
 #: inc/class-recrm-post-types.php:115
-#, fuzzy
 msgid "All Enquiries"
-msgstr "所有查询"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:116
 msgid "Add New Enquiry"
@@ -607,115 +566,91 @@ msgid "View Enquiry"
 msgstr "查看询盘单"
 
 #: inc/class-recrm-post-types.php:122
-#, fuzzy
 msgid "View Enquiries"
-msgstr "查看查询"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:123
-#, fuzzy
 msgid "Search Enquiry"
-msgstr "搜索查询"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:130
-#, fuzzy
 msgid "Insert into enquiry"
-msgstr "插入查询"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:131
-#, fuzzy
 msgid "Uploaded to this enquiry"
-msgstr "已上传到此查询"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:132
-#, fuzzy
 msgid "Enquiries list"
-msgstr "查询列表"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:133
-#, fuzzy
 msgid "Enquiries list navigation"
-msgstr "查询列表导航"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:134
-#, fuzzy
 msgid "Filter enquiries list"
-msgstr "筛选查询列表"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:138
-#, fuzzy
 msgid "Real Estate Enquiries."
-msgstr "房地产查询。"
+msgstr ""
 
 #: inc/class-recrm-settings.php:34 inc/class-recrm-settings.php:47
-#, fuzzy
 msgid "Real Estate CRM Settings"
-msgstr "房地产客户关系管理"
+msgstr ""
 
 #: inc/class-recrm-settings.php:35 real-estate-crm.php:77
 msgid "Settings"
 msgstr "设置"
 
 #: inc/class-recrm-settings.php:70
-#, fuzzy
 msgid "Contact Statuses"
-msgstr "联系人状态"
+msgstr ""
 
 #: inc/class-recrm-settings.php:71
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Lead, Customer). First value will be "
 "considered default for contact status."
 msgstr ""
-"提供逗号分隔的值，例如（潜在客户、客户）。第一个值将被视为联系人状态的默认"
-"值。"
 
 #: inc/class-recrm-settings.php:73
-#, fuzzy
 msgid "Lead, Customer"
-msgstr "潜在客户，客户"
+msgstr ""
 
 #: inc/class-recrm-settings.php:78
-#, fuzzy
 msgid "Contact Prefixes"
-msgstr "联系人前缀"
+msgstr ""
 
 #: inc/class-recrm-settings.php:79
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs)."
-msgstr "提供逗号分隔的值，例如（Mr，Mrs，Ms，Miss，Dr，Prof，Mr&Mrs）。"
+msgstr ""
 
 #: inc/class-recrm-settings.php:88
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Website, Word of Mouth, Newspaper, "
 "Friend). First value will be considered default for contact prefix."
 msgstr ""
-"提供逗号分隔的值，例如（网站、口碑、报纸、朋友）。第一个值将被视为联系人前缀"
-"的默认值。"
 
 #: inc/class-recrm-settings.php:97
-#, fuzzy
 msgid "Enquiry Status"
-msgstr "查询状态"
+msgstr ""
 
 #: inc/class-recrm-settings.php:98
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Open, Close). First value will be "
 "considered default for enquiry status."
 msgstr ""
-"提供逗号分隔的值，例如（打开、关闭）。第一个值将被视为查询状态的默认值。"
 
 #: inc/class-recrm-settings.php:106
-#, fuzzy
 msgid "Enquiry Negotiator Source"
-msgstr "询价谈判员来源"
+msgstr ""
 
 #: inc/class-recrm-settings.php:107
-#, fuzzy
 msgid "Select Negotiator Type"
-msgstr "选择谈判者类型"
+msgstr ""
 
 #: inc/class-recrm-settings.php:111
 msgid "Custom Post Types"
@@ -726,23 +661,20 @@ msgid "Users"
 msgstr "用户"
 
 #: inc/class-recrm-settings.php:119
-#, fuzzy
 msgid "Select Custom Post Type For Negotiator Source"
-msgstr "为协商者来源选择自定义帖子类型"
+msgstr ""
 
 #: inc/class-recrm-settings.php:120
-#, fuzzy
 msgid "Select Agent Custom Post Type"
-msgstr "选择代理自定义帖子类型"
+msgstr ""
 
 #: inc/class-settings-api.php:344
 msgid "Choose File"
 msgstr "选择文件"
 
 #: inc/plugin-update.php:80
-#, fuzzy
 msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
-msgstr "API 请求期间发生意外的 HTTP 错误。再试一次！"
+msgstr ""
 
 #: inc/plugin-update.php:85
 msgid "An unknown error occurred"
@@ -757,15 +689,13 @@ msgid "Use this File"
 msgstr "使用此文件"
 
 #. Description of the plugin/theme
-#, fuzzy
 msgid "Provides CRM functionality for Real Homes theme."
-msgstr "为“真实家庭”主题提供 CRM 功能。"
+msgstr ""
 
 #. Author of the plugin/theme
 msgid "Inspiry Themes"
 msgstr "逼逼汉化"
 
 #. Author URI of the plugin/theme
-#, fuzzy
 msgid "https://inspirythemes.com/"
-msgstr "https://inspirythemes.com/"
+msgstr ""

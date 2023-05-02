@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2022-12-29 17:11+0500\n"
-"PO-Revision-Date: 2023-01-16 16:00+0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2023-04-12 00:08+0500\n"
+"PO-Revision-Date: 2023-05-02 08:47+0500\n"
+"Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: da_DK\n"
 "MIME-Version: 1.0\n"
@@ -22,105 +22,97 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: node_modules\n"
 
-#: easy-real-estate.php:254 includes/mb/property/basic-metaboxes.php:210
-#: includes/mb/property/video-metaboxes.php:53 includes/settings/social.php:140
+#: easy-real-estate.php:276 includes/mb/property/basic-metaboxes.php:211
+#: includes/mb/property/video-metaboxes.php:54 includes/settings/social.php:140
+#: includes/widgets/property-filters.php:535
 #: includes/widgets/rh-contact-information-widget.php:128
 msgid "Title"
 msgstr "Titel"
 
-#: easy-real-estate.php:255 includes/settings/social.php:145
+#: easy-real-estate.php:277 includes/settings/social.php:145
 msgid "Profile URL"
 msgstr "Profil Link"
 
-#: easy-real-estate.php:256 includes/settings/social.php:149
+#: easy-real-estate.php:278 includes/settings/social.php:149
 msgid "Icon Class"
 msgstr "Ikon klasse"
 
-#: easy-real-estate.php:257
-#, fuzzy
+#: easy-real-estate.php:279
 msgid "Example: fas fa-flicker"
-msgstr "Eksempel: fas fa-flimmer"
+msgstr ""
 
-#: easy-real-estate.php:258
-#, fuzzy
+#: easy-real-estate.php:280
 msgid "Get icon!"
-msgstr "Hent ikon!"
+msgstr ""
 
-#: easy-real-estate.php:321
+#: easy-real-estate.php:345
 msgid "Property Views"
 msgstr "Ejendomsvisninger"
 
-#: easy-real-estate.php:336
+#: easy-real-estate.php:360
 msgid "Price Format"
 msgstr "Pris format"
 
-#: easy-real-estate.php:337
+#: easy-real-estate.php:361
 msgid "URL Slugs"
 msgstr "URL links"
 
-#: easy-real-estate.php:338
+#: easy-real-estate.php:362
 msgid "Maps"
 msgstr "Kort"
 
-#: easy-real-estate.php:339
+#: easy-real-estate.php:363
 msgid "reCAPTCHA"
 msgstr "reCAPTCHA"
 
-#: easy-real-estate.php:340 includes/mb/agent-agency-meta-boxes-config.php:24
+#: easy-real-estate.php:364 includes/mb/agent-agency-meta-boxes-config.php:24
 #: includes/mb/agent-agency-meta-boxes-config.php:206
 msgid "Social"
 msgstr "Social"
 
-#: easy-real-estate.php:341
+#: easy-real-estate.php:365
 msgid "GDPR"
 msgstr "GDPR"
 
-#: easy-real-estate.php:342 includes/custom-post-types/property.php:23
+#: easy-real-estate.php:366 includes/custom-post-types/property.php:23
 #: includes/mb/property-meta-boxes-config.php:57
 msgid "Property"
 msgstr "Ejendom"
 
-#: easy-real-estate.php:343
-#, fuzzy
+#: easy-real-estate.php:367
 msgid "Property Analytics"
-msgstr "Analyse af ejendomme"
+msgstr ""
 
-#: easy-real-estate.php:344
+#: easy-real-estate.php:368
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: easy-real-estate.php:444
-#, fuzzy
+#: easy-real-estate.php:468
 msgid "Settings saved successfully!"
-msgstr "Indstillinger gemt med succes!"
+msgstr ""
 
-#: easy-real-estate.php:453
-#, fuzzy
+#: easy-real-estate.php:477
 msgid "Cloning is forbidden!"
-msgstr "Kloning er forbudt!"
+msgstr ""
 
-#: easy-real-estate.php:460
+#: easy-real-estate.php:484
 msgid "Unserializing is forbidden!"
 msgstr "Unserialisering er forbudt!"
 
-#: easy-real-estate.php:507
-#, fuzzy, php-format
+#: easy-real-estate.php:531
+#, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
 "conflicts with RealHomes Theme functionality. Please delete these plugins to "
 "run your site smoothly."
 msgstr ""
-"%s Easy Real Estate%s opdagede følgende plugins, der kan skabe konflikter "
-"med RealHomes Theme-funktionalitet. Slet disse plugins for at køre dit "
-"websted problemfrit."
 
 #. Plugin Name of the plugin/theme
 #: includes/admin-menu/class-ere-admin-menu.php:38
 #: includes/admin-menu/class-ere-admin-menu.php:39
 #: includes/settings/settings.php:8 includes/settings/settings.php:11
-#, fuzzy
 msgid "Easy Real Estate"
-msgstr "Nem fast ejendom"
+msgstr ""
 
 #: includes/admin-menu/class-ere-admin-menu.php:51
 #: includes/custom-post-types/property.php:25
@@ -135,6 +127,7 @@ msgstr "Ny ydelse"
 #: includes/admin-menu/class-ere-admin-menu.php:80
 #: includes/admin-menu/class-ere-admin-menu.php:81
 #: includes/custom-post-types/agency.php:15
+#: includes/widgets/property-filters.php:264
 msgid "Agencies"
 msgstr "Bureauer"
 
@@ -144,6 +137,7 @@ msgstr "Bureauer"
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
 #: includes/widgets/agents-list-widget.php:162
+#: includes/widgets/property-filters.php:250
 msgid "Agents"
 msgstr "Mæglere"
 
@@ -177,28 +171,25 @@ msgstr "Firma"
 #: includes/custom-post-types/agency.php:16
 #: includes/custom-post-types/agency.php:42
 #: includes/custom-post-types/agency.php:184
+#: includes/widgets/property-filters.php:265
 msgid "Agency"
 msgstr "Firma"
 
 #: includes/custom-post-types/agency.php:17
-#, fuzzy
 msgid "Agency Archives"
-msgstr "Agenturets arkiver"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:18
-#, fuzzy
 msgid "Agency Attributes"
-msgstr "Agenturets attributter"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:19
-#, fuzzy
 msgid "Parent Agency:"
-msgstr "Overordnet agentur:"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:20
-#, fuzzy
 msgid "All Agencies"
-msgstr "Alle agenturer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:21
 msgid "Add New Agency"
@@ -229,9 +220,8 @@ msgid "View Agency"
 msgstr "Vis udlejer"
 
 #: includes/custom-post-types/agency.php:27
-#, fuzzy
 msgid "View Agencies"
-msgstr "Se agenturer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:28
 msgid "Search Agency"
@@ -246,54 +236,44 @@ msgid "Not found in Trash"
 msgstr "Ikke fundet i papirkurven"
 
 #: includes/custom-post-types/agency.php:31
-#, fuzzy
 msgid "Agency Logo Image"
-msgstr "Agenturets logo billede"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:32
-#, fuzzy
 msgid "Set agency logo image"
-msgstr "Indstil bureaulogobillede"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:33
-#, fuzzy
 msgid "Remove agency logo image"
-msgstr "Fjern bureauets logobillede"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:34
-#, fuzzy
 msgid "Use as agency logo image"
-msgstr "Brug som bureaulogo billede"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:35
-#, fuzzy
 msgid "Insert into agency"
-msgstr "Indsæt i agentur"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:36
-#, fuzzy
 msgid "Uploaded to this agency"
-msgstr "Uploadet til dette agentur"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:37
-#, fuzzy
 msgid "Agencies list"
-msgstr "Liste over agenturer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:38
-#, fuzzy
 msgid "Agencies list navigation"
-msgstr "Navigation på bureauliste"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:39
-#, fuzzy
 msgid "Filter agencies list"
-msgstr "Liste over filtreringsbureauer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:43
-#, fuzzy
 msgid "An agency is a company of realtors."
-msgstr "Et agentur er et selskab af ejendomsmæglere."
+msgstr ""
 
 #: includes/custom-post-types/agency.php:60 includes/settings/slug.php:10
 msgid "agency"
@@ -305,98 +285,82 @@ msgstr "bureauer"
 
 #: includes/custom-post-types/agency.php:111
 #: includes/custom-post-types/agency.php:125
-#, fuzzy
 #| msgid "Locations"
 msgid "Agency Locations"
-msgstr "Lokationer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:112
-#, fuzzy
 #| msgid "Location"
 msgid "Agency Location"
-msgstr "Lokation"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:113
-#, fuzzy
 #| msgid "Search Agency"
 msgid "Search Agency Locations"
-msgstr "Søg udlejere"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:114
-#, fuzzy
 #| msgid "Property Locations"
 msgid "Popular Agency Locations"
-msgstr "Bolig Adresser"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:115
-#, fuzzy
 #| msgid "Property Locations"
 msgid "All Agency Locations"
-msgstr "Bolig Adresser"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:116
-#, fuzzy
 #| msgid "Property Location"
 msgid "Parent Agency Location"
-msgstr "Ejendomsadresse"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:117
-#| msgid "Property Location"
 msgid "Parent Agency Location:"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:118
-#, fuzzy
 #| msgid "Edit Agency"
 msgid "Edit Agency Location"
-msgstr "Rediger agentur"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:119
-#, fuzzy
 #| msgid "Update Agency"
 msgid "Update Agency Location"
-msgstr "Updater boligudlejer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:120
-#, fuzzy
 #| msgid "Add New Agency"
 msgid "Add New Agency Location"
-msgstr "Tilføj nyt agentur"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:121
-#, fuzzy
 msgid "New Agency Location Name"
-msgstr "Nyt navn på agenturets placering"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:122
-#, fuzzy
 #| msgid "Separate Property Status with commas"
 msgid "Separate Agency Locations with commas"
-msgstr "Adskil ejendomsstatus med kommaer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:123
-#, fuzzy
 #| msgid "Add or remove Property Status"
 msgid "Add or remove Agency Locations"
-msgstr "Tilføj eller fjern ejendomsstatus"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:124
-#, fuzzy
 #| msgid "Choose from the most used Property Status"
 msgid "Choose from the most used Agency Locations"
-msgstr "Vælg fra de mest anvendte ejendomsstatus"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:138 includes/settings/slug.php:11
-#, fuzzy
 #| msgid "Location"
 msgid "agency-location"
-msgstr "Lokation"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:141
-#, fuzzy
 #| msgid "Locations"
 msgid "agency-locations"
-msgstr "Lokationer"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:185
 #: includes/custom-post-types/agent.php:171
@@ -412,15 +376,13 @@ msgstr "Total antal ejendomme"
 
 #: includes/custom-post-types/agency.php:187
 #: includes/custom-post-types/agent.php:173
-#, fuzzy
 msgid "Published Properties"
-msgstr "Udgivne egenskaber"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:188
 #: includes/custom-post-types/agent.php:174
-#, fuzzy
 msgid "Other Properties"
-msgstr "Andre egenskaber"
+msgstr ""
 
 #: includes/custom-post-types/agency.php:189
 #: includes/custom-post-types/agent.php:175
@@ -435,6 +397,7 @@ msgstr "Ingen miniaturebillede"
 
 #: includes/custom-post-types/agent.php:21
 #: includes/custom-post-types/agent.php:170 includes/shortcodes/vc-map.php:137
+#: includes/widgets/property-filters.php:251
 msgid "Agent"
 msgstr "Agent"
 
@@ -471,105 +434,88 @@ msgid "agent"
 msgstr "mægler"
 
 #: includes/custom-post-types/agent.php:52
-#, fuzzy
 msgid "agents"
-msgstr "Mæglere"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:97
 #: includes/custom-post-types/agent.php:111
-#, fuzzy
 #| msgid "Locations"
 msgid "Agent Locations"
-msgstr "Lokationer"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:98
-#, fuzzy
 #| msgid "Agent Information"
 msgid "Agent Location"
-msgstr "Mægler information"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:99
-#, fuzzy
 #| msgid "Search Agent"
 msgid "Search Agent Locations"
-msgstr "Søg mægler"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:100
-#, fuzzy
 #| msgid "Property Locations"
 msgid "Popular Agent Locations"
-msgstr "Bolig Adresser"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:101
-#, fuzzy
 #| msgid "Agent Information"
 msgid "All Agent Locations"
-msgstr "Mægler information"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:102
-#, fuzzy
 #| msgid "Property Location"
 msgid "Parent Agent Location"
-msgstr "Ejendomsadresse"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:103
-#| msgid "Property Location"
 msgid "Parent Agent Location:"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:104
-#, fuzzy
 #| msgid "Edit Agent"
 msgid "Edit Agent Location"
-msgstr "Rediger mægler"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:105
-#, fuzzy
 #| msgid "Update Agency"
 msgid "Update Agent Location"
-msgstr "Updater boligudlejer"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:106
-#, fuzzy
 #| msgid "Add New Agent"
 msgid "Add New Agent Location"
-msgstr "Tilføj ny mægler"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:107
-#, fuzzy
 #| msgid "Agent Information"
 msgid "New Agent Location Name"
-msgstr "Mægler information"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:108
-#, fuzzy
 #| msgid "Separate Property Status with commas"
 msgid "Separate Agent Locations with commas"
-msgstr "Adskil ejendomsstatus med kommaer"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:109
-#, fuzzy
 #| msgid "Add or remove Property Status"
 msgid "Add or remove Agent Locations"
-msgstr "Tilføj eller fjern ejendomsstatus"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:110
-#, fuzzy
 #| msgid "Choose from the most used Property Status"
 msgid "Choose from the most used Agent Locations"
-msgstr "Vælg fra de mest anvendte ejendomsstatus"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:124 includes/settings/slug.php:9
-#, fuzzy
 #| msgid "Agent Information"
 msgid "agent-location"
-msgstr "Mægler information"
+msgstr ""
 
 #: includes/custom-post-types/agent.php:127
-#, fuzzy
 #| msgid "Locations"
 msgid "agent-locations"
-msgstr "Lokationer"
+msgstr ""
 
 #: includes/custom-post-types/partners.php:12
 #: includes/custom-post-types/partners.php:65
@@ -666,6 +612,8 @@ msgstr "ejendom"
 
 #: includes/custom-post-types/property.php:117
 #: includes/custom-post-types/property.php:131
+#: includes/widgets/property-filters.php:133
+#: includes/widgets/property-filters.php:558
 msgid "Property Features"
 msgstr "Ejendomsegenskaber"
 
@@ -731,12 +679,14 @@ msgstr ""
 
 #: includes/custom-post-types/property.php:161
 #: includes/custom-post-types/property.php:175
+#: includes/widgets/property-filters.php:91
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr "Ejendomstyper"
 
 #: includes/custom-post-types/property.php:162
+#: includes/widgets/property-filters.php:544
 msgid "Property Type"
 msgstr "Ejendomstype"
 
@@ -799,82 +749,71 @@ msgstr ""
 
 #: includes/custom-post-types/property.php:205
 #: includes/custom-post-types/property.php:219
+#: includes/widgets/property-filters.php:105
 msgid "Property Locations"
 msgstr "Bolig Adresser"
 
 #: includes/custom-post-types/property.php:206
+#: includes/widgets/property-filters.php:549
 msgid "Property Location"
 msgstr "Ejendomsadresse"
 
 #: includes/custom-post-types/property.php:207
-#, fuzzy
 msgid "Search Property Locations"
-msgstr "Søg efter ejendomsplaceringer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:208
-#, fuzzy
 msgid "Popular Property Locations"
-msgstr "Populære ejendomsplaceringer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:209
 #: includes/custom-post-types/property.php:703
-#, fuzzy
 msgid "All Property Locations"
-msgstr "Alle ejendommens placeringer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:210
-#, fuzzy
 msgid "Parent Property Location"
-msgstr "Overordnet ejendom placering"
+msgstr ""
 
 #: includes/custom-post-types/property.php:211
-#, fuzzy
 msgid "Parent Property Location:"
-msgstr "Overordnet ejendom Placering:"
+msgstr ""
 
 #: includes/custom-post-types/property.php:212
-#, fuzzy
 msgid "Edit Property Location"
-msgstr "Rediger ejendommens placering"
+msgstr ""
 
 #: includes/custom-post-types/property.php:213
-#, fuzzy
 msgid "Update Property Location"
-msgstr "Opdater egenskabsplacering"
+msgstr ""
 
 #: includes/custom-post-types/property.php:214
-#, fuzzy
 msgid "Add New Property Location"
-msgstr "Tilføj ny ejendomsplacering"
+msgstr ""
 
 #: includes/custom-post-types/property.php:215
-#, fuzzy
 msgid "New Property Location Name"
-msgstr "Navn på ny ejendomsplacering"
+msgstr ""
 
 #: includes/custom-post-types/property.php:216
-#, fuzzy
 msgid "Separate Property Locations with commas"
-msgstr "Separate ejendomsplaceringer med kommaer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:217
-#, fuzzy
 msgid "Add or remove Property Locations"
-msgstr "Tilføj eller fjern ejendomsplaceringer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:218
-#, fuzzy
 msgid "Choose from the most used Property Locations"
-msgstr "Vælg mellem de mest anvendte ejendomsplaceringer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:232
 msgid "property-city"
 msgstr "ejendoms beliggenhed"
 
 #: includes/custom-post-types/property.php:235
-#, fuzzy
 msgid "property-cities"
-msgstr "Ejendoms-byer"
+msgstr ""
 
 #: includes/custom-post-types/property.php:249
 msgid "Property Statuses"
@@ -882,6 +821,8 @@ msgstr "Bolig statusser"
 
 #: includes/custom-post-types/property.php:250
 #: includes/custom-post-types/property.php:263
+#: includes/widgets/property-filters.php:119
+#: includes/widgets/property-filters.php:553
 msgid "Property Status"
 msgstr "Ejendomsstatus"
 
@@ -938,9 +879,8 @@ msgid "property-status"
 msgstr "ejendoms status"
 
 #: includes/custom-post-types/property.php:279
-#, fuzzy
 msgid "property-statuses"
-msgstr "Bolig statusser"
+msgstr ""
 
 #: includes/custom-post-types/property.php:387
 #: includes/functions/form-handlers.php:144
@@ -951,37 +891,41 @@ msgid "Property Title"
 msgstr "Ejendomsoverskrift"
 
 #: includes/custom-post-types/property.php:389
+#: includes/widgets/property-filters.php:106
 msgid "Location"
 msgstr "Lokation"
 
 #: includes/custom-post-types/property.php:390
+#: includes/widgets/property-filters.php:92
 msgid "Type"
 msgstr "Type"
 
 #: includes/custom-post-types/property.php:391
+#: includes/widgets/property-filters.php:120
 msgid "Status"
 msgstr "Status"
 
 #: includes/custom-post-types/property.php:392
-#: includes/shortcodes/vc-map.php:123
+#: includes/shortcodes/vc-map.php:123 includes/widgets/property-filters.php:181
 msgid "Price"
 msgstr "Pris"
 
 #: includes/custom-post-types/property.php:393
 #: includes/custom-post-types/property.php:759
 #: includes/mb/property/basic-metaboxes.php:164
+#: includes/widgets/property-filters.php:364
+#: includes/widgets/property-filters.php:365
+#: includes/widgets/property-filters.php:677
 msgid "Property ID"
 msgstr "Konto ID"
 
 #: includes/custom-post-types/property.php:399
-#, fuzzy
 msgid "Last 1 Week"
-msgstr "Sidste 1 uge"
+msgstr ""
 
 #: includes/custom-post-types/property.php:402
-#, fuzzy
 msgid "Last 2 Weeks"
-msgstr "Sidste 2 uger"
+msgstr ""
 
 #: includes/custom-post-types/property.php:405
 msgid "Last 30 Days"
@@ -1062,9 +1006,8 @@ msgid "Payment Currency"
 msgstr "Betalings valuta"
 
 #: includes/custom-post-types/property.php:729
-#, fuzzy
 msgid "All Property Statuses"
-msgstr "Alle ejendomsstatusser"
+msgstr ""
 
 #: includes/custom-post-types/property.php:742
 msgid "All Users"
@@ -1135,24 +1078,21 @@ msgid "Target URL"
 msgstr "Link URL"
 
 #: includes/custom-post-types/slide.php:144
-#, fuzzy
 msgid "This URL will be applied on Slide Image."
-msgstr "Denne URL-adresse vil blive anvendt på Slide Image."
+msgstr ""
 
 #: includes/email-template/email-template.php:268
-#, fuzzy
 msgid "Sent from "
-msgstr "Sendt fra "
+msgstr ""
 
 #: includes/functions/basic.php:577
 msgid "Date/Time"
 msgstr "Dato/klokkeslæt"
 
 #: includes/functions/basic.php:578 includes/functions/form-handlers.php:1220
-#, fuzzy
 #| msgid "Property Type"
 msgid "Tour Type"
-msgstr "Ejendomstype"
+msgstr ""
 
 #: includes/functions/basic.php:579 includes/functions/form-handlers.php:161
 #: includes/functions/form-handlers.php:343
@@ -1176,13 +1116,28 @@ msgid "Email"
 msgstr "E-mail"
 
 #: includes/functions/basic.php:602
-#, fuzzy
 msgid "There are no tour requests for this property."
-msgstr "Der er ingen anmodninger om rundvisning for denne ejendom."
+msgstr ""
 
 #: includes/functions/basic.php:662
 msgid "Share"
 msgstr "Del"
+
+#: includes/functions/basic.php:750 includes/functions/basic.php:922
+#| msgid "View Partner"
+msgid "View More"
+msgstr "Se mere"
+
+#: includes/functions/basic.php:751 includes/functions/basic.php:923
+#| msgid "View Bundles"
+msgid "View Less"
+msgstr ""
+
+#: includes/functions/basic.php:941
+#| msgctxt "media"
+#| msgid "+ Add Media"
+msgid "+ Add Media"
+msgstr "+ Indsæt medie"
 
 #: includes/functions/form-handlers.php:84
 #: includes/functions/form-handlers.php:289
@@ -1213,17 +1168,15 @@ msgid "New message sent by"
 msgstr "Ny besked sendt af"
 
 #: includes/functions/form-handlers.php:133
-#, fuzzy
 msgid "using contact form at"
-msgstr "ved hjælp af kontaktformular på"
+msgstr ""
 
 #: includes/functions/form-handlers.php:154
 #: includes/functions/form-handlers.php:532
 #: includes/functions/form-handlers.php:699
 #: includes/functions/form-handlers.php:1199
-#, fuzzy
 msgid "Property URL"
-msgstr "Ejendommens URL-adresse"
+msgstr ""
 
 #: includes/functions/form-handlers.php:167
 #: includes/functions/form-handlers.php:349
@@ -1244,9 +1197,8 @@ msgstr "Besked"
 #: includes/functions/form-handlers.php:368
 #: includes/functions/form-handlers.php:564 includes/functions/gdpr.php:39
 #: includes/settings/gdpr.php:8
-#, fuzzy
 msgid "GDPR Agreement"
-msgstr "GDPR-aftale"
+msgstr ""
 
 #: includes/functions/form-handlers.php:247
 #: includes/functions/form-handlers.php:429
@@ -1265,19 +1217,16 @@ msgstr "Serverfejl: WordPress e-mail funktion mislykkedes!"
 #: includes/functions/form-handlers.php:260
 #: includes/functions/form-handlers.php:442
 #: includes/functions/form-handlers.php:619
-#, fuzzy
 msgid "Invalid Request !"
-msgstr "Ugyldig anmodning!"
+msgstr ""
 
 #: includes/functions/form-handlers.php:335
-#, fuzzy
 msgid "using home contact form at"
-msgstr "Brug af hjemmekontaktformular på"
+msgstr ""
 
 #: includes/functions/form-handlers.php:510
-#, fuzzy
 msgid "using agency contact form at"
-msgstr "ved hjælp af agenturets kontaktformular på"
+msgstr ""
 
 #: includes/functions/form-handlers.php:510
 msgid "using agent contact form at"
@@ -1293,98 +1242,84 @@ msgid "Security Issue"
 msgstr "Sikkerhedsproblem"
 
 #: includes/functions/form-handlers.php:660
-#, fuzzy
 #| msgid "Email"
 msgid "Email Error"
-msgstr "E-mail"
+msgstr ""
 
 #: includes/functions/form-handlers.php:661
-#, fuzzy
 #| msgid "Target Email address is not properly configured!"
 msgid "Target email address is not properly configured!"
-msgstr "Modtager e-mail adresse er ikke korrekt konfigureret!"
+msgstr ""
 
 #: includes/functions/form-handlers.php:673
 msgid "Invalid Email"
 msgstr "Ugyldig e-mail"
 
 #: includes/functions/form-handlers.php:674
-#, fuzzy
 #| msgid "Provided Email address is invalid!"
 msgid "Provided email address is invalid!"
-msgstr "E-mail adressen er ugyldig!"
+msgstr ""
 
 #: includes/functions/form-handlers.php:682
-#, fuzzy
 msgid "A New Report is Received!"
-msgstr "En ny rapport er modtaget!"
+msgstr ""
 
 #: includes/functions/form-handlers.php:683
 msgid "User Feedback"
 msgstr "Bruger feedback"
 
 #: includes/functions/form-handlers.php:741
-#, fuzzy
 #| msgid "Send Message"
 msgid "User Message"
-msgstr "Send Besked"
+msgstr ""
 
 #: includes/functions/form-handlers.php:760
 msgid "User Email"
 msgstr "Bruger E-mail"
 
 #: includes/functions/form-handlers.php:797
-#, fuzzy
 msgid "Server Error"
-msgstr "Server fejl"
+msgstr ""
 
 #: includes/functions/form-handlers.php:798
-#, fuzzy
 #| msgid "Server Error: WordPress mail function failed!"
 msgid "WordPress mail function failed!"
-msgstr "Serverfejl: WordPress e-mail funktion mislykkedes!"
+msgstr ""
 
 #: includes/functions/form-handlers.php:806
 #: includes/functions/form-handlers.php:1308
-#, fuzzy
 #| msgid "Bad request"
 msgid "Invalid Request!"
-msgstr "Dårlig anmodning"
+msgstr ""
 
 #: includes/functions/form-handlers.php:807
-#, fuzzy
 #| msgid "Target Email address is not properly configured!"
 msgid "The email address is not properly configured!"
-msgstr "Modtager e-mail adresse er ikke korrekt konfigureret!"
+msgstr ""
 
 #: includes/functions/form-handlers.php:868
-#, fuzzy
 msgid "No field provided."
-msgstr "Intet felt angivet."
+msgstr ""
 
 #: includes/functions/form-handlers.php:922
 msgid "Email Template"
 msgstr "E-mail skabelon"
 
 #: includes/functions/form-handlers.php:934
-#, fuzzy
 msgid "Header Content"
-msgstr "Overskriftens indhold"
+msgstr ""
 
 #: includes/functions/form-handlers.php:935
-#, fuzzy
 msgid "Content to include in email template header"
-msgstr "Indhold, der skal medtages i mailskabelonoverskriften"
+msgstr ""
 
 #: includes/functions/form-handlers.php:939
-#, fuzzy
 msgid "Logo or Custom Image"
-msgstr "Logo eller brugerdefineret billede"
+msgstr ""
 
 #: includes/functions/form-handlers.php:940
-#, fuzzy
 msgid "Title ( by default: Site Title )"
-msgstr "Titel (som standard: Webstedstitel)"
+msgstr ""
 
 #: includes/functions/form-handlers.php:941
 msgid "Both"
@@ -1394,16 +1329,18 @@ msgstr "Begge"
 #: includes/mb/main/inc/fields/select.php:92
 #: includes/mb/meta-box-helper-functions.php:61
 #: includes/mb/meta-box-helper-functions.php:93
-#: includes/mb/property-additional-fields.php:212
-#: includes/mb/property-additional-fields.php:536
-#: includes/mb/property-additional-fields.php:579
-#: includes/mb/property-additional-fields.php:627
-#: includes/mb/property-additional-fields.php:666
-#: includes/mb/property-additional-fields.php:709
-#: includes/mb/property-additional-fields.php:747
+#: includes/mb/property-additional-fields.php:220
+#: includes/mb/property-additional-fields.php:599
+#: includes/mb/property-additional-fields.php:642
+#: includes/mb/property-additional-fields.php:690
+#: includes/mb/property-additional-fields.php:729
+#: includes/mb/property-additional-fields.php:772
+#: includes/mb/property-additional-fields.php:810
 #: includes/mb/property/energy-metaboxes.php:37
 #: includes/mb/property/energy-metaboxes.php:49
 #: includes/widgets/advance-search-widget.php:102
+#: includes/widgets/property-filters.php:412
+#: includes/widgets/property-filters.php:433
 msgid "None"
 msgstr "Ingen"
 
@@ -1416,18 +1353,16 @@ msgid "Header Title"
 msgstr "Header titel"
 
 #: includes/functions/form-handlers.php:977
-#, fuzzy
 msgid "Header Title Color"
-msgstr "Farve på overskriftstitel"
+msgstr ""
 
 #: includes/functions/form-handlers.php:1008
 msgid "Background Color"
 msgstr "Baggrundsfarve"
 
 #: includes/functions/form-handlers.php:1020
-#, fuzzy
 msgid "Body Links Color"
-msgstr "Kropslinks farve"
+msgstr ""
 
 #: includes/functions/form-handlers.php:1041
 msgid "Footer Text"
@@ -1442,39 +1377,32 @@ msgid "Footer Link Color"
 msgstr "Sidefods link farve"
 
 #: includes/functions/form-handlers.php:1150
-#, fuzzy
 #| msgid "No Property found"
 msgid "Property ID is not found!"
-msgstr "Ingen ejendomme fundet"
+msgstr ""
 
 #: includes/functions/form-handlers.php:1183
-#, fuzzy
 msgid "Property Tour is requested by - "
-msgstr "Ejendomstur anmodes om af - "
+msgstr ""
 
 #: includes/functions/form-handlers.php:1206
 msgid "Selected Date"
 msgstr "Valgt dato"
 
 #: includes/functions/form-handlers.php:1213
-#, fuzzy
 #| msgid "Select File"
 msgid "Selected Time"
-msgstr "Vælg fil"
+msgstr ""
 
 #: includes/functions/gdpr.php:40 includes/settings/gdpr.php:10
-#, fuzzy
 msgid "* Please accept GDPR agreement"
-msgstr "* Accepter venligst GDPR-aftale"
+msgstr ""
 
 #: includes/functions/gdpr.php:41 includes/settings/gdpr.php:9
-#, fuzzy
 msgid ""
 "I consent to having this website store my submitted information so they can "
 "respond to my inquiry."
 msgstr ""
-"Jeg giver samtykke til, at dette websted gemmer mine indsendte oplysninger, "
-"så de kan svare på min forespørgsel."
 
 #: includes/functions/google-recaptcha.php:152
 msgid "The secret parameter is missing."
@@ -1505,9 +1433,8 @@ msgstr ""
 "er den blevet anvendt tidligere."
 
 #: includes/functions/google-recaptcha.php:163
-#, fuzzy
 msgid "reCAPTCHA Failed:"
-msgstr "reCAPTCHA mislykkedes:"
+msgstr ""
 
 #: includes/functions/members.php:24
 msgid "Provide a valid username or email address!"
@@ -1526,9 +1453,9 @@ msgid "Invalid username or email!"
 msgstr "Ugyldigt brugernavn eller e-mail adresse!"
 
 #: includes/functions/members.php:67
-#, fuzzy, php-format
+#, php-format
 msgid "Your New Password For %s"
-msgstr "Din nye adgangskode til %s"
+msgstr ""
 
 #: includes/functions/members.php:71
 msgid "Your New Password"
@@ -1547,9 +1474,8 @@ msgid "Oops! Something went wrong while resetting your password!"
 msgstr "Ups! Noget gik galt under nulstilling af din adgangskode!"
 
 #: includes/functions/members.php:145
-#, fuzzy
 msgid "A new user is registered on your site with the following information."
-msgstr "En ny bruger er registreret på dit websted med følgende oplysninger."
+msgstr ""
 
 #: includes/functions/members.php:149
 msgid "Username"
@@ -1567,14 +1493,12 @@ msgid "Welcome to %s"
 msgstr "Velkommen til %s"
 
 #: includes/functions/members.php:171
-#, fuzzy
 msgid "Your Username"
-msgstr "Dit brugernavn"
+msgstr ""
 
 #: includes/functions/members.php:181
-#, fuzzy
 msgid "To set your password, visit the following address"
-msgstr "For at indstille din adgangskode skal du besøge følgende adresse"
+msgstr ""
 
 #: includes/functions/members.php:187
 msgid "Login URL"
@@ -1589,14 +1513,12 @@ msgid "It is highly recommended to change your password after login."
 msgstr "Det anbefales at ændre din adgangskode efter login."
 
 #: includes/functions/members.php:199
-#, fuzzy
 msgid "For more details visit:"
-msgstr "For flere detaljer besøg:"
+msgstr ""
 
 #: includes/functions/plugin-update.php:80
-#, fuzzy
 msgid "An Unexpected HTTP Error occurred during the API request. Try again!"
-msgstr "Der opstod en uventet HTTP-fejl under API-anmodningen. Prøv igen!"
+msgstr ""
 
 #: includes/functions/plugin-update.php:85
 msgid "An unknown error occurred"
@@ -1607,14 +1529,13 @@ msgid "$"
 msgstr "Kr"
 
 #: includes/functions/price.php:61
-#, fuzzy
 msgid "Price On Call"
-msgstr "Pris på opkald"
+msgstr ""
 
 #: includes/functions/property-submit.php:43
-#, fuzzy, php-format
+#, php-format
 msgid "A new property is submitted at %s"
-msgstr "En ny ejendom er indsendt af %s ved %s"
+msgstr ""
 
 #: includes/functions/property-submit.php:45
 #, php-format
@@ -1622,33 +1543,30 @@ msgid "A new property is submitted by %s at %s"
 msgstr "En ny ejendom er indsendt af %s ved %s"
 
 #: includes/functions/property-submit.php:54
-#, fuzzy
 msgid "A new property is submitted"
-msgstr "En ny ejendom er indsendt af %s ved %s"
+msgstr ""
 
 #: includes/functions/property-submit.php:59
-#, fuzzy, php-format
+#, php-format
 msgid "A new property is submitted by %s"
-msgstr "En ny ejendom er indsendt af %s ved %s"
+msgstr ""
 
 #: includes/functions/property-submit.php:68
-#, fuzzy
 msgid "Property Preview Link"
-msgstr "Link til forhåndsvisning af ejendom"
+msgstr ""
 
 #: includes/functions/property-submit.php:78
 msgid "Message to the Reviewer"
 msgstr "Besked til redaktøren"
 
 #: includes/functions/property-submit.php:86
-#, fuzzy
 msgid "Submitter Email"
-msgstr "Indberetter e-mail"
+msgstr ""
 
 #: includes/functions/property-submit.php:148
-#, fuzzy, php-format
+#, php-format
 msgid "Property Published: %s"
-msgstr "Ejendom Offentliggjort: %s"
+msgstr ""
 
 #: includes/functions/property-submit.php:154
 #, php-format
@@ -1656,48 +1574,44 @@ msgid "Hello %s,"
 msgstr "Hej %s,"
 
 #: includes/functions/property-submit.php:155
-#, fuzzy, php-format
+#, php-format
 msgid "We have published your property \"%s\"."
-msgstr "Vi har offentliggjort din ejendom \"%s\"."
+msgstr ""
 
 #: includes/functions/property-submit.php:159
-#, fuzzy
 msgid "You can view it here."
-msgstr "Du kan se den her."
+msgstr ""
 
 #: includes/functions/property-submit.php:165
-#, fuzzy
 msgid "Thanks for Submitting."
-msgstr "Tak for indsendelsen."
+msgstr ""
 
 #: includes/functions/purchase-api.php:117
-#, fuzzy
 msgid "Please enter an item purchase code."
-msgstr "Indtast en varekøbskode."
+msgstr ""
 
 #: includes/functions/purchase-api.php:140
-#, fuzzy
 msgid "Please provide a valid purchase code!"
-msgstr "Angiv venligst en gyldig købskode!"
+msgstr ""
 
 #: includes/functions/purchase-api.php:145
-#, fuzzy
 msgid "Problem in connecting..."
-msgstr "Problem med at forbinde..."
+msgstr ""
 
 #: includes/functions/real-estate.php:104
+#: includes/widgets/property-filters.php:367
+#: includes/widgets/property-filters.php:401
+#: includes/widgets/property-filters.php:471
 msgid "Any"
 msgstr "Enhver"
 
 #: includes/functions/subscription-api.php:65
-#, fuzzy
 msgid "ERE Subscription Interval"
-msgstr "ERE Abonnementsinterval"
+msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:14
-#, fuzzy
 msgid "Agent Details"
-msgstr "Oplysninger om agent"
+msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:20
 #: includes/mb/agent-agency-meta-boxes-config.php:202
@@ -1750,10 +1664,10 @@ msgstr "Marker som godlendt"
 #: includes/mb/property/location-metaboxes.php:66
 #: includes/mb/property/misc-metaboxes.php:46
 #: includes/mb/property/misc-metaboxes.php:176
-#: includes/mb/templates-meta-boxes-config.php:141
-#: includes/mb/templates-meta-boxes-config.php:151
+#: includes/mb/templates-meta-boxes-config.php:143
+#: includes/mb/templates-meta-boxes-config.php:153
 #: includes/settings/gdpr.php:33 includes/settings/gdpr.php:75
-#: includes/settings/map.php:105 includes/shortcodes/vc-map.php:279
+#: includes/settings/map.php:107 includes/shortcodes/vc-map.php:279
 msgid "Yes"
 msgstr "Ja"
 
@@ -1766,10 +1680,10 @@ msgstr "Ja"
 #: includes/mb/property/location-metaboxes.php:67
 #: includes/mb/property/misc-metaboxes.php:47
 #: includes/mb/property/misc-metaboxes.php:177
-#: includes/mb/templates-meta-boxes-config.php:142
-#: includes/mb/templates-meta-boxes-config.php:152
+#: includes/mb/templates-meta-boxes-config.php:144
+#: includes/mb/templates-meta-boxes-config.php:154
 #: includes/settings/gdpr.php:38 includes/settings/gdpr.php:80
-#: includes/settings/map.php:110 includes/shortcodes/vc-map.php:278
+#: includes/settings/map.php:112 includes/shortcodes/vc-map.php:278
 msgid "No"
 msgstr "Nej"
 
@@ -1779,32 +1693,24 @@ msgid "Email Address"
 msgstr "E-mail Adresse"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:99
-#, fuzzy
 msgid ""
 "Messages from default agent form on property single will be sent to this "
 "address."
 msgstr ""
-"Meddelelser fra standardagentformularen på egenskaben single sendes til "
-"denne adresse."
 
 #: includes/mb/agent-agency-meta-boxes-config.php:105
-#, fuzzy
 msgid "Shortcode to Replace Default Agent Form"
-msgstr "Kortkode til erstatning af standardagentformular"
+msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:107
-#, fuzzy
 msgid ""
 "Default agent form can be replaced with custom form using contact form 7 or "
 "WPForms plugin shortcode."
 msgstr ""
-"Standardagentformular kan erstattes med brugerdefineret formular ved hjælp "
-"af kontaktformular 7 eller WPForms plugin-kortkode."
 
 #: includes/mb/agent-agency-meta-boxes-config.php:118
-#, fuzzy
 msgid "Select Agency If Any"
-msgstr "Vælg agentur, hvis nogen"
+msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:131
 #: includes/mb/agent-agency-meta-boxes-config.php:283
@@ -1845,48 +1751,37 @@ msgid "Provide Related Information"
 msgstr "Angiv relaterede oplysninger"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:263
-#, fuzzy
 msgid "Messages from default agency form will be sent to this address."
-msgstr "Meddelelser fra standardagenturformularen sendes til denne adresse."
+msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:269
-#, fuzzy
 msgid "Shortcode to Replace Default Agency Form"
-msgstr "Kortkode til erstatning af standardagenturformular"
+msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:271
-#, fuzzy
 msgid ""
 "Default agency form can be replaced with custom form using contact form 7 or "
 "WPForms plugin shortcode."
 msgstr ""
-"Standard agenturformular kan erstattes med brugerdefineret formular ved "
-"hjælp af kontaktformular 7 eller WPForms plugin kortkode."
 
 #: includes/mb/class-ere-meta-boxes.php:141
 msgid "Meta Box plugin has been deactivated!"
 msgstr "Meta box plugin er blevet deaktiveret!"
 
 #: includes/mb/class-ere-meta-boxes.php:143
-#, fuzzy
 msgid ""
 "As similar functionality is already embedded with in Easy Real Estate plugin."
 msgstr ""
-"Da lignende funktionalitet allerede er indlejret i Easy Real Estate-plugin."
 
 #: includes/mb/class-ere-meta-boxes.php:145
 msgid "So, You should completely remove it from your plugins."
 msgstr "Så skal du helt fjerne det fra dine plugins."
 
 #: includes/mb/exts/mb-settings-page/src/BackupField.php:20
-#, fuzzy
 msgid ""
 "To export settings, copy the content of this field and save to a file. To "
 "import settings, paste the content of the backup file here."
 msgstr ""
-"Hvis du vil eksportere indstillinger, skal du kopiere indholdet af dette "
-"felt og gemme det i en fil. For at importere indstillinger skal du indsætte "
-"indholdet af sikkerhedskopifilen her."
 
 #: includes/mb/exts/mb-settings-page/src/Factory.php:45
 msgid "Save Settings"
@@ -1897,14 +1792,12 @@ msgid "Settings saved."
 msgstr "Indstillinger gemt."
 
 #: includes/mb/exts/mb-term-meta/src/MetaBox.php:65
-#, fuzzy
 msgid "Term added."
-msgstr "Term tilføjet."
+msgstr ""
 
 #: includes/mb/exts/meta-box-group/group-field.php:63
-#, fuzzy
 msgid "Are you sure you want to remove this group?"
-msgstr "Er du sikker på, at du vil fjerne denne gruppe?"
+msgstr ""
 
 #: includes/mb/exts/meta-box-group/group-field.php:140
 #: includes/mb/main/inc/fields/file-input.php:45
@@ -1955,18 +1848,14 @@ msgstr ""
 "budskabet. Tak fra Meta Box teamet!"
 
 #: includes/mb/main/inc/about/sections/extensions.php:11
-#, fuzzy
 msgid ""
 "Extend custom fields in WordPress well beyond what others would ever "
 "consider ordinary!"
 msgstr ""
-"Udvid brugerdefinerede felter i WordPress langt ud over, hvad andre "
-"nogensinde ville betragte som almindelige!"
 
 #: includes/mb/main/inc/about/sections/extensions.php:12
-#, fuzzy
 msgid "Save over 80% with our extensions bundles."
-msgstr "Spar over 80% med vores udvidelsespakker."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/extensions.php:12
 msgid "View Bundles"
@@ -2002,99 +1891,71 @@ msgid "Learn More"
 msgstr "Lær mere"
 
 #: includes/mb/main/inc/about/sections/extensions.php:44
-#, fuzzy
 msgid ""
 "Create repeatable groups of custom fields for better appearance and "
 "structure."
 msgstr ""
-"Opret gentagelige grupper af brugerdefinerede felter for bedre udseende og "
-"struktur."
 
 #: includes/mb/main/inc/about/sections/extensions.php:56
-#, fuzzy
 msgid "Create a powerful settings page for your theme, plugin or website."
 msgstr ""
-"Opret en kraftfuld indstillingsside til dit tema, plugin eller websted."
 
 #: includes/mb/main/inc/about/sections/extensions.php:68
-#, fuzzy
 msgid ""
 "Control the visibility of meta boxes and fields or even HTML elements with "
 "ease."
 msgstr ""
-"Kontroller let synligheden af metabokse og felter eller endda HTML-elementer."
 
 #: includes/mb/main/inc/about/sections/extensions.php:80
-#, fuzzy
 msgid ""
 "Create register, login and edit user profile forms in the frontend. Embed "
 "everywhere with shortcodes."
 msgstr ""
-"Opret registrer, log ind og rediger brugerprofilformularer i frontend. "
-"Integrer overalt med kortkoder."
 
 #: includes/mb/main/inc/about/sections/extensions.php:92
-#, fuzzy
 msgid ""
 "Create frontend forms for users to submit custom content. Embed everywhere "
 "with shortcode."
 msgstr ""
-"Opret frontend-formularer, så brugerne kan indsende brugerdefineret indhold. "
-"Integrer overalt med kortkode."
 
 #: includes/mb/main/inc/about/sections/extensions.php:104
-#, fuzzy
 msgid ""
 "Save custom fields data to custom table. Reduce database size and increase "
 "performance."
 msgstr ""
-"Gem brugerdefinerede feltdata i brugerdefineret tabel. Reducer "
-"databasestørrelsen, og øg ydeevnen."
 
 #: includes/mb/main/inc/about/sections/extensions.php:116
-#, fuzzy
 msgid "Create many-to-many relationships between posts, terms and users."
-msgstr "Opret mange-til-mange-relationer mellem indlæg, termer og brugere."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/extensions.php:124
-#, fuzzy
 msgid "View all extensions"
-msgstr "Se alle udvidelser"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:12
-#, fuzzy
 msgid "Getting Started With Online Generator"
-msgstr "Kom godt i gang med Online Generator"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:13
-#, fuzzy
 msgid ""
 "Online Generator is a free tool to help you create and set up custom fields "
 "using a simple, friendly user interface. With it, you can add fields, set "
 "options and generate needed code that's ready to copy and paste."
 msgstr ""
-"Online Generator er et gratis værktøj til at hjælpe dig med at oprette og "
-"opsætte brugerdefinerede felter ved hjælp af en enkel, venlig "
-"brugergrænseflade. Med det kan du tilføje felter, indstille indstillinger og "
-"generere den nødvendige kode, der er klar til at kopiere og indsætte."
 
 #: includes/mb/main/inc/about/sections/getting-started.php:15
-#, fuzzy
 msgid "online generator"
-msgstr "online generator"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:17
-#, fuzzy
 msgid "Go to Online Generator"
-msgstr "Gå til Online Generator"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:21
-#, fuzzy
 msgid "Understand The Basics"
-msgstr "Forstå det grundlæggende"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:22
-#, fuzzy
 msgid ""
 "Meta Box doesn't have any admin page for configuration or settings. Instead "
 "of that, it provides a very powerful API to speed up the process of creating "
@@ -2102,11 +1963,6 @@ msgid ""
 "then you'll love the way it work because it helps you do and customize "
 "almost everything."
 msgstr ""
-"Meta Box har ikke nogen admin-side til konfiguration eller indstillinger. I "
-"stedet for det giver det en meget kraftfuld API til at fremskynde processen "
-"med at oprette metabokse og brugerdefinerede felter. Det kan tage dig lidt "
-"tid i starten, men så vil du elske den måde, det fungerer på, fordi det "
-"hjælper dig med at gøre og tilpasse næsten alt."
 
 #: includes/mb/main/inc/about/sections/getting-started.php:25
 #: includes/mb/main/inc/about/sections/tabs.php:12
@@ -2115,113 +1971,88 @@ msgid "Extensions"
 msgstr "Udvidelser"
 
 #: includes/mb/main/inc/about/sections/getting-started.php:26
-#, fuzzy
 msgid ""
 "Wanna see more features that transform your WordPress website into a "
 "powerful CMS? Check out some extensions below:"
 msgstr ""
-"Vil du se flere funktioner, der omdanner dit WordPress-websted til et "
-"kraftfuldt CMS? Tjek nogle udvidelser nedenfor:"
 
 #: includes/mb/main/inc/about/sections/getting-started.php:28
-#, fuzzy
 msgid "Meta Box Builder"
-msgstr "Meta Box Builder"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:28
-#, fuzzy
 msgid "Build meta boxes and fields with UI."
-msgstr "Byg metabokse og felter med brugergrænseflade."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:29
-#, fuzzy
 msgid "Meta Box Group"
-msgstr "Meta Box Gruppe"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:29
-#, fuzzy
 msgid "Organize fields into repeatable groups."
-msgstr "Organiser felter i gentagelige grupper."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:30
-#, fuzzy
 msgid "Meta Box Conditional Logic"
-msgstr "Meta Box betinget logik"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:30
-#, fuzzy
 msgid "Control the visibility of fields."
-msgstr "Kontroller synligheden af felter."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:31
-#, fuzzy
 msgid "MB Settings Page"
-msgstr "Siden MB-indstillinger"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:31
-#, fuzzy
 msgid "Create settings pages/Customizer options."
-msgstr "Opret indstillingssider/tilpasningsindstillinger."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/getting-started.php:33
-#, fuzzy
 msgid "More Extensions"
-msgstr "Flere udvidelser"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/products.php:12
-#, fuzzy
 msgid "Our WordPress Products"
-msgstr "Vores WordPress produkter"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/products.php:15
-#, fuzzy
 msgid "Like this plugin? Check out our other WordPress products:"
-msgstr "Kan du lide dette plugin? Se vores andre WordPress-produkter:"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/products.php:16
-#, fuzzy
 msgid "Automated & fast SEO plugin for WordPress"
-msgstr "Automatiseret & hurtig SEO-plugin til WordPress"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/products.php:17
-#, fuzzy
 msgid "A super fast, lightweight and highly customizable WordPress theme"
-msgstr "Et superhurtigt, let og meget tilpasseligt WordPress-tema"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/support.php:18
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Still need help with Meta Box? We offer excellent support for you. But don't "
 "forget to check our <a href=\"%s\">documentation</a> first."
 msgstr ""
-"Har du stadig brug for hjælp til Meta Box? Vi tilbyder fremragende support "
-"til dig. Men glem ikke at tjekke vores <a href=\"%s\">dokumentation</a> "
-"først."
 
 #: includes/mb/main/inc/about/sections/support.php:23
 msgid "Free Support"
 msgstr "Gratis support"
 
 #: includes/mb/main/inc/about/sections/support.php:24
-#, fuzzy
 msgid ""
 "If you have any question about how to use the plugin, please open a new "
 "topic on WordPress.org support forum or open a new issue on Github "
 "(preferable). We will try to answer as soon as we can."
 msgstr ""
-"Hvis du har spørgsmål om, hvordan du bruger pluginet, skal du åbne et nyt "
-"emne på WordPress.org supportforum eller åbne et nyt problem på Github "
-"(foretrækkes). Vi vil forsøge at svare så hurtigt som muligt."
 
 #: includes/mb/main/inc/about/sections/support.php:25
-#, fuzzy
 msgid "Go to Github"
-msgstr "Gå til Github"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/support.php:26
-#, fuzzy
 msgid "Go to WordPress.org"
-msgstr "Gå til WordPress.org"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/support.php:30
 msgid "Premium Support"
@@ -2251,15 +2082,12 @@ msgid "Support"
 msgstr "Support"
 
 #: includes/mb/main/inc/about/sections/upgrade.php:10
-#, fuzzy
 msgid "Upgrade to Meta Box PRO"
-msgstr "Opgrader til Meta Box PRO"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/upgrade.php:11
-#, fuzzy
 msgid "Please upgrade to the PRO plan to unlock more awesome features."
 msgstr ""
-"Opgrader til PRO-planen for at låse op for flere fantastiske funktioner."
 
 #: includes/mb/main/inc/about/sections/upgrade.php:13
 msgid ""
@@ -2270,33 +2098,28 @@ msgstr ""
 "påkrævet!"
 
 #: includes/mb/main/inc/about/sections/upgrade.php:14
-#, fuzzy
 msgid "Add custom fields to taxonomies or user profile."
-msgstr "Føj brugerdefinerede felter til taksonomier eller brugerprofil."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/upgrade.php:15
-#, fuzzy
 msgid "Create custom settings pages."
-msgstr "Opret brugerdefinerede indstillingssider."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/upgrade.php:16
 msgid "Create frontend submission forms."
 msgstr "Create frontend submission forms."
 
 #: includes/mb/main/inc/about/sections/upgrade.php:17
-#, fuzzy
 msgid "Save custom fields in custom tables."
-msgstr "Gem brugerdefinerede felter i brugerdefinerede tabeller."
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/upgrade.php:18
-#, fuzzy
 msgid "And much more!"
-msgstr "Og meget mere!"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/upgrade.php:20
-#, fuzzy
 msgid "Get Meta Box PRO now"
-msgstr "Få Meta Box PRO nu"
+msgstr ""
 
 #: includes/mb/main/inc/about/sections/welcome.php:17
 msgid ""
@@ -2333,9 +2156,8 @@ msgid "Background Image"
 msgstr "Baggrundsbillede"
 
 #: includes/mb/main/inc/fields/background.php:89
-#, fuzzy
 msgid "-- Repeat --"
-msgstr "Gentag Ikke"
+msgstr ""
 
 #: includes/mb/main/inc/fields/background.php:91
 msgid "No Repeat"
@@ -2433,7 +2255,7 @@ msgstr "Vælg fil"
 
 #: includes/mb/main/inc/fields/file-input.php:43
 #: includes/mb/main/inc/fields/select.php:92
-#: includes/mb/property-additional-fields.php:129
+#: includes/mb/property-additional-fields.php:135
 msgid "Select"
 msgstr "Vælg"
 
@@ -2479,7 +2301,7 @@ msgid "Key"
 msgstr "Nøgle"
 
 #: includes/mb/main/inc/fields/key-value.php:136
-#: includes/mb/property/basic-metaboxes.php:211
+#: includes/mb/property/basic-metaboxes.php:212
 msgid "Value"
 msgstr "Værdi"
 
@@ -2563,13 +2385,17 @@ msgid "Select an item"
 msgstr "Vælg et emne"
 
 #: includes/mb/main/inc/fields/select.php:92 includes/shortcodes/vc-map.php:97
+#: includes/widgets/property-filters.php:161
+#: includes/widgets/property-filters.php:211
+#: includes/widgets/property-filters.php:282
+#: includes/widgets/property-filters.php:311
+#: includes/widgets/property-filters.php:340
 msgid "All"
 msgstr "Alle"
 
 #: includes/mb/main/inc/fields/sidebar.php:23
-#, fuzzy
 msgid "Select a sidebar"
-msgstr "Vælg en indholdsoversigt"
+msgstr ""
 
 #: includes/mb/main/inc/fields/switch.php:93
 msgid "On"
@@ -2588,14 +2414,12 @@ msgid "Select an user"
 msgstr "Vælg en bruger"
 
 #: includes/mb/main/inc/loader.php:119
-#, fuzzy
 msgid "Dismiss all Meta Box news"
-msgstr "Afvis alle Meta Box nyheder"
+msgstr ""
 
 #: includes/mb/main/inc/loader.php:120
-#, fuzzy
 msgid "Are you sure to dismiss all Meta Box news?"
-msgstr "Er du sikker på at afvise alle Meta Box-nyheder?"
+msgstr ""
 
 #: includes/mb/main/inc/meta-box.php:342
 msgid "Meta Box Title"
@@ -2610,67 +2434,51 @@ msgstr ""
 "automatisk opdatering."
 
 #: includes/mb/main/inc/update/notification.php:112
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "You have not set your Meta Box license key yet, which means you are missing "
 "out on automatic updates and support! Please <a href=\"%1$s\">enter your "
 "license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
-"Du har ikke indstillet din Meta Box-licensnøgle endnu, hvilket betyder, at "
-"du går glip af automatiske opdateringer og support! <a href=\"%1$s\">Indtast "
-"din licensnøgle</a> eller <a href=\"%2$s\" target=\"_blank\">få en ny her</"
-"a>."
 
 #: includes/mb/main/inc/update/notification.php:114
 #: includes/mb/main/inc/update/notification.php:116
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Your license key for Meta Box is <b>invalid</b>. Please <a "
 "href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" "
 "target=\"_blank\">get a new one</a> to enable automatic updates."
 msgstr ""
-"Din licensnøgle til Meta Box er <b>ugyldig.</b> <a href=\"%1$s\">Opdater din "
-"licensnøgle,</a> eller <a href=\"%2$s\" target=\"_blank\">få en ny</a> for "
-"at aktivere automatiske opdateringer."
 
 #: includes/mb/main/inc/update/notification.php:118
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
 "target=\"_blank\">renew your license</a> to get automatic updates and "
 "premium support."
 msgstr ""
-"Din licensnøgle til Meta Box er <b>udløbet</b>. <a href=\"%3$s\" "
-"target=\"_blank\">Forny din licens</a> for at få automatiske opdateringer og "
-"premium support."
 
 #: includes/mb/main/inc/update/notification.php:142
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
 "target=\"_blank\">get a new one here</a>."
 msgstr ""
-"<a href=\"%1$s\">Indtast din licensnøgle</a> eller <a href=\"%2$s\" "
-"target=\"_blank\">få en ny her</a>."
 
 #: includes/mb/main/inc/update/notification.php:144
 #: includes/mb/main/inc/update/notification.php:146
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
 "license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
-"Din licensnøgle er <b>ugyldig.</b> <a href=\"%1$s\">Opdater din licensnøgle</"
-"a> eller <a href=\"%2$s\" target=\"_blank\">få en ny her</a>."
 
 #: includes/mb/main/inc/update/notification.php:148
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Your license key is <b>expired</b>. Please <a href=\"%3$s\" "
 "target=\"_blank\">renew your license</a>."
 msgstr ""
-"Din licensnøgle er <b>udløbet</b>. <a href=\"%3$s\" target=\"_blank\">Forny "
-"din licens</a>."
 
 #: includes/mb/main/inc/update/notification.php:171
 msgid "Activate License"
@@ -2682,35 +2490,27 @@ msgstr "Opdatér licens"
 
 #: includes/mb/main/inc/update/settings.php:72
 #: includes/mb/main/inc/update/settings.php:90
-#, fuzzy
 msgid "Meta Box License"
-msgstr "Meta Box licens"
+msgstr ""
 
 #: includes/mb/main/inc/update/settings.php:72
 msgid "License"
 msgstr "Licens"
 
 #: includes/mb/main/inc/update/settings.php:91
-#, fuzzy
 msgid ""
 "Please enter your license key to enable automatic updates for Meta Box "
 "extensions."
 msgstr ""
-"Indtast din licensnøgle for at aktivere automatiske opdateringer til Meta "
-"Box-udvidelser."
 
 #: includes/mb/main/inc/update/settings.php:96
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
 "Account</a> page on metabox.io website. If you have not purchased any "
 "extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license "
 "here</a>."
 msgstr ""
-"Du kan få licensnøglen ved at besøge siden <a href=\"%1$s\" "
-"target=\"_blank\">Min konto</a> på metabox.io websted. Hvis du ikke har købt "
-"nogen udvidelse endnu, <a href=\"%2$s\" target=\"_blank\">skal du få en ny "
-"licens her</a>."
 
 #: includes/mb/main/inc/update/settings.php:108
 msgid "License Key"
@@ -2718,31 +2518,26 @@ msgstr "Licensnøgle"
 
 #: includes/mb/main/inc/update/settings.php:113
 #: includes/mb/main/inc/update/settings.php:115
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Your license key is <b>invalid</b>. Please update your license key or <a "
 "href=\"%1$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
-"Din licensnøgle er <b>ugyldig.</b> Opdater din licensnøgle eller <a "
-"href=\"%1$s\" target=\"_blank\">få en ny her</a>."
 
 #: includes/mb/main/inc/update/settings.php:117
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
 "target=\"_blank\">renew your license</a>."
 msgstr ""
-"Din licensnøgle er <b>udløbet</b>. <a href=\"%2$s\" target=\"_blank\">Forny "
-"din licens</a>."
 
 #: includes/mb/main/inc/update/settings.php:118
-#, fuzzy
 msgid "Your license key is <b>active</b>."
-msgstr "Din licensnøgle er <b>aktiv.</b>"
+msgstr ""
 
 #: includes/mb/main/inc/update/settings.php:131
 #: includes/settings/captcha.php:79 includes/settings/gdpr.php:89
-#: includes/settings/map.php:187 includes/settings/price.php:301
+#: includes/settings/map.php:200 includes/settings/price.php:301
 #: includes/settings/property-analytics.php:104
 #: includes/settings/property.php:115 includes/settings/slug.php:78
 #: includes/settings/social.php:343 includes/settings/webhooks.php:61
@@ -2750,65 +2545,49 @@ msgid "Save Changes"
 msgstr "Gem ændringer"
 
 #: includes/mb/main/inc/update/settings.php:157
-#, fuzzy
 msgid ""
 "Something wrong with the connection to metabox.io. Please try again later."
-msgstr "Noget galt med forbindelsen til metabox.io. Prøv igen senere."
+msgstr ""
 
 #: includes/mb/main/inc/update/settings.php:159
-#, fuzzy
 msgid "Your license is activated."
-msgstr "Din licens er aktiveret."
+msgstr ""
 
 #: includes/mb/main/inc/update/settings.php:162
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
 "Account</a> page on metabox.io website."
 msgstr ""
-"Licensen er udløbet. Forny venligst på siden <a href=\"%s\" "
-"target=\"_blank\">Min konto på</a> metabox.io websted."
 
 #: includes/mb/main/inc/update/settings.php:168
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
 "or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
 msgstr ""
-"Ugyldig licens. <a href=\"%1$s\" target=\"_blank\">Tjek venligst igen</a> "
-"eller <a href=\"%2$s\" target=\"_blank\">få en ny licens her</a>."
 
 #: includes/mb/main/inc/validation.php:43
 msgid "Please correct the errors highlighted below and try again."
 msgstr "Ret fejlene fremhævet nedenfor, og prøv igen."
 
 #: includes/mb/main/meta-box.php:24
-#, fuzzy
 msgid ""
 "Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
-msgstr "Meta Box kræver PHP version 5.3+. Kontakt din vært for at opgradere."
+msgstr ""
 
 #: includes/mb/meta-box-helper-functions.php:125
-#, fuzzy
 msgid ""
 "Images should have minimum size of 1240px by 720px. Bigger size images will "
 "be cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
-"Billeder skal have en minimumsstørrelse på 1240px x 720px. Billeder i større "
-"størrelse beskæres automatisk. Der kræves mindst 2 billeder for at vise "
-"galleri."
 
 #: includes/mb/meta-box-helper-functions.php:129
-#, fuzzy
 msgid ""
 "Images should have minimum size of 1170px by 648px for thumbnails on right "
 "and 830px by 460px for thumbnails on bottom. Bigger size images will be "
 "cropped automatically. Minimum 2 images are required to display gallery."
 msgstr ""
-"Billeder skal have en minimumsstørrelse på 1170px x 648px for "
-"miniaturebilleder til højre og 830px x 460px for miniaturebilleder i bunden. "
-"Billeder i større størrelse beskæres automatisk. Der kræves mindst 2 "
-"billeder for at vise galleri."
 
 #: includes/mb/partner-meta-boxes-config.php:14
 msgid "Partner Information"
@@ -2822,101 +2601,96 @@ msgstr "Hjemmeside URL"
 msgid "Provide Website URL"
 msgstr "Angiv hjemmeside URL"
 
-#: includes/mb/property-additional-fields.php:88
-#, fuzzy
+#: includes/mb/property-additional-fields.php:94
 msgid "New Fields Builder"
-msgstr "Ny Fields Builder"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:103
-#, fuzzy
+#: includes/mb/property-additional-fields.php:109
 msgid "Add New Property Fields"
-msgstr "Tilføj nye egenskabsfelter"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:116
+#: includes/mb/property-additional-fields.php:122
 msgid "Field Name"
 msgstr "Feltnavn"
 
-#: includes/mb/property-additional-fields.php:117
-#, fuzzy
+#: includes/mb/property-additional-fields.php:123
 msgid ""
 "Keep it short and unique. Do not use any special Characters. Example: First "
 "Additional Field"
 msgstr ""
-"Hold det kort og unikt. Brug ikke specialtegn. Eksempel: Første ekstra felt"
 
-#: includes/mb/property-additional-fields.php:122
+#: includes/mb/property-additional-fields.php:128
 msgid "Field Type"
 msgstr "Felt type"
 
-#: includes/mb/property-additional-fields.php:127
+#: includes/mb/property-additional-fields.php:133
 msgid "Text"
 msgstr "Tekst"
 
-#: includes/mb/property-additional-fields.php:128
-#, fuzzy
+#: includes/mb/property-additional-fields.php:134
 msgid "Text Multiple Line"
-msgstr "Tekst med flere linjer"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:130
-#, fuzzy
+#: includes/mb/property-additional-fields.php:136
 msgid "Checkbox List"
-msgstr "Liste over afkrydsningsfelter"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:131
+#: includes/mb/property-additional-fields.php:137
 msgid "Radio"
 msgstr "Radioknap"
 
-#: includes/mb/property-additional-fields.php:135
+#: includes/mb/property-additional-fields.php:141
 msgid "Field Options"
 msgstr "Feltindstillinger"
 
-#: includes/mb/property-additional-fields.php:136
-#, fuzzy
-msgid "Please add comma separated options. Example: One, Two, Three"
-msgstr "Tilføj venligst kommaseparerede muligheder. Eksempel: En, to, tre"
-
 #: includes/mb/property-additional-fields.php:142
-#, fuzzy
-msgid "Field Icon"
-msgstr "Ikonet Felt"
-
-#: includes/mb/property-additional-fields.php:143
-#, fuzzy, php-format
-msgid "You can use the %s. You just need to add the icon class like %s "
-msgstr "Du kan bruge %s. Du skal bare tilføje ikonklassen som %s "
-
-#: includes/mb/property-additional-fields.php:143
-#, fuzzy
-msgid "Font Awesome Icons"
-msgstr "Font Awesome ikoner"
+msgid "Please add comma separated options. Example: One, Two, Three"
+msgstr ""
 
 #: includes/mb/property-additional-fields.php:148
-#, fuzzy
-msgid "Where do you want to display this field?"
-msgstr "Hvor vil du vise dette felt?"
+msgid "Field Icon"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:152
-#, fuzzy
-msgid "Advance Search Form"
-msgstr "Formular til forudgående søgning"
+#: includes/mb/property-additional-fields.php:149
+#, php-format
+msgid "You can use the %s. You just need to add the icon class like %s "
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:153
-#, fuzzy
-msgid "Property Submit Page"
-msgstr "Side til indsendelse af ejendom"
+#: includes/mb/property-additional-fields.php:149
+msgid "Font Awesome Icons"
+msgstr ""
 
 #: includes/mb/property-additional-fields.php:154
-#, fuzzy
+msgid "Where do you want to display this field?"
+msgstr ""
+
+#: includes/mb/property-additional-fields.php:158
+msgid "Advance Search Form"
+msgstr ""
+
+#: includes/mb/property-additional-fields.php:159
+msgid "Property Submit Page"
+msgstr ""
+
+#: includes/mb/property-additional-fields.php:160
 #| msgid "Property Locations"
 msgid "Property Listing Cards"
-msgstr "Bolig Adresser"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:155
-#, fuzzy
+#: includes/mb/property-additional-fields.php:161
 msgid "Property Single Page"
-msgstr "Ejendom enkelt side"
+msgstr ""
 
-#: includes/mb/property-additional-fields.php:181
+#: includes/mb/property-additional-fields.php:162
+msgid "Property Compare Page"
+msgstr ""
+
+#: includes/mb/property-additional-fields.php:163
+msgid "Property Filters Widget"
+msgstr ""
+
+#: includes/mb/property-additional-fields.php:189
+#: includes/widgets/property-filters.php:682
 msgid "Additional Fields"
 msgstr "Yderligere felter"
 
@@ -2951,19 +2725,14 @@ msgid "Top Banner Image"
 msgstr "Top banner billede"
 
 #: includes/mb/property/banner-metaboxes.php:36
-#, fuzzy
 msgid ""
 "You can upload banner image specific for this property to override default "
 "one. Recommended minimum image size is 2000px by 230px."
 msgstr ""
-"Du kan uploade bannerbilleder, der er specifikke for denne ejendom, for at "
-"tilsidesætte standardbilledet. Anbefalet mindste billedstørrelse er 2000px x "
-"230px."
 
 #: includes/mb/property/banner-metaboxes.php:47
-#, fuzzy
 msgid "Hide Search Form in Header ?"
-msgstr "Skjul søgeformular i Header?"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:12
 msgid "Basic Information"
@@ -2974,111 +2743,96 @@ msgid "Sale or Rent Price ( Only digits )"
 msgstr "Salgs- eller udlejningspris (kun cifre)"
 
 #: includes/mb/property/basic-metaboxes.php:54
-#, fuzzy
 msgid "Example: 12500"
-msgstr "Eksempel: 12500"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:62
-#, fuzzy
 msgid "Old Price If Any ( Only digits )"
-msgstr "Gammel pris hvis nogen ( Kun cifre )"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:63
-#, fuzzy
 msgid "Example: 14500"
-msgstr "Eksempel: 14500"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:71
 msgid "Price Prefix"
 msgstr "Pris"
 
 #: includes/mb/property/basic-metaboxes.php:72
-#, fuzzy
 msgid "Example: From"
-msgstr "Eksempel: Fra"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:80
-#: includes/mb/property/floorplans-metaboxes.php:62
-#, fuzzy
+#: includes/mb/property/floorplans-metaboxes.php:63
 msgid "Price Postfix"
-msgstr "Pris Postfix"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:81
-#, fuzzy
 msgid "Example: Monthly or Per Night"
-msgstr "Eksempel: Månedligt eller pr. nat"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:101
 msgid "Area Size ( Only digits )"
 msgstr "Areal (Kun tal)"
 
 #: includes/mb/property/basic-metaboxes.php:102
-#: includes/mb/property/floorplans-metaboxes.php:71
-#, fuzzy
+#: includes/mb/property/floorplans-metaboxes.php:72
 msgid "Example: 2500"
-msgstr "Eksempel: 2500"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:110
-#, fuzzy
 msgid "Area Size Postfix"
-msgstr "Postfix i områdestørrelse"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:111
 #: includes/mb/property/basic-metaboxes.php:129
-#: includes/mb/property/floorplans-metaboxes.php:78
+#: includes/mb/property/floorplans-metaboxes.php:79
 msgid "Example: sq ft"
 msgstr "Eksempel: m²"
 
 #: includes/mb/property/basic-metaboxes.php:119
-#, fuzzy
 msgid "Lot Size ( Only digits )"
-msgstr "Partistørrelse (kun cifre)"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:120
-#, fuzzy
 msgid "Example: 3000"
-msgstr "Eksempel: 3000"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:128
-#, fuzzy
 msgid "Lot Size Postfix"
-msgstr "Postfix i partistørrelse"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:137
-#: includes/mb/property/floorplans-metaboxes.php:83
+#: includes/mb/property/floorplans-metaboxes.php:84
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:10
 #: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:13
 msgid "Bedrooms"
 msgstr "Soveværelser"
 
 #: includes/mb/property/basic-metaboxes.php:138
-#: includes/mb/property/floorplans-metaboxes.php:85
-#, fuzzy
+#: includes/mb/property/floorplans-metaboxes.php:86
 msgid "Example: 4"
-msgstr "Eksempel: 4"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:146
-#: includes/mb/property/floorplans-metaboxes.php:90
+#: includes/mb/property/floorplans-metaboxes.php:91
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:16
 #: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:19
 msgid "Bathrooms"
 msgstr "Badeværelser"
 
 #: includes/mb/property/basic-metaboxes.php:147
-#: includes/mb/property/floorplans-metaboxes.php:92
-#, fuzzy
+#: includes/mb/property/floorplans-metaboxes.php:93
 msgid "Example: 2"
-msgstr "Eksempel: 2"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:155
-#, fuzzy
 msgid "Garages or Parking Spaces"
-msgstr "Garager eller parkeringspladser"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:156
-#, fuzzy
 msgid "Example: 1"
-msgstr "Eksempel: 1"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:165
 msgid "It will help you search a property directly."
@@ -3089,17 +2843,24 @@ msgid "Year Built"
 msgstr "Bygget år"
 
 #: includes/mb/property/basic-metaboxes.php:177
-#, fuzzy
 msgid "Example: 2017"
-msgstr "Eksempel: 2017"
+msgstr ""
 
 #: includes/mb/property/basic-metaboxes.php:184
 msgid "Mark this property as featured ?"
 msgstr "Markér denne ejendom som fremhævet?"
 
 #: includes/mb/property/basic-metaboxes.php:203
+#: includes/widgets/property-filters.php:382
 msgid "Additional Details"
 msgstr "Yderligere oplysninger"
+
+#: includes/mb/property/basic-metaboxes.php:209
+#: includes/mb/property/floorplans-metaboxes.php:40
+#: includes/mb/property/video-metaboxes.php:40
+#| msgid "+ Add more"
+msgid "+ Add More"
+msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:13
 msgid "Custom Property Type Map Icon"
@@ -3119,97 +2880,89 @@ msgid "Recommended image size for icon is 64px by 64px."
 msgstr "Den anbefalede billedstørrelse for ikonet er 64px gange 64px."
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:85
-#, fuzzy
 msgid "Property Status Tag Colors"
-msgstr "Farver til ejendomsstatusmærke"
+msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:89
-#, fuzzy
 msgid "Status Tag Background Color"
-msgstr "Baggrundsfarve for statusmærke"
+msgstr ""
 
 #: includes/mb/property/custom-taxonomy-metaboxes.php:95
-#, fuzzy
 msgid "Status Tag Text Color"
-msgstr "Farve på statusmærketekst"
+msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:12
 #: includes/mb/property/energy-metaboxes.php:68
-#, fuzzy
 msgid "Energy Performance"
-msgstr "Teknisk ydeevne"
+msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:58
 msgid "Energy Class"
 msgstr "Energiklasse"
 
 #: includes/mb/property/energy-metaboxes.php:69
-#, fuzzy
 msgid "Example: 100 kWh/m²a"
-msgstr "Eksempel: 100 kWh/m²a"
+msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:77
-#, fuzzy, php-format
+#, php-format
 msgid "%s Current Rating"
-msgstr "%s nuværende vurdering"
+msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:78
-#, fuzzy
 msgid "Example: 83"
-msgstr "Eksempel: 83"
+msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:86
-#, fuzzy, php-format
+#, php-format
 msgid "%s Potential Rating"
-msgstr "%s Potentiel vurdering"
+msgstr ""
 
 #: includes/mb/property/energy-metaboxes.php:87
-#, fuzzy
 msgid "Example: 94"
-msgstr "Eksempel: 94"
+msgstr ""
 
 #: includes/mb/property/floorplans-metaboxes.php:12
 msgid "Floor Plans"
 msgstr "Etageplaner"
 
-#: includes/mb/property/floorplans-metaboxes.php:42
+#: includes/mb/property/floorplans-metaboxes.php:43
 msgid "Floor Name"
 msgstr "Etage"
 
-#: includes/mb/property/floorplans-metaboxes.php:44
+#: includes/mb/property/floorplans-metaboxes.php:45
 msgid "Example: Ground Floor"
 msgstr "Eksempel: Stueetage"
 
-#: includes/mb/property/floorplans-metaboxes.php:49
+#: includes/mb/property/floorplans-metaboxes.php:50
 msgid "Description"
 msgstr "Beskrivelse"
 
-#: includes/mb/property/floorplans-metaboxes.php:55
+#: includes/mb/property/floorplans-metaboxes.php:56
 msgid "Floor Price ( Only digits )"
 msgstr "Etagepris (kun cifre)"
 
-#: includes/mb/property/floorplans-metaboxes.php:57
+#: includes/mb/property/floorplans-metaboxes.php:58
 msgid "Example: 4000"
 msgstr "Eksempel: 4000"
 
-#: includes/mb/property/floorplans-metaboxes.php:64
-#, fuzzy
+#: includes/mb/property/floorplans-metaboxes.php:65
 msgid "Example: Per Month or Per Night"
-msgstr "Eksempel: Pr. måned eller pr. nat"
+msgstr ""
 
-#: includes/mb/property/floorplans-metaboxes.php:69
+#: includes/mb/property/floorplans-metaboxes.php:70
 msgid "Floor Size ( Only digits )"
 msgstr "Grundplan (kun cifre)"
 
-#: includes/mb/property/floorplans-metaboxes.php:76
+#: includes/mb/property/floorplans-metaboxes.php:77
 msgid "Size Postfix"
 msgstr "Størrelsesbetegnelse"
 
-#: includes/mb/property/floorplans-metaboxes.php:98
+#: includes/mb/property/floorplans-metaboxes.php:99
 msgid "Floor Plan Image"
 msgstr "Plantegning"
 
-#: includes/mb/property/floorplans-metaboxes.php:100
+#: includes/mb/property/floorplans-metaboxes.php:101
 msgid "The recommended minimum width is 770px and height is flexible."
 msgstr "Den anbefalede minimumsbredde er 770px men højden er valgfri."
 
@@ -3218,29 +2971,24 @@ msgid "Gallery Images"
 msgstr "Galleribilleder"
 
 #: includes/mb/property/gallery-metaboxes.php:34
-#, fuzzy
 msgid "Gallery with Thumbnails on Right"
-msgstr "Galleri med miniaturer til højre"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:35
-#, fuzzy
 msgid "Gallery with Thumbnails on Bottom"
-msgstr "Galleri med miniaturer nederst"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:39
-#, fuzzy
 msgid "Default Gallery"
-msgstr "Standard galleri"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:40
-#, fuzzy
 msgid "Gallery with Thumbnails"
-msgstr "Galleri med miniaturer"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:41
-#, fuzzy
 msgid "Gallery with Thumbnails Two"
-msgstr "Galleri med miniaturer to"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:42
 msgid "Masonry"
@@ -3251,29 +2999,23 @@ msgid "Carousel"
 msgstr "Karrusel"
 
 #: includes/mb/property/gallery-metaboxes.php:44
-#, fuzzy
 msgid "Full Width Carousel"
-msgstr "Karrusel i fuld bredde"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:49
 msgid "Property Gallery Images"
 msgstr "Ejendomsgalleri billeder"
 
 #: includes/mb/property/gallery-metaboxes.php:58
-#, fuzzy
 msgid "Change Gallery Type"
-msgstr "Skift galleritype"
+msgstr ""
 
 #: includes/mb/property/gallery-metaboxes.php:59
-#, fuzzy
 msgid ""
 "It allow you to specify gallery type only for current property by overriding "
 "default gallery type settings provided in Appearance > Customize > Property "
 "Detail Page > Gallery > Gallery Type."
 msgstr ""
-"Det giver dig mulighed for kun at angive galleritype for den aktuelle "
-"egenskab ved at tilsidesætte standardindstillingerne for galleritype, der er "
-"angivet i Udseende > Tilpas > siden Ejendomsdetaljer > Galleri > Galleritype."
 
 #: includes/mb/property/gallery-metaboxes.php:70
 msgid "Gallery Type You Want to Use"
@@ -3315,33 +3057,26 @@ msgid "Location on Map"
 msgstr "Placering på kort"
 
 #: includes/mb/property/location-metaboxes.php:40
-#, fuzzy
 msgid "Property Location on Map"
-msgstr "Ejendommens beliggenhed på kort"
+msgstr ""
 
 #: includes/mb/property/location-metaboxes.php:41
-#, fuzzy
 msgid ""
 "Drag the map marker to point property location. Address field given above "
 "can be used to search location."
 msgstr ""
-"Træk kortmarkøren til punktegenskabens placering. Adressefeltet ovenfor kan "
-"bruges til at søge placering."
 
 #: includes/mb/property/location-metaboxes.php:53
 msgid "Property Address"
 msgstr "Adresse"
 
 #: includes/mb/property/location-metaboxes.php:54
-#, fuzzy
 msgid "Leaving it empty will hide the map on property detail page."
 msgstr ""
-"Hvis du lader det være tomt, skjules kortet på siden med ejendomsdetaljer."
 
 #: includes/mb/property/location-metaboxes.php:61
-#, fuzzy
 msgid "Hide map on property detail page and listings lightbox?"
-msgstr "Skjul kort på ejendomsdetaljesiden og opslagslysboks?"
+msgstr ""
 
 #: includes/mb/property/misc-metaboxes.php:12
 msgid "Misc"
@@ -3350,30 +3085,25 @@ msgstr "Div"
 #: includes/mb/property/misc-metaboxes.php:32
 #: includes/widgets/mortgage-calculator-widget.php:113
 #: includes/widgets/ultra-mortgage-calculator-widget.php:113
-#, fuzzy
 msgid "Property Taxes"
-msgstr "Ejendomsskatter"
+msgstr ""
 
 #: includes/mb/property/misc-metaboxes.php:33
-#, fuzzy
 msgid ""
 "Provide monthly property tax amount. It will be displayed in the mortgage "
 "calculator only."
 msgstr ""
-"Angiv månedligt ejendomsskattebeløb. Det vises kun i realkreditberegneren."
 
 #: includes/mb/property/misc-metaboxes.php:35
 #: includes/widgets/mortgage-calculator-widget.php:120
-#, fuzzy
 msgid "Additional Fee"
-msgstr "Tillægsgebyr"
+msgstr ""
 
 #: includes/mb/property/misc-metaboxes.php:36
-#, fuzzy
 msgid ""
 "Provide monthly any additional fee. It will be displayed in the mortgage "
 "calculator only."
-msgstr "Giv månedligt et ekstra gebyr. Det vises kun i realkreditberegneren."
+msgstr ""
 
 #: includes/mb/property/misc-metaboxes.php:43
 msgid "Make this property sticky for home and listings pages"
@@ -3384,13 +3114,10 @@ msgid "Property Label Text"
 msgstr "Ejendoms etiket tekst"
 
 #: includes/mb/property/misc-metaboxes.php:63
-#, fuzzy
 msgid ""
 "You can add a property label to display on property thumbnails. Example: Hot "
 "Deal"
 msgstr ""
-"Du kan tilføje en egenskabsetiket, der skal vises på miniaturebilleder af "
-"ejendommen. Eksempel: Hot Deal"
 
 #: includes/mb/property/misc-metaboxes.php:69
 msgid "Label Background Color"
@@ -3445,92 +3172,88 @@ msgid "Message to Reviewer"
 msgstr "Skriv en besked til redaktionen"
 
 #: includes/mb/property/misc-metaboxes.php:173
-#, fuzzy
 msgid "Override website level template settings for this property"
-msgstr "Tilsidesætte skabelonindstillinger på websiteniveau for denne ejendom"
+msgstr ""
 
 #: includes/mb/property/schedule-a-tour.php:17
-#, fuzzy
 #| msgid "Select a term"
 msgid "Schedule a tour"
-msgstr "Vælg en term"
+msgstr ""
 
 #: includes/mb/property/schedule-a-tour.php:42
-#, fuzzy
 msgid "Schedule A Tour"
-msgstr "Planlæg en rundvisning"
+msgstr ""
 
-#: includes/mb/property/schedule-a-tour.php:47 includes/settings/social.php:73
+#: includes/mb/property/schedule-a-tour.php:46
+msgid ""
+"This setting will be applied only to the properties with the ‘Global’ option "
+"set for the related field in their metadata."
+msgstr ""
+
+#: includes/mb/property/schedule-a-tour.php:48
+#| msgid "Global Default"
+msgid "Global"
+msgstr "Global"
+
+#: includes/mb/property/schedule-a-tour.php:49 includes/settings/social.php:73
 msgid "Show"
 msgstr "Vis"
 
-#: includes/mb/property/schedule-a-tour.php:48 includes/settings/social.php:79
+#: includes/mb/property/schedule-a-tour.php:50 includes/settings/social.php:79
 msgid "Hide"
 msgstr "Skjul"
 
-#: includes/mb/property/schedule-a-tour.php:55
+#: includes/mb/property/schedule-a-tour.php:57
 msgid "Time Slots"
 msgstr "Tidsintervaller"
 
-#: includes/mb/property/schedule-a-tour.php:56
-#, fuzzy
+#: includes/mb/property/schedule-a-tour.php:58
 msgid ""
 "If you want to add property specific times instead of using global options "
 "then provide comma (,) separated times. (For example: 12:00 am, 12:15 am, "
 "12:30 am)"
 msgstr ""
-"Hvis du vil tilføje egenskabsspecifikke tidspunkter i stedet for at bruge "
-"globale indstillinger, skal du angive kommatider (,) adskilte tidspunkter. "
-"(For eksempel: 12:00, 12:15, 12:30)"
 
-#: includes/mb/property/schedule-a-tour.php:64
+#: includes/mb/property/schedule-a-tour.php:66
 msgid "Schedule Description"
 msgstr "Tidsplan beskrivelse"
 
-#: includes/mb/property/schedule-a-tour.php:65
-#, fuzzy
+#: includes/mb/property/schedule-a-tour.php:67
 msgid "You can use heading, paragraph, image, and anchor tags."
-msgstr "Du kan bruge overskrifts-, afsnits-, billed- og ankermærker."
+msgstr ""
 
-#: includes/mb/property/schedule-a-tour.php:84
-#, fuzzy
+#: includes/mb/property/schedule-a-tour.php:86
 msgid "Scheduled Times"
-msgstr "Planlagte tider"
+msgstr ""
 
 #: includes/mb/property/video-metaboxes.php:12
 msgid "Property Video"
 msgstr "Ejendomsvideo"
 
 #: includes/mb/property/video-metaboxes.php:34
-#, fuzzy
 msgid "Add Multiple Videos"
-msgstr "Tilføj flere videoer"
+msgstr ""
 
-#: includes/mb/property/video-metaboxes.php:40
-#, fuzzy
+#: includes/mb/property/video-metaboxes.php:41
 msgid ""
 "Provide an image of minimum width 818px and minimum height 417px. Bigger "
 "size images will be cropped automatically. Property featured image will be "
 "shown if no image is selected."
 msgstr ""
-"Giv et billede med en minimumsbredde på 818px og en minimumshøjde på 417px. "
-"Billeder i større størrelse beskæres automatisk. Billedet af egenskaben "
-"Featured vises, hvis der ikke er valgt noget billede."
 
-#: includes/mb/property/video-metaboxes.php:45
+#: includes/mb/property/video-metaboxes.php:46
 msgid "Image"
 msgstr "Billede"
 
-#: includes/mb/property/video-metaboxes.php:55
-#, fuzzy
+#: includes/mb/property/video-metaboxes.php:56
 msgid "Title of video"
-msgstr "Titel på video"
+msgstr ""
 
-#: includes/mb/property/video-metaboxes.php:60
+#: includes/mb/property/video-metaboxes.php:61
 msgid "URL"
 msgstr "URL"
 
-#: includes/mb/property/video-metaboxes.php:62
+#: includes/mb/property/video-metaboxes.php:63
 msgid ""
 "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
 "supported"
@@ -3538,12 +3261,11 @@ msgstr ""
 "Angiv URL for virtuel video turL. YouTube, Vimeo, SWF fil og MOV-fil "
 "understøttes"
 
-#: includes/mb/property/video-metaboxes.php:77
+#: includes/mb/property/video-metaboxes.php:78
 msgid "360 Virtual Tour"
 msgstr "360° virtuel tur"
 
-#: includes/mb/property/video-metaboxes.php:79
-#, fuzzy
+#: includes/mb/property/video-metaboxes.php:80
 msgid ""
 "Provide iframe embed code or <a href=\"https://wordpress.org/plugins/"
 "ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">iPanorama</a> "
@@ -3551,36 +3273,27 @@ msgid ""
 "href=\"https://realhomes.io/documentation/add-property/#add-video-tour-and-"
 "virtual-tour\" target=\"_blank\">Add Property</a> in documentation."
 msgstr ""
-"Giv iframe-integreringskode eller <a href=\"https://wordpress.org/plugins/"
-"ipanorama-360-virtual-tour-builder-lite/\" target=\"_blank\">iPanorama-"
-"kortkode</a> til den virtuelle 360-rundvisning. Du kan finde flere "
-"oplysninger i <a href=\"https://realhomes.io/documentation/add-property/#add-"
-"video-tour-and-virtual-tour\" target=\"_blank\">dokumentationen Tilføj "
-"ejendom</a> ."
-
-#: includes/mb/property/video-metaboxes.php:97
-#, fuzzy, php-format
-msgid "Virtual Tour Video URL %s * %s"
-msgstr "Virtual Tour Video URL %s * %s"
 
 #: includes/mb/property/video-metaboxes.php:98
-#, fuzzy, php-format
+#, php-format
+msgid "Virtual Tour Video URL %s * %s"
+msgstr ""
+
+#: includes/mb/property/video-metaboxes.php:99
+#, php-format
 msgid ""
 "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are "
 "supported. %1$s %2$s *This field is deprecated in favour of %4$s Add "
 "Multiple Videos %5$s field above , So stop using it %3$s"
 msgstr ""
-"Giv url til virtuel tour video. YouTube, Vimeo, SWF-fil og MOV-fil "
-"understøttes. %1$s %2$s * Dette felt udfases til fordel for %4$s Tilføj "
-"flere videoer %5$s felt ovenfor, Så stop med at bruge det %3$s"
-
-#: includes/mb/property/video-metaboxes.php:104
-#, fuzzy, php-format
-msgid "Virtual Tour Video Image %s * %s"
-msgstr "Virtual Tour Video Billede %s * %s"
 
 #: includes/mb/property/video-metaboxes.php:105
-#, fuzzy, php-format
+#, php-format
+msgid "Virtual Tour Video Image %s * %s"
+msgstr ""
+
+#: includes/mb/property/video-metaboxes.php:106
+#, php-format
 msgid ""
 "Provide an image of minimum width 818px and minimum height 417px. Bigger "
 "size images will be cropped automatically. Property featured image will be "
@@ -3588,18 +3301,13 @@ msgid ""
 "\t\t\t\t\t\t\t\t%1$s %2$s *This field is deprecated in favour of %4$s Add "
 "Multiple Videos %5$s field above , So stop using it %3$s"
 msgstr ""
-"Giv et billede med en minimumsbredde på 818px og en minimumshøjde på 417px. "
-"Billeder i større størrelse beskæres automatisk. Billedet af egenskaben "
-"Featured vises, hvis der ikke er valgt noget billede.\n"
-"\t\t\t\t\t\t\t\t%1$s %2$s * Dette felt udfases til fordel for %4$s Tilføj "
-"flere videoer %5$s felt ovenfor, Så stop med at bruge det %3$s"
 
 #: includes/mb/templates-meta-boxes-config.php:17
 msgid "Properties Filter Settings"
 msgstr "Ejendommes filtreringsindstillinger"
 
 #: includes/mb/templates-meta-boxes-config.php:33
-#: includes/mb/templates-meta-boxes-config.php:194
+#: includes/mb/templates-meta-boxes-config.php:196
 msgid "Number of Properties Per Page"
 msgstr "Antallet af ejendomme på side"
 
@@ -3612,87 +3320,93 @@ msgid "Global Default"
 msgstr "Globale standarder"
 
 #: includes/mb/templates-meta-boxes-config.php:46
+#| msgid "Property Title"
+msgid "Property Title - A to Z"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:47
+#| msgid "Property Title"
+msgid "Property Title - Z to A"
+msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:48
 msgid "Date New to Old"
 msgstr "Dato Nyest -> Ældst"
 
-#: includes/mb/templates-meta-boxes-config.php:47
+#: includes/mb/templates-meta-boxes-config.php:49
 msgid "Date Old to New"
 msgstr "Dato Ældst -> Nyest"
 
-#: includes/mb/templates-meta-boxes-config.php:48
+#: includes/mb/templates-meta-boxes-config.php:50
 msgid "Price Low to High"
 msgstr "Pris Lav -> Høj"
 
-#: includes/mb/templates-meta-boxes-config.php:49
+#: includes/mb/templates-meta-boxes-config.php:51
 msgid "Price High to Low"
 msgstr "Pris Høj -> Lav"
 
-#: includes/mb/templates-meta-boxes-config.php:57
-#: includes/mb/templates-meta-boxes-config.php:203
+#: includes/mb/templates-meta-boxes-config.php:59
+#: includes/mb/templates-meta-boxes-config.php:205
 #: includes/shortcodes/vc-map.php:144
 msgid "Locations"
 msgstr "Lokationer"
 
-#: includes/mb/templates-meta-boxes-config.php:66
-#: includes/mb/templates-meta-boxes-config.php:212
+#: includes/mb/templates-meta-boxes-config.php:68
+#: includes/mb/templates-meta-boxes-config.php:214
 #: includes/shortcodes/vc-map.php:151
 msgid "Statuses"
 msgstr "Status"
 
-#: includes/mb/templates-meta-boxes-config.php:75
-#: includes/mb/templates-meta-boxes-config.php:221
+#: includes/mb/templates-meta-boxes-config.php:77
+#: includes/mb/templates-meta-boxes-config.php:223
 #: includes/shortcodes/vc-map.php:158
 msgid "Types"
 msgstr "Typer"
 
-#: includes/mb/templates-meta-boxes-config.php:84
-#: includes/mb/templates-meta-boxes-config.php:230
+#: includes/mb/templates-meta-boxes-config.php:86
+#: includes/mb/templates-meta-boxes-config.php:232
 #: includes/shortcodes/vc-map.php:285
 msgid "Features"
 msgstr "Funktioner"
 
-#: includes/mb/templates-meta-boxes-config.php:93
+#: includes/mb/templates-meta-boxes-config.php:95
 msgid "Minimum Beds"
 msgstr "Minimum antal soveværelser"
 
-#: includes/mb/templates-meta-boxes-config.php:102
+#: includes/mb/templates-meta-boxes-config.php:104
 msgid "Minimum Baths"
 msgstr "Minimum antal badeværelser"
 
-#: includes/mb/templates-meta-boxes-config.php:111
+#: includes/mb/templates-meta-boxes-config.php:113
 #: includes/shortcodes/vc-map.php:243
 msgid "Minimum Price"
 msgstr "Minimums Pris"
 
-#: includes/mb/templates-meta-boxes-config.php:120
+#: includes/mb/templates-meta-boxes-config.php:122
 #: includes/shortcodes/vc-map.php:251
 msgid "Maximum Price"
 msgstr "Maksimums pris"
 
-#: includes/mb/templates-meta-boxes-config.php:128
-#, fuzzy
+#: includes/mb/templates-meta-boxes-config.php:130
 msgid "Properties by Agents"
-msgstr "Egenskaber af agenter"
+msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:138
-#, fuzzy
+#: includes/mb/templates-meta-boxes-config.php:140
 msgid "Disable AJAX Pagination"
-msgstr "Deaktiver AJAX-paginering"
+msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:148
+#: includes/mb/templates-meta-boxes-config.php:150
 #: includes/shortcodes/vc-map.php:275
 msgid "Display Only Featured Properties"
 msgstr "Vis kun fremhævede ejendomme"
 
-#: includes/mb/templates-meta-boxes-config.php:180
-#, fuzzy
+#: includes/mb/templates-meta-boxes-config.php:182
 msgid "Properties Gallery Filter Settings"
-msgstr "Indstillinger for gallerifilter for egenskaber"
+msgstr ""
 
 #: includes/settings/captcha.php:22
-#, fuzzy
 msgid "For spam protection on agent and contact forms!"
-msgstr "Til spambeskyttelse på agent- og kontaktformularer!"
+msgstr ""
 
 #: includes/settings/captcha.php:28 includes/settings/captcha.php:32
 msgid "Google reCAPTCHA"
@@ -3711,9 +3425,8 @@ msgid "Disable"
 msgstr "Deaktiver"
 
 #: includes/settings/captcha.php:46 includes/settings/captcha.php:50
-#, fuzzy
 msgid "Google reCAPTCHA Type"
-msgstr "Google reCAPTCHA-type"
+msgstr ""
 
 #: includes/settings/captcha.php:53
 msgid "V2"
@@ -3724,162 +3437,154 @@ msgid "V3"
 msgstr "V3"
 
 #: includes/settings/captcha.php:61
-#, fuzzy
 msgid "Get new keys for V3 as V2 keys will not work!"
-msgstr "Få nye nøgler til V3, da V2-taster ikke fungerer!"
+msgstr ""
 
 #: includes/settings/captcha.php:65
 msgid "Site Key"
 msgstr "Webstedsnøgle (site key)"
 
 #: includes/settings/captcha.php:68
-#, fuzzy, php-format
+#, php-format
 msgid "You can get new keys for your website by %s signing in here %s"
-msgstr "Du kan få nye nøgler til dit websted ved %s at logge ind her %s"
+msgstr ""
 
 #: includes/settings/captcha.php:72
 msgid "Secret Key"
 msgstr "Hemmelig nøgle"
 
 #: includes/settings/gdpr.php:27 includes/settings/gdpr.php:30
-#, fuzzy
 msgid "Add GDPR agreement checkbox in forms across website?"
 msgstr ""
-"Tilføj afkrydsningsfeltet for GDPR-aftale i formularer på tværs af webstedet?"
 
 #: includes/settings/gdpr.php:44
-#, fuzzy
 msgid "GDPR agreement checkbox label"
-msgstr "Etiket for afkrydsningsfeltet for GDPR-aftale"
+msgstr ""
 
 #: includes/settings/gdpr.php:48
-#, fuzzy
 msgid "GDPR agreement checkbox text"
-msgstr "Tekst til afkrydsningsfeltet i GDPR-aftalen"
+msgstr ""
 
 #: includes/settings/gdpr.php:62
-#, fuzzy
 msgid ""
 "You can use <a>,<br>,<em> and <strong> tags in your GDPR agreement text."
 msgstr ""
-"Du kan bruge <a>,<br>og<em> <strong> tags i din GDPR-aftaletekst.</strong></"
-"em></a>"
 
 #: includes/settings/gdpr.php:66
-#, fuzzy
 msgid "GDPR agreement checkbox validation message"
-msgstr "Meddelelse om validering af GDPR-aftale"
+msgstr ""
 
 #: includes/settings/gdpr.php:69 includes/settings/gdpr.php:72
-#, fuzzy
 msgid "Add GDPR detail in resulting email?"
-msgstr "Tilføj GDPR-detaljer i den resulterende e-mail?"
-
-#: includes/settings/map.php:16
-#, fuzzy
-msgid "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
-msgstr "15421 Sydvest 39. terrasse, Miami, FL 33185, USA"
+msgstr ""
 
 #: includes/settings/map.php:17
-#, fuzzy
-msgid "25.7308309,-80.44414899999998"
-msgstr "25.7308309,-80.44414899999998"
+msgid "15421 Southwest 39th Terrace, Miami, FL 33185, USA"
+msgstr ""
 
 #: includes/settings/map.php:18
-#, fuzzy
-msgid "27.664827,-81.515755"
-msgstr "27.664827,-81.515755"
+msgid "25.7308309,-80.44414899999998"
+msgstr ""
 
-#: includes/settings/map.php:56
+#: includes/settings/map.php:19
+msgid "27.664827,-81.515755"
+msgstr ""
+
+#: includes/settings/map.php:58
 msgid "Map Settings"
 msgstr "Kort Indstillinger"
 
-#: includes/settings/map.php:62 includes/settings/map.php:66
-#, fuzzy
+#: includes/settings/map.php:64 includes/settings/map.php:68
 msgid "Website Map Service"
-msgstr "Hjemmeside Kort Service"
+msgstr ""
 
-#: includes/settings/map.php:69
+#: includes/settings/map.php:71
 msgid "Google Maps"
 msgstr "Google Maps"
 
-#: includes/settings/map.php:74
-#, fuzzy
+#: includes/settings/map.php:76
 msgid "MapBox"
-msgstr "MapBox"
+msgstr ""
 
-#: includes/settings/map.php:79
-#, fuzzy
+#: includes/settings/map.php:81
 msgid "OpenStreetMaps"
-msgstr "OpenStreetMaps"
+msgstr ""
 
-#: includes/settings/map.php:88
+#: includes/settings/map.php:90
 msgid "Google Maps API Key"
 msgstr "Google Maps API nøgle"
 
-#: includes/settings/map.php:93
-#, fuzzy
+#: includes/settings/map.php:95
 msgid "How to get Google Maps API Key?"
-msgstr "Hvordan får man Google Maps API-nøgle?"
+msgstr ""
 
-#: includes/settings/map.php:98 includes/settings/map.php:102
-#, fuzzy
+#: includes/settings/map.php:100 includes/settings/map.php:104
 msgid "Localize Google Maps"
-msgstr "Lokaliser Google Maps"
+msgstr ""
 
-#: includes/settings/map.php:117
-#, fuzzy
-msgid "Google Maps Styles JSON (optional)"
-msgstr "Google Maps Styles JSON (valgfrit)"
+#: includes/settings/map.php:118
+#| msgid "Google Maps"
+msgid "Google Map Type"
+msgstr "Google Maps type"
 
 #: includes/settings/map.php:121
-#, fuzzy, php-format
+msgid "RoadMap"
+msgstr ""
+
+#: includes/settings/map.php:122
+msgid "Satellite"
+msgstr "Satellit"
+
+#: includes/settings/map.php:123
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: includes/settings/map.php:124
+msgid "Terrain"
+msgstr "Terræn"
+
+#: includes/settings/map.php:130
+msgid "Google Maps Styles JSON (optional)"
+msgstr ""
+
+#: includes/settings/map.php:134
+#, php-format
 msgid ""
 "You can create Google Maps styles JSON using %s Google Styling Wizard %s or "
 "%s Snazzy Maps %s."
 msgstr ""
-"Du kan oprette Google Maps-stilarter JSON ved hjælp af %s Google Styling "
-"Wizard %s eller %s Snazzy Maps %s."
-
-#: includes/settings/map.php:128
-#, fuzzy
-#| msgid "Google Maps API Key"
-msgid "MapBox API Key"
-msgstr "Google Maps API nøgle"
-
-#: includes/settings/map.php:133
-#, fuzzy
-#| msgid "Google Maps API Key"
-msgid "How to get MapBox API Key?"
-msgstr "Google Maps API nøgle"
 
 #: includes/settings/map.php:141
-#, fuzzy
+#| msgid "Google Maps API Key"
+msgid "MapBox API Key"
+msgstr ""
+
+#: includes/settings/map.php:146
+#| msgid "Google Maps API Key"
+msgid "How to get MapBox API Key?"
+msgstr ""
+
+#: includes/settings/map.php:154
 msgid "Mapbox Style"
-msgstr "Mapbox Stil"
+msgstr ""
 
-#: includes/settings/map.php:159
-#, fuzzy
+#: includes/settings/map.php:172
 msgid "Default Address for New Property"
-msgstr "Standardadresse for ny ejendom"
+msgstr ""
 
-#: includes/settings/map.php:167
-#, fuzzy
+#: includes/settings/map.php:180
 msgid "Default Map Location for New Property (Latitude,Longitude)"
-msgstr "Standardkortplacering for ny ejendom (breddegrad, længdegrad)"
+msgstr ""
 
-#: includes/settings/map.php:171 includes/settings/map.php:180
-#, fuzzy, php-format
+#: includes/settings/map.php:184 includes/settings/map.php:193
+#, php-format
 msgid ""
 "You can use %s OR %s to get Latitude and longitude of your desired location."
 msgstr ""
-"Du kan bruge %s ELLER %s til at få breddegrad og længdegrad for din ønskede "
-"placering."
 
-#: includes/settings/map.php:176
-#, fuzzy
+#: includes/settings/map.php:189
 msgid "Default Properties Map Location (Latitude,Longitude)"
-msgstr "Standardegenskaber Kortplacering (breddegrad, længdegrad)"
+msgstr ""
 
 #: includes/settings/price.php:33
 msgid "Currency Sign"
@@ -3966,46 +3671,34 @@ msgid "Text to display when no price is provided."
 msgstr "Tekst hvis tomt prisfelt."
 
 #: includes/settings/price.php:288
-#, fuzzy
 msgid "Price Preview Number Format Language"
-msgstr "Sprog i talformatet Priseksempel"
+msgstr ""
 
 #: includes/settings/price.php:292
-#, fuzzy
 msgid ""
 "Change the property metabox price fields number format preview as per "
 "selected language."
 msgstr ""
-"Skift forhåndsvisning af egenskabsmetaboksprisfelter i talformat i henhold "
-"til det valgte sprog."
 
 #: includes/settings/price.php:302
-#, fuzzy
 msgid ""
 "Note: If you have enabled RealHomes Currency Switcher then default format of "
 "selected base currency will override above settings."
 msgstr ""
-"Bemærk: Hvis du har aktiveret RealHomes Currency Switcher, tilsidesættes "
-"standardformatet for den valgte basisvaluta over indstillingerne."
 
 #: includes/settings/property-analytics.php:32
-#, fuzzy
 msgid "Collect Property Analytics Data"
-msgstr "Indsaml data om ejendomsanalyse"
+msgstr ""
 
 #: includes/settings/property-analytics.php:36
-#, fuzzy
 msgid ""
 "Enabling this option will allow the system to collect each property view "
 "from its datail page."
 msgstr ""
-"Aktivering af denne indstilling giver systemet mulighed for at indsamle hver "
-"egenskabsvisning fra sin datail-side."
 
 #: includes/settings/property-analytics.php:51
-#, fuzzy
 msgid "Chart Type"
-msgstr "Diagramtype"
+msgstr ""
 
 #: includes/settings/property-analytics.php:56
 msgid "Line"
@@ -4016,15 +3709,13 @@ msgid "Bar"
 msgstr "Bar"
 
 #: includes/settings/property-analytics.php:67
-#, fuzzy
 msgid "Display Property Views Of Last"
-msgstr "Vis ejendomsvisninger af sidst"
+msgstr ""
 
 #: includes/settings/property-analytics.php:82
-#, fuzzy
 #| msgid "Property Views"
 msgid "Property Views Column"
-msgstr "Ejendomsvisninger"
+msgstr ""
 
 #: includes/settings/property.php:41
 msgid "Enable Auto-Generated Property ID"
@@ -4035,9 +3726,8 @@ msgid "Auto-Generated Property ID Pattern"
 msgstr "Auto-genereret ejendoms ID mønster"
 
 #: includes/settings/property.php:63
-#, fuzzy
 msgid "Important: "
-msgstr "Vigtigt: Denne widget er kun til mægler sidebar."
+msgstr ""
 
 #: includes/settings/property.php:63
 msgid ""
@@ -4046,19 +3736,16 @@ msgstr ""
 "Venligst brug {ID} i dit mønster, da det vil blive udskiftet med ejendoms ID."
 
 #: includes/settings/property.php:73
-#, fuzzy
 msgid "Energy Perofrmance Certificate Classes"
-msgstr "Klasse af energiperofrmancecertifikater"
+msgstr ""
 
 #: includes/settings/property.php:77
-#, fuzzy
 msgid "Class Name"
-msgstr "Klassens navn"
+msgstr ""
 
 #: includes/settings/property.php:78
-#, fuzzy
 msgid "Class Color"
-msgstr "Klasse farve"
+msgstr ""
 
 #. Author of the plugin/theme
 #: includes/settings/settings.php:14
@@ -4070,9 +3757,9 @@ msgid "You do not have sufficient permissions to access this page."
 msgstr "Du har ikke tilstrækkelige rettigheder til at tilgå denne side."
 
 #: includes/settings/settings.php:38
-#, fuzzy, php-format
+#, php-format
 msgid "Version  %s"
-msgstr "Version %s"
+msgstr ""
 
 #: includes/settings/slug.php:12
 msgid "property-location"
@@ -4083,14 +3770,10 @@ msgid "Important Note for URL Slugs"
 msgstr "Vigtig Note for URL links"
 
 #: includes/settings/slug.php:33
-#, fuzzy
 msgid ""
 "Make sure to re-save permalinks settings after every change in URL slugs to "
 "avoid 404 errors. You can do that from [ Settings > Permalinks ]"
 msgstr ""
-"Sørg for at gemme permalinks-indstillinger igen efter hver ændring i URL-"
-"slugs for at undgå 404-fejl. Du kan gøre det fra [ Indstillinger > "
-"Permalinks ]"
 
 #: includes/settings/slug.php:39
 msgid "Property Slug"
@@ -4101,26 +3784,22 @@ msgid "Agent Slug"
 msgstr "Mæglerlinks"
 
 #: includes/settings/slug.php:47
-#, fuzzy
 #| msgid "Agent Slug"
 msgid "Agent Location Slug"
-msgstr "Mæglerlinks"
+msgstr ""
 
 #: includes/settings/slug.php:51
-#, fuzzy
 msgid "Agency Slug"
-msgstr "Agenturets slug"
+msgstr ""
 
 #: includes/settings/slug.php:55
-#, fuzzy
 #| msgid "Agent Slug"
 msgid "Agency Location Slug"
-msgstr "Mæglerlinks"
+msgstr ""
 
 #: includes/settings/slug.php:59
-#, fuzzy
 msgid "Property Location Slug"
-msgstr "Ejendom Placering Slug"
+msgstr ""
 
 #: includes/settings/slug.php:63
 msgid "Property Status Slug"
@@ -4155,14 +3834,12 @@ msgid "Skype Username"
 msgstr "Skype brugernavn"
 
 #: includes/settings/social.php:126
-#, fuzzy
 msgid "LINE ID"
-msgstr "LINJE-id"
+msgstr ""
 
 #: includes/settings/social.php:149
-#, fuzzy
 msgid "Example: fa-flicker"
-msgstr "Eksempel: fa-flimmer"
+msgstr ""
 
 #: includes/settings/social.php:152
 msgid "Edit"
@@ -4173,79 +3850,66 @@ msgid "Ok"
 msgstr "Ok"
 
 #: includes/settings/social.php:168
-#, fuzzy
 msgid "+ Add New Social Network"
-msgstr "+ Tilføj nyt socialt netværk"
+msgstr ""
 
 #: includes/settings/social.php:181
 msgid "Social Login Settings"
 msgstr "Sociale log ind indstillinger"
 
 #: includes/settings/social.php:186
-#, fuzzy
 msgid "Facebook Login"
-msgstr "Facebook-login"
+msgstr ""
 
 #: includes/settings/social.php:193
 msgid "Enable Facebook"
 msgstr "Aktiver Facebook"
 
 #: includes/settings/social.php:200
-#, fuzzy
 msgid "Enable login/register with facebook on login forms."
-msgstr "Aktivér login/registrer dig med facebook på loginformularer."
+msgstr ""
 
 #: includes/settings/social.php:207
-#, fuzzy
 msgid "App ID*"
-msgstr "App-id*"
+msgstr ""
 
 #: includes/settings/social.php:214
-#, fuzzy, php-format
+#, php-format
 msgid "Learn how to get Facebook APP ID and Secret by %s."
-msgstr "Se, hvordan du får Facebook APP ID og Secret by %s."
+msgstr ""
 
 #: includes/settings/social.php:221
-#, fuzzy
 msgid "App Secret*"
-msgstr "App Hemmelighed*"
+msgstr ""
 
 #: includes/settings/social.php:233
-#, fuzzy
 msgid "Google Login"
-msgstr "Google-login"
+msgstr ""
 
 #: includes/settings/social.php:240
-#, fuzzy
 msgid "Enable Google"
-msgstr "Aktivér Google"
+msgstr ""
 
 #: includes/settings/social.php:247
-#, fuzzy
 msgid "Enable login/register with google on login forms."
-msgstr "Aktivér login/registrer dig hos google på loginformularer."
+msgstr ""
 
 #: includes/settings/social.php:254
-#, fuzzy
 msgid "API Key*"
-msgstr "API-nøgle*"
+msgstr ""
 
 #: includes/settings/social.php:261
-#, fuzzy, php-format
+#, php-format
 msgid "Learn how to get Google API Key, Client ID and Client Secret by %s."
 msgstr ""
-"Få flere oplysninger om, hvordan du får Google API-nøgle, klient-id og "
-"klienthemmelighed ved %s."
 
 #: includes/settings/social.php:268
-#, fuzzy
 msgid "Client ID*"
-msgstr "Klient-id*"
+msgstr ""
 
 #: includes/settings/social.php:281
-#, fuzzy
 msgid "Client Secret*"
-msgstr "Klienthemmelighed*"
+msgstr ""
 
 #: includes/settings/social.php:293
 msgid "Twitter Login"
@@ -4256,53 +3920,43 @@ msgid "Enable Twitter"
 msgstr "Aktiver Twitter"
 
 #: includes/settings/social.php:307
-#, fuzzy
 msgid "Enable login/register with twitter on login forms."
-msgstr "Aktiver login/registrer med twitter på loginformularer."
+msgstr ""
 
 #: includes/settings/social.php:314
-#, fuzzy
 msgid "Consumer Key*"
-msgstr "Forbrugernøgle*"
+msgstr ""
 
 #: includes/settings/social.php:321
-#, fuzzy, php-format
+#, php-format
 msgid "Learn how to get Twitter Consumer Key and Consumer Secret by %s."
-msgstr "Se, hvordan du får Twitter Consumer Key og Consumer Secret by %s."
+msgstr ""
 
 #: includes/settings/social.php:328
-#, fuzzy
 msgid "Consumer Secret*"
-msgstr "Forbrugerhemmelighed*"
+msgstr ""
 
 #: includes/settings/webhooks.php:21
-#, fuzzy
 msgid ""
 "You can use the Webhooks settings below to feed forms data to services like "
 "Zapier. For example you can use Zapier Webhooks to create leads in Zoho CRM."
 msgstr ""
-"Du kan bruge Webhooks-indstillingerne nedenfor til at fodre formulardata til "
-"tjenester som Zapier. For eksempel kan du bruge Zapier Webhooks til at "
-"oprette kundeemner i Zoho CRM."
 
 #: includes/settings/webhooks.php:27
 msgid "Webhook URL"
 msgstr "Webhook-url"
 
 #: includes/settings/webhooks.php:35
-#, fuzzy
 msgid "Integrate Contact Form"
-msgstr "Integrer kontaktformular"
+msgstr ""
 
 #: includes/settings/webhooks.php:44
-#, fuzzy
 msgid "Integrate Agent Form"
-msgstr "Integrer agentformular"
+msgstr ""
 
 #: includes/settings/webhooks.php:53
-#, fuzzy
 msgid "Integrate Agency Form"
-msgstr "Integrer agenturformular"
+msgstr ""
 
 #: includes/shortcodes/elements.php:329
 msgid "Result:"
@@ -4333,9 +3987,8 @@ msgid "List of Properties"
 msgstr "Liste over ejendomme"
 
 #: includes/shortcodes/vc-map.php:80
-#, fuzzy
 msgid "RealHomes Theme"
-msgstr "Temaet RealHomes"
+msgstr ""
 
 #: includes/shortcodes/vc-map.php:84
 msgid "Layout"
@@ -4369,7 +4022,7 @@ msgstr "Stigende"
 msgid "Minimum Bedrooms"
 msgstr "Mindste antal soveværelser"
 
-#: includes/shortcodes/vc-map.php:183
+#: includes/shortcodes/vc-map.php:183 includes/widgets/property-filters.php:645
 msgid "Maximum Bedrooms"
 msgstr "Maksimalt antal soveværelser"
 
@@ -4379,7 +4032,7 @@ msgstr ""
 "Mindste antal \n"
 "badeværelser"
 
-#: includes/shortcodes/vc-map.php:222
+#: includes/shortcodes/vc-map.php:222 includes/widgets/property-filters.php:657
 msgid "Maximum Bathrooms"
 msgstr "Maksimalt antal badeværelser"
 
@@ -4397,24 +4050,20 @@ msgid "Maximum Area"
 msgstr "Maksimalt areal"
 
 #: includes/social-login/ajax-handler.php:25
-#, fuzzy
 msgid "Facebook App keys are not set yet."
-msgstr "Facebook-appnøgler er ikke indstillet endnu."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:51
-#, fuzzy
 msgid "Redirecting you to the Facebook for the authentication..."
-msgstr "Omdirigerer dig til Facebook for godkendelse..."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:58
-#, fuzzy
 msgid "Facebook library is not loaded."
-msgstr "Facebook-biblioteket er ikke indlæst."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:85
-#, fuzzy
 msgid "Google related keys are not set yet."
-msgstr "Google-relaterede nøgler er ikke indstillet endnu."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:100
 #: includes/social-login/callbacks.php:128
@@ -4422,29 +4071,24 @@ msgid "Login to"
 msgstr "Login til"
 
 #: includes/social-login/ajax-handler.php:113
-#, fuzzy
 msgid "Redirecting you to the Google for the authentication..."
-msgstr "Omdirigering af dig til Google for godkendelse..."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:121
-#, fuzzy
 msgid "Google library is not loaded."
-msgstr "Google-biblioteket indlæses ikke."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:148
-#, fuzzy
 msgid "Twitter App keys are not set yet."
-msgstr "Twitter App-nøgler er ikke indstillet endnu."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:170
-#, fuzzy
 msgid "Redirecting you to the Twitter for the authentication..."
-msgstr "Omdirigering af dig til Twitter for godkendelse..."
+msgstr ""
 
 #: includes/social-login/ajax-handler.php:188
-#, fuzzy
 msgid "Twitter library is not loaded."
-msgstr "Twitter-biblioteket er ikke indlæst."
+msgstr ""
 
 #: includes/social-login/callbacks.php:49
 #: includes/social-login/callbacks.php:86
@@ -4461,19 +4105,16 @@ msgid "Error: "
 msgstr "Fejl: "
 
 #: includes/social-login/callbacks.php:61
-#, fuzzy
 msgid "Error Code: "
-msgstr "Fejlkode: "
+msgstr ""
 
 #: includes/social-login/callbacks.php:62
-#, fuzzy
 msgid "Error Reason: "
-msgstr "Årsag til fejl: "
+msgstr ""
 
 #: includes/social-login/callbacks.php:63
-#, fuzzy
 msgid "Error Description: "
-msgstr "Beskrivelse af fejl: "
+msgstr ""
 
 #: includes/social-login/callbacks.php:66
 msgid "Bad request"
@@ -4509,14 +4150,10 @@ msgid "Find Your Home"
 msgstr "Find din ejendom"
 
 #: includes/widgets/advance-search-widget.php:66
-#, fuzzy
 msgid ""
 "Advance search page is not configured yet. Please read this theme "
 "documentation for the Advance Search page & form configuration details."
 msgstr ""
-"Forhåndssøgningssiden er ikke konfigureret endnu. Læs denne "
-"temadokumentation for siden Forhåndssøgning og oplysninger om "
-"formularkonfiguration."
 
 #: includes/widgets/advance-search-widget.php:85
 #: includes/widgets/agent-featured-properties-widget.php:265
@@ -4529,9 +4166,8 @@ msgid "Widget Title"
 msgstr "Widget titel"
 
 #: includes/widgets/advance-search-widget.php:100
-#, fuzzy
 msgid "Select Elementor Search Form"
-msgstr "Vælg Elementor-søgeformular"
+msgstr ""
 
 #: includes/widgets/agent-featured-properties-widget.php:19
 msgid "Important: This widget is only for the Agent Sidebar."
@@ -4557,9 +4193,8 @@ msgid "Read More"
 msgstr "Læs mere"
 
 #: includes/widgets/agent-featured-properties-widget.php:157
-#, fuzzy
 msgid "No featured property found for this agent."
-msgstr "Ingen fremhævede ejendomme fundet for denne mægler"
+msgstr ""
 
 #: includes/widgets/agent-featured-properties-widget.php:186
 msgid "No Featured Property Found For This Agent"
@@ -4583,9 +4218,8 @@ msgstr "Fremhævede ejendomme"
 #: includes/widgets/agent-properties-widget.php:286
 #: includes/widgets/featured-properties-widget.php:277
 #: includes/widgets/properties-widget.php:314
-#, fuzzy
 msgid "Property Card Design"
-msgstr "Design af ejendomskort"
+msgstr ""
 
 #: includes/widgets/agent-featured-properties-widget.php:274
 #: includes/widgets/agent-properties-widget.php:288
@@ -4652,9 +4286,8 @@ msgstr "Tilfældig"
 
 #: includes/widgets/agent-featured-properties-widget.php:313
 #: includes/widgets/featured-properties-widget.php:322
-#, fuzzy
 msgid "Featured Tag Text"
-msgstr "Tekst til udvalgte mærker"
+msgstr ""
 
 #: includes/widgets/agent-properties-widget.php:23
 msgid "Displays random, recent or featured properties based on selected agent."
@@ -4680,33 +4313,28 @@ msgid "Show only Featured Properties."
 msgstr "Vis kun fremhævede ejendomme."
 
 #: includes/widgets/agents-list-widget.php:23
-#, fuzzy
 msgid "This widget displays agents list."
-msgstr "Denne widget viser agentlisten."
+msgstr ""
 
 #: includes/widgets/agents-list-widget.php:26
-#, fuzzy
 msgid "RealHomes - Agents"
-msgstr "RealHomes - Agenter"
+msgstr ""
 
 #: includes/widgets/agents-list-widget.php:147
-#, fuzzy
 msgid "No Agent Found!"
-msgstr "Ingen mæglere fundet"
+msgstr ""
 
 #: includes/widgets/agents-list-widget.php:174
 msgid "Number of Agents"
 msgstr "Antal mæglere"
 
 #: includes/widgets/contact-form-widget.php:17
-#, fuzzy
 msgid "This widget displays contact form."
-msgstr "Denne widget viser kontaktformular."
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:20
-#, fuzzy
 msgid "RealHomes - Contact Form"
-msgstr "RealHomes - Kontaktformular"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:49
 msgid "* Please provide your name"
@@ -4725,13 +4353,10 @@ msgid "Send Message"
 msgstr "Send Besked"
 
 #: includes/widgets/contact-form-widget.php:201
-#, fuzzy
 msgid ""
 "Please provide the 'Target Email' address in the widget settings to show the "
 "contact form."
 msgstr ""
-"Angiv venligst 'Target Email'-adressen i widgetindstillingerne for at vise "
-"kontaktformularen."
 
 #: includes/widgets/contact-form-widget.php:213
 msgid "Contact Us"
@@ -4742,39 +4367,32 @@ msgid "Widget Title:"
 msgstr "Widget titel:"
 
 #: includes/widgets/contact-form-widget.php:235
-#, fuzzy
 msgid "Target Email:"
-msgstr "Målret e-mail:"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:239
-#, fuzzy
 msgid "Customize Contact Form Labels"
-msgstr "Tilpas kontaktformularetiketter"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:241
-#, fuzzy
 msgid "Name Field Label:"
-msgstr "Navn Felt Etiket:"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:246
-#, fuzzy
 msgid "Email Field Label:"
-msgstr "E-mail-feltetiket:"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:251
-#, fuzzy
 msgid "Phone Number Field Label:"
-msgstr "Telefonnummerfeltetiket:"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:256
-#, fuzzy
 msgid "Message Field Label:"
-msgstr "Meddelelsesfeltetiket:"
+msgstr ""
 
 #: includes/widgets/contact-form-widget.php:261
-#, fuzzy
 msgid "Submit Button Label:"
-msgstr "Indsend knapetiket:"
+msgstr ""
 
 #: includes/widgets/featured-properties-widget.php:28
 msgid "Displays Random or Recent Featured Properties."
@@ -4789,11 +4407,11 @@ msgid "Added: "
 msgstr "Tilføjet: "
 
 #: includes/widgets/grid-cards/card-parts/added.php:11
-#, fuzzy
 msgid "Ago "
-msgstr "Siden "
+msgstr ""
 
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:22
+#: includes/widgets/property-filters.php:232
 #: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:25
 msgid "Area"
 msgstr "Område"
@@ -4829,15 +4447,13 @@ msgstr "Ejer"
 
 #: includes/widgets/mortgage-calculator-widget.php:24
 #: includes/widgets/ultra-mortgage-calculator-widget.php:24
-#, fuzzy
 msgid "Realhomes - Mortgage Calculator"
-msgstr "Realhomes - Realkreditberegner"
+msgstr ""
 
 #: includes/widgets/mortgage-calculator-widget.php:25
 #: includes/widgets/ultra-mortgage-calculator-widget.php:25
-#, fuzzy
 msgid "This widget display Mortgage Calculator."
-msgstr "Denne widget viser Realkreditberegner."
+msgstr ""
 
 #: includes/widgets/mortgage-calculator-widget.php:95
 #: includes/widgets/ultra-mortgage-calculator-widget.php:95
@@ -4851,9 +4467,8 @@ msgstr "Rente"
 
 #: includes/widgets/mortgage-calculator-widget.php:97
 #: includes/widgets/ultra-mortgage-calculator-widget.php:97
-#, fuzzy
 msgid "Home Price"
-msgstr "Boligpris"
+msgstr ""
 
 #: includes/widgets/mortgage-calculator-widget.php:98
 #: includes/widgets/ultra-mortgage-calculator-widget.php:98
@@ -4862,9 +4477,8 @@ msgstr "Forudbetaling"
 
 #: includes/widgets/mortgage-calculator-widget.php:99
 #: includes/widgets/ultra-mortgage-calculator-widget.php:99
-#, fuzzy
 msgid "Principle and Interest"
-msgstr "Princip og interesse"
+msgstr ""
 
 #: includes/widgets/mortgage-calculator-widget.php:100
 #: includes/widgets/ultra-mortgage-calculator-widget.php:100
@@ -4875,31 +4489,28 @@ msgstr "pr. måned"
 #: includes/widgets/mortgage-calculator-widget.php:155
 #: includes/widgets/mortgage-calculator-widget.php:200
 #: includes/widgets/ultra-mortgage-calculator-widget.php:130
-#: includes/widgets/ultra-mortgage-calculator-widget.php:153
-#: includes/widgets/ultra-mortgage-calculator-widget.php:203
-#, fuzzy
+#: includes/widgets/ultra-mortgage-calculator-widget.php:154
+#: includes/widgets/ultra-mortgage-calculator-widget.php:213
 msgid "Years Fixed"
-msgstr "År fast"
+msgstr ""
 
 #: includes/widgets/mortgage-calculator-widget.php:262
-#: includes/widgets/ultra-mortgage-calculator-widget.php:293
+#: includes/widgets/ultra-mortgage-calculator-widget.php:300
 msgid "Mortgage Calculator"
 msgstr "Panteberegner"
 
 #: includes/widgets/mortgage-calculator-widget.php:267
-#: includes/widgets/ultra-mortgage-calculator-widget.php:298
+#: includes/widgets/ultra-mortgage-calculator-widget.php:305
 msgid "Title:"
 msgstr "Titel:"
 
 #: includes/widgets/properties-widget.php:28
-#, fuzzy
 msgid "Displays Properties based on custom filters."
-msgstr "Viser egenskaber baseret på brugerdefinerede filtre."
+msgstr ""
 
 #: includes/widgets/properties-widget.php:33
-#, fuzzy
 msgid "RealHomes - Properties"
-msgstr "RealHomes - Ejendomme"
+msgstr ""
 
 #: includes/widgets/properties-widget.php:198
 #: includes/widgets/properties-widget.php:226
@@ -4922,6 +4533,170 @@ msgstr ""
 msgid "Property Feature:"
 msgstr ""
 
+#: includes/widgets/property-filters.php:17
+msgid "RealHomes - Properties Filter Widget"
+msgstr ""
+
+#: includes/widgets/property-filters.php:19
+msgid ""
+"This widget provides users with filter options to refine their search "
+"criteria for property listings templates."
+msgstr ""
+
+#: includes/widgets/property-filters.php:68
+#: includes/widgets/property-filters.php:72
+msgid "Note:"
+msgstr "Note:"
+
+#: includes/widgets/property-filters.php:68
+msgid ""
+"The properties filters widget is specifically designed to work with "
+"properties listing templates and cannot be used on other types of pages."
+msgstr ""
+
+#: includes/widgets/property-filters.php:72
+msgid ""
+"Advance Search is already enabled in the header. For the filters to work you "
+"need to disable the header search form as they do not work simultaneously."
+msgstr ""
+
+#: includes/widgets/property-filters.php:80
+#| msgid "Repeat All"
+msgid "Open All"
+msgstr "Åben alle"
+
+#: includes/widgets/property-filters.php:83
+#| msgid "Toggle All"
+msgid "Collapse All"
+msgstr "Skjul Alle"
+
+#: includes/widgets/property-filters.php:134
+#| msgid "Featured"
+msgid "Feature"
+msgstr "Feature"
+
+#: includes/widgets/property-filters.php:164
+#: includes/widgets/property-filters.php:578
+msgid "Price Ranges"
+msgstr ""
+
+#: includes/widgets/property-filters.php:214
+#: includes/widgets/property-filters.php:593
+#| msgid "Save Changes"
+msgid "Area Ranges"
+msgstr ""
+
+#: includes/widgets/property-filters.php:277
+#| msgid "Minimum Bedrooms"
+msgid "Min Bedrooms"
+msgstr "Min soveværelser"
+
+#: includes/widgets/property-filters.php:278
+#| msgid "Minimum Beds"
+msgid "Min Beds"
+msgstr "Minimum antal senge"
+
+#: includes/widgets/property-filters.php:306
+#| msgid "Minimum Bathrooms"
+msgid "Min Bathrooms"
+msgstr "Min badeværelser"
+
+#: includes/widgets/property-filters.php:307
+#| msgid "Minimum Baths"
+msgid "Min Baths"
+msgstr "Minimum antal badeværelser"
+
+#: includes/widgets/property-filters.php:335
+#: includes/widgets/property-filters.php:336
+#| msgid "Garage"
+msgid "Min Garages"
+msgstr "Minimum antal garager"
+
+#: includes/widgets/property-filters.php:509
+msgid "Filter Properties"
+msgstr ""
+
+#: includes/widgets/property-filters.php:541
+msgid "Show/Hide Taxonomies"
+msgstr ""
+
+#: includes/widgets/property-filters.php:562
+msgid "Hide Empty Taxonomies"
+msgstr ""
+
+#: includes/widgets/property-filters.php:564
+msgid "True"
+msgstr "Sandt"
+
+#: includes/widgets/property-filters.php:565
+msgid "False"
+msgstr "Falsk"
+
+#: includes/widgets/property-filters.php:570
+msgid "Checkboxes View Limit"
+msgstr ""
+
+#: includes/widgets/property-filters.php:583
+msgid "Custom Price Ranges (optional)"
+msgstr ""
+
+#: includes/widgets/property-filters.php:585
+msgid ""
+"Leave this area empty for default values. Put each range in new line in the "
+"given format. ( i.e. 5000 - 10000 )"
+msgstr ""
+
+#: includes/widgets/property-filters.php:598
+msgid "Custom Area Ranges (optional)"
+msgstr ""
+
+#: includes/widgets/property-filters.php:600
+msgid ""
+"Leave this area empty for default values. Put each range in new line in the "
+"given format. ( i.e. 200 - 400 )"
+msgstr ""
+
+#: includes/widgets/property-filters.php:605
+#| msgid "Area"
+msgid "Area Unit"
+msgstr "Areal enhed"
+
+#: includes/widgets/property-filters.php:613
+#| msgid "Locations"
+msgid "Agent Options"
+msgstr "Agentindstillinger"
+
+#: includes/widgets/property-filters.php:617
+#: includes/widgets/property-filters.php:630
+#| msgid "Field Type"
+msgid "Display Type"
+msgstr "Visningstype"
+
+#: includes/widgets/property-filters.php:626
+#| msgid "Locations"
+msgid "Agency Options"
+msgstr ""
+
+#: includes/widgets/property-filters.php:641
+#| msgid "Field Options"
+msgid "Bedroom Options"
+msgstr ""
+
+#: includes/widgets/property-filters.php:653
+#| msgid "Bathrooms"
+msgid "Bathroom Options"
+msgstr ""
+
+#: includes/widgets/property-filters.php:665
+#| msgid "Field Options"
+msgid "Garage Options"
+msgstr ""
+
+#: includes/widgets/property-filters.php:669
+#| msgid "Maximum Area"
+msgid "Maximum Garages"
+msgstr ""
+
 #: includes/widgets/property-types-widget.php:26
 msgid "This widget displays a list of Property Types."
 msgstr "Denne widget viser en liste over ejendomstyper."
@@ -4939,54 +4714,145 @@ msgid "RealHomes - Contact Information"
 msgstr "RealHomes - Kontakt information"
 
 #: includes/widgets/rh-contact-information-widget.php:116
-#, fuzzy
 msgid "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
-msgstr "3015 Grand Ave, Coconut Grove, Merrick Way, FL 12345"
+msgstr ""
 
 #: includes/widgets/rh-contact-information-widget.php:117
-#, fuzzy
 msgid "+123-456-789"
-msgstr "+123-456-789"
+msgstr ""
 
 #: includes/widgets/rh-contact-information-widget.php:118
-#, fuzzy
 msgid "robot@inspirythemes.com"
-msgstr "robot@inspirythemes.com"
+msgstr ""
 
 #: includes/widgets/rh-contact-information-widget.php:132
 msgid "Contact Address"
 msgstr "Kontakt adresse"
 
 #: includes/widgets/rh-contact-information-widget.php:141
-#, fuzzy
 msgid "Use WhatsApp icon for the phone number?"
-msgstr "Brug WhatsApp-ikonet til telefonnummeret?"
+msgstr ""
 
 #: includes/widgets/ultra-grid-cards/card-parts/year-built.php:8
 msgid "Build"
 msgstr "Nybyg"
 
 #: includes/widgets/ultra-mortgage-calculator-widget.php:120
-#, fuzzy
 msgid "Other Dues"
-msgstr "Andre afgifter"
+msgstr ""
+
+#: node_modules/yargs-parser/index.js:302
+#, javascript-format
+msgid "Not enough arguments following: %s"
+msgstr ""
+
+#: node_modules/yargs-parser/index.js:450
+#, javascript-format
+msgid "Invalid JSON config file: %s"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:169
+msgid "Commands:"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:177 node_modules/yargs/lib/usage.js:407
+#| msgid "Default"
+msgid "default:"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:179
+msgid "aliases:"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:241
+msgid "boolean"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:242
+msgid "count"
+msgstr "antal"
+
+#: node_modules/yargs/lib/usage.js:243 node_modules/yargs/lib/usage.js:244
+msgid "string"
+msgstr "streng"
+
+#: node_modules/yargs/lib/usage.js:245
+msgid "array"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:246
+#| msgid "Phone Number"
+msgid "number"
+msgstr "nummer"
+
+#: node_modules/yargs/lib/usage.js:250
+msgid "required"
+msgstr "påkrævet"
+
+#: node_modules/yargs/lib/usage.js:251
+msgid "choices:"
+msgstr ""
+
+#: node_modules/yargs/lib/usage.js:270
+msgid "Examples:"
+msgstr "Eksempler:"
+
+#: node_modules/yargs/lib/usage.js:385
+msgid "generated-value"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:26
+#: node_modules/yargs/lib/validation.js:49
+#, javascript-format
+msgid "Not enough non-option arguments: got %s, need at least %s"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:37
+#, javascript-format
+msgid "Too many non-option arguments: got %s, maximum of %s"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:185
+#| msgid "Invalid Email"
+msgid "Invalid values:"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:188
+#, javascript-format
+msgid "Argument: %s, Given: %s, Choices: %s"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:218
+#, javascript-format
+msgid "Argument check failed: %s"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:283
+msgid "Implications failed:"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:313
+#, javascript-format
+msgid "Arguments %s and %s are mutually exclusive"
+msgstr ""
+
+#: node_modules/yargs/lib/validation.js:332
+#, javascript-format
+msgid "Did you mean %s?"
+msgstr ""
 
 #. Plugin URI of the plugin/theme
-#, fuzzy
 msgid ""
 "http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
 msgstr ""
-"http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
 
 #. Description of the plugin/theme
-#, fuzzy
 msgid "Provides real estate functionality for RealHomes theme."
-msgstr "Giver ejendomsfunktionalitet til RealHomes-temaet."
+msgstr ""
 
 #. Author URI of the plugin/theme
-#, fuzzy
 msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
-msgstr "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
+msgstr ""
 
 #~ msgid "Default Map"
 #~ msgstr "Standard kort"

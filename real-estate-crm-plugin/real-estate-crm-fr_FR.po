@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Real Estate CRM\n"
-"POT-Creation-Date: 2022-06-23 18:40+0500\n"
-"PO-Revision-Date: 2023-01-16 16:07+0500\n"
-"Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
+"POT-Creation-Date: 2023-04-12 00:14+0500\n"
+"PO-Revision-Date: 2023-05-02 08:58+0500\n"
+"Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -23,9 +23,8 @@ msgstr ""
 
 #. Plugin Name of the plugin/theme
 #: inc/class-recrm-admin-menu.php:20 inc/class-recrm-admin-menu.php:21
-#, fuzzy
 msgid "Real Estate CRM"
-msgstr "CRM immobilier"
+msgstr ""
 
 #: inc/class-recrm-admin-menu.php:36 inc/class-recrm-admin-menu.php:37
 #: inc/class-recrm-post-types.php:20
@@ -77,24 +76,24 @@ msgid "Date"
 msgstr "Date"
 
 #: inc/class-recrm-custom-columns.php:97
-#, fuzzy, php-format
+#, php-format
 msgid "Email: %1$s %2$s"
-msgstr "Courriel : %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:100
-#, fuzzy, php-format
+#, php-format
 msgid "Work: %1$s %2$s"
-msgstr "Travail : %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:103
-#, fuzzy, php-format
+#, php-format
 msgid "Home: %1$s %2$s"
-msgstr "Domicile: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:106
-#, fuzzy, php-format
+#, php-format
 msgid "Mobile: %1$s %2$s"
-msgstr "Portable: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:182
 #, php-format
@@ -271,14 +270,13 @@ msgid "Enquiry To "
 msgstr "Demande de renseignements pour "
 
 #: inc/class-recrm-meta-boxes.php:439 inc/class-recrm-meta-boxes.php:1129
-#, fuzzy
 msgid "Enquiry Via <span>Contact Form</span>"
-msgstr "Demande via <span>le formulaire de contact</span>"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:476 inc/class-recrm-meta-boxes.php:1166
-#, fuzzy, php-format
+#, php-format
 msgid "Enquired %1$s  ago"
-msgstr "Demandé il y a %1$s"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:477 inc/class-recrm-meta-boxes.php:1167
 #, php-format
@@ -286,9 +284,8 @@ msgid "Status: %1$s"
 msgstr "Statut: %1$s"
 
 #: inc/class-recrm-meta-boxes.php:480
-#, fuzzy
 msgid "View Enquiry Details"
-msgstr "Voir les détails de la demande"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:508 inc/class-recrm-meta-boxes.php:1109
 #: inc/class-recrm-post-types.php:111 inc/class-recrm-post-types.php:137
@@ -308,9 +305,9 @@ msgid "Save Note"
 msgstr "Sauvegarder la remarque"
 
 #: inc/class-recrm-meta-boxes.php:585
-#, fuzzy, php-format
+#, php-format
 msgid "Added note %s ago"
-msgstr "Ajout d’une note il y a %s"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:595
 msgid "Delete"
@@ -350,9 +347,8 @@ msgid "Enquiry Details"
 msgstr "Détails des questions"
 
 #: inc/class-recrm-meta-boxes.php:1084
-#, fuzzy
 msgid "Agent/Negotiator"
-msgstr "Agent/Négociateur"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:1086
 msgid "Select an agent"
@@ -426,9 +422,8 @@ msgid "View Contact"
 msgstr "Voir contact"
 
 #: inc/class-recrm-post-types.php:32
-#, fuzzy
 msgid "View ContactS"
-msgstr "Voir ContactS"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:33
 msgid "Search Contact"
@@ -479,9 +474,8 @@ msgid "Filter contacts list"
 msgstr "Filter la liste des contacts"
 
 #: inc/class-recrm-post-types.php:49
-#, fuzzy
 msgid "Real Estate Contacts."
-msgstr "Contacts immobiliers."
+msgstr ""
 
 #: inc/class-recrm-post-types.php:77
 msgctxt "taxonomy general name"
@@ -498,33 +492,28 @@ msgid "Search Contact Tags"
 msgstr "Rechercher des étiquettes de contact"
 
 #: inc/class-recrm-post-types.php:80
-#, fuzzy
 msgid "All Contact Tags"
-msgstr "Toutes les balises de contact"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:81
 msgid "Parent Contact Tag"
 msgstr "Étiquette de contact parent"
 
 #: inc/class-recrm-post-types.php:82
-#, fuzzy
 msgid "Parent Contact Tag:"
-msgstr "Balise de contact parent:"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:83
-#, fuzzy
 msgid "Edit Contact Tag"
-msgstr "Modifier la balise de contact"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:84
-#, fuzzy
 msgid "Update Contact Tag"
-msgstr "Mettre à jour la balise de contact"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:85
-#, fuzzy
 msgid "Add New Contact Tag"
-msgstr "Ajouter une nouvelle balise de contact"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:86
 msgid "New Contact Tag Name"
@@ -553,9 +542,8 @@ msgid "Parent Enquiry:"
 msgstr "Demande parent :"
 
 #: inc/class-recrm-post-types.php:115
-#, fuzzy
 msgid "All Enquiries"
-msgstr "Toutes les demandes de renseignements"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:116
 msgid "Add New Enquiry"
@@ -594,29 +582,24 @@ msgid "Uploaded to this enquiry"
 msgstr "Téléversé vers cette demande"
 
 #: inc/class-recrm-post-types.php:132
-#, fuzzy
 msgid "Enquiries list"
-msgstr "Liste des demandes de renseignements"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:133
-#, fuzzy
 msgid "Enquiries list navigation"
-msgstr "Navigation dans la liste des demandes de renseignements"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:134
-#, fuzzy
 msgid "Filter enquiries list"
-msgstr "Filtrer la liste des demandes de renseignements"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:138
-#, fuzzy
 msgid "Real Estate Enquiries."
-msgstr "Demandes immobilières."
+msgstr ""
 
 #: inc/class-recrm-settings.php:34 inc/class-recrm-settings.php:47
-#, fuzzy
 msgid "Real Estate CRM Settings"
-msgstr "Paramètres CRM immobiliers"
+msgstr ""
 
 #: inc/class-recrm-settings.php:35 real-estate-crm.php:77
 msgid "Settings"
@@ -640,9 +623,8 @@ msgid "Lead, Customer"
 msgstr "Prospect, Client"
 
 #: inc/class-recrm-settings.php:78
-#, fuzzy
 msgid "Contact Prefixes"
-msgstr "Préfixes de contact"
+msgstr ""
 
 #: inc/class-recrm-settings.php:79
 msgid ""
@@ -677,9 +659,8 @@ msgid "Enquiry Negotiator Source"
 msgstr "Source du négociateur de la demande"
 
 #: inc/class-recrm-settings.php:107
-#, fuzzy
 msgid "Select Negotiator Type"
-msgstr "Sélectionnez le type de négociateur"
+msgstr ""
 
 #: inc/class-recrm-settings.php:111
 msgid "Custom Post Types"
@@ -720,9 +701,8 @@ msgid "Use this File"
 msgstr "Utilisez le texte du titre du fichier par défaut lorsqu'il est vide"
 
 #. Description of the plugin/theme
-#, fuzzy
 msgid "Provides CRM functionality for Real Homes theme."
-msgstr "Fournit une fonctionnalité CRM pour le thème Real Homes."
+msgstr ""
 
 #. Author of the plugin/theme
 msgid "Inspiry Themes"

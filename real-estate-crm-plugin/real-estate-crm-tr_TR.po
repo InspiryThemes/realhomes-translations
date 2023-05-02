@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Real Estate CRM\n"
-"POT-Creation-Date: 2022-06-23 18:40+0500\n"
-"PO-Revision-Date: 2023-01-16 16:12+0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2023-04-12 00:14+0500\n"
+"PO-Revision-Date: 2023-05-02 09:00+0500\n"
+"Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: tr_TR\n"
 "MIME-Version: 1.0\n"
@@ -41,9 +41,8 @@ msgid "Enquiries"
 msgstr "Sorular"
 
 #: inc/class-recrm-admin-menu.php:82 inc/class-recrm-admin-menu.php:83
-#, fuzzy
 msgid "Contact Tags"
-msgstr "İletişim Etiketleri"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:37 inc/class-recrm-meta-boxes.php:218
 #: inc/class-recrm-meta-boxes.php:761
@@ -142,9 +141,8 @@ msgstr "Lider, müşteri"
 
 #: inc/class-recrm-get-posts-from-form.php:126
 #: inc/class-recrm-meta-boxes.php:1055 inc/class-recrm-settings.php:100
-#, fuzzy
 msgid "Open, Close"
-msgstr "Aç, Kapat"
+msgstr ""
 
 #: inc/class-recrm-get-posts-from-form.php:134
 #: inc/class-recrm-meta-boxes.php:210 inc/class-recrm-meta-boxes.php:1052
@@ -153,9 +151,8 @@ msgid "Website, Word of Mouth, Newspaper, Friend"
 msgstr "Web sitesi, gazete, arkadaş"
 
 #: inc/class-recrm-meta-boxes.php:44
-#, fuzzy
 msgid "Just added a note"
-msgstr "Sadece bir not ekledim"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:45
 msgid "x"
@@ -166,9 +163,8 @@ msgid "An Error Occurred"
 msgstr "Bir Sorun Çıktı"
 
 #: inc/class-recrm-meta-boxes.php:47
-#, fuzzy
 msgid " - Just Added"
-msgstr " - Yeni Eklendi"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:207 inc/class-recrm-settings.php:81
 msgid "Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
@@ -186,7 +182,7 @@ msgstr "Önek"
 
 #: inc/class-recrm-meta-boxes.php:235
 msgid "i.e Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs"
-msgstr "Örn: Bay, Bayan, MS, Bayan, Dr, Prof, Bay & Mrs"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:241 inc/class-recrm-meta-boxes.php:716
 msgid "First Name"
@@ -229,9 +225,8 @@ msgid "Work Phone"
 msgstr "İş Telefonu"
 
 #: inc/class-recrm-meta-boxes.php:303
-#, fuzzy
 msgid "Home Phone"
-msgstr "Ev Telefonu"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:309
 msgid "Twitter Profile URL"
@@ -265,15 +260,14 @@ msgstr "Dosya Ekle"
 
 #: inc/class-recrm-meta-boxes.php:431 inc/class-recrm-meta-boxes.php:1121
 msgid "Enquiry For "
-msgstr "Danışma için"
+msgstr "Danışma için "
 
 #: inc/class-recrm-meta-boxes.php:434 inc/class-recrm-meta-boxes.php:437
 #: inc/class-recrm-meta-boxes.php:495 inc/class-recrm-meta-boxes.php:502
 #: inc/class-recrm-meta-boxes.php:1124 inc/class-recrm-meta-boxes.php:1127
 #: inc/class-recrm-meta-boxes.php:1183 inc/class-recrm-meta-boxes.php:1190
-#, fuzzy
 msgid "Enquiry To "
-msgstr "Soruşturma "
+msgstr "Sorgulama "
 
 #: inc/class-recrm-meta-boxes.php:439 inc/class-recrm-meta-boxes.php:1129
 msgid "Enquiry Via <span>Contact Form</span>"
@@ -285,9 +279,9 @@ msgid "Enquired %1$s  ago"
 msgstr "Sorgulandı%1$s önce"
 
 #: inc/class-recrm-meta-boxes.php:477 inc/class-recrm-meta-boxes.php:1167
-#, fuzzy, php-format
+#, php-format
 msgid "Status: %1$s"
-msgstr "Durum: %1$s"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:480
 msgid "View Enquiry Details"
@@ -303,18 +297,17 @@ msgid "Notes"
 msgstr "Notlar"
 
 #: inc/class-recrm-meta-boxes.php:539
-#, fuzzy
 msgid "New Note"
-msgstr "Yeni Not"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:546
 msgid "Save Note"
 msgstr "Not Kaydet"
 
 #: inc/class-recrm-meta-boxes.php:585
-#, fuzzy, php-format
+#, php-format
 msgid "Added note %s ago"
-msgstr "%s önce not eklendi"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:595
 msgid "Delete"
@@ -350,9 +343,8 @@ msgid "Attachments"
 msgstr "Ekler"
 
 #: inc/class-recrm-meta-boxes.php:1037
-#, fuzzy
 msgid "Enquiry Details"
-msgstr "Soruşturma Detayları"
+msgstr ""
 
 #: inc/class-recrm-meta-boxes.php:1084
 msgid "Agent/Negotiator"
@@ -390,9 +382,8 @@ msgid "Contact"
 msgstr "İletişim"
 
 #: inc/class-recrm-post-types.php:22
-#, fuzzy
 msgid "Contact Archives"
-msgstr "İletişim Arşivleri"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:23
 msgid "Contact Attributes"
@@ -403,9 +394,8 @@ msgid "Parent Contact:"
 msgstr "Üst İletişim:"
 
 #: inc/class-recrm-post-types.php:25
-#, fuzzy
 msgid "All Contacts"
-msgstr "Tüm İletişim Bilgileri"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:26
 msgid "Add New Contact"
@@ -432,9 +422,8 @@ msgid "View Contact"
 msgstr "Kişiyi Görüntüle"
 
 #: inc/class-recrm-post-types.php:32
-#, fuzzy
 msgid "View ContactS"
-msgstr "Kişileri Görüntüle"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:33
 msgid "Search Contact"
@@ -469,78 +458,66 @@ msgid "Insert into contact"
 msgstr "Kişiye ekle"
 
 #: inc/class-recrm-post-types.php:41
-#, fuzzy
 msgid "Uploaded to this contact"
-msgstr "Bu kişiye yüklendi"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:42
-#, fuzzy
 msgid "Contacts list"
-msgstr "Kişi listesi"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:43
 msgid "Contacts list navigation"
 msgstr "Kişiler listesi menusu"
 
 #: inc/class-recrm-post-types.php:44
-#, fuzzy
 msgid "Filter contacts list"
-msgstr "Kişi listesini filtreleme"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:49
 msgid "Real Estate Contacts."
 msgstr "Gayrimenkul İletişim."
 
 #: inc/class-recrm-post-types.php:77
-#, fuzzy
 msgctxt "taxonomy general name"
 msgid "Contact Tags"
-msgstr "İletişim Etiketleri"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:78
-#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Contact Tag"
-msgstr "İletişim Etiketi"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:79
 msgid "Search Contact Tags"
 msgstr "Kişi Etiketleri Ara"
 
 #: inc/class-recrm-post-types.php:80
-#, fuzzy
 msgid "All Contact Tags"
-msgstr "Tüm İletişim Etiketleri"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:81
-#, fuzzy
 msgid "Parent Contact Tag"
-msgstr "Ebeveyn İletişim Etiketi"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:82
-#, fuzzy
 msgid "Parent Contact Tag:"
-msgstr "Ebeveyn İletişim Etiketi:"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:83
-#, fuzzy
 msgid "Edit Contact Tag"
-msgstr "Kişi Etiketini Düzenle"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:84
-#, fuzzy
 msgid "Update Contact Tag"
-msgstr "Kişi Etiketini Güncelleme"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:85
-#, fuzzy
 msgid "Add New Contact Tag"
-msgstr "Yeni Kişi Etiketi Ekle"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:86
-#, fuzzy
 msgid "New Contact Tag Name"
-msgstr "Yeni Kişi Etiketi Adı"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:108
 msgctxt "Post Type General Name"
@@ -605,37 +582,32 @@ msgid "Uploaded to this enquiry"
 msgstr "Bu soru yüklendi"
 
 #: inc/class-recrm-post-types.php:132
-#, fuzzy
 msgid "Enquiries list"
-msgstr "Sorgu listesi"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:133
 msgid "Enquiries list navigation"
 msgstr "Sorular listesi menu"
 
 #: inc/class-recrm-post-types.php:134
-#, fuzzy
 msgid "Filter enquiries list"
-msgstr "Sorgu listesini filtreleme"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:138
-#, fuzzy
 msgid "Real Estate Enquiries."
-msgstr "Emlak Sorgulamaları."
+msgstr ""
 
 #: inc/class-recrm-settings.php:34 inc/class-recrm-settings.php:47
-#, fuzzy
 msgid "Real Estate CRM Settings"
-msgstr "Gayrimenkul CRM Ayarları"
+msgstr ""
 
 #: inc/class-recrm-settings.php:35 real-estate-crm.php:77
 msgid "Settings"
 msgstr "Ayarlar"
 
 #: inc/class-recrm-settings.php:70
-#, fuzzy
 msgid "Contact Statuses"
-msgstr "İletişim Durumları"
+msgstr ""
 
 #: inc/class-recrm-settings.php:71
 msgid ""
@@ -646,22 +618,17 @@ msgstr ""
 "ilgili kişi durumu için varsayılan olarak değerlendirilir."
 
 #: inc/class-recrm-settings.php:73
-#, fuzzy
 msgid "Lead, Customer"
-msgstr "Lider, Müşteri"
+msgstr ""
 
 #: inc/class-recrm-settings.php:78
-#, fuzzy
 msgid "Contact Prefixes"
-msgstr "İletişim Önekleri"
+msgstr ""
 
 #: inc/class-recrm-settings.php:79
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Mr, Mrs, Ms, Miss, Dr, Prof, Mr & Mrs)."
 msgstr ""
-"Virgülle ayrılmış değerler sağlayın, örneğin (Bay, Bayan, Bayan, Bayan, Dr, "
-"Prof, Bay ve Bayan)."
 
 #: inc/class-recrm-settings.php:88
 msgid ""
@@ -676,13 +643,10 @@ msgid "Enquiry Status"
 msgstr "Soru Durumu"
 
 #: inc/class-recrm-settings.php:98
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Open, Close). First value will be "
 "considered default for enquiry status."
 msgstr ""
-"Virgülle ayrılmış değerler sağlayın, örneğin (Aç, Kapat). İlk değer, sorgu "
-"durumu için varsayılan olarak kabul edilir."
 
 #: inc/class-recrm-settings.php:106
 msgid "Enquiry Negotiator Source"
@@ -701,14 +665,12 @@ msgid "Users"
 msgstr "Kullanıcılar"
 
 #: inc/class-recrm-settings.php:119
-#, fuzzy
 msgid "Select Custom Post Type For Negotiator Source"
-msgstr "Müzakereci Kaynağı için Özel Gönderi Türünü Seçin"
+msgstr ""
 
 #: inc/class-recrm-settings.php:120
-#, fuzzy
 msgid "Select Agent Custom Post Type"
-msgstr "Aracı Özel Gönderi Türünü Seçin"
+msgstr ""
 
 #: inc/class-settings-api.php:344
 msgid "Choose File"
@@ -724,14 +686,12 @@ msgid "An unknown error occurred"
 msgstr "Bilinmeyen bir hata oluştu"
 
 #: real-estate-crm.php:58
-#, fuzzy
 msgid "Insert File"
-msgstr "Dosya Ekle"
+msgstr ""
 
 #: real-estate-crm.php:59
-#, fuzzy
 msgid "Use this File"
-msgstr "Bu Dosyayı Kullan"
+msgstr ""
 
 #. Description of the plugin/theme
 msgid "Provides CRM functionality for Real Homes theme."
@@ -742,6 +702,5 @@ msgid "Inspiry Themes"
 msgstr "Meander Multimedya"
 
 #. Author URI of the plugin/theme
-#, fuzzy
 msgid "https://inspirythemes.com/"
-msgstr "https://inspirythemes.com"
+msgstr ""

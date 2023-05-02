@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Real Estate CRM\n"
-"POT-Creation-Date: 2022-06-23 18:40+0500\n"
-"PO-Revision-Date: 2023-01-16 16:10+0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2023-04-12 00:14+0500\n"
+"PO-Revision-Date: 2023-05-02 08:59+0500\n"
+"Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -87,9 +87,9 @@ msgid "Work: %1$s %2$s"
 msgstr "Работа: %1$s %2$s"
 
 #: inc/class-recrm-custom-columns.php:103
-#, fuzzy, php-format
+#, php-format
 msgid "Home: %1$s %2$s"
-msgstr "Главная: %1$s %2$s"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:106
 #, php-format
@@ -110,9 +110,8 @@ msgid "Enquiry ID"
 msgstr "ID заявки"
 
 #: inc/class-recrm-custom-columns.php:227
-#, fuzzy
 msgid "From"
-msgstr " от"
+msgstr ""
 
 #: inc/class-recrm-custom-columns.php:228
 msgid "Thumbnail"
@@ -396,9 +395,8 @@ msgid "Parent Contact:"
 msgstr "Родительский контакт:"
 
 #: inc/class-recrm-post-types.php:25
-#, fuzzy
 msgid "All Contacts"
-msgstr "Все контакты"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:26
 msgid "Add New Contact"
@@ -449,9 +447,8 @@ msgid "Set featured image"
 msgstr "Установить изображение"
 
 #: inc/class-recrm-post-types.php:38 inc/class-recrm-post-types.php:128
-#, fuzzy
 msgid "Remove featured image"
-msgstr "Удалить изображение"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:39 inc/class-recrm-post-types.php:129
 msgid "Use as featured image"
@@ -466,14 +463,12 @@ msgid "Uploaded to this contact"
 msgstr "Загружено к этому контакту"
 
 #: inc/class-recrm-post-types.php:42
-#, fuzzy
 msgid "Contacts list"
-msgstr "Список контактов"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:43
-#, fuzzy
 msgid "Contacts list navigation"
-msgstr "Навигация по списку контактов"
+msgstr ""
 
 #: inc/class-recrm-post-types.php:44
 msgid "Filter contacts list"
@@ -639,14 +634,10 @@ msgstr ""
 "Prof, Mr & Mrs)."
 
 #: inc/class-recrm-settings.php:88
-#, fuzzy
 msgid ""
 "Provide comma separated values e.g (Website, Word of Mouth, Newspaper, "
 "Friend). First value will be considered default for contact prefix."
 msgstr ""
-"Укажите значения, разделенные запятыми, например( Веб-сайт, Сарафанное "
-"радио, Газета, Друг). Первое значение будет считаться значением по умолчанию "
-"для префикса контакта."
 
 #: inc/class-recrm-settings.php:97
 msgid "Enquiry Status"
@@ -701,20 +692,17 @@ msgid "Insert File"
 msgstr "Вставить файл"
 
 #: real-estate-crm.php:59
-#, fuzzy
 msgid "Use this File"
 msgstr "Использовать этот файл"
 
 #. Description of the plugin/theme
-#, fuzzy
 msgid "Provides CRM functionality for Real Homes theme."
-msgstr "Предоставляет функциональность CRM для темы Real Homes."
+msgstr ""
 
 #. Author of the plugin/theme
 msgid "Inspiry Themes"
 msgstr "Inspiry Themes"
 
 #. Author URI of the plugin/theme
-#, fuzzy
 msgid "https://inspirythemes.com/"
-msgstr "https://inspirythemes.com/"
+msgstr ""
