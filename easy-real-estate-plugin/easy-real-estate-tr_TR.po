@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2023-04-12 00:08+0500\n"
-"PO-Revision-Date: 2023-05-02 08:54+0500\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-10-30 09:37+0500\n"
 "Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: tr_TR\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -21,84 +21,84 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: easy-real-estate.php:276 includes/mb/property/basic-metaboxes.php:211
+#: easy-real-estate.php:283 includes/mb/property/basic-metaboxes.php:211
 #: includes/mb/property/video-metaboxes.php:54 includes/settings/social.php:140
-#: includes/widgets/property-filters.php:535
+#: includes/widgets/property-filters.php:563
 #: includes/widgets/rh-contact-information-widget.php:128
 msgid "Title"
 msgstr "Başlık"
 
-#: easy-real-estate.php:277 includes/settings/social.php:145
+#: easy-real-estate.php:284 includes/settings/social.php:145
 msgid "Profile URL"
 msgstr "Profil URL"
 
-#: easy-real-estate.php:278 includes/settings/social.php:149
+#: easy-real-estate.php:285 includes/settings/social.php:149
 msgid "Icon Class"
 msgstr "Simge Sınıfı"
 
-#: easy-real-estate.php:279
+#: easy-real-estate.php:286
 msgid "Example: fas fa-flicker"
 msgstr "Örnek: fas fa-flicker"
 
-#: easy-real-estate.php:280
+#: easy-real-estate.php:287
 msgid "Get icon!"
 msgstr "Simge alın!"
 
-#: easy-real-estate.php:345
+#: easy-real-estate.php:352
 msgid "Property Views"
 msgstr "İlan Görüntülenme"
 
-#: easy-real-estate.php:360
+#: easy-real-estate.php:367
 msgid "Price Format"
 msgstr "Fiyat Biçimi"
 
-#: easy-real-estate.php:361
+#: easy-real-estate.php:368
 msgid "URL Slugs"
 msgstr "URL Slugs"
 
-#: easy-real-estate.php:362
+#: easy-real-estate.php:369
 msgid "Maps"
 msgstr "Haritalar"
 
-#: easy-real-estate.php:363
+#: easy-real-estate.php:370
 msgid "reCAPTCHA"
 msgstr "reCAPTCHA"
 
-#: easy-real-estate.php:364 includes/mb/agent-agency-meta-boxes-config.php:24
+#: easy-real-estate.php:371 includes/mb/agent-agency-meta-boxes-config.php:24
 #: includes/mb/agent-agency-meta-boxes-config.php:206
 msgid "Social"
 msgstr "Sosyal"
 
-#: easy-real-estate.php:365
+#: easy-real-estate.php:372
 msgid "GDPR"
 msgstr "GDPR"
 
-#: easy-real-estate.php:366 includes/custom-post-types/property.php:23
+#: easy-real-estate.php:373 includes/custom-post-types/property.php:23
 #: includes/mb/property-meta-boxes-config.php:57
 msgid "Property"
 msgstr "Emlak"
 
-#: easy-real-estate.php:367
+#: easy-real-estate.php:374
 msgid "Property Analytics"
 msgstr "Mülk Analitiği"
 
-#: easy-real-estate.php:368
+#: easy-real-estate.php:375
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: easy-real-estate.php:468
+#: easy-real-estate.php:475
 msgid "Settings saved successfully!"
 msgstr "Ayarlar başarıyla kaydedildi!"
 
-#: easy-real-estate.php:477
+#: easy-real-estate.php:484
 msgid "Cloning is forbidden!"
 msgstr "Klonlamak yasaktır!"
 
-#: easy-real-estate.php:484
+#: easy-real-estate.php:491
 msgid "Unserializing is forbidden!"
 msgstr "Serileştirme yasaktır!"
 
-#: easy-real-estate.php:531
+#: easy-real-estate.php:538
 #, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
@@ -126,7 +126,7 @@ msgstr "Yeni İlan"
 #: includes/admin-menu/class-ere-admin-menu.php:80
 #: includes/admin-menu/class-ere-admin-menu.php:81
 #: includes/custom-post-types/agency.php:15
-#: includes/widgets/property-filters.php:264
+#: includes/widgets/property-filters.php:272
 msgid "Agencies"
 msgstr "Danışmanlar"
 
@@ -136,7 +136,7 @@ msgstr "Danışmanlar"
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
 #: includes/widgets/agents-list-widget.php:162
-#: includes/widgets/property-filters.php:250
+#: includes/widgets/property-filters.php:258
 msgid "Agents"
 msgstr "Danışmanlar"
 
@@ -170,7 +170,7 @@ msgstr "Danışman"
 #: includes/custom-post-types/agency.php:16
 #: includes/custom-post-types/agency.php:42
 #: includes/custom-post-types/agency.php:184
-#: includes/widgets/property-filters.php:265
+#: includes/widgets/property-filters.php:274
 msgid "Agency"
 msgstr "Danışman"
 
@@ -382,7 +382,7 @@ msgstr "Küçük Resim Yok"
 
 #: includes/custom-post-types/agent.php:21
 #: includes/custom-post-types/agent.php:170 includes/shortcodes/vc-map.php:137
-#: includes/widgets/property-filters.php:251
+#: includes/widgets/property-filters.php:260
 msgid "Agent"
 msgstr "Danışman"
 
@@ -576,18 +576,15 @@ msgstr "Çöpte Hiç Emlak Bulunamadı"
 msgid "Parent Property"
 msgstr "Ana İlan"
 
-#: includes/custom-post-types/property.php:58 includes/settings/slug.php:7
-msgid "property"
-msgstr "emlak"
-
 #: includes/custom-post-types/property.php:117
 #: includes/custom-post-types/property.php:131
-#: includes/widgets/property-filters.php:133
-#: includes/widgets/property-filters.php:558
+#: includes/widgets/property-filters.php:139
+#: includes/widgets/property-filters.php:586
 msgid "Property Features"
 msgstr "İlan Özellikleri"
 
 #: includes/custom-post-types/property.php:118
+#: includes/widgets/property-taxonomy-terms-widget.php:105
 msgid "Property Feature"
 msgstr "Emlak Özelliği"
 
@@ -639,24 +636,21 @@ msgstr "İlan Özelliklerini ekleme veya kaldırma"
 msgid "Choose from the most used Property Features"
 msgstr "En Çok Kullanılan Gayrimenkul Özelliklerini Seçin"
 
-#: includes/custom-post-types/property.php:144 includes/settings/slug.php:15
-msgid "property-feature"
-msgstr "emlak-özelliği"
-
 #: includes/custom-post-types/property.php:147
 msgid "property-features"
 msgstr "mülk özellikleri"
 
 #: includes/custom-post-types/property.php:161
 #: includes/custom-post-types/property.php:175
-#: includes/widgets/property-filters.php:91
+#: includes/widgets/property-filters.php:97
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr "Emlak Türleri"
 
 #: includes/custom-post-types/property.php:162
-#: includes/widgets/property-filters.php:544
+#: includes/widgets/property-filters.php:572
+#: includes/widgets/property-taxonomy-terms-widget.php:102
 msgid "Property Type"
 msgstr "İlan Tipi"
 
@@ -709,22 +703,19 @@ msgstr "İlan Türü Ekle veya Kaldır"
 msgid "Choose from the most used Property Types"
 msgstr "En çok kullanılan emlak tiplerinden birini seçin"
 
-#: includes/custom-post-types/property.php:188 includes/settings/slug.php:14
-msgid "property-type"
-msgstr "gayrimenkul-tipi"
-
 #: includes/custom-post-types/property.php:191
 msgid "property-types"
 msgstr "mülkiyet türleri"
 
 #: includes/custom-post-types/property.php:205
 #: includes/custom-post-types/property.php:219
-#: includes/widgets/property-filters.php:105
+#: includes/widgets/property-filters.php:111
 msgid "Property Locations"
 msgstr "Emlak Lokasyonu"
 
 #: includes/custom-post-types/property.php:206
-#: includes/widgets/property-filters.php:549
+#: includes/widgets/property-filters.php:577
+#: includes/widgets/property-taxonomy-terms-widget.php:104
 msgid "Property Location"
 msgstr "İlan Konumu"
 
@@ -777,10 +768,6 @@ msgstr "Mülk Konumları ekleme veya kaldırma"
 msgid "Choose from the most used Property Locations"
 msgstr "En çok kullanılan Gayrimenkul Yerleri arasından seçim yapın"
 
-#: includes/custom-post-types/property.php:232
-msgid "property-city"
-msgstr "emlak-şehri"
-
 #: includes/custom-post-types/property.php:235
 msgid "property-cities"
 msgstr "mülkiyet şehirler"
@@ -791,8 +778,9 @@ msgstr "Emlak Durumları"
 
 #: includes/custom-post-types/property.php:250
 #: includes/custom-post-types/property.php:263
-#: includes/widgets/property-filters.php:119
-#: includes/widgets/property-filters.php:553
+#: includes/widgets/property-filters.php:125
+#: includes/widgets/property-filters.php:581
+#: includes/widgets/property-taxonomy-terms-widget.php:103
 msgid "Property Status"
 msgstr "İlan Durumu"
 
@@ -844,10 +832,6 @@ msgstr "Emlak Durumu Ekle Veya Kaldır"
 msgid "Choose from the most used Property Status"
 msgstr "En çok kullanılan emlak Kategorilerinden birini seçin"
 
-#: includes/custom-post-types/property.php:276 includes/settings/slug.php:13
-msgid "property-status"
-msgstr "emlak-durumu"
-
 #: includes/custom-post-types/property.php:279
 msgid "property-statuses"
 msgstr "mülkiyet durumları"
@@ -861,31 +845,31 @@ msgid "Property Title"
 msgstr "İlan Başlığı"
 
 #: includes/custom-post-types/property.php:389
-#: includes/widgets/property-filters.php:106
+#: includes/widgets/property-filters.php:112
 msgid "Location"
 msgstr "Konum"
 
 #: includes/custom-post-types/property.php:390
-#: includes/widgets/property-filters.php:92
+#: includes/widgets/property-filters.php:98
 msgid "Type"
 msgstr "Tip"
 
 #: includes/custom-post-types/property.php:391
-#: includes/widgets/property-filters.php:120
+#: includes/widgets/property-filters.php:126
 msgid "Status"
 msgstr "Durum"
 
 #: includes/custom-post-types/property.php:392
-#: includes/shortcodes/vc-map.php:123 includes/widgets/property-filters.php:181
+#: includes/shortcodes/vc-map.php:123 includes/widgets/property-filters.php:187
 msgid "Price"
 msgstr "Fiyat"
 
 #: includes/custom-post-types/property.php:393
 #: includes/custom-post-types/property.php:759
 #: includes/mb/property/basic-metaboxes.php:164
-#: includes/widgets/property-filters.php:364
-#: includes/widgets/property-filters.php:365
-#: includes/widgets/property-filters.php:677
+#: includes/widgets/property-filters.php:370
+#: includes/widgets/property-filters.php:371
+#: includes/widgets/property-filters.php:705
 msgid "Property ID"
 msgstr "İlanın ID'si"
 
@@ -1068,6 +1052,7 @@ msgstr "Tur Tipi"
 #: includes/functions/form-handlers.php:539
 #: includes/functions/form-handlers.php:1227
 #: includes/widgets/contact-form-widget.php:47
+#: includes/widgets/property-taxonomy-terms-widget.php:134
 msgid "Name"
 msgstr "İsim"
 
@@ -1092,19 +1077,23 @@ msgstr ""
 msgid "Share"
 msgstr "Paylaş"
 
-#: includes/functions/basic.php:750 includes/functions/basic.php:922
-#| msgid "View Partner"
+#: includes/functions/basic.php:750 includes/functions/basic.php:966
 msgid "View More"
 msgstr "Daha fazla göster"
 
-#: includes/functions/basic.php:751 includes/functions/basic.php:923
-#| msgid "View Bundles"
+#: includes/functions/basic.php:751 includes/functions/basic.php:967
 msgid "View Less"
 msgstr "Daha Az Göster"
 
-#: includes/functions/basic.php:941
-#| msgctxt "media"
-#| msgid "+ Add Media"
+#: includes/functions/basic.php:839
+msgid "Posts"
+msgstr "Yazılar"
+
+#: includes/functions/basic.php:840
+msgid "Post"
+msgstr "Yazı"
+
+#: includes/functions/basic.php:991
 msgid "+ Add Media"
 msgstr "+ Medya Ekleme"
 
@@ -1288,21 +1277,21 @@ msgid "Both"
 msgstr "Her ikisi de"
 
 #: includes/functions/form-handlers.php:942
-#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/main/inc/fields/select.php:79
 #: includes/mb/meta-box-helper-functions.php:61
 #: includes/mb/meta-box-helper-functions.php:93
 #: includes/mb/property-additional-fields.php:220
-#: includes/mb/property-additional-fields.php:599
-#: includes/mb/property-additional-fields.php:642
-#: includes/mb/property-additional-fields.php:690
-#: includes/mb/property-additional-fields.php:729
-#: includes/mb/property-additional-fields.php:772
-#: includes/mb/property-additional-fields.php:810
+#: includes/mb/property-additional-fields.php:592
+#: includes/mb/property-additional-fields.php:635
+#: includes/mb/property-additional-fields.php:678
+#: includes/mb/property-additional-fields.php:717
+#: includes/mb/property-additional-fields.php:755
+#: includes/mb/property-additional-fields.php:793
 #: includes/mb/property/energy-metaboxes.php:37
 #: includes/mb/property/energy-metaboxes.php:49
 #: includes/widgets/advance-search-widget.php:102
-#: includes/widgets/property-filters.php:412
-#: includes/widgets/property-filters.php:433
+#: includes/widgets/property-filters.php:430
+#: includes/widgets/property-filters.php:456
 msgid "None"
 msgstr "Yok"
 
@@ -1344,7 +1333,7 @@ msgstr "Gayrimenkul kimliği bulunamadı!"
 
 #: includes/functions/form-handlers.php:1183
 msgid "Property Tour is requested by - "
-msgstr ""
+msgstr "Gayrimenkul Turu tarafından talep ediliyor - "
 
 #: includes/functions/form-handlers.php:1206
 msgid "Selected Date"
@@ -1447,7 +1436,7 @@ msgid "[%s] New User Registration"
 msgstr "[%s] Yeni Kullanıcı Kaydı"
 
 #: includes/functions/members.php:167 includes/functions/members.php:205
-#: includes/mb/main/inc/about/sections/welcome.php:14
+#: includes/mb/main/inc/about/sections/welcome.php:8
 #, php-format
 msgid "Welcome to %s"
 msgstr "Hoşgeldiniz %s"
@@ -1547,22 +1536,29 @@ msgstr ""
 msgid "Thanks for Submitting."
 msgstr "İlan Yayınladığınız için teşekkür ederiz."
 
-#: includes/functions/purchase-api.php:117
+#: includes/functions/purchase-api.php:121
 msgid "Please enter an item purchase code."
 msgstr "Lütfen bir ürün satın alma kodu girin."
 
-#: includes/functions/purchase-api.php:140
-msgid "Please provide a valid purchase code!"
-msgstr "Lütfen geçerli bir satın alma kodu sağlayın!"
+#: includes/functions/purchase-api.php:125
+#, fuzzy
+#| msgid "Please enter an item purchase code."
+msgid "Wrong format! Please enter an item purchase code with correct format."
+msgstr "Lütfen bir ürün satın alma kodu girin."
 
-#: includes/functions/purchase-api.php:145
-msgid "Problem in connecting..."
-msgstr "Bağlanmada sorun var ..."
+#: includes/functions/purchase-api.php:152
+#: includes/functions/purchase-api.php:161
+msgid "Something went wrong :("
+msgstr ""
+
+#: includes/functions/purchase-api.php:168
+msgid "Problem in connecting... Please try again in a few minutes!"
+msgstr ""
 
 #: includes/functions/real-estate.php:104
-#: includes/widgets/property-filters.php:367
-#: includes/widgets/property-filters.php:401
-#: includes/widgets/property-filters.php:471
+#: includes/widgets/property-filters.php:373
+#: includes/widgets/property-filters.php:414
+#: includes/widgets/property-filters.php:499
 msgid "Any"
 msgstr "Herhangi"
 
@@ -1609,31 +1605,34 @@ msgid "License Number"
 msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:73
-#: includes/mb/agent-agency-meta-boxes-config.php:249
+#: includes/mb/agent-agency-meta-boxes-config.php:261
 msgid "Address"
 msgstr "Adres"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:80
+#: includes/mb/agent-agency-meta-boxes-config.php:249
 msgid "Mark as Verified"
 msgstr "Doğrulanmadı olarak işaretle"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:85
-#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/agent-agency-meta-boxes-config.php:254
+#: includes/mb/main/inc/fields/checkbox.php:43
 #: includes/mb/property/banner-metaboxes.php:51
 #: includes/mb/property/basic-metaboxes.php:189
 #: includes/mb/property/gallery-metaboxes.php:63
 #: includes/mb/property/location-metaboxes.php:66
 #: includes/mb/property/misc-metaboxes.php:46
 #: includes/mb/property/misc-metaboxes.php:176
-#: includes/mb/templates-meta-boxes-config.php:143
-#: includes/mb/templates-meta-boxes-config.php:153
+#: includes/mb/templates-meta-boxes-config.php:144
+#: includes/mb/templates-meta-boxes-config.php:154
 #: includes/settings/gdpr.php:33 includes/settings/gdpr.php:75
 #: includes/settings/map.php:107 includes/shortcodes/vc-map.php:279
 msgid "Yes"
 msgstr "Evet"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:86
-#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/agent-agency-meta-boxes-config.php:255
+#: includes/mb/main/inc/fields/checkbox.php:43
 #: includes/mb/property/banner-metaboxes.php:52
 #: includes/mb/property/basic-metaboxes.php:190
 #: includes/mb/property/gallery-metaboxes.php:64
@@ -1641,15 +1640,15 @@ msgstr "Evet"
 #: includes/mb/property/location-metaboxes.php:67
 #: includes/mb/property/misc-metaboxes.php:47
 #: includes/mb/property/misc-metaboxes.php:177
-#: includes/mb/templates-meta-boxes-config.php:144
-#: includes/mb/templates-meta-boxes-config.php:154
+#: includes/mb/templates-meta-boxes-config.php:145
+#: includes/mb/templates-meta-boxes-config.php:155
 #: includes/settings/gdpr.php:38 includes/settings/gdpr.php:80
 #: includes/settings/map.php:112 includes/shortcodes/vc-map.php:278
 msgid "No"
 msgstr "Hayır"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:97
-#: includes/mb/agent-agency-meta-boxes-config.php:261
+#: includes/mb/agent-agency-meta-boxes-config.php:273
 msgid "Email Address"
 msgstr "E-posta Adresi"
 
@@ -1678,36 +1677,36 @@ msgid "Select Agency If Any"
 msgstr "Varsa Ajans Seçin"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:131
-#: includes/mb/agent-agency-meta-boxes-config.php:283
+#: includes/mb/agent-agency-meta-boxes-config.php:295
 #: includes/settings/social.php:86
 msgid "Facebook URL"
 msgstr "Facebook URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:138
-#: includes/mb/agent-agency-meta-boxes-config.php:290
+#: includes/mb/agent-agency-meta-boxes-config.php:302
 #: includes/settings/social.php:93
 msgid "Twitter URL"
 msgstr "Twitter URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:145
-#: includes/mb/agent-agency-meta-boxes-config.php:297
+#: includes/mb/agent-agency-meta-boxes-config.php:309
 msgid "LinkedIn URL"
 msgstr "LinkedIn URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:152
-#: includes/mb/agent-agency-meta-boxes-config.php:304
+#: includes/mb/agent-agency-meta-boxes-config.php:316
 #: includes/settings/social.php:106
 msgid "Instagram URL"
 msgstr "Instagram URL'si"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:159
-#: includes/mb/agent-agency-meta-boxes-config.php:311
+#: includes/mb/agent-agency-meta-boxes-config.php:323
 #: includes/settings/social.php:114
 msgid "Pinterest URL"
 msgstr "Pinterest URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:166
-#: includes/mb/agent-agency-meta-boxes-config.php:318
+#: includes/mb/agent-agency-meta-boxes-config.php:330
 msgid "Youtube URL"
 msgstr "Youtube URL"
 
@@ -1715,15 +1714,15 @@ msgstr "Youtube URL"
 msgid "Provide Related Information"
 msgstr "İlgili Bilgileri Sağlayın"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:263
+#: includes/mb/agent-agency-meta-boxes-config.php:275
 msgid "Messages from default agency form will be sent to this address."
 msgstr "Varsayılan ajans formundan gelen iletiler bu adrese gönderilecektir."
 
-#: includes/mb/agent-agency-meta-boxes-config.php:269
+#: includes/mb/agent-agency-meta-boxes-config.php:281
 msgid "Shortcode to Replace Default Agency Form"
 msgstr "Varsayılan Ajans Formunu Değiştirecek Kısa Kod"
 
-#: includes/mb/agent-agency-meta-boxes-config.php:271
+#: includes/mb/agent-agency-meta-boxes-config.php:283
 msgid ""
 "Default agency form can be replaced with custom form using contact form 7 or "
 "WPForms plugin shortcode."
@@ -1770,7 +1769,7 @@ msgid "Are you sure you want to remove this group?"
 msgstr "Bu grubu kaldırmak istediğinizden emin misiniz?"
 
 #: includes/mb/exts/meta-box-group/group-field.php:140
-#: includes/mb/main/inc/fields/file-input.php:45
+#: includes/mb/main/inc/fields/file-input.php:47
 #: includes/settings/social.php:155
 msgid "Remove"
 msgstr "Kaldır"
@@ -1783,41 +1782,32 @@ msgstr "Giriş {#}"
 msgid "Entry"
 msgstr "Giriş"
 
-#: includes/mb/main/inc/about/about.php:54
+#: includes/mb/main/inc/about/about.php:38
 msgid "About"
 msgstr "Hakkında"
 
-#: includes/mb/main/inc/about/about.php:56
+#: includes/mb/main/inc/about/about.php:40
 msgid "Go Pro"
 msgstr "Pro Ol"
 
-#: includes/mb/main/inc/about/about.php:69
-#: includes/mb/main/inc/about/about.php:70
+#: includes/mb/main/inc/about/about.php:50
+#: includes/mb/main/inc/about/about.php:51
+#: includes/mb/main/src/Block/Register.php:12
+#: includes/mb/main/src/Bricks/Register.php:10
+#: includes/mb/main/src/Elementor/Register.php:13
+#: includes/mb/main/src/Oxygen/Register.php:14
 msgid "Meta Box"
 msgstr "Meta Kutusu"
 
-#: includes/mb/main/inc/about/about.php:85
+#: includes/mb/main/inc/about/about.php:63
 msgid "Welcome to Meta Box"
 msgstr "Meta Kutusuna Hoş Geldiniz"
 
-#: includes/mb/main/inc/about/about.php:86
+#: includes/mb/main/inc/about/about.php:64
 msgid "Dashboard"
 msgstr "Kontrol Paneli"
 
-#: includes/mb/main/inc/about/about.php:156
-#, php-format
-msgid ""
-"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" "
-"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a "
-"href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us spread the "
-"word. Thank you from the Meta Box team!"
-msgstr ""
-"Sözcüğü <a href=\"%1$s\" target=\"_blank\">yaymamıza</a> yardımcı olmak için "
-"lütfen <a href=\"%1$s\" target=\"_blank\">WordPress.org&#39;daki</a> "
-"<strong>Meta Kutusu</strong> <a href=\"%1$s\" target=\"_blank\">★★★★★ "
-"oylayın</a> . Meta Box ekibinden teşekkürler!"
-
-#: includes/mb/main/inc/about/sections/extensions.php:11
+#: includes/mb/main/inc/about/sections/extensions.php:5
 msgid ""
 "Extend custom fields in WordPress well beyond what others would ever "
 "consider ordinary!"
@@ -1825,15 +1815,15 @@ msgstr ""
 "WordPress'teki özel alanları, başkalarının sıradan olarak kabul edeceğinin "
 "çok ötesine taşıyın!"
 
-#: includes/mb/main/inc/about/sections/extensions.php:12
+#: includes/mb/main/inc/about/sections/extensions.php:6
 msgid "Save over 80% with our extensions bundles."
 msgstr "Uzantı paketlerimizle% 80'den fazla tasarruf edin."
 
-#: includes/mb/main/inc/about/sections/extensions.php:12
+#: includes/mb/main/inc/about/sections/extensions.php:6
 msgid "View Bundles"
 msgstr "Paketleri Görüntüle"
 
-#: includes/mb/main/inc/about/sections/extensions.php:20
+#: includes/mb/main/inc/about/sections/extensions.php:14
 msgid ""
 "Create and manage custom post types easily in WordPress with an easy-to-use "
 "interface."
@@ -1841,40 +1831,39 @@ msgstr ""
 "Kullanımı kolay bir arayüzle WordPress'de özel yazı türlerini kolayca "
 "oluşturun ve yönetin."
 
-#: includes/mb/main/inc/about/sections/extensions.php:24
-#: includes/mb/main/inc/about/sections/extensions.php:120
+#: includes/mb/main/inc/about/sections/extensions.php:18
+#: includes/mb/main/inc/about/sections/extensions.php:114
 msgid "Free Download"
 msgstr "Ücretsiz indir"
 
-#: includes/mb/main/inc/about/sections/extensions.php:32
+#: includes/mb/main/inc/about/sections/extensions.php:26
 msgid ""
 "Drag and drop your custom fields into place without a single line of code."
 msgstr "Özel alanlarınızı tek bir kod satırı olmadan sürükleyip bırakın."
 
-#: includes/mb/main/inc/about/sections/extensions.php:36
-#: includes/mb/main/inc/about/sections/extensions.php:48
-#: includes/mb/main/inc/about/sections/extensions.php:60
-#: includes/mb/main/inc/about/sections/extensions.php:72
-#: includes/mb/main/inc/about/sections/extensions.php:84
-#: includes/mb/main/inc/about/sections/extensions.php:96
-#: includes/mb/main/inc/about/sections/extensions.php:108
-#: includes/mb/main/inc/about/sections/getting-started.php:23
+#: includes/mb/main/inc/about/sections/extensions.php:30
+#: includes/mb/main/inc/about/sections/extensions.php:42
+#: includes/mb/main/inc/about/sections/extensions.php:54
+#: includes/mb/main/inc/about/sections/extensions.php:66
+#: includes/mb/main/inc/about/sections/extensions.php:78
+#: includes/mb/main/inc/about/sections/extensions.php:90
+#: includes/mb/main/inc/about/sections/extensions.php:102
 msgid "Learn More"
 msgstr "Daha fazla bilgi edin"
 
-#: includes/mb/main/inc/about/sections/extensions.php:44
+#: includes/mb/main/inc/about/sections/extensions.php:38
 msgid ""
 "Create repeatable groups of custom fields for better appearance and "
 "structure."
 msgstr ""
 "Daha iyi görünüm ve yapı için tekrarlanabilir özel alan grupları oluşturun."
 
-#: includes/mb/main/inc/about/sections/extensions.php:56
+#: includes/mb/main/inc/about/sections/extensions.php:50
 msgid "Create a powerful settings page for your theme, plugin or website."
 msgstr ""
 "Temanız, eklentiniz veya web siteniz için güçlü bir ayar sayfası oluşturun."
 
-#: includes/mb/main/inc/about/sections/extensions.php:68
+#: includes/mb/main/inc/about/sections/extensions.php:62
 msgid ""
 "Control the visibility of meta boxes and fields or even HTML elements with "
 "ease."
@@ -1882,7 +1871,7 @@ msgstr ""
 "Meta kutuların ve alanların veya hatta HTML öğelerinin görünürlüğünü "
 "kolaylıkla kontrol edin."
 
-#: includes/mb/main/inc/about/sections/extensions.php:80
+#: includes/mb/main/inc/about/sections/extensions.php:74
 msgid ""
 "Create register, login and edit user profile forms in the frontend. Embed "
 "everywhere with shortcodes."
@@ -1890,7 +1879,7 @@ msgstr ""
 "Ön uçta kayıt oluşturun, giriş yapın ve kullanıcı profili formlarını "
 "düzenleyin. Her yere kısa kodlarla gömün."
 
-#: includes/mb/main/inc/about/sections/extensions.php:92
+#: includes/mb/main/inc/about/sections/extensions.php:86
 msgid ""
 "Create frontend forms for users to submit custom content. Embed everywhere "
 "with shortcode."
@@ -1898,7 +1887,7 @@ msgstr ""
 "Kullanıcıların özel içerik göndermesi için kullanıcı arabirimi formları "
 "oluşturun. Her yere kısa kod ile gömün."
 
-#: includes/mb/main/inc/about/sections/extensions.php:104
+#: includes/mb/main/inc/about/sections/extensions.php:98
 msgid ""
 "Save custom fields data to custom table. Reduce database size and increase "
 "performance."
@@ -1906,20 +1895,96 @@ msgstr ""
 "Özel alan verilerini özel tabloya kaydedin. Veritabanı boyutunu azaltın ve "
 "performansı artırın."
 
-#: includes/mb/main/inc/about/sections/extensions.php:116
+#: includes/mb/main/inc/about/sections/extensions.php:110
 msgid "Create many-to-many relationships between posts, terms and users."
 msgstr ""
 "Yayınlar, terimler ve kullanıcılar arasında çoktan çoğa ilişkiler oluşturun."
 
-#: includes/mb/main/inc/about/sections/extensions.php:124
+#: includes/mb/main/inc/about/sections/extensions.php:118
 msgid "View all extensions"
 msgstr "Tüm uzantıları görüntüle"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:12
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:4
+msgid ""
+"Please follow this video tutorial to get started with Meta Box and "
+"extensions:"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:8
+msgid "Tutorials"
+msgstr "Öğreticiler"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:9
+msgid ""
+"We've made bunches of tutorials that come with videos, let's take a look to "
+"have detailed guides to create custom fields and apply them in real cases."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:11
+msgid "Beginners"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:11
+msgid "Let’s start with some basic practices with Meta Box."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:12
+msgid "Case Studies"
+msgstr "Vaka çalışmaları"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:12
+msgid ""
+"See how to use Meta Box in the real case studies with comprehensive "
+"tutorials."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:13
+msgid "General Guide"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:13
+msgid "See how to use Meta box in common tasks."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:14
+#: includes/mb/main/inc/about/sections/getting-started.php:15
+#: includes/mb/main/inc/about/sections/tabs.php:6
+msgid "Extensions"
+msgstr "Uzantılar"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:14
+msgid ""
+"Learn about Meta Box extensions, what features they offer and how to use "
+"them."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:15
+msgid "Page Builders"
+msgstr "Sayfa Oluşturucular"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:15
+msgid ""
+"Tutorials on combining Meta Box and other builders or tools for real case "
+"studies."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:16
+#, fuzzy
+#| msgid " Views"
+msgid "MB Views"
+msgstr " Görüntülemeler"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:16
+msgid ""
+"Build front-end templates for WordPress without touching theme files. "
+"Support Twig and all field types."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:6
 msgid "Getting Started With Online Generator"
 msgstr "Çevirimiçi Oluşturucu ile Başlarken"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:13
+#: includes/mb/main/inc/about/sections/getting-started.php:7
 msgid ""
 "Online Generator is a free tool to help you create and set up custom fields "
 "using a simple, friendly user interface. With it, you can add fields, set "
@@ -1930,39 +1995,15 @@ msgstr ""
 "araçtır. Bununla birlikte alanlar ekleyebilir, seçenekleri ayarlayabilir ve "
 "kopyalayıp yapıştırmaya hazır gerekli kodu oluşturabilirsiniz."
 
-#: includes/mb/main/inc/about/sections/getting-started.php:15
+#: includes/mb/main/inc/about/sections/getting-started.php:9
 msgid "online generator"
 msgstr "çevrimiçi oluşturucu"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:17
+#: includes/mb/main/inc/about/sections/getting-started.php:11
 msgid "Go to Online Generator"
 msgstr "Çevrimiçi Oluşturucuya Git"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:21
-msgid "Understand The Basics"
-msgstr "Temelleri Anlayın"
-
-#: includes/mb/main/inc/about/sections/getting-started.php:22
-msgid ""
-"Meta Box doesn't have any admin page for configuration or settings. Instead "
-"of that, it provides a very powerful API to speed up the process of creating "
-"meta boxes and custom fields. It might take you a little time at first, but "
-"then you'll love the way it work because it helps you do and customize "
-"almost everything."
-msgstr ""
-"Meta Box yapılandırması veya ayarları için herhangi bir yönetici sayfa yok. "
-"Bunun yerine, meta box'lar ve özel alanlar oluşturma sürecini hızlandırmak "
-"için çok güçlü bir API sağlar. Bu ilk başta biraz zaman alabilir, ama sonra "
-"size çok yardımcı olur ve neredeyse her şeyi özelleştirebildiğiniz zaman "
-"çalışma şeklini seveceksiniz."
-
-#: includes/mb/main/inc/about/sections/getting-started.php:25
-#: includes/mb/main/inc/about/sections/tabs.php:12
-#: includes/mb/main/inc/about/sections/welcome.php:21
-msgid "Extensions"
-msgstr "Uzantılar"
-
-#: includes/mb/main/inc/about/sections/getting-started.php:26
+#: includes/mb/main/inc/about/sections/getting-started.php:16
 msgid ""
 "Wanna see more features that transform your WordPress website into a "
 "powerful CMS? Check out some extensions below:"
@@ -1970,60 +2011,81 @@ msgstr ""
 "WordPress web sitenizi güçlü bir CMS'ye dönüştüren daha fazla özellik görmek "
 "ister misiniz? Aşağıdaki bazı uzantılara göz atın:"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:28
+#: includes/mb/main/inc/about/sections/getting-started.php:18
 msgid "Meta Box Builder"
 msgstr "Meta Kutu Oluşturucu"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:28
+#: includes/mb/main/inc/about/sections/getting-started.php:18
 msgid "Build meta boxes and fields with UI."
 msgstr "Kullanıcı arabirimi ile meta kutular ve alanlar oluşturun."
 
-#: includes/mb/main/inc/about/sections/getting-started.php:29
+#: includes/mb/main/inc/about/sections/getting-started.php:19
 msgid "Meta Box Group"
 msgstr "Meta Kutusu Grubu"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:29
+#: includes/mb/main/inc/about/sections/getting-started.php:19
 msgid "Organize fields into repeatable groups."
 msgstr "Alanları tekrarlanabilir gruplar halinde düzenleyin."
 
-#: includes/mb/main/inc/about/sections/getting-started.php:30
+#: includes/mb/main/inc/about/sections/getting-started.php:20
 msgid "Meta Box Conditional Logic"
 msgstr "Meta Box Koşullu Mantığı"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:30
+#: includes/mb/main/inc/about/sections/getting-started.php:20
 msgid "Control the visibility of fields."
 msgstr "Alanların görünürlüğünü kontrol edin."
 
-#: includes/mb/main/inc/about/sections/getting-started.php:31
+#: includes/mb/main/inc/about/sections/getting-started.php:21
 msgid "MB Settings Page"
 msgstr "MB Ayarlar Sayfası"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:31
+#: includes/mb/main/inc/about/sections/getting-started.php:21
 msgid "Create settings pages/Customizer options."
 msgstr "Ayar sayfaları / Özelleştirici seçenekleri oluşturun."
 
-#: includes/mb/main/inc/about/sections/getting-started.php:33
+#: includes/mb/main/inc/about/sections/getting-started.php:27
 msgid "More Extensions"
 msgstr "Daha Fazla Uzantı"
 
-#: includes/mb/main/inc/about/sections/products.php:12
+#: includes/mb/main/inc/about/sections/products.php:5
 msgid "Our WordPress Products"
 msgstr "WordPress Ürünlerimiz"
 
-#: includes/mb/main/inc/about/sections/products.php:15
+#: includes/mb/main/inc/about/sections/products.php:8
 msgid "Like this plugin? Check out our other WordPress products:"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/products.php:16
+#: includes/mb/main/inc/about/sections/products.php:9
 msgid "Automated & fast SEO plugin for WordPress"
 msgstr "WordPress için otomatik ve hızlı SEO eklentisi"
 
-#: includes/mb/main/inc/about/sections/products.php:17
-msgid "A super fast, lightweight and highly customizable WordPress theme"
-msgstr ""
-"Süper hızlı, hafif ve son derece özelleştirilebilir bir WordPress teması"
+#: includes/mb/main/inc/about/sections/products.php:10
+#, fuzzy
+#| msgid "Automated & fast SEO plugin for WordPress"
+msgid "The best schema plugin for WordPress"
+msgstr "WordPress için otomatik ve hızlı SEO eklentisi"
 
-#: includes/mb/main/inc/about/sections/support.php:18
+#: includes/mb/main/inc/about/sections/products.php:11
+msgid "Simple, elegant and clean WordPress themes"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/review.php:5
+#, fuzzy
+#| msgid "Welcome to Meta Box"
+msgid "Write a review for Meta Box"
+msgstr "Meta Kutusuna Hoş Geldiniz"
+
+#: includes/mb/main/inc/about/sections/review.php:8
+msgid ""
+"If you like Meta Box, please write a review on WordPress.org to help us "
+"spread the word. We really appreciate that!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/review.php:9
+msgid "Write a review"
+msgstr "Bir değerlendirme yazın"
+
+#: includes/mb/main/inc/about/sections/support.php:12
 #, php-format
 msgid ""
 "Still need help with Meta Box? We offer excellent support for you. But don't "
@@ -2032,11 +2094,11 @@ msgstr ""
 "Hala Meta Kutusu konusunda yardıma mı ihtiyacınız var? Size mükemmel destek "
 "sunuyoruz. Ama önce <a href=\"%s\">belgelerimizi</a> kontrol etmeyi unutma."
 
-#: includes/mb/main/inc/about/sections/support.php:23
+#: includes/mb/main/inc/about/sections/support.php:17
 msgid "Free Support"
 msgstr "Ücretsiz Destek"
 
-#: includes/mb/main/inc/about/sections/support.php:24
+#: includes/mb/main/inc/about/sections/support.php:18
 msgid ""
 "If you have any question about how to use the plugin, please open a new "
 "topic on WordPress.org support forum or open a new issue on Github "
@@ -2046,19 +2108,19 @@ msgstr ""
 "WordPress.org destek forumunda veya Github'da (tercih edilir) yeni bir konu "
 "açın. En kısa sürede cevap vermeye çalışacağız."
 
-#: includes/mb/main/inc/about/sections/support.php:25
+#: includes/mb/main/inc/about/sections/support.php:19
 msgid "Go to Github"
 msgstr "Github'a gidin"
 
-#: includes/mb/main/inc/about/sections/support.php:26
+#: includes/mb/main/inc/about/sections/support.php:20
 msgid "Go to WordPress.org"
 msgstr "WordPress.org'a gidin"
 
-#: includes/mb/main/inc/about/sections/support.php:30
+#: includes/mb/main/inc/about/sections/support.php:24
 msgid "Premium Support"
 msgstr "Ayrıcalıklı destek"
 
-#: includes/mb/main/inc/about/sections/support.php:31
+#: includes/mb/main/inc/about/sections/support.php:25
 msgid ""
 "For users that have bought premium extensions, the support is provided in "
 "the Meta Box Support forum. Any question will be answered with technical "
@@ -2068,28 +2130,28 @@ msgstr ""
 "forumunda sağlanır. Herhangi bir soru 24 saat içinde teknik detaylar ile "
 "cevap verilecektir."
 
-#: includes/mb/main/inc/about/sections/support.php:32
+#: includes/mb/main/inc/about/sections/support.php:26
 msgid "Go to support forum"
 msgstr "Destek forumuna git"
 
-#: includes/mb/main/inc/about/sections/tabs.php:10
+#: includes/mb/main/inc/about/sections/tabs.php:4
 msgid "Getting Started"
 msgstr "Başla"
 
-#: includes/mb/main/inc/about/sections/tabs.php:13
-#: includes/mb/main/inc/about/sections/welcome.php:22
+#: includes/mb/main/inc/about/sections/tabs.php:7
+#: includes/mb/main/inc/about/sections/welcome.php:15
 msgid "Support"
 msgstr "Destek"
 
-#: includes/mb/main/inc/about/sections/upgrade.php:10
+#: includes/mb/main/inc/about/sections/upgrade.php:4
 msgid "Upgrade to Meta Box PRO"
 msgstr "Meta Kutusu PRO'ya yükseltin"
 
-#: includes/mb/main/inc/about/sections/upgrade.php:11
+#: includes/mb/main/inc/about/sections/upgrade.php:5
 msgid "Please upgrade to the PRO plan to unlock more awesome features."
 msgstr "Daha harika özelliklerin kilidini açmak için lütfen PRO planına geçin."
 
-#: includes/mb/main/inc/about/sections/upgrade.php:13
+#: includes/mb/main/inc/about/sections/upgrade.php:7
 msgid ""
 "Create custom fields with drag-n-drop interface - no coding knowledge "
 "required!"
@@ -2097,31 +2159,31 @@ msgstr ""
 "Sürükle ve bırak arayüzüyle özel alanlar oluşturun - kodlama bilgisi "
 "gerekmez!"
 
-#: includes/mb/main/inc/about/sections/upgrade.php:14
+#: includes/mb/main/inc/about/sections/upgrade.php:8
 msgid "Add custom fields to taxonomies or user profile."
 msgstr "Sınıflandırmalara veya kullanıcı profiline özel alanlar ekleyin."
 
-#: includes/mb/main/inc/about/sections/upgrade.php:15
+#: includes/mb/main/inc/about/sections/upgrade.php:9
 msgid "Create custom settings pages."
 msgstr "Özel ayarlar sayfaları oluşturun."
 
-#: includes/mb/main/inc/about/sections/upgrade.php:16
+#: includes/mb/main/inc/about/sections/upgrade.php:10
 msgid "Create frontend submission forms."
 msgstr "Kullanıcı formları oluşturun."
 
-#: includes/mb/main/inc/about/sections/upgrade.php:17
+#: includes/mb/main/inc/about/sections/upgrade.php:11
 msgid "Save custom fields in custom tables."
 msgstr "Özel alanları özel tablolara kaydedin."
 
-#: includes/mb/main/inc/about/sections/upgrade.php:18
+#: includes/mb/main/inc/about/sections/upgrade.php:12
 msgid "And much more!"
 msgstr "Ve daha fazlası!"
 
-#: includes/mb/main/inc/about/sections/upgrade.php:20
+#: includes/mb/main/inc/about/sections/upgrade.php:14
 msgid "Get Meta Box PRO now"
 msgstr "Meta Kutusu PRO'yu şimdi edinin"
 
-#: includes/mb/main/inc/about/sections/welcome.php:17
+#: includes/mb/main/inc/about/sections/welcome.php:11
 msgid ""
 "Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
 "plugin and framework that makes quick work of customizing a website with—you "
@@ -2133,299 +2195,323 @@ msgstr ""
 "sitesinin özelleştirilmesi için hızlı çalışmayı sağlayan çerçevedir. "
 "Başlamak için aşağıdaki talimatları izleyin!"
 
-#: includes/mb/main/inc/about/sections/welcome.php:20
+#: includes/mb/main/inc/about/sections/welcome.php:14
 msgid "Documentation"
 msgstr "Dökümantasyon"
 
-#: includes/mb/main/inc/core.php:38
+#: includes/mb/main/inc/about/sections/welcome.php:16
+msgid "Facebook Group"
+msgstr "Facebook Grubu"
+
+#: includes/mb/main/inc/about/sections/welcome.php:17
+msgid "Youtube Channel"
+msgstr "Youtube Kanalı"
+
+#: includes/mb/main/inc/core.php:20
 msgid "Docs"
 msgstr "Dokümanlar"
 
-#: includes/mb/main/inc/field.php:361
+#: includes/mb/main/inc/field.php:309
 msgid "+ Add more"
 msgstr "+ Daha fazla ekle"
 
-#: includes/mb/main/inc/fields/autocomplete.php:23
+#: includes/mb/main/inc/fields/autocomplete.php:13
+#: includes/mb/main/inc/fields/autocomplete.php:73
 #: includes/mb/main/inc/fields/autocomplete.php:85
-#: includes/mb/main/inc/fields/autocomplete.php:97
 msgid "Delete"
 msgstr "Sil"
 
-#: includes/mb/main/inc/fields/background.php:75
+#: includes/mb/main/inc/fields/background.php:60
 msgid "Background Image"
 msgstr "Arka plan görüntüsü"
 
-#: includes/mb/main/inc/fields/background.php:89
+#: includes/mb/main/inc/fields/background.php:72
 msgid "-- Repeat --"
 msgstr "-- Tekrar et --"
 
-#: includes/mb/main/inc/fields/background.php:91
+#: includes/mb/main/inc/fields/background.php:74
 msgid "No Repeat"
 msgstr "Tekrar Yok"
 
-#: includes/mb/main/inc/fields/background.php:92
+#: includes/mb/main/inc/fields/background.php:75
 msgid "Repeat All"
 msgstr "Tümünü Yinele"
 
-#: includes/mb/main/inc/fields/background.php:93
+#: includes/mb/main/inc/fields/background.php:76
 msgid "Repeat Horizontally"
 msgstr "Yatay Tekrarla"
 
-#: includes/mb/main/inc/fields/background.php:94
+#: includes/mb/main/inc/fields/background.php:77
 msgid "Repeat Vertically"
 msgstr "Dikey Tekrarla"
 
-#: includes/mb/main/inc/fields/background.php:95
-#: includes/mb/main/inc/fields/background.php:133
-#: includes/mb/main/inc/fields/background.php:147
+#: includes/mb/main/inc/fields/background.php:78
+#: includes/mb/main/inc/fields/background.php:112
+#: includes/mb/main/inc/fields/background.php:124
 msgid "Inherit"
 msgstr "Devralma"
 
-#: includes/mb/main/inc/fields/background.php:107
+#: includes/mb/main/inc/fields/background.php:88
 msgid "-- Position --"
 msgstr "-- Durum --"
 
-#: includes/mb/main/inc/fields/background.php:109
+#: includes/mb/main/inc/fields/background.php:90
 msgid "Top Left"
 msgstr "Sol Üst"
 
-#: includes/mb/main/inc/fields/background.php:110
+#: includes/mb/main/inc/fields/background.php:91
 msgid "Top Center"
 msgstr "Üst Merkez"
 
-#: includes/mb/main/inc/fields/background.php:111
+#: includes/mb/main/inc/fields/background.php:92
 msgid "Top Right"
 msgstr "Sağ üst"
 
-#: includes/mb/main/inc/fields/background.php:112
+#: includes/mb/main/inc/fields/background.php:93
 msgid "Center Left"
 msgstr "Sol merkez"
 
-#: includes/mb/main/inc/fields/background.php:113
+#: includes/mb/main/inc/fields/background.php:94
 msgid "Center Center"
 msgstr "Merkez"
 
-#: includes/mb/main/inc/fields/background.php:114
+#: includes/mb/main/inc/fields/background.php:95
 msgid "Center Right"
 msgstr "Sağa merkez"
 
-#: includes/mb/main/inc/fields/background.php:115
+#: includes/mb/main/inc/fields/background.php:96
 msgid "Bottom Left"
 msgstr "Sol Alt"
 
-#: includes/mb/main/inc/fields/background.php:116
+#: includes/mb/main/inc/fields/background.php:97
 msgid "Bottom Center"
 msgstr "Alt Merkez"
 
-#: includes/mb/main/inc/fields/background.php:117
+#: includes/mb/main/inc/fields/background.php:98
 msgid "Bottom Right"
 msgstr "Sağ Alt"
 
-#: includes/mb/main/inc/fields/background.php:129
+#: includes/mb/main/inc/fields/background.php:108
 msgid "-- Attachment --"
 msgstr "-- Ek dosya --"
 
-#: includes/mb/main/inc/fields/background.php:131
+#: includes/mb/main/inc/fields/background.php:110
 msgid "Fixed"
 msgstr "Sabit"
 
-#: includes/mb/main/inc/fields/background.php:132
+#: includes/mb/main/inc/fields/background.php:111
 msgid "Scroll"
 msgstr "Kaydırma"
 
-#: includes/mb/main/inc/fields/background.php:145
+#: includes/mb/main/inc/fields/background.php:122
 msgid "-- Size --"
 msgstr "-- Boyut --"
 
-#: includes/mb/main/inc/fields/background.php:148
+#: includes/mb/main/inc/fields/background.php:125
 msgid "Cover"
 msgstr "Kapak"
 
-#: includes/mb/main/inc/fields/background.php:149
+#: includes/mb/main/inc/fields/background.php:126
 msgid "Contain"
 msgstr "İçerik"
 
-#: includes/mb/main/inc/fields/button.php:34
+#: includes/mb/main/inc/fields/button.php:28
 msgid "Click me"
 msgstr "Tıkla"
 
-#: includes/mb/main/inc/fields/file-input.php:23
+#: includes/mb/main/inc/fields/file-input.php:16
 msgid "Select File"
 msgstr "Dosya Seç"
 
-#: includes/mb/main/inc/fields/file-input.php:43
-#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/main/inc/fields/file-input.php:45
+#: includes/mb/main/inc/fields/select.php:79
 #: includes/mb/property-additional-fields.php:135
 msgid "Select"
 msgstr "Seç"
 
-#: includes/mb/main/inc/fields/file.php:24
+#: includes/mb/main/inc/fields/file.php:14
 #, php-format
 msgid "You may only upload maximum %d file"
 msgstr "Yalnızca maksimum %d dosya yükleyebilirsiniz"
 
-#: includes/mb/main/inc/fields/file.php:26
+#: includes/mb/main/inc/fields/file.php:16
 #, php-format
 msgid "You may only upload maximum %d files"
 msgstr "Yalnızca maksimum %d dosya yükleyebilirsiniz"
 
-#: includes/mb/main/inc/fields/file.php:63
+#: includes/mb/main/inc/fields/file.php:47
 msgid "Error: Invalid file"
 msgstr "Hata: Geçersiz dosya"
 
-#: includes/mb/main/inc/fields/file.php:77
+#: includes/mb/main/inc/fields/file.php:60
 msgid "Error: Cannot delete file"
 msgstr "Hata: Dosya silinemiyor"
 
-#: includes/mb/main/inc/fields/file.php:90
+#: includes/mb/main/inc/fields/file.php:85
 msgctxt "file upload"
 msgid "+ Add new file"
 msgstr "+ Yeni dosya ekle"
 
-#: includes/mb/main/inc/fields/file.php:171
+#: includes/mb/main/inc/fields/file.php:165
 msgctxt "file upload"
 msgid "Delete"
 msgstr "Sil"
 
-#: includes/mb/main/inc/fields/file.php:172
+#: includes/mb/main/inc/fields/file.php:166
 msgctxt "file upload"
 msgid "Edit"
 msgstr "Düzenle"
 
-#: includes/mb/main/inc/fields/input-list.php:92
+#: includes/mb/main/inc/fields/input-list.php:82
 msgid "Toggle All"
 msgstr "Tümünü Genişlet"
 
-#: includes/mb/main/inc/fields/key-value.php:135
+#: includes/mb/main/inc/fields/key-value.php:93
 msgid "Key"
 msgstr "Anahtar"
 
-#: includes/mb/main/inc/fields/key-value.php:136
+#: includes/mb/main/inc/fields/key-value.php:94
 #: includes/mb/property/basic-metaboxes.php:212
 msgid "Value"
 msgstr "Değer"
 
-#: includes/mb/main/inc/fields/map.php:55
-#: includes/mb/main/inc/fields/osm.php:28
+#: includes/mb/main/inc/fields/map.php:28
+#: includes/mb/main/inc/fields/osm.php:15
 msgid "No results found"
 msgstr "Sonuç bulunamadı"
 
-#: includes/mb/main/inc/fields/media.php:27
+#: includes/mb/main/inc/fields/media.php:19
 msgctxt "media"
 msgid "+ Add Media"
 msgstr "+ Medya Ekleme"
 
-#: includes/mb/main/inc/fields/media.php:28
+#: includes/mb/main/inc/fields/media.php:20
 msgctxt "media"
 msgid " file"
 msgstr " dosya"
 
-#: includes/mb/main/inc/fields/media.php:29
+#: includes/mb/main/inc/fields/media.php:21
 msgctxt "media"
 msgid " files"
 msgstr " dosyalar"
 
-#: includes/mb/main/inc/fields/media.php:30
+#: includes/mb/main/inc/fields/media.php:22
 msgctxt "media"
 msgid "Remove"
 msgstr "Kaldır"
 
-#: includes/mb/main/inc/fields/media.php:31
+#: includes/mb/main/inc/fields/media.php:23
 msgctxt "media"
 msgid "Edit"
 msgstr "Düzenle"
 
-#: includes/mb/main/inc/fields/media.php:32
+#: includes/mb/main/inc/fields/media.php:24
 msgctxt "media"
 msgid "View"
 msgstr "Görünüm"
 
-#: includes/mb/main/inc/fields/media.php:33
+#: includes/mb/main/inc/fields/media.php:25
 msgctxt "media"
 msgid "No Title"
 msgstr "Başlık Yok"
 
-#: includes/mb/main/inc/fields/media.php:36
+#: includes/mb/main/inc/fields/media.php:28
 msgctxt "media"
 msgid "Select Files"
 msgstr "Dosyaları Seç"
 
-#: includes/mb/main/inc/fields/media.php:37
+#: includes/mb/main/inc/fields/media.php:29
 msgctxt "media"
 msgid "or"
 msgstr "veya"
 
-#: includes/mb/main/inc/fields/media.php:38
+#: includes/mb/main/inc/fields/media.php:30
 msgctxt "media"
 msgid "Drop files here to upload"
 msgstr "Dosyaları yüklemek için bırakın"
 
-#: includes/mb/main/inc/fields/oembed.php:24
+#: includes/mb/main/inc/fields/oembed.php:18
 msgid "Embed HTML not available."
 msgstr "HTML gömme mevcut değil."
 
-#: includes/mb/main/inc/fields/post.php:80
+#: includes/mb/main/inc/fields/post.php:69
 msgid "Select a post"
 msgstr "Bir posta seçin"
 
-#: includes/mb/main/inc/fields/post.php:86
-#: includes/mb/main/inc/fields/taxonomy.php:98
+#: includes/mb/main/inc/fields/post.php:75
+#: includes/mb/main/inc/fields/taxonomy.php:88
 #, php-format
 msgid "Select a %s"
 msgstr "Seçin %s"
 
-#: includes/mb/main/inc/fields/post.php:156
-#: includes/mb/main/inc/fields/taxonomy.php:157
-#: includes/mb/main/inc/fields/user.php:144
+#: includes/mb/main/inc/fields/post.php:136
+#: includes/mb/main/inc/fields/taxonomy.php:133
+#: includes/mb/main/inc/fields/user.php:134
 msgid "(No title)"
 msgstr "(Başlık yok)"
 
-#: includes/mb/main/inc/fields/select-advanced.php:47
+#: includes/mb/main/inc/fields/select-advanced.php:38
 msgid "Select an item"
 msgstr "Bir öğe seçin"
 
-#: includes/mb/main/inc/fields/select.php:92 includes/shortcodes/vc-map.php:97
-#: includes/widgets/property-filters.php:161
-#: includes/widgets/property-filters.php:211
-#: includes/widgets/property-filters.php:282
-#: includes/widgets/property-filters.php:311
-#: includes/widgets/property-filters.php:340
+#: includes/mb/main/inc/fields/select.php:79 includes/shortcodes/vc-map.php:97
+#: includes/widgets/property-filters.php:167
+#: includes/widgets/property-filters.php:217
+#: includes/widgets/property-filters.php:288
+#: includes/widgets/property-filters.php:317
+#: includes/widgets/property-filters.php:346
+#: includes/widgets/property-taxonomy-terms-widget.php:119
 msgid "All"
 msgstr "Tümü"
 
-#: includes/mb/main/inc/fields/sidebar.php:23
+#: includes/mb/main/inc/fields/sidebar.php:10
 msgid "Select a sidebar"
 msgstr "Bir kenar çubuğu seçin"
 
-#: includes/mb/main/inc/fields/switch.php:93
+#: includes/mb/main/inc/fields/switch.php:83
 msgid "On"
 msgstr "Açık"
 
-#: includes/mb/main/inc/fields/switch.php:94
+#: includes/mb/main/inc/fields/switch.php:84
 msgid "Off"
 msgstr "Kapalı"
 
-#: includes/mb/main/inc/fields/taxonomy.php:94
+#: includes/mb/main/inc/fields/taxonomy.php:84
 msgid "Select a term"
 msgstr "Bir dönem seçin"
 
-#: includes/mb/main/inc/fields/user.php:84
-msgid "Select an user"
-msgstr "Bir kullanıcı seçin"
+#: includes/mb/main/inc/fields/user.php:75
+msgid "Select a user"
+msgstr "Bir kullanıcı seç"
 
-#: includes/mb/main/inc/loader.php:119
+#: includes/mb/main/inc/fields/user.php:188
+msgid "Add New User"
+msgstr "Yeni Kullanıcı Ekle"
+
+#: includes/mb/main/inc/loader.php:123
 msgid "Dismiss all Meta Box news"
 msgstr ""
 
-#: includes/mb/main/inc/loader.php:120
+#: includes/mb/main/inc/loader.php:124
 msgid "Are you sure to dismiss all Meta Box news?"
 msgstr ""
 
-#: includes/mb/main/inc/meta-box.php:342
+#: includes/mb/main/inc/meta-box.php:273
 msgid "Meta Box Title"
 msgstr "Meta Kutusu Başlığı"
 
-#: includes/mb/main/inc/update/checker.php:139
+#: includes/mb/main/inc/validation.php:33
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Lütfen vurgulanan hataları düzeltip tekrar deneyin."
+
+#: includes/mb/main/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
+"Meta Box PHP sürüm 5.3+ gerektirir. Yükseltmek için lütfen sunucunuza "
+"başvurun."
+
+#: includes/mb/main/src/Updater/Checker.php:104
 msgid ""
 "UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
 "updates."
@@ -2433,7 +2519,7 @@ msgstr ""
 "GÜNCELLEME KULLANILAMIYOR! Otomatik güncellemeleri etkinleştirmek için "
 "lütfen geçerli bir lisans anahtarı girin."
 
-#: includes/mb/main/inc/update/notification.php:112
+#: includes/mb/main/src/Updater/Notification.php:82
 #, php-format
 msgid ""
 "You have not set your Meta Box license key yet, which means you are missing "
@@ -2445,8 +2531,8 @@ msgstr ""
 "href=\"%1$s\">lisans anahtarınızı girin</a> veya <a href=\"%2$s\" "
 "target=\"_blank\">buraya yeni bir tane alın</a> ."
 
-#: includes/mb/main/inc/update/notification.php:114
-#: includes/mb/main/inc/update/notification.php:116
+#: includes/mb/main/src/Updater/Notification.php:84
+#: includes/mb/main/src/Updater/Notification.php:86
 #, php-format
 msgid ""
 "Your license key for Meta Box is <b>invalid</b>. Please <a "
@@ -2459,7 +2545,7 @@ msgstr ""
 "bir</a> <a href=\"%1$s\">anahtar</a> <a href=\"%2$s\" "
 "target=\"_blank\">alın</a> ."
 
-#: includes/mb/main/inc/update/notification.php:118
+#: includes/mb/main/src/Updater/Notification.php:88
 #, php-format
 msgid ""
 "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
@@ -2470,7 +2556,7 @@ msgstr ""
 "ve premium destek almak <a href=\"%3$s\" target=\"_blank\">için</a> lütfen "
 "<a href=\"%3$s\" target=\"_blank\">lisansınızı yenileyin</a> ."
 
-#: includes/mb/main/inc/update/notification.php:142
+#: includes/mb/main/src/Updater/Notification.php:112
 #, php-format
 msgid ""
 "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
@@ -2479,8 +2565,8 @@ msgstr ""
 "Lütfen <a href=\"%1$s\">lisans anahtarınızı girin</a> veya <a href=\"%2$s\" "
 "target=\"_blank\">buraya yeni bir tane alın</a> ."
 
-#: includes/mb/main/inc/update/notification.php:144
-#: includes/mb/main/inc/update/notification.php:146
+#: includes/mb/main/src/Updater/Notification.php:114
+#: includes/mb/main/src/Updater/Notification.php:116
 #, php-format
 msgid ""
 "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
@@ -2490,7 +2576,7 @@ msgstr ""
 "anahtarınızı güncelleyin</a> veya <a href=\"%2$s\" target=\"_blank\">buradan "
 "yeni bir tane edinin</a> ."
 
-#: includes/mb/main/inc/update/notification.php:148
+#: includes/mb/main/src/Updater/Notification.php:118
 #, php-format
 msgid ""
 "Your license key is <b>expired</b>. Please <a href=\"%3$s\" "
@@ -2499,24 +2585,24 @@ msgstr ""
 "Lisans anahtarınızın <b>süresi doldu</b> . Lütfen <a href=\"%3$s\" "
 "target=\"_blank\">lisansınızı yenileyin</a> ."
 
-#: includes/mb/main/inc/update/notification.php:171
+#: includes/mb/main/src/Updater/Notification.php:134
 msgid "Activate License"
 msgstr "Lisansı Etkinleştir"
 
-#: includes/mb/main/inc/update/notification.php:171
+#: includes/mb/main/src/Updater/Notification.php:134
 msgid "Update License"
 msgstr "Lisansı Güncelle"
 
-#: includes/mb/main/inc/update/settings.php:72
-#: includes/mb/main/inc/update/settings.php:90
+#: includes/mb/main/src/Updater/Settings.php:39
+#: includes/mb/main/src/Updater/Settings.php:54
 msgid "Meta Box License"
 msgstr "Meta Kutu Lisansı"
 
-#: includes/mb/main/inc/update/settings.php:72
+#: includes/mb/main/src/Updater/Settings.php:39
 msgid "License"
 msgstr "Lisans"
 
-#: includes/mb/main/inc/update/settings.php:91
+#: includes/mb/main/src/Updater/Settings.php:55
 msgid ""
 "Please enter your license key to enable automatic updates for Meta Box "
 "extensions."
@@ -2524,7 +2610,7 @@ msgstr ""
 "Meta Kutu uzantıları için otomatik güncellemeleri etkinleştirmek için lütfen "
 "lisans anahtarınızı girin."
 
-#: includes/mb/main/inc/update/settings.php:96
+#: includes/mb/main/src/Updater/Settings.php:60
 #, php-format
 msgid ""
 "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
@@ -2537,34 +2623,30 @@ msgstr ""
 "uzantı satın almadıysanız, lütfen <a href=\"%2$s\" target=\"_blank\">buradan "
 "yeni bir lisans alın</a> ."
 
-#: includes/mb/main/inc/update/settings.php:108
+#: includes/mb/main/src/Updater/Settings.php:72
 msgid "License Key"
 msgstr "Lisans Anahtarı"
 
-#: includes/mb/main/inc/update/settings.php:113
-#: includes/mb/main/inc/update/settings.php:115
-#, php-format
-msgid ""
-"Your license key is <b>invalid</b>. Please update your license key or <a "
-"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
-msgstr ""
-"Lisans anahtarınız <b>geçersiz</b> . Lütfen lisans anahtarınızı güncelleyin "
-"veya <a href=\"%1$s\" target=\"_blank\">buradan yeni bir tane edinin</a> ."
-
-#: includes/mb/main/inc/update/settings.php:117
-#, php-format
-msgid ""
-"Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
-"target=\"_blank\">renew your license</a>."
-msgstr ""
-"Lisans anahtarınızın <b>süresi doldu</b> . Lütfen <a href=\"%2$s\" "
-"target=\"_blank\">lisansınızı yenileyin</a> ."
-
-#: includes/mb/main/inc/update/settings.php:118
-msgid "Your license key is <b>active</b>."
+#: includes/mb/main/src/Updater/Settings.php:76
+#: includes/mb/main/src/Updater/Settings.php:77
+#, fuzzy
+#| msgid "Your license key is <b>active</b>."
+msgid "Your license key is <b style=\"color: #d63638\">invalid</b>."
 msgstr "Lisans anahtarınız <b>etkin</b> ."
 
-#: includes/mb/main/inc/update/settings.php:131
+#: includes/mb/main/src/Updater/Settings.php:78
+#, fuzzy
+#| msgid "Your license key is <b>active</b>."
+msgid "Your license key is <b style=\"color: #d63638\">expired</b>."
+msgstr "Lisans anahtarınız <b>etkin</b> ."
+
+#: includes/mb/main/src/Updater/Settings.php:79
+#, fuzzy
+#| msgid "Your license key is <b>active</b>."
+msgid "Your license key is <b style=\"color: #00a32a\">active</b>."
+msgstr "Lisans anahtarınız <b>etkin</b> ."
+
+#: includes/mb/main/src/Updater/Settings.php:92
 #: includes/settings/captcha.php:79 includes/settings/gdpr.php:89
 #: includes/settings/map.php:200 includes/settings/price.php:301
 #: includes/settings/property-analytics.php:104
@@ -2573,18 +2655,18 @@ msgstr "Lisans anahtarınız <b>etkin</b> ."
 msgid "Save Changes"
 msgstr "Değişiklikleri Kaydet"
 
-#: includes/mb/main/inc/update/settings.php:157
+#: includes/mb/main/src/Updater/Settings.php:123
 msgid ""
 "Something wrong with the connection to metabox.io. Please try again later."
 msgstr ""
 "Metabox.io bağlantısıyla ilgili bir sorun var. Lütfen daha sonra tekrar "
 "deneyiniz."
 
-#: includes/mb/main/inc/update/settings.php:159
+#: includes/mb/main/src/Updater/Settings.php:125
 msgid "Your license is activated."
 msgstr "Lisansınız etkinleştirildi."
 
-#: includes/mb/main/inc/update/settings.php:162
+#: includes/mb/main/src/Updater/Settings.php:128
 #, php-format
 msgid ""
 "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
@@ -2593,7 +2675,7 @@ msgstr ""
 "Lisans süresi doldu. Lütfen metabox.io web sitesindeki <a href=\"%s\" "
 "target=\"_blank\">Hesabım</a> sayfasında yenileyin."
 
-#: includes/mb/main/inc/update/settings.php:168
+#: includes/mb/main/src/Updater/Settings.php:134
 #, php-format
 msgid ""
 "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
@@ -2602,17 +2684,6 @@ msgstr ""
 "Geçersiz lisans. Lütfen <a href=\"%1$s\" target=\"_blank\">tekrar kontrol "
 "edin</a> veya <a href=\"%2$s\" target=\"_blank\">buradan yeni bir lisans "
 "alın</a> ."
-
-#: includes/mb/main/inc/validation.php:43
-msgid "Please correct the errors highlighted below and try again."
-msgstr "Lütfen vurgulanan hataları düzeltip tekrar deneyin."
-
-#: includes/mb/main/meta-box.php:24
-msgid ""
-"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
-msgstr ""
-"Meta Box PHP sürüm 5.3+ gerektirir. Yükseltmek için lütfen sunucunuza "
-"başvurun."
 
 #: includes/mb/meta-box-helper-functions.php:125
 msgid ""
@@ -2723,17 +2794,15 @@ msgid "Property Single Page"
 msgstr "Mülkiyet Tek Sayfa"
 
 #: includes/mb/property-additional-fields.php:162
-#| msgid "Property Single Page"
 msgid "Property Compare Page"
 msgstr ""
 
 #: includes/mb/property-additional-fields.php:163
-#| msgid "Property Single Page"
 msgid "Property Filters Widget"
 msgstr ""
 
 #: includes/mb/property-additional-fields.php:189
-#: includes/widgets/property-filters.php:682
+#: includes/widgets/property-filters.php:710
 msgid "Additional Fields"
 msgstr "İlave Alanlar"
 
@@ -2895,14 +2964,13 @@ msgid "Mark this property as featured ?"
 msgstr "Bu ilanı öne çıkarılan olarak işaretle?"
 
 #: includes/mb/property/basic-metaboxes.php:203
-#: includes/widgets/property-filters.php:382
+#: includes/widgets/property-filters.php:389
 msgid "Additional Details"
 msgstr "Ek Detaylar"
 
 #: includes/mb/property/basic-metaboxes.php:209
 #: includes/mb/property/floorplans-metaboxes.php:40
 #: includes/mb/property/video-metaboxes.php:40
-#| msgid "+ Add more"
 msgid "+ Add More"
 msgstr "Daha ekle"
 
@@ -3245,7 +3313,6 @@ msgid ""
 msgstr ""
 
 #: includes/mb/property/schedule-a-tour.php:48
-#| msgid "Global Default"
 msgid "Global"
 msgstr "Global"
 
@@ -3377,103 +3444,120 @@ msgstr ""
 msgid "Properties Filter Settings"
 msgstr "İlan Filtre Ayarları"
 
-#: includes/mb/templates-meta-boxes-config.php:33
-#: includes/mb/templates-meta-boxes-config.php:196
+#: includes/mb/templates-meta-boxes-config.php:34
+#: includes/mb/templates-meta-boxes-config.php:211
 msgid "Number of Properties Per Page"
 msgstr "Sayfa Başına İlan Sayısı"
 
-#: includes/mb/templates-meta-boxes-config.php:42
+#: includes/mb/templates-meta-boxes-config.php:43
 msgid "Order Properties By"
 msgstr "İlanları Sırala"
 
-#: includes/mb/templates-meta-boxes-config.php:45
+#: includes/mb/templates-meta-boxes-config.php:46
 msgid "Global Default"
 msgstr "Global varsayılan"
 
-#: includes/mb/templates-meta-boxes-config.php:46
-#| msgid "Property Title"
+#: includes/mb/templates-meta-boxes-config.php:47
 msgid "Property Title - A to Z"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:47
-#| msgid "Property Title"
+#: includes/mb/templates-meta-boxes-config.php:48
 msgid "Property Title - Z to A"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:48
+#: includes/mb/templates-meta-boxes-config.php:49
 msgid "Date New to Old"
 msgstr "Eski Tarihten Yeniye"
 
-#: includes/mb/templates-meta-boxes-config.php:49
+#: includes/mb/templates-meta-boxes-config.php:50
 msgid "Date Old to New"
 msgstr "Tarih Eskiden Yeniye"
 
-#: includes/mb/templates-meta-boxes-config.php:50
+#: includes/mb/templates-meta-boxes-config.php:51
 msgid "Price Low to High"
 msgstr "Düşük Fiyattan Yüksek Fiyata"
 
-#: includes/mb/templates-meta-boxes-config.php:51
+#: includes/mb/templates-meta-boxes-config.php:52
 msgid "Price High to Low"
 msgstr "Yüksek Fiyattan Düşük Fiyata"
 
-#: includes/mb/templates-meta-boxes-config.php:59
-#: includes/mb/templates-meta-boxes-config.php:205
+#: includes/mb/templates-meta-boxes-config.php:60
+#: includes/mb/templates-meta-boxes-config.php:220
 #: includes/shortcodes/vc-map.php:144
 msgid "Locations"
 msgstr "Konumlar"
 
-#: includes/mb/templates-meta-boxes-config.php:68
-#: includes/mb/templates-meta-boxes-config.php:214
+#: includes/mb/templates-meta-boxes-config.php:69
+#: includes/mb/templates-meta-boxes-config.php:229
 #: includes/shortcodes/vc-map.php:151
 msgid "Statuses"
 msgstr "Durumlar"
 
-#: includes/mb/templates-meta-boxes-config.php:77
-#: includes/mb/templates-meta-boxes-config.php:223
+#: includes/mb/templates-meta-boxes-config.php:78
+#: includes/mb/templates-meta-boxes-config.php:238
 #: includes/shortcodes/vc-map.php:158
 msgid "Types"
 msgstr "Tipler"
 
-#: includes/mb/templates-meta-boxes-config.php:86
-#: includes/mb/templates-meta-boxes-config.php:232
+#: includes/mb/templates-meta-boxes-config.php:87
+#: includes/mb/templates-meta-boxes-config.php:247
 #: includes/shortcodes/vc-map.php:285
 msgid "Features"
 msgstr "Özellikler"
 
-#: includes/mb/templates-meta-boxes-config.php:95
+#: includes/mb/templates-meta-boxes-config.php:96
 msgid "Minimum Beds"
 msgstr "Minimum Oda"
 
-#: includes/mb/templates-meta-boxes-config.php:104
+#: includes/mb/templates-meta-boxes-config.php:105
 msgid "Minimum Baths"
 msgstr "Minimum Banyo"
 
-#: includes/mb/templates-meta-boxes-config.php:113
+#: includes/mb/templates-meta-boxes-config.php:114
 #: includes/shortcodes/vc-map.php:243
 msgid "Minimum Price"
 msgstr "Minimum Fiyat"
 
-#: includes/mb/templates-meta-boxes-config.php:122
+#: includes/mb/templates-meta-boxes-config.php:123
 #: includes/shortcodes/vc-map.php:251
 msgid "Maximum Price"
 msgstr "Maksimum Fiyat"
 
-#: includes/mb/templates-meta-boxes-config.php:130
+#: includes/mb/templates-meta-boxes-config.php:131
 msgid "Properties by Agents"
 msgstr "Danışmanın İlanları"
 
-#: includes/mb/templates-meta-boxes-config.php:140
+#: includes/mb/templates-meta-boxes-config.php:141
 msgid "Disable AJAX Pagination"
 msgstr "AJAX Sayfalandırmayı Devre Dışı Bırak"
 
-#: includes/mb/templates-meta-boxes-config.php:150
+#: includes/mb/templates-meta-boxes-config.php:151
 #: includes/shortcodes/vc-map.php:275
 msgid "Display Only Featured Properties"
 msgstr "Yalnızca Öne Çıkan Özellikleri Görüntüle"
 
-#: includes/mb/templates-meta-boxes-config.php:182
+#: includes/mb/templates-meta-boxes-config.php:183
 msgid "Properties Gallery Filter Settings"
 msgstr "Özellikler Galerisi Filtre Ayarları"
+
+#: includes/mb/templates-meta-boxes-config.php:197
+msgid "Number of Columns"
+msgstr "Sütun sayısı"
+
+#: includes/mb/templates-meta-boxes-config.php:202
+#: includes/settings/price.php:70
+msgid "2"
+msgstr "2"
+
+#: includes/mb/templates-meta-boxes-config.php:203
+#: includes/settings/price.php:71
+msgid "3"
+msgstr "3"
+
+#: includes/mb/templates-meta-boxes-config.php:204
+#: includes/settings/price.php:72
+msgid "4"
+msgstr "4"
 
 #: includes/settings/captcha.php:22
 msgid "For spam protection on agent and contact forms!"
@@ -3597,7 +3681,6 @@ msgid "Localize Google Maps"
 msgstr "Google Haritalar'ı yerelleştirin"
 
 #: includes/settings/map.php:118
-#| msgid "Google Maps"
 msgid "Google Map Type"
 msgstr "Google Haritalar Türü"
 
@@ -3693,18 +3776,6 @@ msgstr "0"
 #: includes/settings/price.php:69
 msgid "1"
 msgstr "1"
-
-#: includes/settings/price.php:70
-msgid "2"
-msgstr "2"
-
-#: includes/settings/price.php:71
-msgid "3"
-msgstr "3"
-
-#: includes/settings/price.php:72
-msgid "4"
-msgstr "4"
 
 #: includes/settings/price.php:73
 msgid "5"
@@ -3840,9 +3911,25 @@ msgstr "Bu sayfaya erişmek için yeterli izniniz yok."
 msgid "Version  %s"
 msgstr "Sürüm %s"
 
+#: includes/settings/slug.php:7
+msgid "property"
+msgstr "emlak"
+
 #: includes/settings/slug.php:12
 msgid "property-location"
 msgstr "property-location"
+
+#: includes/settings/slug.php:13
+msgid "property-status"
+msgstr "emlak-durumu"
+
+#: includes/settings/slug.php:14
+msgid "property-type"
+msgstr "gayrimenkul-tipi"
+
+#: includes/settings/slug.php:15
+msgid "property-feature"
+msgstr "emlak-özelliği"
 
 #: includes/settings/slug.php:31
 msgid "Important Note for URL Slugs"
@@ -4094,6 +4181,7 @@ msgid "Order By"
 msgstr "Sırala"
 
 #: includes/shortcodes/vc-map.php:128
+#: includes/widgets/property-taxonomy-terms-widget.php:150
 msgid "Order"
 msgstr "Sipariş"
 
@@ -4109,7 +4197,7 @@ msgstr "Artan"
 msgid "Minimum Bedrooms"
 msgstr "Min. Oda"
 
-#: includes/shortcodes/vc-map.php:183 includes/widgets/property-filters.php:645
+#: includes/shortcodes/vc-map.php:183 includes/widgets/property-filters.php:673
 msgid "Maximum Bedrooms"
 msgstr "Max. Oda"
 
@@ -4117,7 +4205,7 @@ msgstr "Max. Oda"
 msgid "Minimum Bathrooms"
 msgstr "Minimum Banyo"
 
-#: includes/shortcodes/vc-map.php:222 includes/widgets/property-filters.php:657
+#: includes/shortcodes/vc-map.php:222 includes/widgets/property-filters.php:685
 msgid "Maximum Bathrooms"
 msgstr "Maksimum Banyo"
 
@@ -4248,6 +4336,7 @@ msgstr ""
 #: includes/widgets/agents-list-widget.php:171
 #: includes/widgets/featured-properties-widget.php:270
 #: includes/widgets/properties-widget.php:307
+#: includes/widgets/property-taxonomy-terms-widget.php:94
 #: includes/widgets/property-types-widget.php:82
 msgid "Widget Title"
 msgstr "Widget Başlığı"
@@ -4498,7 +4587,7 @@ msgid "Ago "
 msgstr ""
 
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:22
-#: includes/widgets/property-filters.php:232
+#: includes/widgets/property-filters.php:238
 #: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:25
 msgid "Area"
 msgstr "Alan"
@@ -4534,7 +4623,9 @@ msgstr "Sahibi"
 
 #: includes/widgets/mortgage-calculator-widget.php:24
 #: includes/widgets/ultra-mortgage-calculator-widget.php:24
-msgid "Realhomes - Mortgage Calculator"
+#, fuzzy
+#| msgid "Realhomes - Mortgage Calculator"
+msgid "RealHomes - Mortgage Calculator"
 msgstr "Realhomes - Mortgage Hesaplayıcı"
 
 #: includes/widgets/mortgage-calculator-widget.php:25
@@ -4621,7 +4712,6 @@ msgid "Property Feature:"
 msgstr "Özellik Özelliği:"
 
 #: includes/widgets/property-filters.php:17
-#| msgid "RealHomes - Properties"
 msgid "RealHomes - Properties Filter Widget"
 msgstr ""
 
@@ -4631,159 +4721,206 @@ msgid ""
 "criteria for property listings templates."
 msgstr ""
 
-#: includes/widgets/property-filters.php:68
-#: includes/widgets/property-filters.php:72
+#: includes/widgets/property-filters.php:74
+#: includes/widgets/property-filters.php:78
 msgid "Note:"
 msgstr "Not:"
 
-#: includes/widgets/property-filters.php:68
+#: includes/widgets/property-filters.php:74
 msgid ""
 "The properties filters widget is specifically designed to work with "
 "properties listing templates and cannot be used on other types of pages."
 msgstr ""
 
-#: includes/widgets/property-filters.php:72
+#: includes/widgets/property-filters.php:78
 msgid ""
 "Advance Search is already enabled in the header. For the filters to work you "
 "need to disable the header search form as they do not work simultaneously."
 msgstr ""
 
-#: includes/widgets/property-filters.php:80
-#| msgid "Repeat All"
+#: includes/widgets/property-filters.php:86
 msgid "Open All"
 msgstr "Hepsini aç"
 
-#: includes/widgets/property-filters.php:83
-#| msgid "Toggle All"
+#: includes/widgets/property-filters.php:89
 msgid "Collapse All"
 msgstr "Tümünü Daralt"
 
-#: includes/widgets/property-filters.php:134
-#| msgid "Featured"
+#: includes/widgets/property-filters.php:140
 msgid "Feature"
 msgstr "Özellik"
 
-#: includes/widgets/property-filters.php:164
-#: includes/widgets/property-filters.php:578
+#: includes/widgets/property-filters.php:170
+#: includes/widgets/property-filters.php:606
 msgid "Price Ranges"
 msgstr ""
 
-#: includes/widgets/property-filters.php:214
-#: includes/widgets/property-filters.php:593
-#| msgid "Save Changes"
+#: includes/widgets/property-filters.php:220
+#: includes/widgets/property-filters.php:621
 msgid "Area Ranges"
 msgstr ""
 
-#: includes/widgets/property-filters.php:277
-#| msgid "Minimum Bedrooms"
+#: includes/widgets/property-filters.php:283
 msgid "Min Bedrooms"
 msgstr ""
 
-#: includes/widgets/property-filters.php:278
-#| msgid "Minimum Beds"
+#: includes/widgets/property-filters.php:284
 msgid "Min Beds"
 msgstr "Minimum Odalar"
 
-#: includes/widgets/property-filters.php:306
-#| msgid "Minimum Bathrooms"
+#: includes/widgets/property-filters.php:312
 msgid "Min Bathrooms"
 msgstr ""
 
-#: includes/widgets/property-filters.php:307
-#| msgid "Minimum Baths"
+#: includes/widgets/property-filters.php:313
 msgid "Min Baths"
 msgstr "Minimum Banyolar"
 
-#: includes/widgets/property-filters.php:335
-#: includes/widgets/property-filters.php:336
-#| msgid "Garage"
+#: includes/widgets/property-filters.php:341
+#: includes/widgets/property-filters.php:342
 msgid "Min Garages"
 msgstr "Minimum Garajlar"
 
-#: includes/widgets/property-filters.php:509
-#| msgid "Other Properties"
+#: includes/widgets/property-filters.php:537
 msgid "Filter Properties"
 msgstr "Filtre Özellikleri"
 
-#: includes/widgets/property-filters.php:541
+#: includes/widgets/property-filters.php:569
 msgid "Show/Hide Taxonomies"
 msgstr ""
 
-#: includes/widgets/property-filters.php:562
+#: includes/widgets/property-filters.php:590
 msgid "Hide Empty Taxonomies"
 msgstr "Boş Taksonomları Gizle"
 
-#: includes/widgets/property-filters.php:564
+#: includes/widgets/property-filters.php:592
 msgid "True"
 msgstr "Doğru"
 
-#: includes/widgets/property-filters.php:565
+#: includes/widgets/property-filters.php:593
 msgid "False"
 msgstr "Yanlış"
 
-#: includes/widgets/property-filters.php:570
-#| msgid "Checkbox List"
+#: includes/widgets/property-filters.php:598
 msgid "Checkboxes View Limit"
 msgstr ""
 
-#: includes/widgets/property-filters.php:583
+#: includes/widgets/property-filters.php:611
 msgid "Custom Price Ranges (optional)"
 msgstr ""
 
-#: includes/widgets/property-filters.php:585
+#: includes/widgets/property-filters.php:613
 msgid ""
 "Leave this area empty for default values. Put each range in new line in the "
 "given format. ( i.e. 5000 - 10000 )"
 msgstr ""
 
-#: includes/widgets/property-filters.php:598
+#: includes/widgets/property-filters.php:626
 msgid "Custom Area Ranges (optional)"
 msgstr ""
 
-#: includes/widgets/property-filters.php:600
+#: includes/widgets/property-filters.php:628
 msgid ""
 "Leave this area empty for default values. Put each range in new line in the "
 "given format. ( i.e. 200 - 400 )"
 msgstr ""
 
-#: includes/widgets/property-filters.php:605
-#| msgid "Area"
+#: includes/widgets/property-filters.php:633
 msgid "Area Unit"
 msgstr "Alan Birimi"
 
-#: includes/widgets/property-filters.php:613
+#: includes/widgets/property-filters.php:641
 msgid "Agent Options"
 msgstr "Danışman Ayarları"
 
-#: includes/widgets/property-filters.php:617
-#: includes/widgets/property-filters.php:630
-#| msgid "Field Type"
+#: includes/widgets/property-filters.php:645
+#: includes/widgets/property-filters.php:658
 msgid "Display Type"
 msgstr "Ekran tipi"
 
-#: includes/widgets/property-filters.php:626
+#: includes/widgets/property-filters.php:654
 msgid "Agency Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:641
-#| msgid "Field Options"
+#: includes/widgets/property-filters.php:669
 msgid "Bedroom Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:653
-#| msgid "Bathrooms"
+#: includes/widgets/property-filters.php:681
 msgid "Bathroom Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:665
-#| msgid "Field Options"
+#: includes/widgets/property-filters.php:693
 msgid "Garage Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:669
-#| msgid "Maximum Area"
+#: includes/widgets/property-filters.php:697
 msgid "Maximum Garages"
 msgstr ""
+
+#: includes/widgets/property-taxonomy-terms-widget.php:26
+#, fuzzy
+#| msgid "This widget displays a list of Property Types."
+msgid "This widget displays a list of terms for selected property taxonomy."
+msgstr "Bu widget, Mülkiyet Türlerinin bir listesini görüntüler."
+
+#: includes/widgets/property-taxonomy-terms-widget.php:29
+#, fuzzy
+#| msgid "RealHomes - Property Types"
+msgid "RealHomes - Property Taxonomy Terms"
+msgstr "Mozaik Emlak - Emlak Tipi"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:48
+#, fuzzy
+#| msgid "Property Taxes"
+msgid "Property Taxonomy Terms"
+msgstr "Mülkiyet vergisi"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:80
+msgid "Taxonomy Terms"
+msgstr "Taksonomi Terimleri"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:98
+#, fuzzy
+#| msgid "Search Property Types"
+msgid "Select Property Taxonomy"
+msgstr "Emlak Tipi Ara"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:117
+#, fuzzy
+#| msgid "Number of Decimals Points"
+msgid "Number of terms to show"
+msgstr "Ondalıklar Nokta Sayısı"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:130
+#, fuzzy
+#| msgid "Order By"
+msgid "Terms Order By"
+msgstr "Sırala"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:135
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:136
+msgid "Term Group"
+msgstr "Dönem Grubu"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:137
+msgid "Term ID"
+msgstr "Terim kimliği"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:138
+msgid "Term Order"
+msgstr "Dönem siparişi"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:152
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:153
+msgid "DESC"
+msgstr "AZALAN"
 
 #: includes/widgets/property-types-widget.php:26
 msgid "This widget displays a list of Property Types."
@@ -4829,108 +4966,6 @@ msgstr "Oluştur"
 msgid "Other Dues"
 msgstr ""
 
-#: node_modules/yargs-parser/index.js:302
-#, javascript-format
-msgid "Not enough arguments following: %s"
-msgstr "Aşağıdaki yeterli bağımsız değişken yok: %s"
-
-#: node_modules/yargs-parser/index.js:450
-#, javascript-format
-msgid "Invalid JSON config file: %s"
-msgstr "Geçersiz JSON yapılandırma dosyası: %s"
-
-#: node_modules/yargs/lib/usage.js:169
-msgid "Commands:"
-msgstr "Komutlar:"
-
-#: node_modules/yargs/lib/usage.js:177 node_modules/yargs/lib/usage.js:407
-#| msgid "Default"
-msgid "default:"
-msgstr ""
-
-#: node_modules/yargs/lib/usage.js:179
-msgid "aliases:"
-msgstr "takma:"
-
-#: node_modules/yargs/lib/usage.js:241
-msgid "boolean"
-msgstr "boolean"
-
-#: node_modules/yargs/lib/usage.js:242
-msgid "count"
-msgstr "saymak"
-
-#: node_modules/yargs/lib/usage.js:243 node_modules/yargs/lib/usage.js:244
-msgid "string"
-msgstr "dizi metni"
-
-#: node_modules/yargs/lib/usage.js:245
-msgid "array"
-msgstr "dizi"
-
-#: node_modules/yargs/lib/usage.js:246
-#| msgid "Phone Number"
-msgid "number"
-msgstr "numara"
-
-#: node_modules/yargs/lib/usage.js:250
-msgid "required"
-msgstr "gerekli"
-
-#: node_modules/yargs/lib/usage.js:251
-msgid "choices:"
-msgstr "seçimler:"
-
-#: node_modules/yargs/lib/usage.js:270
-#| msgid "Example: 4"
-msgid "Examples:"
-msgstr "Örnekler:"
-
-#: node_modules/yargs/lib/usage.js:385
-msgid "generated-value"
-msgstr "üretilen-değer"
-
-#: node_modules/yargs/lib/validation.js:26
-#: node_modules/yargs/lib/validation.js:49
-#, javascript-format
-msgid "Not enough non-option arguments: got %s, need at least %s"
-msgstr ""
-"Yeterli olmayan seçenek bağımsız değişkenleri: %s var, en az %s gerekiyor"
-
-#: node_modules/yargs/lib/validation.js:37
-#, javascript-format
-msgid "Too many non-option arguments: got %s, maximum of %s"
-msgstr "Çok fazla seçenek olmayan bağımsız değişken var: %s, en fazla %s"
-
-#: node_modules/yargs/lib/validation.js:185
-#| msgid "Invalid Email"
-msgid "Invalid values:"
-msgstr "Geçersiz değerler:"
-
-#: node_modules/yargs/lib/validation.js:188
-#, javascript-format
-msgid "Argument: %s, Given: %s, Choices: %s"
-msgstr "Bağımsız değişken: %s, verilen: %s, seçimler: %s"
-
-#: node_modules/yargs/lib/validation.js:218
-#, javascript-format
-msgid "Argument check failed: %s"
-msgstr "Bağımsız değişken denetimi başarısız oldu: %s"
-
-#: node_modules/yargs/lib/validation.js:283
-msgid "Implications failed:"
-msgstr "Etkiler başarısız oldu:"
-
-#: node_modules/yargs/lib/validation.js:313
-#, javascript-format
-msgid "Arguments %s and %s are mutually exclusive"
-msgstr "%s ve %s bağımsız değişkenleri birbirini dışlar"
-
-#: node_modules/yargs/lib/validation.js:332
-#, javascript-format
-msgid "Did you mean %s?"
-msgstr "%s mi demek istediniz?"
-
 #. Plugin URI of the plugin/theme
 msgid ""
 "http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
@@ -4943,6 +4978,139 @@ msgstr "RealHomes teması için emlak işlevselliği sağlar."
 #. Author URI of the plugin/theme
 msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
 msgstr "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
+
+#~ msgid "property-city"
+#~ msgstr "emlak-şehri"
+
+#~ msgid "Please provide a valid purchase code!"
+#~ msgstr "Lütfen geçerli bir satın alma kodu sağlayın!"
+
+#~ msgid "Problem in connecting..."
+#~ msgstr "Bağlanmada sorun var ..."
+
+#, php-format
+#~ msgid ""
+#~ "Please rate <strong>Meta Box</strong> <a href=\"%1$s\" "
+#~ "target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a "
+#~ "href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us spread the "
+#~ "word. Thank you from the Meta Box team!"
+#~ msgstr ""
+#~ "Sözcüğü <a href=\"%1$s\" target=\"_blank\">yaymamıza</a> yardımcı olmak "
+#~ "için lütfen <a href=\"%1$s\" target=\"_blank\">WordPress.org&#39;daki</a> "
+#~ "<strong>Meta Kutusu</strong> <a href=\"%1$s\" target=\"_blank\">★★★★★ "
+#~ "oylayın</a> . Meta Box ekibinden teşekkürler!"
+
+#~ msgid "Understand The Basics"
+#~ msgstr "Temelleri Anlayın"
+
+#~ msgid ""
+#~ "Meta Box doesn't have any admin page for configuration or settings. "
+#~ "Instead of that, it provides a very powerful API to speed up the process "
+#~ "of creating meta boxes and custom fields. It might take you a little time "
+#~ "at first, but then you'll love the way it work because it helps you do "
+#~ "and customize almost everything."
+#~ msgstr ""
+#~ "Meta Box yapılandırması veya ayarları için herhangi bir yönetici sayfa "
+#~ "yok. Bunun yerine, meta box'lar ve özel alanlar oluşturma sürecini "
+#~ "hızlandırmak için çok güçlü bir API sağlar. Bu ilk başta biraz zaman "
+#~ "alabilir, ama sonra size çok yardımcı olur ve neredeyse her şeyi "
+#~ "özelleştirebildiğiniz zaman çalışma şeklini seveceksiniz."
+
+#~ msgid "A super fast, lightweight and highly customizable WordPress theme"
+#~ msgstr ""
+#~ "Süper hızlı, hafif ve son derece özelleştirilebilir bir WordPress teması"
+
+#, php-format
+#~ msgid ""
+#~ "Your license key is <b>invalid</b>. Please update your license key or <a "
+#~ "href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+#~ msgstr ""
+#~ "Lisans anahtarınız <b>geçersiz</b> . Lütfen lisans anahtarınızı "
+#~ "güncelleyin veya <a href=\"%1$s\" target=\"_blank\">buradan yeni bir tane "
+#~ "edinin</a> ."
+
+#, php-format
+#~ msgid ""
+#~ "Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
+#~ "target=\"_blank\">renew your license</a>."
+#~ msgstr ""
+#~ "Lisans anahtarınızın <b>süresi doldu</b> . Lütfen <a href=\"%2$s\" "
+#~ "target=\"_blank\">lisansınızı yenileyin</a> ."
+
+#, javascript-format
+#~ msgid "Not enough arguments following: %s"
+#~ msgstr "Aşağıdaki yeterli bağımsız değişken yok: %s"
+
+#, javascript-format
+#~ msgid "Invalid JSON config file: %s"
+#~ msgstr "Geçersiz JSON yapılandırma dosyası: %s"
+
+#~ msgid "Commands:"
+#~ msgstr "Komutlar:"
+
+#~ msgid "aliases:"
+#~ msgstr "takma:"
+
+#~ msgid "boolean"
+#~ msgstr "boolean"
+
+#~ msgid "count"
+#~ msgstr "saymak"
+
+#~ msgid "string"
+#~ msgstr "dizi metni"
+
+#~ msgid "array"
+#~ msgstr "dizi"
+
+#~| msgid "Phone Number"
+#~ msgid "number"
+#~ msgstr "numara"
+
+#~ msgid "required"
+#~ msgstr "gerekli"
+
+#~ msgid "choices:"
+#~ msgstr "seçimler:"
+
+#~| msgid "Example: 4"
+#~ msgid "Examples:"
+#~ msgstr "Örnekler:"
+
+#~ msgid "generated-value"
+#~ msgstr "üretilen-değer"
+
+#, javascript-format
+#~ msgid "Not enough non-option arguments: got %s, need at least %s"
+#~ msgstr ""
+#~ "Yeterli olmayan seçenek bağımsız değişkenleri: %s var, en az %s gerekiyor"
+
+#, javascript-format
+#~ msgid "Too many non-option arguments: got %s, maximum of %s"
+#~ msgstr "Çok fazla seçenek olmayan bağımsız değişken var: %s, en fazla %s"
+
+#~| msgid "Invalid Email"
+#~ msgid "Invalid values:"
+#~ msgstr "Geçersiz değerler:"
+
+#, javascript-format
+#~ msgid "Argument: %s, Given: %s, Choices: %s"
+#~ msgstr "Bağımsız değişken: %s, verilen: %s, seçimler: %s"
+
+#, javascript-format
+#~ msgid "Argument check failed: %s"
+#~ msgstr "Bağımsız değişken denetimi başarısız oldu: %s"
+
+#~ msgid "Implications failed:"
+#~ msgstr "Etkiler başarısız oldu:"
+
+#, javascript-format
+#~ msgid "Arguments %s and %s are mutually exclusive"
+#~ msgstr "%s ve %s bağımsız değişkenleri birbirini dışlar"
+
+#, javascript-format
+#~ msgid "Did you mean %s?"
+#~ msgstr "%s mi demek istediniz?"
 
 #~ msgid "Default Map"
 #~ msgstr "Standart Harita"

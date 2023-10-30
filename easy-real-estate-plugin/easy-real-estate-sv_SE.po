@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Easy Real Estate\n"
-"POT-Creation-Date: 2023-04-12 00:08+0500\n"
-"PO-Revision-Date: 2023-05-02 08:54+0500\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-10-30 09:37+0500\n"
 "Last-Translator: Usman Ali Qureshi <usman@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: sv_SE\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
 "X-Poedit-WPHeader: easy-real-estate.php\n"
@@ -22,84 +22,84 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SearchPathExcluded-1: node_modules\n"
 
-#: easy-real-estate.php:276 includes/mb/property/basic-metaboxes.php:211
+#: easy-real-estate.php:283 includes/mb/property/basic-metaboxes.php:211
 #: includes/mb/property/video-metaboxes.php:54 includes/settings/social.php:140
-#: includes/widgets/property-filters.php:535
+#: includes/widgets/property-filters.php:563
 #: includes/widgets/rh-contact-information-widget.php:128
 msgid "Title"
 msgstr "Titel"
 
-#: easy-real-estate.php:277 includes/settings/social.php:145
+#: easy-real-estate.php:284 includes/settings/social.php:145
 msgid "Profile URL"
 msgstr ""
 
-#: easy-real-estate.php:278 includes/settings/social.php:149
+#: easy-real-estate.php:285 includes/settings/social.php:149
 msgid "Icon Class"
 msgstr ""
 
-#: easy-real-estate.php:279
+#: easy-real-estate.php:286
 msgid "Example: fas fa-flicker"
 msgstr ""
 
-#: easy-real-estate.php:280
+#: easy-real-estate.php:287
 msgid "Get icon!"
 msgstr ""
 
-#: easy-real-estate.php:345
+#: easy-real-estate.php:352
 msgid "Property Views"
 msgstr ""
 
-#: easy-real-estate.php:360
+#: easy-real-estate.php:367
 msgid "Price Format"
 msgstr "Prisformat"
 
-#: easy-real-estate.php:361
+#: easy-real-estate.php:368
 msgid "URL Slugs"
 msgstr ""
 
-#: easy-real-estate.php:362
+#: easy-real-estate.php:369
 msgid "Maps"
 msgstr "Kartor"
 
-#: easy-real-estate.php:363
+#: easy-real-estate.php:370
 msgid "reCAPTCHA"
 msgstr "reCAPTCHA"
 
-#: easy-real-estate.php:364 includes/mb/agent-agency-meta-boxes-config.php:24
+#: easy-real-estate.php:371 includes/mb/agent-agency-meta-boxes-config.php:24
 #: includes/mb/agent-agency-meta-boxes-config.php:206
 msgid "Social"
 msgstr "Socialt"
 
-#: easy-real-estate.php:365
+#: easy-real-estate.php:372
 msgid "GDPR"
 msgstr "GDPR"
 
-#: easy-real-estate.php:366 includes/custom-post-types/property.php:23
+#: easy-real-estate.php:373 includes/custom-post-types/property.php:23
 #: includes/mb/property-meta-boxes-config.php:57
 msgid "Property"
 msgstr "Fastighet"
 
-#: easy-real-estate.php:367
+#: easy-real-estate.php:374
 msgid "Property Analytics"
 msgstr ""
 
-#: easy-real-estate.php:368
+#: easy-real-estate.php:375
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: easy-real-estate.php:468
+#: easy-real-estate.php:475
 msgid "Settings saved successfully!"
 msgstr "Inställningar sparade!"
 
-#: easy-real-estate.php:477
+#: easy-real-estate.php:484
 msgid "Cloning is forbidden!"
 msgstr ""
 
-#: easy-real-estate.php:484
+#: easy-real-estate.php:491
 msgid "Unserializing is forbidden!"
 msgstr "Unserializing är förbjudet!"
 
-#: easy-real-estate.php:531
+#: easy-real-estate.php:538
 #, php-format
 msgid ""
 "%sEasy Real Estate%s detected the following plugins that may create "
@@ -127,7 +127,7 @@ msgstr "Nytt Objekt"
 #: includes/admin-menu/class-ere-admin-menu.php:80
 #: includes/admin-menu/class-ere-admin-menu.php:81
 #: includes/custom-post-types/agency.php:15
-#: includes/widgets/property-filters.php:264
+#: includes/widgets/property-filters.php:272
 msgid "Agencies"
 msgstr "Fastighetsbyrå"
 
@@ -137,7 +137,7 @@ msgstr "Fastighetsbyrå"
 #: includes/mb/property/agent-metaboxes.php:47
 #: includes/widgets/agents-list-widget.php:34
 #: includes/widgets/agents-list-widget.php:162
-#: includes/widgets/property-filters.php:250
+#: includes/widgets/property-filters.php:258
 msgid "Agents"
 msgstr "Mäklare"
 
@@ -171,7 +171,7 @@ msgstr "Byrå"
 #: includes/custom-post-types/agency.php:16
 #: includes/custom-post-types/agency.php:42
 #: includes/custom-post-types/agency.php:184
-#: includes/widgets/property-filters.php:265
+#: includes/widgets/property-filters.php:274
 msgid "Agency"
 msgstr "Byrå"
 
@@ -285,52 +285,42 @@ msgstr ""
 
 #: includes/custom-post-types/agency.php:111
 #: includes/custom-post-types/agency.php:125
-#| msgid "Locations"
 msgid "Agency Locations"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:112
-#| msgid "Location"
 msgid "Agency Location"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:113
-#| msgid "Search Agency"
 msgid "Search Agency Locations"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:114
-#| msgid "Property Location"
 msgid "Popular Agency Locations"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:115
-#| msgid "Locations"
 msgid "All Agency Locations"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:116
-#| msgid "Property Location"
 msgid "Parent Agency Location"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:117
-#| msgid "Property Location"
 msgid "Parent Agency Location:"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:118
-#| msgid "Edit Agent"
 msgid "Edit Agency Location"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:119
-#| msgid "Property Location"
 msgid "Update Agency Location"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:120
-#| msgid "Add New Agency"
 msgid "Add New Agency Location"
 msgstr ""
 
@@ -351,12 +341,10 @@ msgid "Choose from the most used Agency Locations"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:138 includes/settings/slug.php:11
-#| msgid "Location"
 msgid "agency-location"
 msgstr ""
 
 #: includes/custom-post-types/agency.php:141
-#| msgid "Locations"
 msgid "agency-locations"
 msgstr ""
 
@@ -395,7 +383,7 @@ msgstr ""
 
 #: includes/custom-post-types/agent.php:21
 #: includes/custom-post-types/agent.php:170 includes/shortcodes/vc-map.php:137
-#: includes/widgets/property-filters.php:251
+#: includes/widgets/property-filters.php:260
 msgid "Agent"
 msgstr "Mäklare"
 
@@ -437,57 +425,46 @@ msgstr ""
 
 #: includes/custom-post-types/agent.php:97
 #: includes/custom-post-types/agent.php:111
-#| msgid "Locations"
 msgid "Agent Locations"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:98
-#| msgid "Agent Information"
 msgid "Agent Location"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:99
-#| msgid "Search Agent"
 msgid "Search Agent Locations"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:100
-#| msgid "Property Location"
 msgid "Popular Agent Locations"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:101
-#| msgid "Agent Information"
 msgid "All Agent Locations"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:102
-#| msgid "Property Location"
 msgid "Parent Agent Location"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:103
-#| msgid "Property Location"
 msgid "Parent Agent Location:"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:104
-#| msgid "Edit Agent"
 msgid "Edit Agent Location"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:105
-#| msgid "Property Location"
 msgid "Update Agent Location"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:106
-#| msgid "Add New Agent"
 msgid "Add New Agent Location"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:107
-#| msgid "Agent Information"
 msgid "New Agent Location Name"
 msgstr ""
 
@@ -504,12 +481,10 @@ msgid "Choose from the most used Agent Locations"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:124 includes/settings/slug.php:9
-#| msgid "Agent Information"
 msgid "agent-location"
 msgstr ""
 
 #: includes/custom-post-types/agent.php:127
-#| msgid "Locations"
 msgid "agent-locations"
 msgstr ""
 
@@ -602,18 +577,15 @@ msgstr ""
 msgid "Parent Property"
 msgstr "Överordnad fastighet"
 
-#: includes/custom-post-types/property.php:58 includes/settings/slug.php:7
-msgid "property"
-msgstr "fastighet"
-
 #: includes/custom-post-types/property.php:117
 #: includes/custom-post-types/property.php:131
-#: includes/widgets/property-filters.php:133
-#: includes/widgets/property-filters.php:558
+#: includes/widgets/property-filters.php:139
+#: includes/widgets/property-filters.php:586
 msgid "Property Features"
 msgstr "Egenskaper"
 
 #: includes/custom-post-types/property.php:118
+#: includes/widgets/property-taxonomy-terms-widget.php:105
 msgid "Property Feature"
 msgstr ""
 
@@ -665,24 +637,21 @@ msgstr ""
 msgid "Choose from the most used Property Features"
 msgstr ""
 
-#: includes/custom-post-types/property.php:144 includes/settings/slug.php:15
-msgid "property-feature"
-msgstr ""
-
 #: includes/custom-post-types/property.php:147
 msgid "property-features"
 msgstr ""
 
 #: includes/custom-post-types/property.php:161
 #: includes/custom-post-types/property.php:175
-#: includes/widgets/property-filters.php:91
+#: includes/widgets/property-filters.php:97
 #: includes/widgets/property-types-widget.php:49
 #: includes/widgets/property-types-widget.php:76
 msgid "Property Types"
 msgstr ""
 
 #: includes/custom-post-types/property.php:162
-#: includes/widgets/property-filters.php:544
+#: includes/widgets/property-filters.php:572
+#: includes/widgets/property-taxonomy-terms-widget.php:102
 msgid "Property Type"
 msgstr "Fastighetstyp"
 
@@ -735,22 +704,19 @@ msgstr ""
 msgid "Choose from the most used Property Types"
 msgstr ""
 
-#: includes/custom-post-types/property.php:188 includes/settings/slug.php:14
-msgid "property-type"
-msgstr ""
-
 #: includes/custom-post-types/property.php:191
 msgid "property-types"
 msgstr ""
 
 #: includes/custom-post-types/property.php:205
 #: includes/custom-post-types/property.php:219
-#: includes/widgets/property-filters.php:105
+#: includes/widgets/property-filters.php:111
 msgid "Property Locations"
 msgstr ""
 
 #: includes/custom-post-types/property.php:206
-#: includes/widgets/property-filters.php:549
+#: includes/widgets/property-filters.php:577
+#: includes/widgets/property-taxonomy-terms-widget.php:104
 msgid "Property Location"
 msgstr "Fastighetens läge på Google Map"
 
@@ -803,10 +769,6 @@ msgstr ""
 msgid "Choose from the most used Property Locations"
 msgstr ""
 
-#: includes/custom-post-types/property.php:232
-msgid "property-city"
-msgstr ""
-
 #: includes/custom-post-types/property.php:235
 msgid "property-cities"
 msgstr ""
@@ -817,8 +779,9 @@ msgstr ""
 
 #: includes/custom-post-types/property.php:250
 #: includes/custom-post-types/property.php:263
-#: includes/widgets/property-filters.php:119
-#: includes/widgets/property-filters.php:553
+#: includes/widgets/property-filters.php:125
+#: includes/widgets/property-filters.php:581
+#: includes/widgets/property-taxonomy-terms-widget.php:103
 msgid "Property Status"
 msgstr "Objekt Status"
 
@@ -870,10 +833,6 @@ msgstr ""
 msgid "Choose from the most used Property Status"
 msgstr ""
 
-#: includes/custom-post-types/property.php:276 includes/settings/slug.php:13
-msgid "property-status"
-msgstr ""
-
 #: includes/custom-post-types/property.php:279
 msgid "property-statuses"
 msgstr ""
@@ -887,36 +846,35 @@ msgid "Property Title"
 msgstr "Fastighetens namn"
 
 #: includes/custom-post-types/property.php:389
-#: includes/widgets/property-filters.php:106
+#: includes/widgets/property-filters.php:112
 msgid "Location"
 msgstr "Plats"
 
 #: includes/custom-post-types/property.php:390
-#: includes/widgets/property-filters.php:92
+#: includes/widgets/property-filters.php:98
 msgid "Type"
 msgstr "Typ"
 
 #: includes/custom-post-types/property.php:391
-#: includes/widgets/property-filters.php:120
+#: includes/widgets/property-filters.php:126
 msgid "Status"
 msgstr "Status"
 
 #: includes/custom-post-types/property.php:392
-#: includes/shortcodes/vc-map.php:123 includes/widgets/property-filters.php:181
+#: includes/shortcodes/vc-map.php:123 includes/widgets/property-filters.php:187
 msgid "Price"
 msgstr "Pris"
 
 #: includes/custom-post-types/property.php:393
 #: includes/custom-post-types/property.php:759
 #: includes/mb/property/basic-metaboxes.php:164
-#: includes/widgets/property-filters.php:364
-#: includes/widgets/property-filters.php:365
-#: includes/widgets/property-filters.php:677
+#: includes/widgets/property-filters.php:370
+#: includes/widgets/property-filters.php:371
+#: includes/widgets/property-filters.php:705
 msgid "Property ID"
 msgstr "Objektets ID"
 
 #: includes/custom-post-types/property.php:399
-#| msgid "Last Name"
 msgid "Last 1 Week"
 msgstr ""
 
@@ -1087,7 +1045,6 @@ msgid "Date/Time"
 msgstr "Datum/tid"
 
 #: includes/functions/basic.php:578 includes/functions/form-handlers.php:1220
-#| msgid "Property Type"
 msgid "Tour Type"
 msgstr ""
 
@@ -1096,6 +1053,7 @@ msgstr ""
 #: includes/functions/form-handlers.php:539
 #: includes/functions/form-handlers.php:1227
 #: includes/widgets/contact-form-widget.php:47
+#: includes/widgets/property-taxonomy-terms-widget.php:134
 msgid "Name"
 msgstr "Namn"
 
@@ -1120,19 +1078,23 @@ msgstr ""
 msgid "Share"
 msgstr "Dela"
 
-#: includes/functions/basic.php:750 includes/functions/basic.php:922
-#| msgid "View Partner"
+#: includes/functions/basic.php:750 includes/functions/basic.php:966
 msgid "View More"
 msgstr "Visa mer"
 
-#: includes/functions/basic.php:751 includes/functions/basic.php:923
-#| msgid "View Bundles"
+#: includes/functions/basic.php:751 includes/functions/basic.php:967
 msgid "View Less"
 msgstr "Visa mindre"
 
-#: includes/functions/basic.php:941
-#| msgctxt "media"
-#| msgid "+ Add Media"
+#: includes/functions/basic.php:839
+msgid "Posts"
+msgstr "Inlägg"
+
+#: includes/functions/basic.php:840
+msgid "Post"
+msgstr "Inlägg"
+
+#: includes/functions/basic.php:991
 msgid "+ Add Media"
 msgstr "+ Lägg till media"
 
@@ -1239,7 +1201,6 @@ msgid "Security Issue"
 msgstr ""
 
 #: includes/functions/form-handlers.php:660
-#| msgid "Email"
 msgid "Email Error"
 msgstr ""
 
@@ -1252,7 +1213,6 @@ msgid "Invalid Email"
 msgstr "Ogiltig E-postadress"
 
 #: includes/functions/form-handlers.php:674
-#| msgid "Provided Email address is invalid!"
 msgid "Provided email address is invalid!"
 msgstr ""
 
@@ -1265,7 +1225,6 @@ msgid "User Feedback"
 msgstr "Användarfeedback"
 
 #: includes/functions/form-handlers.php:741
-#| msgid "Send Message"
 msgid "User Message"
 msgstr ""
 
@@ -1283,7 +1242,6 @@ msgstr ""
 
 #: includes/functions/form-handlers.php:806
 #: includes/functions/form-handlers.php:1308
-#| msgid "Bad request"
 msgid "Invalid Request!"
 msgstr ""
 
@@ -1320,21 +1278,21 @@ msgid "Both"
 msgstr "Båda"
 
 #: includes/functions/form-handlers.php:942
-#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/main/inc/fields/select.php:79
 #: includes/mb/meta-box-helper-functions.php:61
 #: includes/mb/meta-box-helper-functions.php:93
 #: includes/mb/property-additional-fields.php:220
-#: includes/mb/property-additional-fields.php:599
-#: includes/mb/property-additional-fields.php:642
-#: includes/mb/property-additional-fields.php:690
-#: includes/mb/property-additional-fields.php:729
-#: includes/mb/property-additional-fields.php:772
-#: includes/mb/property-additional-fields.php:810
+#: includes/mb/property-additional-fields.php:592
+#: includes/mb/property-additional-fields.php:635
+#: includes/mb/property-additional-fields.php:678
+#: includes/mb/property-additional-fields.php:717
+#: includes/mb/property-additional-fields.php:755
+#: includes/mb/property-additional-fields.php:793
 #: includes/mb/property/energy-metaboxes.php:37
 #: includes/mb/property/energy-metaboxes.php:49
 #: includes/widgets/advance-search-widget.php:102
-#: includes/widgets/property-filters.php:412
-#: includes/widgets/property-filters.php:433
+#: includes/widgets/property-filters.php:430
+#: includes/widgets/property-filters.php:456
 msgid "None"
 msgstr "Ingen"
 
@@ -1371,7 +1329,6 @@ msgid "Footer Link Color"
 msgstr "Sidfotens länkfärg"
 
 #: includes/functions/form-handlers.php:1150
-#| msgid "No Properties Found!"
 msgid "Property ID is not found!"
 msgstr ""
 
@@ -1384,7 +1341,6 @@ msgid "Selected Date"
 msgstr "Valt datum"
 
 #: includes/functions/form-handlers.php:1213
-#| msgid "Select File"
 msgid "Selected Time"
 msgstr ""
 
@@ -1481,7 +1437,7 @@ msgid "[%s] New User Registration"
 msgstr "[%s] Ny användarregistrering"
 
 #: includes/functions/members.php:167 includes/functions/members.php:205
-#: includes/mb/main/inc/about/sections/welcome.php:14
+#: includes/mb/main/inc/about/sections/welcome.php:8
 #, php-format
 msgid "Welcome to %s"
 msgstr "Välkommen till %s"
@@ -1580,22 +1536,27 @@ msgstr ""
 msgid "Thanks for Submitting."
 msgstr ""
 
-#: includes/functions/purchase-api.php:117
+#: includes/functions/purchase-api.php:121
 msgid "Please enter an item purchase code."
 msgstr ""
 
-#: includes/functions/purchase-api.php:140
-msgid "Please provide a valid purchase code!"
+#: includes/functions/purchase-api.php:125
+msgid "Wrong format! Please enter an item purchase code with correct format."
 msgstr ""
 
-#: includes/functions/purchase-api.php:145
-msgid "Problem in connecting..."
+#: includes/functions/purchase-api.php:152
+#: includes/functions/purchase-api.php:161
+msgid "Something went wrong :("
+msgstr ""
+
+#: includes/functions/purchase-api.php:168
+msgid "Problem in connecting... Please try again in a few minutes!"
 msgstr ""
 
 #: includes/functions/real-estate.php:104
-#: includes/widgets/property-filters.php:367
-#: includes/widgets/property-filters.php:401
-#: includes/widgets/property-filters.php:471
+#: includes/widgets/property-filters.php:373
+#: includes/widgets/property-filters.php:414
+#: includes/widgets/property-filters.php:499
 msgid "Any"
 msgstr "Alla"
 
@@ -1638,36 +1599,38 @@ msgid "Website"
 msgstr "Webbplats"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:66
-#| msgid "Office Number"
 msgid "License Number"
 msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:73
-#: includes/mb/agent-agency-meta-boxes-config.php:249
+#: includes/mb/agent-agency-meta-boxes-config.php:261
 msgid "Address"
 msgstr "Adress"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:80
+#: includes/mb/agent-agency-meta-boxes-config.php:249
 msgid "Mark as Verified"
 msgstr "Markera som verifierad"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:85
-#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/agent-agency-meta-boxes-config.php:254
+#: includes/mb/main/inc/fields/checkbox.php:43
 #: includes/mb/property/banner-metaboxes.php:51
 #: includes/mb/property/basic-metaboxes.php:189
 #: includes/mb/property/gallery-metaboxes.php:63
 #: includes/mb/property/location-metaboxes.php:66
 #: includes/mb/property/misc-metaboxes.php:46
 #: includes/mb/property/misc-metaboxes.php:176
-#: includes/mb/templates-meta-boxes-config.php:143
-#: includes/mb/templates-meta-boxes-config.php:153
+#: includes/mb/templates-meta-boxes-config.php:144
+#: includes/mb/templates-meta-boxes-config.php:154
 #: includes/settings/gdpr.php:33 includes/settings/gdpr.php:75
 #: includes/settings/map.php:107 includes/shortcodes/vc-map.php:279
 msgid "Yes"
 msgstr "Ja"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:86
-#: includes/mb/main/inc/fields/checkbox.php:53
+#: includes/mb/agent-agency-meta-boxes-config.php:255
+#: includes/mb/main/inc/fields/checkbox.php:43
 #: includes/mb/property/banner-metaboxes.php:52
 #: includes/mb/property/basic-metaboxes.php:190
 #: includes/mb/property/gallery-metaboxes.php:64
@@ -1675,15 +1638,15 @@ msgstr "Ja"
 #: includes/mb/property/location-metaboxes.php:67
 #: includes/mb/property/misc-metaboxes.php:47
 #: includes/mb/property/misc-metaboxes.php:177
-#: includes/mb/templates-meta-boxes-config.php:144
-#: includes/mb/templates-meta-boxes-config.php:154
+#: includes/mb/templates-meta-boxes-config.php:145
+#: includes/mb/templates-meta-boxes-config.php:155
 #: includes/settings/gdpr.php:38 includes/settings/gdpr.php:80
 #: includes/settings/map.php:112 includes/shortcodes/vc-map.php:278
 msgid "No"
 msgstr "Nej"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:97
-#: includes/mb/agent-agency-meta-boxes-config.php:261
+#: includes/mb/agent-agency-meta-boxes-config.php:273
 msgid "Email Address"
 msgstr "E-postadress"
 
@@ -1708,36 +1671,36 @@ msgid "Select Agency If Any"
 msgstr ""
 
 #: includes/mb/agent-agency-meta-boxes-config.php:131
-#: includes/mb/agent-agency-meta-boxes-config.php:283
+#: includes/mb/agent-agency-meta-boxes-config.php:295
 #: includes/settings/social.php:86
 msgid "Facebook URL"
 msgstr "Facebook URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:138
-#: includes/mb/agent-agency-meta-boxes-config.php:290
+#: includes/mb/agent-agency-meta-boxes-config.php:302
 #: includes/settings/social.php:93
 msgid "Twitter URL"
 msgstr "Twitter URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:145
-#: includes/mb/agent-agency-meta-boxes-config.php:297
+#: includes/mb/agent-agency-meta-boxes-config.php:309
 msgid "LinkedIn URL"
 msgstr "LinkedIn URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:152
-#: includes/mb/agent-agency-meta-boxes-config.php:304
+#: includes/mb/agent-agency-meta-boxes-config.php:316
 #: includes/settings/social.php:106
 msgid "Instagram URL"
 msgstr "Instagram URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:159
-#: includes/mb/agent-agency-meta-boxes-config.php:311
+#: includes/mb/agent-agency-meta-boxes-config.php:323
 #: includes/settings/social.php:114
 msgid "Pinterest URL"
 msgstr "Pinterest URL"
 
 #: includes/mb/agent-agency-meta-boxes-config.php:166
-#: includes/mb/agent-agency-meta-boxes-config.php:318
+#: includes/mb/agent-agency-meta-boxes-config.php:330
 msgid "Youtube URL"
 msgstr "Youtube URL"
 
@@ -1745,15 +1708,15 @@ msgstr "Youtube URL"
 msgid "Provide Related Information"
 msgstr ""
 
-#: includes/mb/agent-agency-meta-boxes-config.php:263
+#: includes/mb/agent-agency-meta-boxes-config.php:275
 msgid "Messages from default agency form will be sent to this address."
 msgstr ""
 
-#: includes/mb/agent-agency-meta-boxes-config.php:269
+#: includes/mb/agent-agency-meta-boxes-config.php:281
 msgid "Shortcode to Replace Default Agency Form"
 msgstr ""
 
-#: includes/mb/agent-agency-meta-boxes-config.php:271
+#: includes/mb/agent-agency-meta-boxes-config.php:283
 msgid ""
 "Default agency form can be replaced with custom form using contact form 7 or "
 "WPForms plugin shortcode."
@@ -1795,7 +1758,7 @@ msgid "Are you sure you want to remove this group?"
 msgstr ""
 
 #: includes/mb/exts/meta-box-group/group-field.php:140
-#: includes/mb/main/inc/fields/file-input.php:45
+#: includes/mb/main/inc/fields/file-input.php:47
 #: includes/settings/social.php:155
 msgid "Remove"
 msgstr "Ta bort"
@@ -1808,163 +1771,209 @@ msgstr "Post {#}"
 msgid "Entry"
 msgstr "Post"
 
-#: includes/mb/main/inc/about/about.php:54
+#: includes/mb/main/inc/about/about.php:38
 msgid "About"
 msgstr "Om"
 
-#: includes/mb/main/inc/about/about.php:56
+#: includes/mb/main/inc/about/about.php:40
 msgid "Go Pro"
 msgstr "Skaffa Pro"
 
-#: includes/mb/main/inc/about/about.php:69
-#: includes/mb/main/inc/about/about.php:70
+#: includes/mb/main/inc/about/about.php:50
+#: includes/mb/main/inc/about/about.php:51
+#: includes/mb/main/src/Block/Register.php:12
+#: includes/mb/main/src/Bricks/Register.php:10
+#: includes/mb/main/src/Elementor/Register.php:13
+#: includes/mb/main/src/Oxygen/Register.php:14
 msgid "Meta Box"
 msgstr "Meta box"
 
-#: includes/mb/main/inc/about/about.php:85
+#: includes/mb/main/inc/about/about.php:63
 msgid "Welcome to Meta Box"
 msgstr "Välkommen till Meta Box"
 
-#: includes/mb/main/inc/about/about.php:86
+#: includes/mb/main/inc/about/about.php:64
 msgid "Dashboard"
 msgstr "Kontrollpanel"
 
-#: includes/mb/main/inc/about/about.php:156
-#, php-format
-msgid ""
-"Please rate <strong>Meta Box</strong> <a href=\"%1$s\" "
-"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a "
-"href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us spread the "
-"word. Thank you from the Meta Box team!"
-msgstr ""
-
-#: includes/mb/main/inc/about/sections/extensions.php:11
+#: includes/mb/main/inc/about/sections/extensions.php:5
 msgid ""
 "Extend custom fields in WordPress well beyond what others would ever "
 "consider ordinary!"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:12
+#: includes/mb/main/inc/about/sections/extensions.php:6
 msgid "Save over 80% with our extensions bundles."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:12
+#: includes/mb/main/inc/about/sections/extensions.php:6
 msgid "View Bundles"
 msgstr "Visa kopplade paket"
 
-#: includes/mb/main/inc/about/sections/extensions.php:20
+#: includes/mb/main/inc/about/sections/extensions.php:14
 msgid ""
 "Create and manage custom post types easily in WordPress with an easy-to-use "
 "interface."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:24
-#: includes/mb/main/inc/about/sections/extensions.php:120
+#: includes/mb/main/inc/about/sections/extensions.php:18
+#: includes/mb/main/inc/about/sections/extensions.php:114
 msgid "Free Download"
 msgstr "Fri Nerladdning"
 
-#: includes/mb/main/inc/about/sections/extensions.php:32
+#: includes/mb/main/inc/about/sections/extensions.php:26
 msgid ""
 "Drag and drop your custom fields into place without a single line of code."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:36
-#: includes/mb/main/inc/about/sections/extensions.php:48
-#: includes/mb/main/inc/about/sections/extensions.php:60
-#: includes/mb/main/inc/about/sections/extensions.php:72
-#: includes/mb/main/inc/about/sections/extensions.php:84
-#: includes/mb/main/inc/about/sections/extensions.php:96
-#: includes/mb/main/inc/about/sections/extensions.php:108
-#: includes/mb/main/inc/about/sections/getting-started.php:23
+#: includes/mb/main/inc/about/sections/extensions.php:30
+#: includes/mb/main/inc/about/sections/extensions.php:42
+#: includes/mb/main/inc/about/sections/extensions.php:54
+#: includes/mb/main/inc/about/sections/extensions.php:66
+#: includes/mb/main/inc/about/sections/extensions.php:78
+#: includes/mb/main/inc/about/sections/extensions.php:90
+#: includes/mb/main/inc/about/sections/extensions.php:102
 msgid "Learn More"
 msgstr "Läs mer"
 
-#: includes/mb/main/inc/about/sections/extensions.php:44
+#: includes/mb/main/inc/about/sections/extensions.php:38
 msgid ""
 "Create repeatable groups of custom fields for better appearance and "
 "structure."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:56
+#: includes/mb/main/inc/about/sections/extensions.php:50
 msgid "Create a powerful settings page for your theme, plugin or website."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:68
+#: includes/mb/main/inc/about/sections/extensions.php:62
 msgid ""
 "Control the visibility of meta boxes and fields or even HTML elements with "
 "ease."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:80
+#: includes/mb/main/inc/about/sections/extensions.php:74
 msgid ""
 "Create register, login and edit user profile forms in the frontend. Embed "
 "everywhere with shortcodes."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:92
+#: includes/mb/main/inc/about/sections/extensions.php:86
 msgid ""
 "Create frontend forms for users to submit custom content. Embed everywhere "
 "with shortcode."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:104
+#: includes/mb/main/inc/about/sections/extensions.php:98
 msgid ""
 "Save custom fields data to custom table. Reduce database size and increase "
 "performance."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:116
+#: includes/mb/main/inc/about/sections/extensions.php:110
 msgid "Create many-to-many relationships between posts, terms and users."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/extensions.php:124
+#: includes/mb/main/inc/about/sections/extensions.php:118
 msgid "View all extensions"
 msgstr "Visa alla utökningar"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:12
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:4
+msgid ""
+"Please follow this video tutorial to get started with Meta Box and "
+"extensions:"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:8
+msgid "Tutorials"
+msgstr "Handledningar"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:9
+msgid ""
+"We've made bunches of tutorials that come with videos, let's take a look to "
+"have detailed guides to create custom fields and apply them in real cases."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:11
+msgid "Beginners"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:11
+msgid "Let’s start with some basic practices with Meta Box."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:12
+msgid "Case Studies"
+msgstr "Kundcase"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:12
+msgid ""
+"See how to use Meta Box in the real case studies with comprehensive "
+"tutorials."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:13
+msgid "General Guide"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:13
+msgid "See how to use Meta box in common tasks."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:14
+#: includes/mb/main/inc/about/sections/getting-started.php:15
+#: includes/mb/main/inc/about/sections/tabs.php:6
+msgid "Extensions"
+msgstr "Tillägg"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:14
+msgid ""
+"Learn about Meta Box extensions, what features they offer and how to use "
+"them."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:15
+msgid "Page Builders"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:15
+msgid ""
+"Tutorials on combining Meta Box and other builders or tools for real case "
+"studies."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:16
+#, fuzzy
+#| msgid " Views"
+msgid "MB Views"
+msgstr " Visningar"
+
+#: includes/mb/main/inc/about/sections/getting-started-pro.php:16
+msgid ""
+"Build front-end templates for WordPress without touching theme files. "
+"Support Twig and all field types."
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/getting-started.php:6
 msgid "Getting Started With Online Generator"
 msgstr "Komma igång med online-generator"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:13
+#: includes/mb/main/inc/about/sections/getting-started.php:7
 msgid ""
 "Online Generator is a free tool to help you create and set up custom fields "
 "using a simple, friendly user interface. With it, you can add fields, set "
 "options and generate needed code that's ready to copy and paste."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/getting-started.php:15
+#: includes/mb/main/inc/about/sections/getting-started.php:9
 msgid "online generator"
 msgstr "online-generator"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:17
+#: includes/mb/main/inc/about/sections/getting-started.php:11
 msgid "Go to Online Generator"
 msgstr "Gå till online-generatorn"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:21
-msgid "Understand The Basics"
-msgstr "Förstå grunderna"
-
-#: includes/mb/main/inc/about/sections/getting-started.php:22
-msgid ""
-"Meta Box doesn't have any admin page for configuration or settings. Instead "
-"of that, it provides a very powerful API to speed up the process of creating "
-"meta boxes and custom fields. It might take you a little time at first, but "
-"then you'll love the way it work because it helps you do and customize "
-"almost everything."
-msgstr ""
-"Meta Box har ingen administrationssida för konfiguration eller "
-"inställningar. Istället tillhandahåller det ett mycket kraftfullt API för "
-"att påskynda processen med att skapa meta boxes och anpassade fält. Det kan "
-"ta lite tid i början, men du kommer att älska hur det fungerar eftersom det "
-"hjälper dig att göra och anpassa nästan allt."
-
-#: includes/mb/main/inc/about/sections/getting-started.php:25
-#: includes/mb/main/inc/about/sections/tabs.php:12
-#: includes/mb/main/inc/about/sections/welcome.php:21
-msgid "Extensions"
-msgstr "Tillägg"
-
-#: includes/mb/main/inc/about/sections/getting-started.php:26
+#: includes/mb/main/inc/about/sections/getting-started.php:16
 msgid ""
 "Wanna see more features that transform your WordPress website into a "
 "powerful CMS? Check out some extensions below:"
@@ -1972,147 +1981,167 @@ msgstr ""
 "Vill du se fler funktioner som förvandlar din WordPress-sida till ett "
 "kraftfullt CMS? Kolla in några tillval nedan:"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:28
+#: includes/mb/main/inc/about/sections/getting-started.php:18
 msgid "Meta Box Builder"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/getting-started.php:28
+#: includes/mb/main/inc/about/sections/getting-started.php:18
 msgid "Build meta boxes and fields with UI."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/getting-started.php:29
+#: includes/mb/main/inc/about/sections/getting-started.php:19
 msgid "Meta Box Group"
 msgstr "Meta box-grupp"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:29
+#: includes/mb/main/inc/about/sections/getting-started.php:19
 msgid "Organize fields into repeatable groups."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/getting-started.php:30
+#: includes/mb/main/inc/about/sections/getting-started.php:20
 msgid "Meta Box Conditional Logic"
 msgstr "Villkorlig logik för meta box"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:30
+#: includes/mb/main/inc/about/sections/getting-started.php:20
 msgid "Control the visibility of fields."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/getting-started.php:31
+#: includes/mb/main/inc/about/sections/getting-started.php:21
 msgid "MB Settings Page"
 msgstr "Sidan för MB-inställningar"
 
-#: includes/mb/main/inc/about/sections/getting-started.php:31
+#: includes/mb/main/inc/about/sections/getting-started.php:21
 msgid "Create settings pages/Customizer options."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/getting-started.php:33
+#: includes/mb/main/inc/about/sections/getting-started.php:27
 msgid "More Extensions"
 msgstr "Fler tillval"
 
-#: includes/mb/main/inc/about/sections/products.php:12
+#: includes/mb/main/inc/about/sections/products.php:5
 msgid "Our WordPress Products"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/products.php:15
+#: includes/mb/main/inc/about/sections/products.php:8
 msgid "Like this plugin? Check out our other WordPress products:"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/products.php:16
+#: includes/mb/main/inc/about/sections/products.php:9
 msgid "Automated & fast SEO plugin for WordPress"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/products.php:17
-msgid "A super fast, lightweight and highly customizable WordPress theme"
+#: includes/mb/main/inc/about/sections/products.php:10
+msgid "The best schema plugin for WordPress"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/support.php:18
+#: includes/mb/main/inc/about/sections/products.php:11
+msgid "Simple, elegant and clean WordPress themes"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/review.php:5
+#, fuzzy
+#| msgid "Welcome to Meta Box"
+msgid "Write a review for Meta Box"
+msgstr "Välkommen till Meta Box"
+
+#: includes/mb/main/inc/about/sections/review.php:8
+msgid ""
+"If you like Meta Box, please write a review on WordPress.org to help us "
+"spread the word. We really appreciate that!"
+msgstr ""
+
+#: includes/mb/main/inc/about/sections/review.php:9
+msgid "Write a review"
+msgstr "Skriv en recension"
+
+#: includes/mb/main/inc/about/sections/support.php:12
 #, php-format
 msgid ""
 "Still need help with Meta Box? We offer excellent support for you. But don't "
 "forget to check our <a href=\"%s\">documentation</a> first."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/support.php:23
+#: includes/mb/main/inc/about/sections/support.php:17
 msgid "Free Support"
 msgstr "Gratis support"
 
-#: includes/mb/main/inc/about/sections/support.php:24
+#: includes/mb/main/inc/about/sections/support.php:18
 msgid ""
 "If you have any question about how to use the plugin, please open a new "
 "topic on WordPress.org support forum or open a new issue on Github "
 "(preferable). We will try to answer as soon as we can."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/support.php:25
+#: includes/mb/main/inc/about/sections/support.php:19
 msgid "Go to Github"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/support.php:26
+#: includes/mb/main/inc/about/sections/support.php:20
 msgid "Go to WordPress.org"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/support.php:30
+#: includes/mb/main/inc/about/sections/support.php:24
 msgid "Premium Support"
 msgstr "Premium support"
 
-#: includes/mb/main/inc/about/sections/support.php:31
+#: includes/mb/main/inc/about/sections/support.php:25
 msgid ""
 "For users that have bought premium extensions, the support is provided in "
 "the Meta Box Support forum. Any question will be answered with technical "
 "details within 24 hours."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/support.php:32
+#: includes/mb/main/inc/about/sections/support.php:26
 msgid "Go to support forum"
 msgstr "Gå till supportforum"
 
-#: includes/mb/main/inc/about/sections/tabs.php:10
+#: includes/mb/main/inc/about/sections/tabs.php:4
 msgid "Getting Started"
 msgstr "Komma igång"
 
-#: includes/mb/main/inc/about/sections/tabs.php:13
-#: includes/mb/main/inc/about/sections/welcome.php:22
+#: includes/mb/main/inc/about/sections/tabs.php:7
+#: includes/mb/main/inc/about/sections/welcome.php:15
 msgid "Support"
 msgstr "Support"
 
-#: includes/mb/main/inc/about/sections/upgrade.php:10
+#: includes/mb/main/inc/about/sections/upgrade.php:4
 msgid "Upgrade to Meta Box PRO"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:11
+#: includes/mb/main/inc/about/sections/upgrade.php:5
 msgid "Please upgrade to the PRO plan to unlock more awesome features."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:13
+#: includes/mb/main/inc/about/sections/upgrade.php:7
 msgid ""
 "Create custom fields with drag-n-drop interface - no coding knowledge "
 "required!"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:14
+#: includes/mb/main/inc/about/sections/upgrade.php:8
 msgid "Add custom fields to taxonomies or user profile."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:15
+#: includes/mb/main/inc/about/sections/upgrade.php:9
 msgid "Create custom settings pages."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:16
+#: includes/mb/main/inc/about/sections/upgrade.php:10
 msgid "Create frontend submission forms."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:17
+#: includes/mb/main/inc/about/sections/upgrade.php:11
 msgid "Save custom fields in custom tables."
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/upgrade.php:18
+#: includes/mb/main/inc/about/sections/upgrade.php:12
 msgid "And much more!"
 msgstr "Och mycket mer!"
 
-#: includes/mb/main/inc/about/sections/upgrade.php:20
+#: includes/mb/main/inc/about/sections/upgrade.php:14
 msgid "Get Meta Box PRO now"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/welcome.php:17
+#: includes/mb/main/inc/about/sections/welcome.php:11
 msgid ""
 "Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields "
 "plugin and framework that makes quick work of customizing a website with—you "
@@ -2120,305 +2149,329 @@ msgid ""
 "below to get started!"
 msgstr ""
 
-#: includes/mb/main/inc/about/sections/welcome.php:20
+#: includes/mb/main/inc/about/sections/welcome.php:14
 msgid "Documentation"
 msgstr "Dokumentation"
 
-#: includes/mb/main/inc/core.php:38
+#: includes/mb/main/inc/about/sections/welcome.php:16
+msgid "Facebook Group"
+msgstr "Facebook-grupp"
+
+#: includes/mb/main/inc/about/sections/welcome.php:17
+#, fuzzy
+#| msgid "Youtube URL"
+msgid "Youtube Channel"
+msgstr "Youtube URL"
+
+#: includes/mb/main/inc/core.php:20
 msgid "Docs"
 msgstr "Dokumentation"
 
-#: includes/mb/main/inc/field.php:361
+#: includes/mb/main/inc/field.php:309
 msgid "+ Add more"
 msgstr "+ Lägg till mer"
 
-#: includes/mb/main/inc/fields/autocomplete.php:23
+#: includes/mb/main/inc/fields/autocomplete.php:13
+#: includes/mb/main/inc/fields/autocomplete.php:73
 #: includes/mb/main/inc/fields/autocomplete.php:85
-#: includes/mb/main/inc/fields/autocomplete.php:97
 msgid "Delete"
 msgstr ""
 
-#: includes/mb/main/inc/fields/background.php:75
+#: includes/mb/main/inc/fields/background.php:60
 msgid "Background Image"
 msgstr "Bakgrundsbild"
 
-#: includes/mb/main/inc/fields/background.php:89
+#: includes/mb/main/inc/fields/background.php:72
 msgid "-- Repeat --"
 msgstr ""
 
-#: includes/mb/main/inc/fields/background.php:91
+#: includes/mb/main/inc/fields/background.php:74
 msgid "No Repeat"
 msgstr "Ingen upprepning"
 
-#: includes/mb/main/inc/fields/background.php:92
+#: includes/mb/main/inc/fields/background.php:75
 msgid "Repeat All"
 msgstr "Upprepa allt"
 
-#: includes/mb/main/inc/fields/background.php:93
+#: includes/mb/main/inc/fields/background.php:76
 msgid "Repeat Horizontally"
 msgstr "Repetera horisontellt"
 
-#: includes/mb/main/inc/fields/background.php:94
+#: includes/mb/main/inc/fields/background.php:77
 msgid "Repeat Vertically"
 msgstr "Repetera vertikalt"
 
-#: includes/mb/main/inc/fields/background.php:95
-#: includes/mb/main/inc/fields/background.php:133
-#: includes/mb/main/inc/fields/background.php:147
+#: includes/mb/main/inc/fields/background.php:78
+#: includes/mb/main/inc/fields/background.php:112
+#: includes/mb/main/inc/fields/background.php:124
 msgid "Inherit"
 msgstr "Ärv"
 
-#: includes/mb/main/inc/fields/background.php:107
+#: includes/mb/main/inc/fields/background.php:88
 msgid "-- Position --"
 msgstr ""
 
-#: includes/mb/main/inc/fields/background.php:109
+#: includes/mb/main/inc/fields/background.php:90
 msgid "Top Left"
 msgstr "Övre vänster"
 
-#: includes/mb/main/inc/fields/background.php:110
+#: includes/mb/main/inc/fields/background.php:91
 msgid "Top Center"
 msgstr "Topp centrerat"
 
-#: includes/mb/main/inc/fields/background.php:111
+#: includes/mb/main/inc/fields/background.php:92
 msgid "Top Right"
 msgstr "Övre höger"
 
-#: includes/mb/main/inc/fields/background.php:112
+#: includes/mb/main/inc/fields/background.php:93
 msgid "Center Left"
 msgstr "Centrerat vänster"
 
-#: includes/mb/main/inc/fields/background.php:113
+#: includes/mb/main/inc/fields/background.php:94
 msgid "Center Center"
 msgstr "Centrer Center"
 
-#: includes/mb/main/inc/fields/background.php:114
+#: includes/mb/main/inc/fields/background.php:95
 msgid "Center Right"
 msgstr "Mitten höger"
 
-#: includes/mb/main/inc/fields/background.php:115
+#: includes/mb/main/inc/fields/background.php:96
 msgid "Bottom Left"
 msgstr "Nedre vänster"
 
-#: includes/mb/main/inc/fields/background.php:116
+#: includes/mb/main/inc/fields/background.php:97
 msgid "Bottom Center"
 msgstr "Nedre centrerat"
 
-#: includes/mb/main/inc/fields/background.php:117
+#: includes/mb/main/inc/fields/background.php:98
 msgid "Bottom Right"
 msgstr "Nedre höger"
 
-#: includes/mb/main/inc/fields/background.php:129
+#: includes/mb/main/inc/fields/background.php:108
 msgid "-- Attachment --"
 msgstr ""
 
-#: includes/mb/main/inc/fields/background.php:131
+#: includes/mb/main/inc/fields/background.php:110
 msgid "Fixed"
 msgstr "Fast"
 
-#: includes/mb/main/inc/fields/background.php:132
+#: includes/mb/main/inc/fields/background.php:111
 msgid "Scroll"
 msgstr "Skrolla"
 
-#: includes/mb/main/inc/fields/background.php:145
+#: includes/mb/main/inc/fields/background.php:122
 msgid "-- Size --"
 msgstr ""
 
-#: includes/mb/main/inc/fields/background.php:148
+#: includes/mb/main/inc/fields/background.php:125
 msgid "Cover"
 msgstr "Täck"
 
-#: includes/mb/main/inc/fields/background.php:149
+#: includes/mb/main/inc/fields/background.php:126
 msgid "Contain"
 msgstr "Innehåll"
 
-#: includes/mb/main/inc/fields/button.php:34
+#: includes/mb/main/inc/fields/button.php:28
 msgid "Click me"
 msgstr "Klicka på mig"
 
-#: includes/mb/main/inc/fields/file-input.php:23
+#: includes/mb/main/inc/fields/file-input.php:16
 msgid "Select File"
 msgstr "Välj fil"
 
-#: includes/mb/main/inc/fields/file-input.php:43
-#: includes/mb/main/inc/fields/select.php:92
+#: includes/mb/main/inc/fields/file-input.php:45
+#: includes/mb/main/inc/fields/select.php:79
 #: includes/mb/property-additional-fields.php:135
 msgid "Select"
 msgstr "Välj"
 
-#: includes/mb/main/inc/fields/file.php:24
+#: includes/mb/main/inc/fields/file.php:14
 #, php-format
 msgid "You may only upload maximum %d file"
 msgstr "Du kan endast ladda upp max %d fil"
 
-#: includes/mb/main/inc/fields/file.php:26
+#: includes/mb/main/inc/fields/file.php:16
 #, php-format
 msgid "You may only upload maximum %d files"
 msgstr "Du kan endast ladda upp max %d filer"
 
-#: includes/mb/main/inc/fields/file.php:63
+#: includes/mb/main/inc/fields/file.php:47
 msgid "Error: Invalid file"
 msgstr ""
 
-#: includes/mb/main/inc/fields/file.php:77
+#: includes/mb/main/inc/fields/file.php:60
 msgid "Error: Cannot delete file"
 msgstr "Fel: Kan inte radera fil"
 
-#: includes/mb/main/inc/fields/file.php:90
+#: includes/mb/main/inc/fields/file.php:85
 msgctxt "file upload"
 msgid "+ Add new file"
 msgstr "+ Lägg till ny fil"
 
-#: includes/mb/main/inc/fields/file.php:171
+#: includes/mb/main/inc/fields/file.php:165
 msgctxt "file upload"
 msgid "Delete"
 msgstr ""
 
-#: includes/mb/main/inc/fields/file.php:172
+#: includes/mb/main/inc/fields/file.php:166
 msgctxt "file upload"
 msgid "Edit"
 msgstr "Redigera"
 
-#: includes/mb/main/inc/fields/input-list.php:92
+#: includes/mb/main/inc/fields/input-list.php:82
 msgid "Toggle All"
 msgstr "Växla alla"
 
-#: includes/mb/main/inc/fields/key-value.php:135
+#: includes/mb/main/inc/fields/key-value.php:93
 msgid "Key"
 msgstr "Nyckel"
 
-#: includes/mb/main/inc/fields/key-value.php:136
+#: includes/mb/main/inc/fields/key-value.php:94
 #: includes/mb/property/basic-metaboxes.php:212
 msgid "Value"
 msgstr "Värde"
 
-#: includes/mb/main/inc/fields/map.php:55
-#: includes/mb/main/inc/fields/osm.php:28
+#: includes/mb/main/inc/fields/map.php:28
+#: includes/mb/main/inc/fields/osm.php:15
 msgid "No results found"
 msgstr "Inga resultat hittades"
 
-#: includes/mb/main/inc/fields/media.php:27
+#: includes/mb/main/inc/fields/media.php:19
 msgctxt "media"
 msgid "+ Add Media"
 msgstr "+ Lägg till media"
 
-#: includes/mb/main/inc/fields/media.php:28
+#: includes/mb/main/inc/fields/media.php:20
 msgctxt "media"
 msgid " file"
 msgstr " fil"
 
-#: includes/mb/main/inc/fields/media.php:29
+#: includes/mb/main/inc/fields/media.php:21
 msgctxt "media"
 msgid " files"
 msgstr " filer"
 
-#: includes/mb/main/inc/fields/media.php:30
+#: includes/mb/main/inc/fields/media.php:22
 msgctxt "media"
 msgid "Remove"
 msgstr "Ta bort"
 
-#: includes/mb/main/inc/fields/media.php:31
+#: includes/mb/main/inc/fields/media.php:23
 msgctxt "media"
 msgid "Edit"
 msgstr "Redigera"
 
-#: includes/mb/main/inc/fields/media.php:32
+#: includes/mb/main/inc/fields/media.php:24
 msgctxt "media"
 msgid "View"
 msgstr "Visa"
 
-#: includes/mb/main/inc/fields/media.php:33
+#: includes/mb/main/inc/fields/media.php:25
 msgctxt "media"
 msgid "No Title"
 msgstr "Ingen rubrik"
 
-#: includes/mb/main/inc/fields/media.php:36
+#: includes/mb/main/inc/fields/media.php:28
 msgctxt "media"
 msgid "Select Files"
 msgstr "Välj filer"
 
-#: includes/mb/main/inc/fields/media.php:37
+#: includes/mb/main/inc/fields/media.php:29
 msgctxt "media"
 msgid "or"
 msgstr "eller"
 
-#: includes/mb/main/inc/fields/media.php:38
+#: includes/mb/main/inc/fields/media.php:30
 msgctxt "media"
 msgid "Drop files here to upload"
 msgstr "Släpp filer här för att ladda upp"
 
-#: includes/mb/main/inc/fields/oembed.php:24
+#: includes/mb/main/inc/fields/oembed.php:18
 msgid "Embed HTML not available."
 msgstr "Bädda in HTML är inte tillgänglig."
 
-#: includes/mb/main/inc/fields/post.php:80
+#: includes/mb/main/inc/fields/post.php:69
 msgid "Select a post"
 msgstr "Välj ett inlägg"
 
-#: includes/mb/main/inc/fields/post.php:86
-#: includes/mb/main/inc/fields/taxonomy.php:98
+#: includes/mb/main/inc/fields/post.php:75
+#: includes/mb/main/inc/fields/taxonomy.php:88
 #, php-format
 msgid "Select a %s"
 msgstr "Välj en %s"
 
-#: includes/mb/main/inc/fields/post.php:156
-#: includes/mb/main/inc/fields/taxonomy.php:157
-#: includes/mb/main/inc/fields/user.php:144
+#: includes/mb/main/inc/fields/post.php:136
+#: includes/mb/main/inc/fields/taxonomy.php:133
+#: includes/mb/main/inc/fields/user.php:134
 msgid "(No title)"
 msgstr ""
 
-#: includes/mb/main/inc/fields/select-advanced.php:47
+#: includes/mb/main/inc/fields/select-advanced.php:38
 msgid "Select an item"
 msgstr "Välj ett objekt"
 
-#: includes/mb/main/inc/fields/select.php:92 includes/shortcodes/vc-map.php:97
-#: includes/widgets/property-filters.php:161
-#: includes/widgets/property-filters.php:211
-#: includes/widgets/property-filters.php:282
-#: includes/widgets/property-filters.php:311
-#: includes/widgets/property-filters.php:340
+#: includes/mb/main/inc/fields/select.php:79 includes/shortcodes/vc-map.php:97
+#: includes/widgets/property-filters.php:167
+#: includes/widgets/property-filters.php:217
+#: includes/widgets/property-filters.php:288
+#: includes/widgets/property-filters.php:317
+#: includes/widgets/property-filters.php:346
+#: includes/widgets/property-taxonomy-terms-widget.php:119
 msgid "All"
 msgstr "Alla"
 
-#: includes/mb/main/inc/fields/sidebar.php:23
+#: includes/mb/main/inc/fields/sidebar.php:10
 msgid "Select a sidebar"
 msgstr "Välja en sidopanel"
 
-#: includes/mb/main/inc/fields/switch.php:93
+#: includes/mb/main/inc/fields/switch.php:83
 msgid "On"
 msgstr "På"
 
-#: includes/mb/main/inc/fields/switch.php:94
+#: includes/mb/main/inc/fields/switch.php:84
 msgid "Off"
 msgstr "Av"
 
-#: includes/mb/main/inc/fields/taxonomy.php:94
+#: includes/mb/main/inc/fields/taxonomy.php:84
 msgid "Select a term"
 msgstr "Välj en term"
 
-#: includes/mb/main/inc/fields/user.php:84
-msgid "Select an user"
+#: includes/mb/main/inc/fields/user.php:75
+msgid "Select a user"
 msgstr "Välj en användare"
 
-#: includes/mb/main/inc/loader.php:119
+#: includes/mb/main/inc/fields/user.php:188
+msgid "Add New User"
+msgstr "Lägg till ny användare"
+
+#: includes/mb/main/inc/loader.php:123
 msgid "Dismiss all Meta Box news"
 msgstr ""
 
-#: includes/mb/main/inc/loader.php:120
+#: includes/mb/main/inc/loader.php:124
 msgid "Are you sure to dismiss all Meta Box news?"
 msgstr ""
 
-#: includes/mb/main/inc/meta-box.php:342
+#: includes/mb/main/inc/meta-box.php:273
 msgid "Meta Box Title"
 msgstr ""
 
-#: includes/mb/main/inc/update/checker.php:139
+#: includes/mb/main/inc/validation.php:33
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Vänligen korrigera de fel som anges nedan och försök igen."
+
+#: includes/mb/main/meta-box.php:24
+msgid ""
+"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr ""
+
+#: includes/mb/main/src/Updater/Checker.php:104
 msgid ""
 "UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic "
 "updates."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:112
+#: includes/mb/main/src/Updater/Notification.php:82
 #, php-format
 msgid ""
 "You have not set your Meta Box license key yet, which means you are missing "
@@ -2426,8 +2479,8 @@ msgid ""
 "license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:114
-#: includes/mb/main/inc/update/notification.php:116
+#: includes/mb/main/src/Updater/Notification.php:84
+#: includes/mb/main/src/Updater/Notification.php:86
 #, php-format
 msgid ""
 "Your license key for Meta Box is <b>invalid</b>. Please <a "
@@ -2435,7 +2488,7 @@ msgid ""
 "target=\"_blank\">get a new one</a> to enable automatic updates."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:118
+#: includes/mb/main/src/Updater/Notification.php:88
 #, php-format
 msgid ""
 "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" "
@@ -2443,52 +2496,52 @@ msgid ""
 "premium support."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:142
+#: includes/mb/main/src/Updater/Notification.php:112
 #, php-format
 msgid ""
 "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" "
 "target=\"_blank\">get a new one here</a>."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:144
-#: includes/mb/main/inc/update/notification.php:146
+#: includes/mb/main/src/Updater/Notification.php:114
+#: includes/mb/main/src/Updater/Notification.php:116
 #, php-format
 msgid ""
 "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your "
 "license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:148
+#: includes/mb/main/src/Updater/Notification.php:118
 #, php-format
 msgid ""
 "Your license key is <b>expired</b>. Please <a href=\"%3$s\" "
 "target=\"_blank\">renew your license</a>."
 msgstr ""
 
-#: includes/mb/main/inc/update/notification.php:171
+#: includes/mb/main/src/Updater/Notification.php:134
 msgid "Activate License"
 msgstr "Aktivera licensen"
 
-#: includes/mb/main/inc/update/notification.php:171
+#: includes/mb/main/src/Updater/Notification.php:134
 msgid "Update License"
 msgstr "Uppdatera licens"
 
-#: includes/mb/main/inc/update/settings.php:72
-#: includes/mb/main/inc/update/settings.php:90
+#: includes/mb/main/src/Updater/Settings.php:39
+#: includes/mb/main/src/Updater/Settings.php:54
 msgid "Meta Box License"
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:72
+#: includes/mb/main/src/Updater/Settings.php:39
 msgid "License"
 msgstr "Licens"
 
-#: includes/mb/main/inc/update/settings.php:91
+#: includes/mb/main/src/Updater/Settings.php:55
 msgid ""
 "Please enter your license key to enable automatic updates for Meta Box "
 "extensions."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:96
+#: includes/mb/main/src/Updater/Settings.php:60
 #, php-format
 msgid ""
 "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My "
@@ -2497,30 +2550,24 @@ msgid ""
 "here</a>."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:108
+#: includes/mb/main/src/Updater/Settings.php:72
 msgid "License Key"
 msgstr "Licensnyckel"
 
-#: includes/mb/main/inc/update/settings.php:113
-#: includes/mb/main/inc/update/settings.php:115
-#, php-format
-msgid ""
-"Your license key is <b>invalid</b>. Please update your license key or <a "
-"href=\"%1$s\" target=\"_blank\">get a new one here</a>."
+#: includes/mb/main/src/Updater/Settings.php:76
+#: includes/mb/main/src/Updater/Settings.php:77
+msgid "Your license key is <b style=\"color: #d63638\">invalid</b>."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:117
-#, php-format
-msgid ""
-"Your license key is <b>expired</b>. Please <a href=\"%2$s\" "
-"target=\"_blank\">renew your license</a>."
+#: includes/mb/main/src/Updater/Settings.php:78
+msgid "Your license key is <b style=\"color: #d63638\">expired</b>."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:118
-msgid "Your license key is <b>active</b>."
+#: includes/mb/main/src/Updater/Settings.php:79
+msgid "Your license key is <b style=\"color: #00a32a\">active</b>."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:131
+#: includes/mb/main/src/Updater/Settings.php:92
 #: includes/settings/captcha.php:79 includes/settings/gdpr.php:89
 #: includes/settings/map.php:200 includes/settings/price.php:301
 #: includes/settings/property-analytics.php:104
@@ -2529,36 +2576,27 @@ msgstr ""
 msgid "Save Changes"
 msgstr "Spara ändringar"
 
-#: includes/mb/main/inc/update/settings.php:157
+#: includes/mb/main/src/Updater/Settings.php:123
 msgid ""
 "Something wrong with the connection to metabox.io. Please try again later."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:159
+#: includes/mb/main/src/Updater/Settings.php:125
 msgid "Your license is activated."
 msgstr "Din licens är aktiverad."
 
-#: includes/mb/main/inc/update/settings.php:162
+#: includes/mb/main/src/Updater/Settings.php:128
 #, php-format
 msgid ""
 "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My "
 "Account</a> page on metabox.io website."
 msgstr ""
 
-#: includes/mb/main/inc/update/settings.php:168
+#: includes/mb/main/src/Updater/Settings.php:134
 #, php-format
 msgid ""
 "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> "
 "or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
-msgstr ""
-
-#: includes/mb/main/inc/validation.php:43
-msgid "Please correct the errors highlighted below and try again."
-msgstr "Vänligen korrigera de fel som anges nedan och försök igen."
-
-#: includes/mb/main/meta-box.php:24
-msgid ""
-"Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
 msgstr ""
 
 #: includes/mb/meta-box-helper-functions.php:125
@@ -2658,7 +2696,6 @@ msgid "Property Submit Page"
 msgstr ""
 
 #: includes/mb/property-additional-fields.php:160
-#| msgid "Property Location"
 msgid "Property Listing Cards"
 msgstr ""
 
@@ -2675,7 +2712,7 @@ msgid "Property Filters Widget"
 msgstr ""
 
 #: includes/mb/property-additional-fields.php:189
-#: includes/widgets/property-filters.php:682
+#: includes/widgets/property-filters.php:710
 msgid "Additional Fields"
 msgstr "Ytterligare fält"
 
@@ -2834,14 +2871,13 @@ msgid "Mark this property as featured ?"
 msgstr "Markera som utvald fastighet?"
 
 #: includes/mb/property/basic-metaboxes.php:203
-#: includes/widgets/property-filters.php:382
+#: includes/widgets/property-filters.php:389
 msgid "Additional Details"
 msgstr "Ytterligare information"
 
 #: includes/mb/property/basic-metaboxes.php:209
 #: includes/mb/property/floorplans-metaboxes.php:40
 #: includes/mb/property/video-metaboxes.php:40
-#| msgid "+ Add more"
 msgid "+ Add More"
 msgstr "+ Lägg till fler"
 
@@ -3076,7 +3112,7 @@ msgstr ""
 #: includes/mb/property/misc-metaboxes.php:35
 #: includes/widgets/mortgage-calculator-widget.php:120
 msgid "Additional Fee"
-msgstr ""
+msgstr "Ytterligare avgift"
 
 #: includes/mb/property/misc-metaboxes.php:36
 msgid ""
@@ -3151,7 +3187,6 @@ msgid "Override website level template settings for this property"
 msgstr ""
 
 #: includes/mb/property/schedule-a-tour.php:17
-#| msgid "Select a term"
 msgid "Schedule a tour"
 msgstr ""
 
@@ -3189,7 +3224,6 @@ msgid ""
 msgstr ""
 
 #: includes/mb/property/schedule-a-tour.php:66
-#| msgid "Description"
 msgid "Schedule Description"
 msgstr ""
 
@@ -3279,103 +3313,120 @@ msgstr ""
 msgid "Properties Filter Settings"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:33
-#: includes/mb/templates-meta-boxes-config.php:196
+#: includes/mb/templates-meta-boxes-config.php:34
+#: includes/mb/templates-meta-boxes-config.php:211
 msgid "Number of Properties Per Page"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:42
+#: includes/mb/templates-meta-boxes-config.php:43
 msgid "Order Properties By"
 msgstr "Fastighets ID"
 
-#: includes/mb/templates-meta-boxes-config.php:45
+#: includes/mb/templates-meta-boxes-config.php:46
 msgid "Global Default"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:46
-#| msgid "Property Title"
+#: includes/mb/templates-meta-boxes-config.php:47
 msgid "Property Title - A to Z"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:47
-#| msgid "Property Title"
+#: includes/mb/templates-meta-boxes-config.php:48
 msgid "Property Title - Z to A"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:48
+#: includes/mb/templates-meta-boxes-config.php:49
 msgid "Date New to Old"
 msgstr "Datum nyast till äldst"
 
-#: includes/mb/templates-meta-boxes-config.php:49
+#: includes/mb/templates-meta-boxes-config.php:50
 msgid "Date Old to New"
 msgstr "Datum äldst till nyast"
 
-#: includes/mb/templates-meta-boxes-config.php:50
+#: includes/mb/templates-meta-boxes-config.php:51
 msgid "Price Low to High"
 msgstr "Pris lägsta till högsta"
 
-#: includes/mb/templates-meta-boxes-config.php:51
+#: includes/mb/templates-meta-boxes-config.php:52
 msgid "Price High to Low"
 msgstr "Pris högsta till lägsta"
 
-#: includes/mb/templates-meta-boxes-config.php:59
-#: includes/mb/templates-meta-boxes-config.php:205
+#: includes/mb/templates-meta-boxes-config.php:60
+#: includes/mb/templates-meta-boxes-config.php:220
 #: includes/shortcodes/vc-map.php:144
 msgid "Locations"
 msgstr "Platser"
 
-#: includes/mb/templates-meta-boxes-config.php:68
-#: includes/mb/templates-meta-boxes-config.php:214
+#: includes/mb/templates-meta-boxes-config.php:69
+#: includes/mb/templates-meta-boxes-config.php:229
 #: includes/shortcodes/vc-map.php:151
 msgid "Statuses"
 msgstr "Statusar"
 
-#: includes/mb/templates-meta-boxes-config.php:77
-#: includes/mb/templates-meta-boxes-config.php:223
+#: includes/mb/templates-meta-boxes-config.php:78
+#: includes/mb/templates-meta-boxes-config.php:238
 #: includes/shortcodes/vc-map.php:158
 msgid "Types"
 msgstr "Typer"
 
-#: includes/mb/templates-meta-boxes-config.php:86
-#: includes/mb/templates-meta-boxes-config.php:232
+#: includes/mb/templates-meta-boxes-config.php:87
+#: includes/mb/templates-meta-boxes-config.php:247
 #: includes/shortcodes/vc-map.php:285
 msgid "Features"
 msgstr "Funktioner"
 
-#: includes/mb/templates-meta-boxes-config.php:95
+#: includes/mb/templates-meta-boxes-config.php:96
 msgid "Minimum Beds"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:104
+#: includes/mb/templates-meta-boxes-config.php:105
 msgid "Minimum Baths"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:113
+#: includes/mb/templates-meta-boxes-config.php:114
 #: includes/shortcodes/vc-map.php:243
 msgid "Minimum Price"
 msgstr "Minimum pris"
 
-#: includes/mb/templates-meta-boxes-config.php:122
+#: includes/mb/templates-meta-boxes-config.php:123
 #: includes/shortcodes/vc-map.php:251
 msgid "Maximum Price"
 msgstr "Högsta pris"
 
-#: includes/mb/templates-meta-boxes-config.php:130
+#: includes/mb/templates-meta-boxes-config.php:131
 msgid "Properties by Agents"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:140
+#: includes/mb/templates-meta-boxes-config.php:141
 msgid "Disable AJAX Pagination"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:150
+#: includes/mb/templates-meta-boxes-config.php:151
 #: includes/shortcodes/vc-map.php:275
 msgid "Display Only Featured Properties"
 msgstr ""
 
-#: includes/mb/templates-meta-boxes-config.php:182
+#: includes/mb/templates-meta-boxes-config.php:183
 msgid "Properties Gallery Filter Settings"
 msgstr ""
+
+#: includes/mb/templates-meta-boxes-config.php:197
+msgid "Number of Columns"
+msgstr "Antal kolumner"
+
+#: includes/mb/templates-meta-boxes-config.php:202
+#: includes/settings/price.php:70
+msgid "2"
+msgstr "2"
+
+#: includes/mb/templates-meta-boxes-config.php:203
+#: includes/settings/price.php:71
+msgid "3"
+msgstr "3"
+
+#: includes/mb/templates-meta-boxes-config.php:204
+#: includes/settings/price.php:72
+msgid "4"
+msgstr "4"
 
 #: includes/settings/captcha.php:22
 msgid "For spam protection on agent and contact forms!"
@@ -3496,7 +3547,6 @@ msgid "Localize Google Maps"
 msgstr ""
 
 #: includes/settings/map.php:118
-#| msgid "Google Maps"
 msgid "Google Map Type"
 msgstr "Typ av karta"
 
@@ -3528,12 +3578,10 @@ msgid ""
 msgstr ""
 
 #: includes/settings/map.php:141
-#| msgid "Google Maps API Key"
 msgid "MapBox API Key"
 msgstr ""
 
 #: includes/settings/map.php:146
-#| msgid "Google Maps API Key"
 msgid "How to get MapBox API Key?"
 msgstr ""
 
@@ -3590,18 +3638,6 @@ msgstr "0"
 #: includes/settings/price.php:69
 msgid "1"
 msgstr "1"
-
-#: includes/settings/price.php:70
-msgid "2"
-msgstr "2"
-
-#: includes/settings/price.php:71
-msgid "3"
-msgstr "3"
-
-#: includes/settings/price.php:72
-msgid "4"
-msgstr "4"
 
 #: includes/settings/price.php:73
 msgid "5"
@@ -3686,7 +3722,6 @@ msgid "Display Property Views Of Last"
 msgstr ""
 
 #: includes/settings/property-analytics.php:82
-#| msgid "No Properties Found!"
 msgid "Property Views Column"
 msgstr ""
 
@@ -3733,8 +3768,24 @@ msgstr "Du har inte tillräcklig behörighet för att komma åt denna sida."
 msgid "Version  %s"
 msgstr ""
 
+#: includes/settings/slug.php:7
+msgid "property"
+msgstr "fastighet"
+
 #: includes/settings/slug.php:12
 msgid "property-location"
+msgstr ""
+
+#: includes/settings/slug.php:13
+msgid "property-status"
+msgstr ""
+
+#: includes/settings/slug.php:14
+msgid "property-type"
+msgstr ""
+
+#: includes/settings/slug.php:15
+msgid "property-feature"
 msgstr ""
 
 #: includes/settings/slug.php:31
@@ -3756,7 +3807,6 @@ msgid "Agent Slug"
 msgstr ""
 
 #: includes/settings/slug.php:47
-#| msgid "Agent Information"
 msgid "Agent Location Slug"
 msgstr ""
 
@@ -3978,6 +4028,7 @@ msgid "Order By"
 msgstr "Sortera efter"
 
 #: includes/shortcodes/vc-map.php:128
+#: includes/widgets/property-taxonomy-terms-widget.php:150
 msgid "Order"
 msgstr ""
 
@@ -3993,7 +4044,7 @@ msgstr "Stigande"
 msgid "Minimum Bedrooms"
 msgstr ""
 
-#: includes/shortcodes/vc-map.php:183 includes/widgets/property-filters.php:645
+#: includes/shortcodes/vc-map.php:183 includes/widgets/property-filters.php:673
 msgid "Maximum Bedrooms"
 msgstr ""
 
@@ -4001,7 +4052,7 @@ msgstr ""
 msgid "Minimum Bathrooms"
 msgstr ""
 
-#: includes/shortcodes/vc-map.php:222 includes/widgets/property-filters.php:657
+#: includes/shortcodes/vc-map.php:222 includes/widgets/property-filters.php:685
 msgid "Maximum Bathrooms"
 msgstr ""
 
@@ -4130,6 +4181,7 @@ msgstr ""
 #: includes/widgets/agents-list-widget.php:171
 #: includes/widgets/featured-properties-widget.php:270
 #: includes/widgets/properties-widget.php:307
+#: includes/widgets/property-taxonomy-terms-widget.php:94
 #: includes/widgets/property-types-widget.php:82
 msgid "Widget Title"
 msgstr "Widget titel"
@@ -4378,7 +4430,7 @@ msgid "Ago "
 msgstr ""
 
 #: includes/widgets/grid-cards/card-parts/grid-card-meta.php:22
-#: includes/widgets/property-filters.php:232
+#: includes/widgets/property-filters.php:238
 #: includes/widgets/ultra-grid-cards/card-parts/grid-card-meta.php:25
 msgid "Area"
 msgstr "Område"
@@ -4414,7 +4466,7 @@ msgstr "Ägare"
 
 #: includes/widgets/mortgage-calculator-widget.php:24
 #: includes/widgets/ultra-mortgage-calculator-widget.php:24
-msgid "Realhomes - Mortgage Calculator"
+msgid "RealHomes - Mortgage Calculator"
 msgstr ""
 
 #: includes/widgets/mortgage-calculator-widget.php:25
@@ -4510,155 +4562,198 @@ msgid ""
 "criteria for property listings templates."
 msgstr ""
 
-#: includes/widgets/property-filters.php:68
-#: includes/widgets/property-filters.php:72
+#: includes/widgets/property-filters.php:74
+#: includes/widgets/property-filters.php:78
 msgid "Note:"
 msgstr "Anteckning:"
 
-#: includes/widgets/property-filters.php:68
+#: includes/widgets/property-filters.php:74
 msgid ""
 "The properties filters widget is specifically designed to work with "
 "properties listing templates and cannot be used on other types of pages."
 msgstr ""
 
-#: includes/widgets/property-filters.php:72
+#: includes/widgets/property-filters.php:78
 msgid ""
 "Advance Search is already enabled in the header. For the filters to work you "
 "need to disable the header search form as they do not work simultaneously."
 msgstr ""
 
-#: includes/widgets/property-filters.php:80
-#| msgid "Repeat All"
+#: includes/widgets/property-filters.php:86
 msgid "Open All"
 msgstr "Öppna Alla"
 
-#: includes/widgets/property-filters.php:83
-#| msgid "Toggle All"
+#: includes/widgets/property-filters.php:89
 msgid "Collapse All"
 msgstr "Minimera alla"
 
-#: includes/widgets/property-filters.php:134
-#| msgid "Featured"
+#: includes/widgets/property-filters.php:140
 msgid "Feature"
 msgstr "Funktion"
 
-#: includes/widgets/property-filters.php:164
-#: includes/widgets/property-filters.php:578
+#: includes/widgets/property-filters.php:170
+#: includes/widgets/property-filters.php:606
 msgid "Price Ranges"
 msgstr ""
 
-#: includes/widgets/property-filters.php:214
-#: includes/widgets/property-filters.php:593
-#| msgid "Save Changes"
+#: includes/widgets/property-filters.php:220
+#: includes/widgets/property-filters.php:621
 msgid "Area Ranges"
 msgstr ""
 
-#: includes/widgets/property-filters.php:277
+#: includes/widgets/property-filters.php:283
 msgid "Min Bedrooms"
 msgstr "Min sovrum"
 
-#: includes/widgets/property-filters.php:278
+#: includes/widgets/property-filters.php:284
 msgid "Min Beds"
 msgstr "Min sovrum"
 
-#: includes/widgets/property-filters.php:306
+#: includes/widgets/property-filters.php:312
 msgid "Min Bathrooms"
 msgstr "Min badrum"
 
-#: includes/widgets/property-filters.php:307
+#: includes/widgets/property-filters.php:313
 msgid "Min Baths"
 msgstr ""
 
-#: includes/widgets/property-filters.php:335
-#: includes/widgets/property-filters.php:336
-#| msgid "Garage"
+#: includes/widgets/property-filters.php:341
+#: includes/widgets/property-filters.php:342
 msgid "Min Garages"
 msgstr ""
 
-#: includes/widgets/property-filters.php:509
+#: includes/widgets/property-filters.php:537
 msgid "Filter Properties"
 msgstr ""
 
-#: includes/widgets/property-filters.php:541
+#: includes/widgets/property-filters.php:569
 msgid "Show/Hide Taxonomies"
 msgstr ""
 
-#: includes/widgets/property-filters.php:562
+#: includes/widgets/property-filters.php:590
 msgid "Hide Empty Taxonomies"
 msgstr ""
 
-#: includes/widgets/property-filters.php:564
+#: includes/widgets/property-filters.php:592
 msgid "True"
 msgstr "Sant"
 
-#: includes/widgets/property-filters.php:565
+#: includes/widgets/property-filters.php:593
 msgid "False"
 msgstr "Falskt"
 
-#: includes/widgets/property-filters.php:570
-#| msgid "Checkbox List"
+#: includes/widgets/property-filters.php:598
 msgid "Checkboxes View Limit"
 msgstr ""
 
-#: includes/widgets/property-filters.php:583
+#: includes/widgets/property-filters.php:611
 msgid "Custom Price Ranges (optional)"
 msgstr ""
 
-#: includes/widgets/property-filters.php:585
+#: includes/widgets/property-filters.php:613
 msgid ""
 "Leave this area empty for default values. Put each range in new line in the "
 "given format. ( i.e. 5000 - 10000 )"
 msgstr ""
 
-#: includes/widgets/property-filters.php:598
+#: includes/widgets/property-filters.php:626
 msgid "Custom Area Ranges (optional)"
 msgstr ""
 
-#: includes/widgets/property-filters.php:600
+#: includes/widgets/property-filters.php:628
 msgid ""
 "Leave this area empty for default values. Put each range in new line in the "
 "given format. ( i.e. 200 - 400 )"
 msgstr ""
 
-#: includes/widgets/property-filters.php:605
-#| msgid "Area"
+#: includes/widgets/property-filters.php:633
 msgid "Area Unit"
 msgstr "Area enhet"
 
-#: includes/widgets/property-filters.php:613
-#| msgid "Locations"
+#: includes/widgets/property-filters.php:641
 msgid "Agent Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:617
-#: includes/widgets/property-filters.php:630
-#| msgid "Field Type"
+#: includes/widgets/property-filters.php:645
+#: includes/widgets/property-filters.php:658
 msgid "Display Type"
 msgstr "Visningstyp"
 
-#: includes/widgets/property-filters.php:626
-#| msgid "Locations"
+#: includes/widgets/property-filters.php:654
 msgid "Agency Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:641
-#| msgid "Field Options"
+#: includes/widgets/property-filters.php:669
 msgid "Bedroom Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:653
-#| msgid "Bathrooms"
+#: includes/widgets/property-filters.php:681
 msgid "Bathroom Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:665
-#| msgid "Field Options"
+#: includes/widgets/property-filters.php:693
 msgid "Garage Options"
 msgstr ""
 
-#: includes/widgets/property-filters.php:669
+#: includes/widgets/property-filters.php:697
 msgid "Maximum Garages"
 msgstr ""
+
+#: includes/widgets/property-taxonomy-terms-widget.php:26
+msgid "This widget displays a list of terms for selected property taxonomy."
+msgstr ""
+
+#: includes/widgets/property-taxonomy-terms-widget.php:29
+msgid "RealHomes - Property Taxonomy Terms"
+msgstr ""
+
+#: includes/widgets/property-taxonomy-terms-widget.php:48
+#, fuzzy
+#| msgid "Property Type"
+msgid "Property Taxonomy Terms"
+msgstr "Fastighetstyp"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:80
+msgid "Taxonomy Terms"
+msgstr "Taxonomi Villkor"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:98
+#, fuzzy
+#| msgid "All Property Types"
+msgid "Select Property Taxonomy"
+msgstr "Alla annonser"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:117
+msgid "Number of terms to show"
+msgstr ""
+
+#: includes/widgets/property-taxonomy-terms-widget.php:130
+msgid "Terms Order By"
+msgstr "Konfigurera termer efter"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:135
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:136
+msgid "Term Group"
+msgstr "Gruppera termer"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:137
+msgid "Term ID"
+msgstr "Term-ID"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:138
+msgid "Term Order"
+msgstr "Ordning"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:152
+msgid "ASC"
+msgstr "Stigande"
+
+#: includes/widgets/property-taxonomy-terms-widget.php:153
+msgid "DESC"
+msgstr "Fallande"
 
 #: includes/widgets/property-types-widget.php:26
 msgid "This widget displays a list of Property Types."
@@ -4704,106 +4799,6 @@ msgstr "Skapa"
 msgid "Other Dues"
 msgstr ""
 
-#: node_modules/yargs-parser/index.js:302
-#, javascript-format
-msgid "Not enough arguments following: %s"
-msgstr "För få argument efter: %s"
-
-#: node_modules/yargs-parser/index.js:450
-#, javascript-format
-msgid "Invalid JSON config file: %s"
-msgstr "Ogiltig JSON-konfigurationsfil: %s"
-
-#: node_modules/yargs/lib/usage.js:169
-msgid "Commands:"
-msgstr "Kommandon:"
-
-#: node_modules/yargs/lib/usage.js:177 node_modules/yargs/lib/usage.js:407
-#| msgid "Default"
-msgid "default:"
-msgstr "standard:"
-
-#: node_modules/yargs/lib/usage.js:179
-msgid "aliases:"
-msgstr "alias:"
-
-#: node_modules/yargs/lib/usage.js:241
-msgid "boolean"
-msgstr "booleansk"
-
-#: node_modules/yargs/lib/usage.js:242
-msgid "count"
-msgstr "antal"
-
-#: node_modules/yargs/lib/usage.js:243 node_modules/yargs/lib/usage.js:244
-msgid "string"
-msgstr "sträng"
-
-#: node_modules/yargs/lib/usage.js:245
-msgid "array"
-msgstr "array"
-
-#: node_modules/yargs/lib/usage.js:246
-#| msgid "Phone Number"
-msgid "number"
-msgstr "nummer"
-
-#: node_modules/yargs/lib/usage.js:250
-msgid "required"
-msgstr "obligatoriskt"
-
-#: node_modules/yargs/lib/usage.js:251
-msgid "choices:"
-msgstr "alternativ:"
-
-#: node_modules/yargs/lib/usage.js:270
-msgid "Examples:"
-msgstr "Exempel:"
-
-#: node_modules/yargs/lib/usage.js:385
-msgid "generated-value"
-msgstr "genererat värde"
-
-#: node_modules/yargs/lib/validation.js:26
-#: node_modules/yargs/lib/validation.js:49
-#, javascript-format
-msgid "Not enough non-option arguments: got %s, need at least %s"
-msgstr ""
-
-#: node_modules/yargs/lib/validation.js:37
-#, javascript-format
-msgid "Too many non-option arguments: got %s, maximum of %s"
-msgstr ""
-
-#: node_modules/yargs/lib/validation.js:185
-#| msgid "Invalid Email"
-msgid "Invalid values:"
-msgstr "Ogiltiga värden:"
-
-#: node_modules/yargs/lib/validation.js:188
-#, javascript-format
-msgid "Argument: %s, Given: %s, Choices: %s"
-msgstr ""
-
-#: node_modules/yargs/lib/validation.js:218
-#, javascript-format
-msgid "Argument check failed: %s"
-msgstr ""
-
-#: node_modules/yargs/lib/validation.js:283
-msgid "Implications failed:"
-msgstr ""
-
-#: node_modules/yargs/lib/validation.js:313
-#, javascript-format
-msgid "Arguments %s and %s are mutually exclusive"
-msgstr ""
-
-#: node_modules/yargs/lib/validation.js:332
-#, javascript-format
-msgid "Did you mean %s?"
-msgstr "Menade du %s?"
-
 #. Plugin URI of the plugin/theme
 msgid ""
 "http://themeforest.net/item/real-homes-wordpress-real-estate-theme/5373914"
@@ -4816,3 +4811,73 @@ msgstr ""
 #. Author URI of the plugin/theme
 msgid "https://themeforest.net/user/inspirythemes/portfolio?order_by=sales"
 msgstr ""
+
+#~ msgid "Understand The Basics"
+#~ msgstr "Förstå grunderna"
+
+#~ msgid ""
+#~ "Meta Box doesn't have any admin page for configuration or settings. "
+#~ "Instead of that, it provides a very powerful API to speed up the process "
+#~ "of creating meta boxes and custom fields. It might take you a little time "
+#~ "at first, but then you'll love the way it work because it helps you do "
+#~ "and customize almost everything."
+#~ msgstr ""
+#~ "Meta Box har ingen administrationssida för konfiguration eller "
+#~ "inställningar. Istället tillhandahåller det ett mycket kraftfullt API för "
+#~ "att påskynda processen med att skapa meta boxes och anpassade fält. Det "
+#~ "kan ta lite tid i början, men du kommer att älska hur det fungerar "
+#~ "eftersom det hjälper dig att göra och anpassa nästan allt."
+
+#, javascript-format
+#~ msgid "Not enough arguments following: %s"
+#~ msgstr "För få argument efter: %s"
+
+#, javascript-format
+#~ msgid "Invalid JSON config file: %s"
+#~ msgstr "Ogiltig JSON-konfigurationsfil: %s"
+
+#~ msgid "Commands:"
+#~ msgstr "Kommandon:"
+
+#~| msgid "Default"
+#~ msgid "default:"
+#~ msgstr "standard:"
+
+#~ msgid "aliases:"
+#~ msgstr "alias:"
+
+#~ msgid "boolean"
+#~ msgstr "booleansk"
+
+#~ msgid "count"
+#~ msgstr "antal"
+
+#~ msgid "string"
+#~ msgstr "sträng"
+
+#~ msgid "array"
+#~ msgstr "array"
+
+#~| msgid "Phone Number"
+#~ msgid "number"
+#~ msgstr "nummer"
+
+#~ msgid "required"
+#~ msgstr "obligatoriskt"
+
+#~ msgid "choices:"
+#~ msgstr "alternativ:"
+
+#~ msgid "Examples:"
+#~ msgstr "Exempel:"
+
+#~ msgid "generated-value"
+#~ msgstr "genererat värde"
+
+#~| msgid "Invalid Email"
+#~ msgid "Invalid values:"
+#~ msgstr "Ogiltiga värden:"
+
+#, javascript-format
+#~ msgid "Did you mean %s?"
+#~ msgstr "Menade du %s?"
